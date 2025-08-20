@@ -45,4 +45,3 @@ jobs:
           git commit -m "Daily Hadith - $(TZ=Asia/Kuala_Lumpur date +"%d-%m-%Y %I:%M:%S %p GMT+8")"
           git push
         fi
-fetchhadith.yml
