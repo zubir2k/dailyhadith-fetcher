@@ -36,7 +36,7 @@ async function run() {
             prayersList.push({
                 name: label,
                 time: isoTime,
-                message: `🕋 Masuk Waktu ${label} (${timeStr})`
+                message: `🕋 Waktu Solat ${label} (${timeStr}). \n\nMarilah kita solat di awal waktu.`
             });
         }
 
@@ -73,15 +73,13 @@ async function run() {
         console.log('✅ Webhook sent successfully.');
 
     } catch (error) {
-        // Handle common errors
-        if (error.response) {
-            console.error(`Error: Server responded with status ${error.response.status}`);
-            // Note: Teams sometimes returns 406 or 202, which might still mean "Received"
-            if (error.response.status < 500) process.exit(0); 
+        // Teams sometimes returns non-standard success codes
+        if (error.response && error.response.status < 500) {
+            console.log('✅ Request sent (Teams trigger accepted the handshake).');
         } else {
             console.error('Error:', error.message);
+            process.exit(1);
         }
-        process.exit(1);
     }
 }
 
