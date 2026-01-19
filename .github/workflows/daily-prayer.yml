@@ -1,0 +1,32 @@
+name: Daily Prayer Notification
+
+on:
+  schedule:
+    # Run at 00:05 AM Malaysia Time every day
+    # 00:05 MYT = 16:05 UTC (previous day)
+    - cron: '5 16 * * *'
+  
+  # This allows you to click "Run workflow" manually for testing
+  workflow_dispatch:
+
+jobs:
+  dispatch-prayers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Dependencies
+        # We install dependencies on the fly so you don't need a package.json
+        run: npm install axios moment-timezone
+
+      - name: Send Prayer Data
+        env:
+          # This pulls the secret you created in Step 1
+          WEBHOOK_URL: ${{ secrets.POWER_AUTOMATE_WEBHOOK }}
+        run: node scripts/fetch-today.js
