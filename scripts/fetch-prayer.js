@@ -3,7 +3,6 @@ const moment = require('moment-timezone');
 
 async function run() {
     try {
-        // 1. Fetch Today's Data (SGR01)
         console.log("Fetching data from E-Solat...");
         const response = await axios.get('https://www.e-solat.gov.my/index.php?r=esolatApi/takwimsolat&period=today&zone=sgr01');
         const apiData = response.data;
@@ -15,7 +14,6 @@ async function run() {
         const todayData = apiData.prayerTime[0];
         const dateStr = todayData.date; // e.g. "19-Jan-2026"
 
-        // 2. Format Data for Automation
         const prayerMap = { 
             fajr: 'Subuh', 
             dhuhr: 'Zohor', 
@@ -28,9 +26,6 @@ async function run() {
 
         for (const [key, label] of Object.entries(prayerMap)) {
             const timeStr = todayData[key]; 
-            
-            // Create strict ISO Timestamp (e.g. 2026-01-19T13:27:00+08:00)
-            // This allows Power Automate to wait until this exact second
             const isoTime = moment.tz(`${dateStr} ${timeStr}`, 'DD-MMM-YYYY HH:mm:ss', 'Asia/Kuala_Lumpur').format();
             
             prayersList.push({
@@ -40,8 +35,6 @@ async function run() {
             });
         }
 
-        // 3. THE WRAPPER: Package it as a Teams Card
-        // This structure is required to pass the "Teams Webhook" trigger check
         const teamsPayload = {
             "type": "message",
             "attachments": [
@@ -57,7 +50,6 @@ async function run() {
                                 "text": `Daily Prayer Schedule: ${dateStr}`
                             }
                         ],
-                        // HIDDEN DATA: This is where we hide our real payload
                         "myData": {
                             "date": dateStr,
                             "prayers": prayersList
@@ -67,13 +59,14 @@ async function run() {
             ]
         };
 
-        // 4. Send to Power Automate
         console.log(`Sending payload for ${dateStr}...`);
-        await axios.post(process.env.WEBHOOK_URL, teamsPayload);
+        
+        // FIXED: Now uses the exact secret name you created
+        await axios.post(process.env.POWER_AUTOMATE_WEBHOOK, teamsPayload);
+        
         console.log('✅ Webhook sent successfully.');
 
     } catch (error) {
-        // Teams sometimes returns non-standard success codes
         if (error.response && error.response.status < 500) {
             console.log('✅ Request sent (Teams trigger accepted the handshake).');
         } else {
