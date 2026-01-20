@@ -2,10 +2,11 @@ name: Daily Prayer Notification
 
 on:
   schedule:
-    # Run at 00:05 AM Malaysia Time (16:05 UTC previous day)
+    # Run at 00:05 AM Malaysia Time
+    # 00:05 MYT = 16:05 UTC (previous day)
     - cron: '5 16 * * *'
   
-  # Allows manual testing button in GitHub Actions tab
+  # This allows you to go to the "Actions" tab and click "Run workflow" to test immediately
   workflow_dispatch:
 
 jobs:
@@ -21,11 +22,10 @@ jobs:
           node-version: '20'
 
       - name: Install Dependencies
-        # Installs axios and moment-timezone temporarily for this run
+        # Installs the required libraries on the runner machine
         run: npm install axios moment-timezone
 
       - name: Send Prayer Data
         env:
-          # Make sure you added this secret in Repo Settings
-          WEBHOOK_URL: ${{ secrets.POWER_AUTOMATE_WEBHOOK }}
+          POWER_AUTOMATE_WEBHOOK: ${{ secrets.POWER_AUTOMATE_WEBHOOK }}
         run: node scripts/fetch-prayer.js
