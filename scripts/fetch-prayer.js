@@ -3,52 +3,53 @@ const moment = require('moment-timezone');
 
 async function run() {
     try {
-        console.log("Fetching data from E-Solat...");
-        const response = await axios.get('https://www.e-solat.gov.my/index.php?r=esolatApi/takwimsolat&period=today&zone=sgr01');
-        const apiData = response.data;
-        const todayData = apiData.prayerTime[0];
+        console.log("🕒 Calculating today's date in Malaysia...");
+        
+        // 1. Get Day of Month (e.g., '21') for the URL
+        const today = moment().tz('Asia/Kuala_Lumpur');
+        const dayOfMonth = today.format('D'); 
+        const zone = 'SGR01'; // Based on JAKIM Zone Code
 
-        // 1. Capture Zone, Date, Hijri
+        const url = `https://api.waktusolat.app/solat/${zone}/${dayOfMonth}`;
+        console.log(`🌍 Fetching data from: ${url}`);
+
+        // 2. Call the API
+        const response = await axios.get(url);
+        const apiData = response.data;
+        const prayerData = apiData.prayerTime;
+
+        // 3. Construct the Clean Payload
         const cleanData = {
-            zone: apiData.zone,          // "sgr01"
-            date: todayData.date,        // "20-Jan-2026"
-            hijri: todayData.hijri,      // "1447-08-01"
+            zone: apiData.zone,
+            date: prayerData.date,       // "21-Jan-2026"
+            hijri: prayerData.hijri,     // "1447-08-02"
             prayers: []
         };
 
         const prayerMap = { fajr: 'Subuh', dhuhr: 'Zohor', asr: 'Asar', maghrib: 'Maghrib', isha: 'Isyak' };
 
-        // 2. Capture Prayer Name and Time (AM/PM)
         for (const [key, label] of Object.entries(prayerMap)) {
-            const timeStr = todayData[key]; // e.g. "13:27:00"
+            const timeStr = prayerData[key]; // "06:15:00"
             
-            // Create the Moment Object once
-            const mTime = moment.tz(`${todayData.date} ${timeStr}`, 'DD-MMM-YYYY HH:mm:ss', 'Asia/Kuala_Lumpur');
+            // Generate the missing ISO timestamp
+            const mTime = moment.tz(`${prayerData.date} ${timeStr}`, 'DD-MMM-YYYY HH:mm:ss', 'Asia/Kuala_Lumpur');
 
             cleanData.prayers.push({
-                name: label,                  // "Zohor"
-                time: mTime.format('hh:mm A'), // "01:27 PM" (Display)
-                isoTime: mTime.format()       // "2026-01-20T13:27:00+08:00" (Engine)
+                name: label,                   // "Subuh"
+                time: mTime.format('hh:mm A'), // "06:15 AM"
+                isoTime: mTime.format()        // "2026-01-21T06:15:00+08:00" 
             });
         }
 
-        // 3. Wrap in simple text for Teams Webhook
+        // 4. Send to Power Automate
         const payload = {
             "type": "message",
-            "text": JSON.stringify(cleanData)
+            "data": cleanData
         };
 
-        console.log(`Sending cleaned payload for ${cleanData.date}...`);
-
-        await axios.post(process.env.POWER_AUTOMATE_WEBHOOK, payload, {
-            timeout: 5000 // Ignore timeout if PA is slow to respond
-        }).catch(err => {
-            if (err.code === 'ECONNABORTED' || err.message.includes('timeout')) {
-                console.log('✅ Request sent! (Ignored timeout)');
-                return;
-            }
-            throw err;
-        });
+        console.log(`🚀 Sending payload to Power Automate...`);
+        await axios.post(process.env.POWER_AUTOMATE_WEBHOOK, payload);
+        console.log('✅ Success!');
 
     } catch (error) {
         console.error('❌ Error:', error.message);
