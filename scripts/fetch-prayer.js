@@ -37,7 +37,8 @@ async function run() {
             cleanData.prayers.push({
                 name: label,                   // "Subuh"
                 time: mTime.format('hh:mm A'), // "06:15 AM"
-                isoTime: mTime.format()        // "2026-01-21T06:15:00+08:00" 
+                isoTime: mTime.toISOString() // "2026-01-20T22:15:00.000Z"
+                //isoTime: mTime.format()        // "2026-01-21T06:15:00+08:00" 
             });
         }
 
