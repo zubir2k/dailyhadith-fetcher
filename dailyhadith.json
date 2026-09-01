@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "308.00",
-  "hadithNumber": "1692",
+  "bookNumber": "16",
+  "chapterId": "252.00",
+  "hadithNumber": "1499",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "308",
-      "chapterTitle": "Undesirability of Riding a Camel which eats Animals' waste",
-      "urn": 1624930,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) said: The Messenger of Allah (ﷺ) prohibited riding a camel which eats dung, or animal or human waste.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "252",
+      "chapterTitle": "Some Verdicts Pertaining to Supplications",
+      "urn": 1613640,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ), \"The supplication of every one of you will be granted if he does not get impatient and say (for example): 'I supplicated my Rubb but my prayer has not been granted'.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>The narration of Muslim is: \"The supplication of a slave continues to be granted as long as he does not supplicate for a sinful thing or for something that would cut off the ties of kinship and he does not grow impatient.\" It was said: \"O Messenger of Allah! What does growing impatient mean?\" He (ﷺ) said, \"It is one's saying: 'I supplicated again and again but I do not think that my prayer will be answered.' Then he becomes frustrated (in such circumstances) and gives up supplication altogether.\"<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "308",
-      "chapterTitle": "- باب كراهة ركوب الجلالة وهي البعير أو الناقة التي تأكل العذرة فإن أكلت علفًا طاهرًا فطاب لحمها زالت الكراهة",
-      "urn": 1716820,
-      "body": "<p>- عن ابن عمر رضي الله عنهما قال‏:‏ نهى رسول الله صلى الله عليه وسلم عن الجلالة في الإبل أن يركب عليها‏.‏ ((رواه أبو داود بإسناد صحيح ))</p>",
+      "chapterNumber": "252",
+      "chapterTitle": "- باب في مسائل من الدعاء",
+      "urn": 1714890,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏يستجاب لأحدكم ما لم يعجل‏:‏ يقول‏:‏ قد دعوت ربي، فلم يستجب لي‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ وفي رواية لمسلم لا يزال يستجاب للعبد ما لم يدعُ بإثم أو قطيعة رحم ما لم يستعجل‏.‏ قيل يا رسول الله ما الاستعجال‏؟‏ قال يقول قد دعوت وقد دعوت فلم أرَ من يستجب لي فيستحسر عند ذلك ويدع الدعاء‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "252",
+      "chapterTitle": "Beberapa Hukum Berkaitan dengan Doa",
+      "urn": 1714890,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Doa setiap daripada kamu akan dikabulkan jika dia tidak berputus asa dan berkata (contohnya): 'Aku telah berdoa kepada Tuhanku, tetapi doaku belum dikabulkan'.\" [Al-Bukhari dan Muslim]. Riwayat Muslim menyebut: \"Doa seorang hamba akan terus dikabulkan selagi dia tidak berdoa untuk perkara yang berdosa atau perkara yang memutuskan silaturahim dan dia tidak berputus asa.\" Ditanyakan: \"Wahai Rasulullah! Apakah yang dimaksudkan dengan berputus asa?\" Baginda (ﷺ) bersabda, \"Iaitu seseorang berkata: 'Aku telah berdoa berkali-kali, tetapi aku rasa doaku tidak akan dimakbulkan.' Kemudian dia merasa kecewa (dalam keadaan sedemikian) dan berhenti berdoa sama sekali.\"</p>",
       "grades": []
     }
   ]
