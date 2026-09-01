@@ -46,21 +46,22 @@ def translate(text):
 
 # --- Translation step ---
 if CF_WORKER_URL:
+    en_entry = next((h for h in data["hadith"] if h["lang"] == "en"), None)
     ar_entry = next((h for h in data["hadith"] if h["lang"] == "ar"), None)
 
-    if ar_entry:
+    if en_entry:
         print("🔄 Translating hadith body...")
-        translated_body = translate(ar_entry["body"])
+        translated_body = translate(en_entry["body"])
 
         print("🔄 Translating chapter title...")
-        translated_title = translate(ar_entry.get("chapterTitle", ""))
+        translated_title = translate(en_entry.get("chapterTitle", ""))
 
         if translated_body:
             ms_entry = {
                 "lang": "ms",
-                "chapterNumber": ar_entry.get("chapterNumber", ""),
-                "chapterTitle": translated_title or ar_entry.get("chapterTitle", ""),
-                "urn": ar_entry.get("urn", 0),
+                "chapterNumber": en_entry.get("chapterNumber", ""),
+                "chapterTitle": translated_title or en_entry.get("chapterTitle", ""),
+                "urn": ar_entry.get("urn", 0) if ar_entry else en_entry.get("urn", 0),
                 "body": f"<p>{translated_body}</p>",
                 "grades": []
             }
@@ -72,7 +73,7 @@ if CF_WORKER_URL:
         else:
             print("⚠️ Body translation returned empty, skipping ms entry.")
     else:
-        print("⚠️ No Arabic entry found, skipping translation.")
+        print("⚠️ No English entry found, skipping translation.")
 else:
     print("⚠️ CF_WORKER_URL not set, skipping translation.")
 
