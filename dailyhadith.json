@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "16",
-  "chapterId": "252.00",
-  "hadithNumber": "1499",
+  "bookNumber": "17",
+  "chapterId": "284.00",
+  "hadithNumber": "1611",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "252",
-      "chapterTitle": "Some Verdicts Pertaining to Supplications",
-      "urn": 1613640,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ), \"The supplication of every one of you will be granted if he does not get impatient and say (for example): 'I supplicated my Rubb but my prayer has not been granted'.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>The narration of Muslim is: \"The supplication of a slave continues to be granted as long as he does not supplicate for a sinful thing or for something that would cut off the ties of kinship and he does not grow impatient.\" It was said: \"O Messenger of Allah! What does growing impatient mean?\" He (ﷺ) said, \"It is one's saying: 'I supplicated again and again but I do not think that my prayer will be answered.' Then he becomes frustrated (in such circumstances) and gives up supplication altogether.\"<br/><br/></p>",
+      "chapterNumber": "284",
+      "chapterTitle": "Prohibition of Procrastinating by a Rich Person to Fulfill his Obligation",
+      "urn": 1624120,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is an act of oppression on the part of a person to procrastinate in fulfilling his obligation; if the repayment of a debt due to any of you is undertaken by a rich person, you should agree to the substitution.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "252",
-      "chapterTitle": "- باب في مسائل من الدعاء",
-      "urn": 1714890,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏يستجاب لأحدكم ما لم يعجل‏:‏ يقول‏:‏ قد دعوت ربي، فلم يستجب لي‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ وفي رواية لمسلم لا يزال يستجاب للعبد ما لم يدعُ بإثم أو قطيعة رحم ما لم يستعجل‏.‏ قيل يا رسول الله ما الاستعجال‏؟‏ قال يقول قد دعوت وقد دعوت فلم أرَ من يستجب لي فيستحسر عند ذلك ويدع الدعاء‏.‏</p>",
+      "chapterNumber": "284",
+      "chapterTitle": "- باب تحريم مطل الغني بحق طلبه صاحبه",
+      "urn": 1716010,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏مطل الغني ظلم وإذا أُتبع أحدكم على مليء فليتبع‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ معنى ‏\"‏أتبع‏\"‏‏:‏ أحيل‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "252",
-      "chapterTitle": "Beberapa Hukum Berkaitan dengan Doa",
-      "urn": 1714890,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Doa setiap daripada kamu akan dikabulkan jika dia tidak berputus asa dan berkata (contohnya): 'Aku telah berdoa kepada Tuhanku, tetapi doaku belum dikabulkan'.\" [Al-Bukhari dan Muslim]. Riwayat Muslim menyebut: \"Doa seorang hamba akan terus dikabulkan selagi dia tidak berdoa untuk perkara yang berdosa atau perkara yang memutuskan silaturahim dan dia tidak berputus asa.\" Ditanyakan: \"Wahai Rasulullah! Apakah yang dimaksudkan dengan berputus asa?\" Baginda (ﷺ) bersabda, \"Iaitu seseorang berkata: 'Aku telah berdoa berkali-kali, tetapi aku rasa doaku tidak akan dimakbulkan.' Kemudian dia merasa kecewa (dalam keadaan sedemikian) dan berhenti berdoa sama sekali.\"</p>",
+      "chapterNumber": "284",
+      "chapterTitle": "Larangan melengah-lengahkan penunaian kewajipan bagi orang yang kaya.",
+      "urn": 1716010,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Satu kezaliman bagi seseorang itu apabila dia menangguhkan kewajipannya; jika pembayaran hutang salah seorang daripada kamu ditanggung oleh orang yang kaya, maka terimalah penggantian tersebut.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
