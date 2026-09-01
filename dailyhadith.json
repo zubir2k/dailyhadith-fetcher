@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "284.00",
-  "hadithNumber": "1611",
+  "bookNumber": "introduction",
+  "chapterId": "39.00",
+  "hadithNumber": "309",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "284",
-      "chapterTitle": "Prohibition of Procrastinating by a Rich Person to Fulfill his Obligation",
-      "urn": 1624120,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is an act of oppression on the part of a person to procrastinate in fulfilling his obligation; if the repayment of a debt due to any of you is undertaken by a rich person, you should agree to the substitution.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "39",
+      "chapterTitle": "Rights of Neighbors",
+      "urn": 1603060,
+      "body": "<p>Abu Shuraih Al-Khuza'i (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"He who believes in Allah and the Last Day, let him be kind to his neighbour; and he who believes in Allah and the Last Day, let him show hospitality to his guest; and he who believes in Allah and the Last Day, let him either speak good or remain silent\".<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "284",
-      "chapterTitle": "- باب تحريم مطل الغني بحق طلبه صاحبه",
-      "urn": 1716010,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏مطل الغني ظلم وإذا أُتبع أحدكم على مليء فليتبع‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ معنى ‏\"‏أتبع‏\"‏‏:‏ أحيل‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "39",
+      "chapterTitle": "- باب حق الجار والوصية به",
+      "urn": 1703080,
+      "body": "<p>- و عن أبي شريح الخزاعي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كان يؤمن بالله واليوم الآخر، فليكرم ضيفه، ومن كان يؤمن بالله واليوم الآخر، فليقل خيرًا أو ليسكت‏\"‏ ‏(‏‏(‏رواه مسلم بهذا اللفظ، وروى البخاري بعضه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "284",
-      "chapterTitle": "Larangan melengah-lengahkan penunaian kewajipan bagi orang yang kaya.",
-      "urn": 1716010,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Satu kezaliman bagi seseorang itu apabila dia menangguhkan kewajipannya; jika pembayaran hutang salah seorang daripada kamu ditanggung oleh orang yang kaya, maka terimalah penggantian tersebut.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "39",
+      "chapterTitle": "Hak-hak Jiran",
+      "urn": 1703080,
+      "body": "<p>Abu Shuraih Al-Khuza'i (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berbuat baik kepada jirannya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia memuliakan tetamunya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berkata yang baik atau diam.\" [Muslim].</p>",
       "grades": []
     }
   ]
