@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "9",
-  "chapterId": "232.00",
-  "hadithNumber": "1270",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1299",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "232",
-      "chapterTitle": "I'tikaf (Seclusion in the Mosque) in the Month of Ramadan",
-      "urn": 1611400,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) used to observe I'tikaf every year (during Ramadan) for ten days; in the year in which he passed away, he observed I'tikaf for twenty days.<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611690,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The best life is that of the man who holds his horse's rein in Allah's way and flies on its back to the places from whence he hears a war cry or the clatter of arms, seeking martyrdom or slaughter on the battlefield; or that of a person who goes to stay on the top of the hill or in a valley, and there he performs Salat (prayer), pays the Zakat and worships his Rubb till death overtakes him. He has no concern with the affairs of anyone except the doing of good.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "232",
-      "chapterTitle": "- باب الاعتكاف في رمضان",
-      "urn": 1712600,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "232",
-      "chapterTitle": "I'tikaf (Mengasingkan diri di dalam masjid) pada bulan Ramadan",
-      "urn": 1712600,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) sentiasa melakukan i'tikaf setiap tahun (pada bulan Ramadan) selama sepuluh hari; pada tahun baginda wafat, baginda melakukan i'tikaf selama dua puluh hari. [Al-Bukhari].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1712890,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏من خير معاش الناس لهم رجل ممسك بعنان فرسه في سبيل الله، يطير على متنه كلما سمع هيعة، أو فزعة طار على متنه، يبتغي القتل أو الموت مظانه، أو رجل في غنيمة أو شعفة من هذه الشعف أو بطن واد من هذه الأودية يقيم الصلاة ويؤتي الزكاة، ويعبد ربه حتى يأتيه اليقين ليس من الناس إلا في خير‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
