@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "39.00",
-  "hadithNumber": "309",
+  "chapterId": "80.00",
+  "hadithNumber": "663",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "39",
-      "chapterTitle": "Rights of Neighbors",
-      "urn": 1603060,
-      "body": "<p>Abu Shuraih Al-Khuza'i (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"He who believes in Allah and the Last Day, let him be kind to his neighbour; and he who believes in Allah and the Last Day, let him show hospitality to his guest; and he who believes in Allah and the Last Day, let him either speak good or remain silent\".<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "Obligation of Obedience to the Ruler in what is Lawful and Prohibition of Obeying them in what is Unlawful",
+      "urn": 1606570,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: Whenever we took a pledge of allegiance to Messenger of Allah (ﷺ) to hear and obey, he (ﷺ) would say to us, \"As far as you are capable of.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "39",
-      "chapterTitle": "- باب حق الجار والوصية به",
-      "urn": 1703080,
-      "body": "<p>- و عن أبي شريح الخزاعي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كان يؤمن بالله واليوم الآخر، فليكرم ضيفه، ومن كان يؤمن بالله واليوم الآخر، فليقل خيرًا أو ليسكت‏\"‏ ‏(‏‏(‏رواه مسلم بهذا اللفظ، وروى البخاري بعضه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "- باب وجوب طاعة ولاة الأمر في غير معصية وتحريم طاعتهم في المعصية",
+      "urn": 1706590,
+      "body": "<p>- وعنه قال‏:‏ كنا إذا بايعنا رسول الله صلى الله عليه وسلم على السمع والطاعة يقول لنا‏:‏ “فيما استطعتم” ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "39",
-      "chapterTitle": "Hak-hak Jiran",
-      "urn": 1703080,
-      "body": "<p>Abu Shuraih Al-Khuza'i (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berbuat baik kepada jirannya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia memuliakan tetamunya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berkata yang baik atau diam.\" [Muslim].</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "Kewajipan mentaati pemimpin dalam perkara yang makruf dan larangan mentaati mereka dalam perkara yang maksiat.",
+      "urn": 1706590,
+      "body": "<p>Ibnu Umar (Semoga Allah meredai mereka) meriwayatkan: Setiap kali kami memberikan bai'ah kepada Rasulullah (ﷺ) untuk mendengar dan mentaati, beliau (ﷺ) akan berkata kepada kami, \"Setakat mana yang kamu mampu.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
