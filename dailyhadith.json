@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "80.00",
-  "hadithNumber": "663",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1296",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "80",
-      "chapterTitle": "Obligation of Obedience to the Ruler in what is Lawful and Prohibition of Obeying them in what is Unlawful",
-      "urn": 1606570,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: Whenever we took a pledge of allegiance to Messenger of Allah (ﷺ) to hear and obey, he (ﷺ) would say to us, \"As far as you are capable of.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611660,
+      "body": "<p>Muadh (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Jannah becomes incumbent for a Muslim who fights for the Cause of Allah for a period as long as the time between two consecutive turns of milking a she-camel. He who receives a wound or a bruise in the Cause of Allah will appear on the Day of Resurrection as fresh as possible, its colour will be the colour of saffron and its fragrance will be that of musk.\"<br/><br/><b>[At-Tirmidhi and Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "80",
-      "chapterTitle": "- باب وجوب طاعة ولاة الأمر في غير معصية وتحريم طاعتهم في المعصية",
-      "urn": 1706590,
-      "body": "<p>- وعنه قال‏:‏ كنا إذا بايعنا رسول الله صلى الله عليه وسلم على السمع والطاعة يقول لنا‏:‏ “فيما استطعتم” ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1712860,
+      "body": "<p>- وعن معاذ رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من قاتل في سبييل الله من رجل مسلم فواق ناقة وجبت له الجنة، ومن جرح جرحًا في سبيل الله أو نكب نكبة فإنها تجيء يوم القيامة كأغزر ما كانت‏:‏ لونها الزعفران، وريحها كالمسك‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "80",
-      "chapterTitle": "Kewajipan mentaati pemimpin dalam perkara yang makruf dan larangan mentaati mereka dalam perkara yang maksiat.",
-      "urn": 1706590,
-      "body": "<p>Ibnu Umar (Semoga Allah meredai mereka) meriwayatkan: Setiap kali kami memberikan bai'ah kepada Rasulullah (ﷺ) untuk mendengar dan mentaati, beliau (ﷺ) akan berkata kepada kami, \"Setakat mana yang kamu mampu.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Kewajipan Jihad",
+      "urn": 1712860,
+      "body": "<p>Muadh (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Syurga menjadi wajib bagi seorang Muslim yang berperang di jalan Allah dalam tempoh selama waktu antara dua kali pemerahan susu unta secara berturut-turut. Sesiapa yang mendapat luka atau lebam di jalan Allah akan muncul pada Hari Kebangkitan dalam keadaan yang paling segar, warnanya adalah warna safron dan harumannya adalah haruman kasturi.\" [At-Tirmidhi dan Abu Dawud].</p>",
       "grades": []
     }
   ]
