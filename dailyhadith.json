@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "74.00",
-  "hadithNumber": "631",
+  "bookNumber": "7",
+  "chapterId": "171.00",
+  "hadithNumber": "975",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "74",
-      "chapterTitle": "Clemency, Tolerance and Gentleness",
-      "urn": 1606250,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said to Ashaj Abdul-Qais (May Allah be pleased with him), \"You possess two qualities that Allah loves. These are clemency and tolerance.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "171",
+      "chapterTitle": "Glorification of Allah by a Traveler while Ascending and Descending",
+      "urn": 1620200,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: When we ascended (a height) we would proclaim: \"Allahu Akbar (Allah is Greatest),\" and when we descended (from the height) we would proclaim: \"Subhan Allah (Allah is free from imperfection).\"'<br/><br/><b>[Al-Bukhari]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "74",
-      "chapterTitle": "- باب الحلم والأناة والرفق",
-      "urn": 1706270,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم لأشج عبد القيس‏:‏ “إن فيك خصلتين يحبهما الله‏:‏ الحلم والأناة”‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "171",
+      "chapterTitle": "- باب تكبير المسافر إذا صعد الثنايا وشبهها وتسبيحه إذا هبط الأودية ونحوها والنهي عن المبالغة برفع الصوت بالتكبير ونحوه",
+      "urn": 1709660,
+      "body": "<p>- عن جابر رضي الله عنه قال‏:‏ كنا إذا صعدنا كبرنا، وإذا نزلنا سبحنا‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "171",
+      "chapterTitle": "Tasbih kepada Allah oleh seorang musafir ketika naik dan turun",
+      "urn": 1709660,
+      "body": "<p>Jabir (Radiyallahu 'anhu) meriwayatkan: \"Apabila kami naik (ke tempat tinggi), kami akan bertakbir: 'Allahu Akbar' (Allah Maha Besar), dan apabila kami turun, kami akan bertasbih: 'Subhan Allah' (Maha Suci Allah).\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
