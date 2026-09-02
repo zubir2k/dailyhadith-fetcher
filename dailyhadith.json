@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1296",
+  "bookNumber": "9",
+  "chapterId": "232.00",
+  "hadithNumber": "1270",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611660,
-      "body": "<p>Muadh (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Jannah becomes incumbent for a Muslim who fights for the Cause of Allah for a period as long as the time between two consecutive turns of milking a she-camel. He who receives a wound or a bruise in the Cause of Allah will appear on the Day of Resurrection as fresh as possible, its colour will be the colour of saffron and its fragrance will be that of musk.\"<br/><br/><b>[At-Tirmidhi and Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "232",
+      "chapterTitle": "I'tikaf (Seclusion in the Mosque) in the Month of Ramadan",
+      "urn": 1611400,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) used to observe I'tikaf every year (during Ramadan) for ten days; in the year in which he passed away, he observed I'tikaf for twenty days.<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1712860,
-      "body": "<p>- وعن معاذ رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من قاتل في سبييل الله من رجل مسلم فواق ناقة وجبت له الجنة، ومن جرح جرحًا في سبيل الله أو نكب نكبة فإنها تجيء يوم القيامة كأغزر ما كانت‏:‏ لونها الزعفران، وريحها كالمسك‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "232",
+      "chapterTitle": "- باب الاعتكاف في رمضان",
+      "urn": 1712600,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ كان النبي صلى الله عليه وسلم يعتكف في كل رمضان عشرة أيام، فلما كان العام الذي قبض فيه اعتكف عشرين يومًا ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1712860,
-      "body": "<p>Muadh (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Syurga menjadi wajib bagi seorang Muslim yang berperang di jalan Allah dalam tempoh selama waktu antara dua kali pemerahan susu unta secara berturut-turut. Sesiapa yang mendapat luka atau lebam di jalan Allah akan muncul pada Hari Kebangkitan dalam keadaan yang paling segar, warnanya adalah warna safron dan harumannya adalah haruman kasturi.\" [At-Tirmidhi dan Abu Dawud].</p>",
+      "chapterNumber": "232",
+      "chapterTitle": "I'tikaf (Mengasingkan diri di dalam masjid) pada bulan Ramadan",
+      "urn": 1712600,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) sentiasa melakukan i'tikaf setiap tahun (pada bulan Ramadan) selama sepuluh hari; pada tahun baginda wafat, baginda melakukan i'tikaf selama dua puluh hari. [Al-Bukhari].</p>",
       "grades": []
     }
   ]
