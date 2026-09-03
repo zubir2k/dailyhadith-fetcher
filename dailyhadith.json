@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1847",
+  "bookNumber": "introduction",
+  "chapterId": "47.00",
+  "hadithNumber": "386",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616370,
-      "body": "<p>'Aishah (May Allah be pleased with her) said: The conduct of the Prophet (ﷺ) was entirely according to the Qur'an.<br/><br/><b>[Muslim in a long Hadith]</b>.<br/><br/></p>",
+      "chapterNumber": "47",
+      "chapterTitle": "Signs of Allah's love for His slaves and the efforts for its Achievement",
+      "urn": 1603820,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah, the Exalted, has said: 'I will declare war against him who treats with hostility a pious worshipper of Mine. And the most beloved thing with which My slave comes nearer to Me, is what I have enjoined upon him; and My slave keeps on coming closer to Me through performing Nawafil (voluntary prayers or doing extra deeds besides what is obligatory) until I love him, (so much so that) I become his hearing with which he hears, and his sight with which he sees, and his hand with which he strikes, and his leg with which he walks; and if he asks Me something, I will surely give him, and if he seeks My Protection (refuge), I will surely protect him\".<br/><br/><b>[Al-Bukhari]</b><br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718350,
-      "body": "<p>- وعنها رضي الله عنها قالت‏:‏ ‏\"‏كان خلق نبي الله صلى الله عليه وسلم القرآن‏\"‏ ‏(‏‏(‏رواه مسلم في جملة حديث طويل‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "47",
+      "chapterTitle": "- باب علامات حب الله تعالى للعبد والحث على التخلق بها والسعي في تحصيلها‏.‏",
+      "urn": 1703820,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إن الله تعالى قال‏:‏ ‏\"‏من عاد لي وليَّا، فقد آذنته بالحرب، وما تقرب إلي عبدي بشيء أحب إليَّ مما افترضت عليه، وما يزال عبدي يتقرب إليَّ بالنوافل حتى أحبه فإذا أحببته كنت سمعه الذي يسمع به، وبصره الذي يبصر به، ويده التي يبطش بها، ورجله التي يمشي بها، وإن سألني، أعطيته، ولئن استعاذني، لأعيذنه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718350,
-      "body": "<p>Aishah (Semoga Allah merahmatinya) berkata: Akhlak Rasulullah (ﷺ) adalah sepenuhnya mengikut Al-Quran. [Muslim dalam sebuah hadis yang panjang].</p>",
+      "chapterNumber": "47",
+      "chapterTitle": "Tanda-tanda cinta Allah terhadap hamba-hamba-Nya dan usaha-usaha untuk meraihnya",
+      "urn": 1703820,
+      "body": "<p>Abu Hurairah (Semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah yang Maha Tinggi telah berfirman: 'Aku akan memerangi sesiapa yang memusuhi hamba-Ku yang soleh. Dan perkara yang paling dicintai oleh hamba-Ku untuk mendekatkan diri kepada-Ku adalah apa yang telah Aku wajibkan ke atasnya; dan hamba-Ku akan terus mendekatkan diri kepada-Ku dengan melaksanakan amalan Nawafil (solat sunat atau melakukan amalan tambahan selain daripada apa yang diwajibkan) sehingga Aku mencintainya, (sehinggakan) Aku menjadi pendengarannya yang dia gunakan untuk mendengar, penglihatannya yang dia gunakan untuk melihat, tangannya yang dia gunakan untuk memukul, dan kakinya yang dia gunakan untuk berjalan; dan jika dia meminta sesuatu kepada-Ku, nescaya Aku akan memberinya, dan jika dia memohon perlindungan-Ku, nescaya Aku akan melindunginya'.\" [Al-Bukhari]</p>",
       "grades": []
     }
   ]
