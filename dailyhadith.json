@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "7",
-  "chapterId": "171.00",
-  "hadithNumber": "975",
+  "bookNumber": "10",
+  "chapterId": "233.00",
+  "hadithNumber": "1273",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "171",
-      "chapterTitle": "Glorification of Allah by a Traveler while Ascending and Descending",
-      "urn": 1620200,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: When we ascended (a height) we would proclaim: \"Allahu Akbar (Allah is Greatest),\" and when we descended (from the height) we would proclaim: \"Subhan Allah (Allah is free from imperfection).\"'<br/><br/><b>[Al-Bukhari]</b>.</p>",
+      "chapterNumber": "233",
+      "chapterTitle": "The Obligation of Hajj (Pilgrimage) and its Excellence",
+      "urn": 1611430,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) was asked: \"Which deed is the best?\" He (ﷺ) replied, \"Faith in Allah and His Messenger.\" Then he was asked: \"What is next?\" He replied, \"Jihad (holy fighting) in the Cause of Allah.\" Then he was asked, \"What is after that?\" He (ﷺ) replied, \"Hajj Mabrur (an accepted pilgrimage).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "171",
-      "chapterTitle": "- باب تكبير المسافر إذا صعد الثنايا وشبهها وتسبيحه إذا هبط الأودية ونحوها والنهي عن المبالغة برفع الصوت بالتكبير ونحوه",
-      "urn": 1709660,
-      "body": "<p>- عن جابر رضي الله عنه قال‏:‏ كنا إذا صعدنا كبرنا، وإذا نزلنا سبحنا‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "233",
+      "chapterTitle": "- باب وجوب الحج وفضله",
+      "urn": 1712630,
+      "body": "<p>- وعنه قال‏:‏ سئل النبي صلى الله عليه وسلم أي العمل أفضل‏؟‏ قال‏:‏ ‏\"‏إيمان بالله ورسوله‏\"‏ قيل‏:‏ ثم ماذا‏؟‏ قال‏:‏ ‏\"‏الجهاد في سبيل الله‏\"‏ قيل ثم ماذا‏؟‏ قال‏:‏ ‏\"‏حج مبرور‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ \n‏\"‏المبرور‏\"‏ هو الذي لا يرتكب صاحبه فيه معصية‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "171",
-      "chapterTitle": "Tasbih kepada Allah oleh seorang musafir ketika naik dan turun",
-      "urn": 1709660,
-      "body": "<p>Jabir (Radiyallahu 'anhu) meriwayatkan: \"Apabila kami naik (ke tempat tinggi), kami akan bertakbir: 'Allahu Akbar' (Allah Maha Besar), dan apabila kami turun, kami akan bertasbih: 'Subhan Allah' (Maha Suci Allah).\" [Al-Bukhari].</p>",
+      "chapterNumber": "233",
+      "chapterTitle": "Kewajipan Haji dan Keutamaannya",
+      "urn": 1712630,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) telah ditanya: \"Apakah amalan yang paling utama?\" Baginda (ﷺ) menjawab, \"Beriman kepada Allah dan Rasul-Nya.\" Kemudian baginda ditanya: \"Apakah selepas itu?\" Baginda menjawab, \"Jihad di jalan Allah.\" Kemudian baginda ditanya lagi, \"Apakah selepas itu?\" Baginda (ﷺ) menjawab, \"Haji yang mabrur.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
