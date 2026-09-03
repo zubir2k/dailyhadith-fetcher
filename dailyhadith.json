@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "10",
-  "chapterId": "233.00",
-  "hadithNumber": "1273",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1436",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "233",
-      "chapterTitle": "The Obligation of Hajj (Pilgrimage) and its Excellence",
-      "urn": 1611430,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) was asked: \"Which deed is the best?\" He (ﷺ) replied, \"Faith in Allah and His Messenger.\" Then he was asked: \"What is next?\" He replied, \"Jihad (holy fighting) in the Cause of Allah.\" Then he was asked, \"What is after that?\" He (ﷺ) replied, \"Hajj Mabrur (an accepted pilgrimage).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1613030,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The Mufarridun have gone ahead.\" He was asked, \"Who are the Mufarridun?\" He (ﷺ) replied, \"Those men and women who frequently celebrate the remembrance of Allah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "233",
-      "chapterTitle": "- باب وجوب الحج وفضله",
-      "urn": 1712630,
-      "body": "<p>- وعنه قال‏:‏ سئل النبي صلى الله عليه وسلم أي العمل أفضل‏؟‏ قال‏:‏ ‏\"‏إيمان بالله ورسوله‏\"‏ قيل‏:‏ ثم ماذا‏؟‏ قال‏:‏ ‏\"‏الجهاد في سبيل الله‏\"‏ قيل ثم ماذا‏؟‏ قال‏:‏ ‏\"‏حج مبرور‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ \n‏\"‏المبرور‏\"‏ هو الذي لا يرتكب صاحبه فيه معصية‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714260,
+      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏سبق المفردون‏\"‏ قالوا‏:‏ وما المفردون يا رسول الله‏؟‏ قال‏:‏ ‏\"‏الذاكرون الله كثيرًا والذكرات‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ وروي : (( المفردون )) بتشديد الراء وتخفيفها والمشهور الذي قاله الجمهور : التشديد.</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "233",
-      "chapterTitle": "Kewajipan Haji dan Keutamaannya",
-      "urn": 1712630,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) telah ditanya: \"Apakah amalan yang paling utama?\" Baginda (ﷺ) menjawab, \"Beriman kepada Allah dan Rasul-Nya.\" Kemudian baginda ditanya: \"Apakah selepas itu?\" Baginda menjawab, \"Jihad di jalan Allah.\" Kemudian baginda ditanya lagi, \"Apakah selepas itu?\" Baginda (ﷺ) menjawab, \"Haji yang mabrur.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "Kelebihan Berzikir kepada Allah",
+      "urn": 1714260,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Al-Mufarridun telah jauh ke hadapan.\" Baginda ditanya, \"Siapakah al-Mufarridun itu?\" Baginda (ﷺ) menjawab, \"Iaitu lelaki dan perempuan yang banyak mengingati Allah.\"[Muslim].</p>",
       "grades": []
     }
   ]
