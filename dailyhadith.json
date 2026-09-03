@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "33.00",
-  "hadithNumber": "260",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1811",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "33",
-      "chapterTitle": "Benevolent Treatment towards Orphans, Girls, the Weak, the Poor and the Humble Persons",
-      "urn": 1602570,
-      "body": "<p>Sa'd bin Abu Waqqas (May Allah be pleased with him) reported: Six of us were with the Prophet (ﷺ) when the infidels said to him: \"Drive these ones away, lest they should begin to venture against us\". The six were, myself, Ibn Mas'ud, a man of the Hudhail tribe, Bilal and two other men whose names I don't know. Messenger of Allah (ﷺ) thought what Allah wished him to think, and Allah revealed: \"And turn not away those who invoke their Rubb, morning and afternoon seeking His Face.\" (6:52)<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616010,
+      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"There will be no land which will not be trampled by Dajjal (the Antichrist) but Makkah and Al-Madinah; and there will be no passage leading to them which will not be guarded by the angels, arranged in rows. Dajjal will appear in a barren place adjacent to Al- Madinah and the city will be shaken three times. Allah will expel from it every disbeliever and hypocrite.\"<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "33",
-      "chapterTitle": "- باب ملاطفة اليتيم والبنات وسائر الضعفة والمساكين والمنكسرين والإحسان إليهم والشفقة عليهم‏ والتواضع معهم، وخفض الجناح لهم",
-      "urn": 1702590,
-      "body": "<p>- وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ كنا مع النبي صلى الله عليه وسلم ستة نفر، فقال المشركون للنبي صلى الله عليه وسلم‏:‏ اطرد هؤلاء لايجترئون علينا، وكنت أنا وابن مسعود ورجلان لست أسميهما، فوقع في نفس رسول الله صلى الله عليه وسلم ما شاء الله أن يقع، فحدث نفسه، فأنزل الله تعالى‏:‏ ‏{‏ولا تطرد الذين يدعون ربهم بالغداة والعشي يريدون وجهه‏}‏ ‏(‏‏(‏الأنعام‏:‏ 52‏:‏ رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718000,
+      "body": "<p>- -وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس من بلد إلى سيطؤه الدجال، إلا مكة والمدينة، وليس نقب من أنقابها إلا عليه الملائكة صافين تحرسهما، فينزل بالسبخة، فترجف المدينة ثلاث رجفات، يخرج الله منها كل كافر ومنافق‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "33",
-      "chapterTitle": "Berbuat Baik terhadap Anak Yatim, Anak Perempuan, Golongan Lemah, Orang Miskin dan Orang yang Tawaduk",
-      "urn": 1702590,
-      "body": "<p>Sa'd bin Abu Waqqas (semoga Allah meredainya) meriwayatkan: Kami berenam sedang bersama Nabi (ﷺ) apabila orang-orang kafir berkata kepadanya: \"Usirlah mereka ini, bimbang mereka akan mula menyerang kami.\" Enam orang itu ialah saya, Ibn Mas'ud, seorang lelaki dari kabilah Hudhail, Bilal dan dua orang lelaki lain yang saya tidak mengetahui nama mereka. Rasulullah (ﷺ) memikirkan apa yang dikehendaki Allah untuk beliau fikirkan, dan Allah menurunkan wahyu: \"Dan janganlah engkau menghalau orang-orang yang menyeru Tuhan mereka, pada waktu pagi dan petang, dengan mencari keredaan-Nya.\" (6:52)[Muslim].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Hari Kiamat",
+      "urn": 1718000,
+      "body": "<p>Anas bin Malik (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tidak ada satu tanah pun yang tidak akan dipijak oleh Dajjal melainkan Makkah dan Al-Madinah; dan tidak ada jalan masuk ke arah kedua-dua kota tersebut melainkan akan dijaga oleh para malaikat yang berbaris-baris. Dajjal akan muncul di sebuah tempat yang tandus bersebelahan dengan Al-Madinah dan kota tersebut akan digoncangkan sebanyak tiga kali. Allah akan mengeluarkan setiap orang kafir dan munafik daripadanya.\" [Muslim].</p>",
       "grades": []
     }
   ]
