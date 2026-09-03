@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1436",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1847",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1613030,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The Mufarridun have gone ahead.\" He was asked, \"Who are the Mufarridun?\" He (ﷺ) replied, \"Those men and women who frequently celebrate the remembrance of Allah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616370,
+      "body": "<p>'Aishah (May Allah be pleased with her) said: The conduct of the Prophet (ﷺ) was entirely according to the Qur'an.<br/><br/><b>[Muslim in a long Hadith]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714260,
-      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏سبق المفردون‏\"‏ قالوا‏:‏ وما المفردون يا رسول الله‏؟‏ قال‏:‏ ‏\"‏الذاكرون الله كثيرًا والذكرات‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ وروي : (( المفردون )) بتشديد الراء وتخفيفها والمشهور الذي قاله الجمهور : التشديد.</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718350,
+      "body": "<p>- وعنها رضي الله عنها قالت‏:‏ ‏\"‏كان خلق نبي الله صلى الله عليه وسلم القرآن‏\"‏ ‏(‏‏(‏رواه مسلم في جملة حديث طويل‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Berzikir kepada Allah",
-      "urn": 1714260,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Al-Mufarridun telah jauh ke hadapan.\" Baginda ditanya, \"Siapakah al-Mufarridun itu?\" Baginda (ﷺ) menjawab, \"Iaitu lelaki dan perempuan yang banyak mengingati Allah.\"[Muslim].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718350,
+      "body": "<p>Aishah (Semoga Allah merahmatinya) berkata: Akhlak Rasulullah (ﷺ) adalah sepenuhnya mengikut Al-Quran. [Muslim dalam sebuah hadis yang panjang].</p>",
       "grades": []
     }
   ]
