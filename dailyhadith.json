@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1811",
+  "bookNumber": "introduction",
+  "chapterId": "45.00",
+  "hadithNumber": "366",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616010,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"There will be no land which will not be trampled by Dajjal (the Antichrist) but Makkah and Al-Madinah; and there will be no passage leading to them which will not be guarded by the angels, arranged in rows. Dajjal will appear in a barren place adjacent to Al- Madinah and the city will be shaken three times. Allah will expel from it every disbeliever and hypocrite.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "45",
+      "chapterTitle": "Visiting the Pious Persons, loving them and adoption of their company",
+      "urn": 1603620,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Keep only a believer for a companion and let only a pious eat your food\".<br/><br/><b>[At-Tirmidhi and Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718000,
-      "body": "<p>- -وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس من بلد إلى سيطؤه الدجال، إلا مكة والمدينة، وليس نقب من أنقابها إلا عليه الملائكة صافين تحرسهما، فينزل بالسبخة، فترجف المدينة ثلاث رجفات، يخرج الله منها كل كافر ومنافق‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "45",
+      "chapterTitle": "- باب زيارة أهل الخير ومجالستهم وصحبتهم ومحبتهم وطلب زيارتهم والدعاء منهم وزيارة المواضع الفاضلة",
+      "urn": 1703620,
+      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه ، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ لا تصاحب إلا مؤمنا، ولا يأكل طعامك إلا تقي‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي بإسناد لا بأس به‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Hari Kiamat",
-      "urn": 1718000,
-      "body": "<p>Anas bin Malik (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tidak ada satu tanah pun yang tidak akan dipijak oleh Dajjal melainkan Makkah dan Al-Madinah; dan tidak ada jalan masuk ke arah kedua-dua kota tersebut melainkan akan dijaga oleh para malaikat yang berbaris-baris. Dajjal akan muncul di sebuah tempat yang tandus bersebelahan dengan Al-Madinah dan kota tersebut akan digoncangkan sebanyak tiga kali. Allah akan mengeluarkan setiap orang kafir dan munafik daripadanya.\" [Muslim].</p>",
+      "chapterNumber": "45",
+      "chapterTitle": "Menziarahi orang-orang soleh, mencintai mereka, dan menjalin persahabatan dengan mereka.",
+      "urn": 1703620,
+      "body": "<p>Abu Sa'id Al-Khudri (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Janganlah kamu berkawan melainkan dengan orang yang beriman, dan janganlah orang memakan makananmu melainkan orang yang bertaqwa.\" [At-Tirmidhi dan Abu Dawud].</p>",
       "grades": []
     }
   ]
