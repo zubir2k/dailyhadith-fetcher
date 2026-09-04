@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1429",
+  "bookNumber": "introduction",
+  "chapterId": "12.00",
+  "hadithNumber": "115",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612960,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to say in his prostration: Allahum-maghfir li dhanbi kullahu: diqqahu wa jillahu, wa 'awwalahu wa akhirahu, wa alaniyatahu wa sirrahu (O Allah! Forgive all my sins, the small and the great, first and the last, the open and the secret).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "12",
+      "chapterTitle": "Urging towards increasing Good Actions in later part of Life",
+      "urn": 1601140,
+      "body": "<p>Anas (May Allah be pleased with him) said: Allah the Rubb of honour and glory sent Revelation to His Messenger (ﷺ) more frequently before his death than at any other time.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714190,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم كان يقول في سجوده‏:‏ “اللهم اغفر لي ذنبي كله دقه وجله، وأوله وآخره، وعلانيته وسره‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "12",
+      "chapterTitle": "- باب الحث على الازدياد من الخير في أواخر العمر",
+      "urn": 1701140,
+      "body": "<p>- الرابع؛‏:‏ عن أنس رضي الله عنه قال‏:‏ إن الله عز وجل تابع الوحي على رسول الله صلى الله عليه وسلم قبل وفاته، حتى توفي أكثر ما كان الوحي‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Keutamaan Mengingati Allah",
-      "urn": 1714190,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) baginda sering berdoa ketika sujud: Allahum-maghfir li dhanbi kullahu: diqqahu wa jillahu, wa 'awwalahu wa akhirahu, wa alaniyatahu wa sirrahu (Ya Allah! Ampunkanlah seluruh dosa-dosaku, yang kecil mahupun yang besar, yang terdahulu mahupun yang terkemudian, yang nyata mahupun yang tersembunyi).[Muslim].</p>",
+      "chapterNumber": "12",
+      "chapterTitle": "Menyeru untuk memperbanyakkan amal soleh di akhir hayat.",
+      "urn": 1701140,
+      "body": "<p>Anas (Semoga Allah meredainya) berkata: Allah, Tuhan yang Maha Mulia lagi Maha Agung, menurunkan wahyu kepada Rasulullah (ﷺ) dengan lebih kerap sebelum kewafatan baginda berbanding waktu-waktu yang lain. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
