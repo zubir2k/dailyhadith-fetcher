@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1423",
+  "bookNumber": "introduction",
+  "chapterId": "41.00",
+  "hadithNumber": "339",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612900,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When anyone of you has done his Tashahhud during Salat (prayer), he should seek refuge in Allah against four things and say: \"Allahumma inni a'udhu bika min 'adhabi jahannam, wa min 'adhabil-qabr, wa min fitnatil-mahya wal-mamat, wa min sharri fitnatil-masihid-dajjal (O Allah! I seek refuge in You from the torment of Hell, from the torment of the grave, from the trials of life and death, and from the mischief of Al-Masih Ad-Dajjal (Antichrist).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "41",
+      "chapterTitle": "Prohibition of Disobeying Parents and severance of Relations",
+      "urn": 1603360,
+      "body": "<p>Abu Muhammad Jubair bin Mut'im (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"The person who severs the bond of kinship will not enter Jannah\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714130,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا تشهد أحدكم فليستعذ بالله من أربع، يقول‏:‏ اللهم إني أعوذ بك من عذاب جهنم، ومن عذاب القبر ومن فتنة المحيا والممات، ومن شر فتنة المسيح الدجال‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "41",
+      "chapterTitle": "- باب تحريم العقوق وقطيعة الرحم",
+      "urn": 1703350,
+      "body": "<p>- وعن أبي محمد جبير من مطعم رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لايدخل الجنة قاطع‏\"‏ قال سفيان في روايته‏:‏ يعني ‏:‏ قاطع رحم ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Zikir kepada Allah",
-      "urn": 1714130,
-      "body": "<p>Abu Hurairah (semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang daripada kamu telah selesai membaca Tahiyat semasa solat, hendaklah dia memohon perlindungan kepada Allah daripada empat perkara dan berkata: 'Allahumma inni a'udhu bika min 'adhabi jahannam, wa min 'adhabil-qabr, wa min fitnatil-mahya wal-mamat, wa min sharri fitnatil-masihid-dajjal' (Ya Allah! Sesungguhnya aku memohon perlindungan kepada-Mu daripada azab neraka, daripada azab kubur, daripada fitnah kehidupan dan kematian, dan daripada kejahatan fitnah Al-Masih Ad-Dajjal).\" [Muslim].</p>",
+      "chapterNumber": "41",
+      "chapterTitle": "Larangan menderhaka kepada ibu bapa dan memutuskan silaturahim.",
+      "urn": 1703350,
+      "body": "<p>Abu Muhammad Jubair bin Mut'im (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Orang yang memutuskan tali silaturahim tidak akan masuk ke dalam syurga.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
