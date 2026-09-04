@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "45.00",
-  "hadithNumber": "366",
+  "bookNumber": "17",
+  "chapterId": "262.00",
+  "hadithNumber": "1547",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "45",
-      "chapterTitle": "Visiting the Pious Persons, loving them and adoption of their company",
-      "urn": 1603620,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Keep only a believer for a companion and let only a pious eat your food\".<br/><br/><b>[At-Tirmidhi and Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "262",
+      "chapterTitle": "Ascertainment of what one Hears and Narrates",
+      "urn": 1623480,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"It is enough for a man to prove himself a liar when he goes on narrating whatever he hears.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "45",
-      "chapterTitle": "- باب زيارة أهل الخير ومجالستهم وصحبتهم ومحبتهم وطلب زيارتهم والدعاء منهم وزيارة المواضع الفاضلة",
-      "urn": 1703620,
-      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه ، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ لا تصاحب إلا مؤمنا، ولا يأكل طعامك إلا تقي‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي بإسناد لا بأس به‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "262",
+      "chapterTitle": "- باب الحث على التثبت فيما يقوله ويحكيه",
+      "urn": 1715370,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏كفى بالمرء كذبًا أن يحدث بكل ما سمع‏\"‏‏.‏ (‏‏(‏رواه مسلم‏)‏‏)‏‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "45",
-      "chapterTitle": "Menziarahi orang-orang soleh, mencintai mereka, dan menjalin persahabatan dengan mereka.",
-      "urn": 1703620,
-      "body": "<p>Abu Sa'id Al-Khudri (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Janganlah kamu berkawan melainkan dengan orang yang beriman, dan janganlah orang memakan makananmu melainkan orang yang bertaqwa.\" [At-Tirmidhi dan Abu Dawud].</p>",
+      "chapterNumber": "262",
+      "chapterTitle": "Pengesahan tentang apa yang didengar dan diriwayatkan",
+      "urn": 1715370,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda: \"Cukuplah bagi seseorang itu dianggap sebagai pendusta apabila dia menceritakan apa sahaja yang didengarinya.\" [Muslim].</p>",
       "grades": []
     }
   ]
