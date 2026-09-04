@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "41.00",
-  "hadithNumber": "339",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1429",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "41",
-      "chapterTitle": "Prohibition of Disobeying Parents and severance of Relations",
-      "urn": 1603360,
-      "body": "<p>Abu Muhammad Jubair bin Mut'im (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"The person who severs the bond of kinship will not enter Jannah\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612960,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to say in his prostration: Allahum-maghfir li dhanbi kullahu: diqqahu wa jillahu, wa 'awwalahu wa akhirahu, wa alaniyatahu wa sirrahu (O Allah! Forgive all my sins, the small and the great, first and the last, the open and the secret).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "41",
-      "chapterTitle": "- باب تحريم العقوق وقطيعة الرحم",
-      "urn": 1703350,
-      "body": "<p>- وعن أبي محمد جبير من مطعم رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لايدخل الجنة قاطع‏\"‏ قال سفيان في روايته‏:‏ يعني ‏:‏ قاطع رحم ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714190,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم كان يقول في سجوده‏:‏ “اللهم اغفر لي ذنبي كله دقه وجله، وأوله وآخره، وعلانيته وسره‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "41",
-      "chapterTitle": "Larangan menderhaka kepada ibu bapa dan memutuskan silaturahim.",
-      "urn": 1703350,
-      "body": "<p>Abu Muhammad Jubair bin Mut'im (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Orang yang memutuskan tali silaturahim tidak akan masuk ke dalam syurga.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "Keutamaan Mengingati Allah",
+      "urn": 1714190,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) baginda sering berdoa ketika sujud: Allahum-maghfir li dhanbi kullahu: diqqahu wa jillahu, wa 'awwalahu wa akhirahu, wa alaniyatahu wa sirrahu (Ya Allah! Ampunkanlah seluruh dosa-dosaku, yang kecil mahupun yang besar, yang terdahulu mahupun yang terkemudian, yang nyata mahupun yang tersembunyi).[Muslim].</p>",
       "grades": []
     }
   ]
