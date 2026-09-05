@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "2.00",
-  "hadithNumber": "16",
+  "bookNumber": "8",
+  "chapterId": "227.00",
+  "hadithNumber": "1250",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "2",
-      "chapterTitle": "Repentance",
-      "urn": 1600160,
-      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Prophet (ﷺ) said: \"Allah, the Exalted, will continue to stretch out His Hand in the night so that the sinners of the day may repent, and continue to stretch His Hand in the daytime so that the sinners of the night may repent, until the sun rises from the west\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "227",
+      "chapterTitle": "The Excellence of Observing Saum on the Day of 'Arafah, 'Ashura' and Tasu'a (i.e., 9th of Muharram)",
+      "urn": 1622940,
+      "body": "<p>Abu Qatadah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) was asked about the observance of Saum (fasting) on the day of 'Arafah. He said, \"It is an expiation for the sins of the preceding year and the current year.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "2",
-      "chapterTitle": "- باب التوبة",
-      "urn": 1700160,
-      "body": "<p>- وعن أبي موسى عبد الله بن قيس الأشعرى رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ إن الله تعالى يبسط يده بالليل ليتوب مسيء النهار، ويبسط يده بالنهار ليتوب مسيء الليل حتى تطلع الشمس من مغربها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "227",
+      "chapterTitle": "- باب فضل صوم يوم عرفة وعاشوراء وتاسوعاء‏:",
+      "urn": 1712400,
+      "body": "<p>- وعن أبي قتادة رضي الله عنه قال‏:‏ سئل رسول الله صلى الله عليه وسلم‏:‏ عن صوم يوم عرفة‏؟‏ قال‏:‏ ‏\"‏يكفر السنة الماضية والباقية‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "2",
-      "chapterTitle": "Taubat",
-      "urn": 1700160,
-      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda: \"Allah Yang Maha Tinggi akan sentiasa menghulurkan tangan-Nya pada waktu malam supaya pelaku dosa di waktu siang dapat bertaubat, dan sentiasa menghulurkan tangan-Nya pada waktu siang supaya pelaku dosa di waktu malam dapat bertaubat, sehinggalah matahari terbit dari arah barat.\" [Muslim].</p>",
+      "chapterNumber": "227",
+      "chapterTitle": "Kelebihan Berpuasa pada Hari 'Arafah, 'Asyura dan Tasu'a (iaitu 9 Muharram)",
+      "urn": 1712400,
+      "body": "<p>Abu Qatadah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) telah ditanya mengenai ibadah puasa pada hari 'Arafah. Baginda bersabda, \"Ia adalah penghapus dosa setahun yang lalu dan setahun yang akan datang.\"[Muslim].</p>",
       "grades": []
     }
   ]
