@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "227.00",
-  "hadithNumber": "1250",
+  "bookNumber": "17",
+  "chapterId": "273.00",
+  "hadithNumber": "1575",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "227",
-      "chapterTitle": "The Excellence of Observing Saum on the Day of 'Arafah, 'Ashura' and Tasu'a (i.e., 9th of Muharram)",
-      "urn": 1622940,
-      "body": "<p>Abu Qatadah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) was asked about the observance of Saum (fasting) on the day of 'Arafah. He said, \"It is an expiation for the sins of the preceding year and the current year.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "273",
+      "chapterTitle": "Prohibition of Despising Muslims",
+      "urn": 1623760,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"The haughty, even with pride equal to a mustard seed in his heart, will not enter Jannah.\" A man enquired: \"What about that a person likes fine dress and fine shoes?\" He said: \"Allah is Beautiful and likes beauty. Pride amounts to disclaiming truth out of self- esteem, and despising people .\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "227",
-      "chapterTitle": "- باب فضل صوم يوم عرفة وعاشوراء وتاسوعاء‏:",
-      "urn": 1712400,
-      "body": "<p>- وعن أبي قتادة رضي الله عنه قال‏:‏ سئل رسول الله صلى الله عليه وسلم‏:‏ عن صوم يوم عرفة‏؟‏ قال‏:‏ ‏\"‏يكفر السنة الماضية والباقية‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "273",
+      "chapterTitle": "- باب تحريم احتقار المسلمين",
+      "urn": 1715650,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا يدخل الجنة من كان في قلبه مثقال ذرة من كبر‏\"‏ فقال رجل‏:‏ إن الرجل يحب أن يكون ثوبه حسنًا، ونعله حسنة، فقال‏:‏ ‏\"‏إن الله جميل يحب الجمال، الكبر بَطَر الحق، وغمط الناس‏\"‏‏.‏‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nومعنى ‏\"‏بَطَر الحق‏\"‏‏:‏ دفعه، ‏\"‏وغمطهم‏\"‏‏:‏ احتقارهم، وقد سبق بيانه أوضح من هذا في باب الكبر‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "227",
-      "chapterTitle": "Kelebihan Berpuasa pada Hari 'Arafah, 'Asyura dan Tasu'a (iaitu 9 Muharram)",
-      "urn": 1712400,
-      "body": "<p>Abu Qatadah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) telah ditanya mengenai ibadah puasa pada hari 'Arafah. Baginda bersabda, \"Ia adalah penghapus dosa setahun yang lalu dan setahun yang akan datang.\"[Muslim].</p>",
+      "chapterNumber": "273",
+      "chapterTitle": "Larangan Meremehkan Kaum Muslimin",
+      "urn": 1715650,
+      "body": "<p>Ibnu Mas'ud (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Seseorang yang sombong, walaupun hanya sebesar biji sawi di dalam hatinya, tidak akan masuk ke Syurga.\" Seorang lelaki bertanya: \"Bagaimana pula dengan seseorang yang menyukai pakaian yang indah dan kasut yang cantik?\" Baginda bersabda: \"Sesungguhnya Allah itu Indah dan menyukai keindahan. Sombong itu adalah menolak kebenaran kerana perasaan bangga diri, dan meremehkan manusia.\"[Muslim].</p>",
       "grades": []
     }
   ]
