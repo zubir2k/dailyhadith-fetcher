@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "205.00",
-  "hadithNumber": "1138",
+  "bookNumber": "16",
+  "chapterId": "250.00",
+  "hadithNumber": "1468",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "205",
-      "chapterTitle": "Witr Prayer, its Time and Ruling",
-      "urn": 1621820,
-      "body": "<p>Jabir (May Allah be pleased with him)reported: The Messenger of Allah (ﷺ) said, \"He who apprehends that he may not get up in the later part of the night, should observe the Witr prayer in the first part of it; and he who is certain to get up in the last part of it, he should observe Witr at the end of the night, because Salat at the end of the night is attended (by the angels), and that is better.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
+      "urn": 1613340,
+      "body": "<p>'Abdullah bin Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) used to supplicate: \"Allahumma inni as'alukal-huda, wat-tuqa, wal-'afafa, wal-ghina (O Allah! I beseech You for guidance, piety, chastity and contentment).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "205",
-      "chapterTitle": "- باب الحث على صلاة الوتر وبيان أنه سنة مؤكدة وبيان وقته‏:",
-      "urn": 1711280,
-      "body": "<p>- وعن جابر رضي الله عنه قال قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من خاف أن لا يقوم الليل فليوتر أوله، ومن طمع أن يقوم آخره، فليوتر آخر الليل، فإن صلاة آخر الليل مشهودة، وذلك أفضل‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
+      "urn": 1714580,
+      "body": "<p>- وعن ابن مسعود، رضي الله عنه، أن النبي، صلى الله عليه وسلم، كان يقول‏:‏ ‏\"‏اللهم إني أسألك الهدى، والتقى، والعفاف، والغنى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "205",
-      "chapterTitle": "Solat Witir, Waktunya dan Hukumnya",
-      "urn": 1711280,
-      "body": "<p>Jabir (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang bimbang tidak dapat bangun pada akhir malam, hendaklah dia menunaikan solat Witir pada awal malam; dan sesiapa yang yakin dapat bangun pada akhir malam, hendaklah dia menunaikan solat Witir pada akhir malam, kerana solat pada akhir malam itu disaksikan (oleh para malaikat), dan itu adalah lebih baik.\" [Muslim].</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Perkara-perkara berkaitan doa, fadhilatnya dan doa-doa Nabi (SAW)",
+      "urn": 1714580,
+      "body": "<p>Abdullah bin Mas'ud (semoga Allah meredainya) meriwayatkan: Rasulullah ﷺ sering berdoa: \"Allahumma inni as'alukal-huda, wat-tuqa, wal-'afafa, wal-ghina (Ya Allah! Aku memohon kepada-Mu petunjuk, ketakwaan, kesucian diri dan kecukupan).\" [Muslim].</p>",
       "grades": []
     }
   ]
