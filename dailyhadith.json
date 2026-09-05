@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "16",
-  "chapterId": "250.00",
-  "hadithNumber": "1468",
+  "bookNumber": "6",
+  "chapterId": "157.00",
+  "hadithNumber": "935",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "250",
-      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
-      "urn": 1613340,
-      "body": "<p>'Abdullah bin Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) used to supplicate: \"Allahumma inni as'alukal-huda, wat-tuqa, wal-'afafa, wal-ghina (O Allah! I beseech You for guidance, piety, chastity and contentment).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "157",
+      "chapterTitle": "Supplications in Funeral Prayers",
+      "urn": 1608690,
+      "body": "<p>Abu 'Abdur-Rahman 'Auf bin Malik (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) offered a funeral prayer and I memorized his supplication. He (ﷺ) prayed: \"Allahummaghfir lahu, warhamhu, wa 'afihi, wa'fu 'anhu, wa akrim nuzulahu, wa wassi' mudkhalahu, waghsilhu bil-ma'i wath-thalji wal-baradi, wa naqqihi minal-khataya, kama naqqaytath-thawbal-abyada minad-danasi, wa abdilhu daran khairan min darihi, wa ahlan khairan min ahlihi, wa zawjan khairan min zawjihi, wa adkhilhul-Jannata, wa a'idh-hu min 'adhabil- qabri, wa min 'adhabin-nar <b>[if the dead person is a woman, one should change the ending of certain words in this supplication from hu to ha]</b> (O Allah! Forgive him, bestow mercy upon him, pardon him, accord him a noble provision and make his grave spacious, wash him with water, snow and hail, purify him from sins as You have purified the white garment from soiling, give him a better abode in place of his present one, and a better family in exchange of his present one, and a better spouse in place of his present wife; admit him to Jannah and protect from the trial in the grave and punishment in the Hell).\" (After hearing this supplication of the Messenger of Allah (ﷺ), Abu' Abdur-Rahman 'Auf bin Malik (May Allah be pleased with him) said: I wished I had been that dead man.<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "250",
-      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
-      "urn": 1714580,
-      "body": "<p>- وعن ابن مسعود، رضي الله عنه، أن النبي، صلى الله عليه وسلم، كان يقول‏:‏ ‏\"‏اللهم إني أسألك الهدى، والتقى، والعفاف، والغنى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "250",
-      "chapterTitle": "Perkara-perkara berkaitan doa, fadhilatnya dan doa-doa Nabi (SAW)",
-      "urn": 1714580,
-      "body": "<p>Abdullah bin Mas'ud (semoga Allah meredainya) meriwayatkan: Rasulullah ﷺ sering berdoa: \"Allahumma inni as'alukal-huda, wat-tuqa, wal-'afafa, wal-ghina (Ya Allah! Aku memohon kepada-Mu petunjuk, ketakwaan, kesucian diri dan kecukupan).\" [Muslim].</p>",
+      "chapterNumber": "157",
+      "chapterTitle": "- باب ما يقرأ في صلاة الجنازة",
+      "urn": 1709260,
+      "body": "<p>- عن أبي عبد الرحمن بن عوف بن مالك رضي الله عنه قال‏:‏ صلى رسول الله صلى الله عليه وسلم علي جنازة، فحفظت من دعائه وهو يقول‏:‏ ‏\"‏اللهم اغفر له، وارحمه، وعافه، واعف عنه، وأكرم نزله، ووسع مدخله واغسله بالماء والثلج والبرد ونقه من الخطايا، كما نقيت الثوب الأبيض من الدنس، وأبدله داراً خيراً من داره، وأهلاً خيراً من أهله، وزوجاً خيراً من زوجه، وأدخله الجنة، وأعذه من عذاب القبر، ومن عذاب النار” حتي تمنين أن أكون ذلك الميت‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
