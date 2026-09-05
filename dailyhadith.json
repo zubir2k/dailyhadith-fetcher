@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "17",
-  "chapterId": "273.00",
-  "hadithNumber": "1575",
+  "chapterId": "282.00",
+  "hadithNumber": "1608",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "273",
-      "chapterTitle": "Prohibition of Despising Muslims",
-      "urn": 1623760,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"The haughty, even with pride equal to a mustard seed in his heart, will not enter Jannah.\" A man enquired: \"What about that a person likes fine dress and fine shoes?\" He said: \"Allah is Beautiful and likes beauty. Pride amounts to disclaiming truth out of self- esteem, and despising people .\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "282",
+      "chapterTitle": "Prohibition of Cruelty",
+      "urn": 1624090,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) said: An ass with a brand on the face happened to pass before the Prophet (ﷺ). Thereupon he said, \"May Allah curse the one who has branded it (on the face).\"<br/><br/><b>[Muslim]</b>.<br/><br/>Another narration in Muslim is: \"The Messenger of Allah (ﷺ) prohibited us from hitting across the face and branding on the face (of an animal).\"<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "273",
-      "chapterTitle": "- باب تحريم احتقار المسلمين",
-      "urn": 1715650,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا يدخل الجنة من كان في قلبه مثقال ذرة من كبر‏\"‏ فقال رجل‏:‏ إن الرجل يحب أن يكون ثوبه حسنًا، ونعله حسنة، فقال‏:‏ ‏\"‏إن الله جميل يحب الجمال، الكبر بَطَر الحق، وغمط الناس‏\"‏‏.‏‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nومعنى ‏\"‏بَطَر الحق‏\"‏‏:‏ دفعه، ‏\"‏وغمطهم‏\"‏‏:‏ احتقارهم، وقد سبق بيانه أوضح من هذا في باب الكبر‏.‏</p>",
+      "chapterNumber": "282",
+      "chapterTitle": "- باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أو زائد على قدر الأدب",
+      "urn": 1715980,
+      "body": "<p>- وعنه أن النبي صلى الله عليه وسلم ‏:‏ مر عليه حمار قد وُسم في وجهه، فقال‏:‏ ‏\"‏لعن الله الذي وسمه‏\"‏ ‏(‏‏(‏رواه مسلم‏.‏ وفي رواية لمسلم أيضًا‏:‏ نهى رسول الله صلى الله عليه وسلم عن الضرب في الوجه، وعن الوسم في الوجه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "273",
-      "chapterTitle": "Larangan Meremehkan Kaum Muslimin",
-      "urn": 1715650,
-      "body": "<p>Ibnu Mas'ud (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Seseorang yang sombong, walaupun hanya sebesar biji sawi di dalam hatinya, tidak akan masuk ke Syurga.\" Seorang lelaki bertanya: \"Bagaimana pula dengan seseorang yang menyukai pakaian yang indah dan kasut yang cantik?\" Baginda bersabda: \"Sesungguhnya Allah itu Indah dan menyukai keindahan. Sombong itu adalah menolak kebenaran kerana perasaan bangga diri, dan meremehkan manusia.\"[Muslim].</p>",
+      "chapterNumber": "282",
+      "chapterTitle": "Larangan Berbuat Kezaliman",
+      "urn": 1715980,
+      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) berkata: Seekor keldai yang mempunyai tanda pada mukanya telah lalu di hadapan Nabi (ﷺ). Lalu baginda bersabda, \"Semoga Allah melaknat sesiapa yang menandakannya (pada muka).\" [Muslim]. Riwayat lain dalam Muslim adalah: \"Rasulullah (ﷺ) melarang kami daripada memukul bahagian muka dan menandakan muka (haiwan).\"</p>",
       "grades": []
     }
   ]
