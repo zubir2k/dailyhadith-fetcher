@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "282.00",
-  "hadithNumber": "1608",
+  "bookNumber": "3",
+  "chapterId": "117.00",
+  "hadithNumber": "779",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "282",
-      "chapterTitle": "Prohibition of Cruelty",
-      "urn": 1624090,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) said: An ass with a brand on the face happened to pass before the Prophet (ﷺ). Thereupon he said, \"May Allah curse the one who has branded it (on the face).\"<br/><br/><b>[Muslim]</b>.<br/><br/>Another narration in Muslim is: \"The Messenger of Allah (ﷺ) prohibited us from hitting across the face and branding on the face (of an animal).\"<br/><br/></p>",
+      "chapterNumber": "117",
+      "chapterTitle": "The Excellence of Wearing White Clothes and the Permissibility of Wearing Red, Green, Yellow and Black Clothes Made from Cotton and Linen but not Silk",
+      "urn": 1607500,
+      "body": "<p>Samurah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, 'Wear white clothes because they are the purest and they are closest to modesty; and shroud the dead in it.\"<br/><br/><b>[An- Nasa'i and Al-Hakim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "282",
-      "chapterTitle": "- باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أو زائد على قدر الأدب",
-      "urn": 1715980,
-      "body": "<p>- وعنه أن النبي صلى الله عليه وسلم ‏:‏ مر عليه حمار قد وُسم في وجهه، فقال‏:‏ ‏\"‏لعن الله الذي وسمه‏\"‏ ‏(‏‏(‏رواه مسلم‏.‏ وفي رواية لمسلم أيضًا‏:‏ نهى رسول الله صلى الله عليه وسلم عن الضرب في الوجه، وعن الوسم في الوجه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "117",
+      "chapterTitle": "- باب استحباب الثوب الأبيض وجواز الأحمر والأخضر والأصفر والأسود وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير",
+      "urn": 1707730,
+      "body": "<p>- وعن سمرة رضى الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏إلبسوا البياض؛ فإنها أطهر وأطيب، وكفنوا فيها موتاكم‏\"‏.‏ ((رواه النسائي والحاكم))</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "282",
-      "chapterTitle": "Larangan Berbuat Kezaliman",
-      "urn": 1715980,
-      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) berkata: Seekor keldai yang mempunyai tanda pada mukanya telah lalu di hadapan Nabi (ﷺ). Lalu baginda bersabda, \"Semoga Allah melaknat sesiapa yang menandakannya (pada muka).\" [Muslim]. Riwayat lain dalam Muslim adalah: \"Rasulullah (ﷺ) melarang kami daripada memukul bahagian muka dan menandakan muka (haiwan).\"</p>",
+      "chapterNumber": "117",
+      "chapterTitle": "Keutamaan Memakai Pakaian Putih dan Keharusan Memakai Pakaian Berwarna Merah, Hijau, Kuning dan Hitam yang Diperbuat daripada Kapas dan Linen tetapi Bukan Sutera",
+      "urn": 1707730,
+      "body": "<p>Samurah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, 'Pakailah pakaian berwarna putih kerana ia adalah yang paling bersih dan ia paling dekat dengan sifat malu; dan kafankanlah si mati dengannya.' [An-Nasa'i dan Al-Hakim].</p>",
       "grades": []
     }
   ]
