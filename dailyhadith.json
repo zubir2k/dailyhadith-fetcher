@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "77.00",
-  "hadithNumber": "650",
+  "chapterId": "2.00",
+  "hadithNumber": "16",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "77",
-      "chapterTitle": "Indignation against the Transgression of Divine Laws",
-      "urn": 1606440,
-      "body": "<p>'Aishah (May Allah be pleased with him) reported: The Quraish were much worried about the case of a Makhzumiyah woman who had committed theft and wondered who should intercede for her with Messenger of Allah (ﷺ) (so that she would not get punished for her crime). Some said Usamah bin Zaid (May Allah be pleased with him) was his beloved and so he may dare do so. So Usamah(May Allah be pleased with him) spoke to him about that matter and the Prophet (ﷺ) said to him, \"Do you intercede when one of the legal punishments ordained by Allah has been voilated?\" Then he got up and addressed the people saying, \"The people before you were ruined because when a noble person amongst them committed theft, they would leave him, but if a weak person amongst them committed theft, they would execute the legal punishment on him. By Allah, were Fatimah, the daughter of Muhammad, to commit the theft, I would have cut off her hand.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "2",
+      "chapterTitle": "Repentance",
+      "urn": 1600160,
+      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Prophet (ﷺ) said: \"Allah, the Exalted, will continue to stretch out His Hand in the night so that the sinners of the day may repent, and continue to stretch His Hand in the daytime so that the sinners of the night may repent, until the sun rises from the west\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "77",
-      "chapterTitle": "- باب الغضب إذا انتهكت حرمات الشرع والانتصار لدين الله تعالى",
-      "urn": 1706460,
-      "body": "<p>- وعنها أن قريشاً أهمهم شأن المرأة المخزومية التى سرقت فقالوا‏:‏ من يكلم فيها رسول الله صلى الله عليه وسلم‏؟‏ فقالوا‏:‏ من يجترئ عليه إلا أسامة بن زيد حب رسول الله صلى الله عليه وسلم‏؟‏ فكلمة أسامة، فقال رسول الله صلى الله عليه وسلم‏:‏ “أتشفع في حد من حدود الله تعالى‏؟‏‏!‏” ثم قام فاختطب ثم قال‏:‏ “إنما أهلك من قبلكم أنهم كانوا إذا سرق فيهم الشريف تركوه، وإذا سرق فيهم الضعيف أقاموا عليه الحد‏!‏ وايم الله، لو أن فاطمة بنت محمد سرقت لقطعت يدها” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "2",
+      "chapterTitle": "- باب التوبة",
+      "urn": 1700160,
+      "body": "<p>- وعن أبي موسى عبد الله بن قيس الأشعرى رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ إن الله تعالى يبسط يده بالليل ليتوب مسيء النهار، ويبسط يده بالنهار ليتوب مسيء الليل حتى تطلع الشمس من مغربها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "2",
+      "chapterTitle": "Taubat",
+      "urn": 1700160,
+      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda: \"Allah Yang Maha Tinggi akan sentiasa menghulurkan tangan-Nya pada waktu malam supaya pelaku dosa di waktu siang dapat bertaubat, dan sentiasa menghulurkan tangan-Nya pada waktu siang supaya pelaku dosa di waktu malam dapat bertaubat, sehinggalah matahari terbit dari arah barat.\" [Muslim].</p>",
       "grades": []
     }
   ]
