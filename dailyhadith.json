@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "100.00",
-  "hadithNumber": "729",
+  "bookNumber": "introduction",
+  "chapterId": "71.00",
+  "hadithNumber": "609",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "100",
-      "chapterTitle": "Saying Bismillah Before and Al-Hamdulillah After Eating",
-      "urn": 1607170,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) saying, \"If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find no where to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food.\"'<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "71",
+      "chapterTitle": "Modesty and Courtesy towards the Believers",
+      "urn": 1606030,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said: \"If I am invited to a meal consisting of a sheep's foot or shoulder, I would respond and I would accept as a gift a shoulder or a foot of a sheep.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "100",
-      "chapterTitle": "- باب التسمية في أوله والحمد في آخره",
-      "urn": 1707250,
-      "body": "<p>- وعن جابر، رضى الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إذا دخل الرجل بيته، فذكر الله تعالى عند دخوله وعند طعامه، قال الشيطان لأصحابه‏:‏ لا مبيت لكم ولا عشاء، وإذا دخل ، فلم يذكر الله تعالى عند دخوله، قال الشيطان‏:‏ أدركتم المبيت؛ وإذا لم يذكر الله تعالى عند طعامه قال‏:‏ أدركتم المبيت والعشاء‏\"‏ ‏. ((رواه مسلم))</p>",
+      "chapterNumber": "71",
+      "chapterTitle": "- باب التواضع وخفض الجناح للمؤمنين",
+      "urn": 1706050,
+      "body": "<p>- وعنه عن النبي صلى الله عليه وسلم قال‏:‏ لو دعيت إلى كراع أو ذراع لأجبت ولو أهدى إلى ذراع أو كراع لقبلت”‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "71",
+      "chapterTitle": "Sifat Malu dan Kesantunan terhadap Orang Beriman",
+      "urn": 1706050,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda: \"Sekiranya aku dijemput ke suatu hidangan yang terdiri daripada kaki atau bahu kambing, aku akan menyambutnya dan aku akan menerima bahagian bahu atau kaki kambing sebagai hadiah.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
