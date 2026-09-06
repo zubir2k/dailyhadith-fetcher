@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "109.00",
-  "hadithNumber": "750",
+  "bookNumber": "introduction",
+  "chapterId": "33.00",
+  "hadithNumber": "271",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "109",
-      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
-      "urn": 1607280,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When a morsel of any of you falls, he should pick it up and remove any of the dirt on it and then eat it, and should not leave it for Satan nor should wipe his hand with towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "33",
+      "chapterTitle": "Benevolent Treatment towards Orphans, Girls, the Weak, the Poor and the Humble Persons",
+      "urn": 1602680,
+      "body": "<p>Mus'ab bin Sa'd bin Abu Waqqas (May Allah be pleased with them) reported: Sa'd considered himself better than his inferiors, so the Prophet (ﷺ) said to him, \"You are given help and provision because of your weak ones\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "109",
-      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
-      "urn": 1707450,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا وقعت لقمة أحدكم، فليأخذها فليمط ما كان بها من أذى وليأكلها، ولا يدعها للشيطان، ولا يمسح يده بالمنديل حتى يلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة‏\"‏ .‏‏((رواه مسلم))‏\n‏</p>",
+      "chapterNumber": "33",
+      "chapterTitle": "- باب ملاطفة اليتيم والبنات وسائر الضعفة والمساكين والمنكسرين والإحسان إليهم والشفقة عليهم‏ والتواضع معهم، وخفض الجناح لهم",
+      "urn": 1702700,
+      "body": "<p>- وعن مصعب بن سعد بن أبي وقاص رضي الله عنهما قال‏:‏ رأى سعد أن له فضلا على من دونه، فقال النبي صلى الله عليه وسلم‏:‏ ‏\"‏هل تنصرون وترزقون إلا بضعفائكم‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ هكذا مرسلا، فإن مصعب بن سعد تابعي، ‏(‏‏(‏ورواه الحافظ أبو بكر البرقاني في صحيحه متصلا عن مصعب عن أبيه رضي الله عنه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "109",
-      "chapterTitle": "Keutamaan Makan dengan Tiga Jari dan Menjilatnya",
-      "urn": 1707450,
-      "body": "<p>Jabir (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Apabila sebutir makanan jatuh daripada salah seorang di antara kamu, hendaklah dia mengambilnya, membersihkan sebarang kotoran padanya dan kemudian memakannya, dan janganlah membiarkannya untuk syaitan atau menyapu tangannya dengan kain sehinggalah dia menjilat jari-jemarinya, kerana dia tidak tahu di bahagian manakah letaknya keberkatan pada makanan tersebut.\" [Muslim].</p>",
+      "chapterNumber": "33",
+      "chapterTitle": "Berbuat Baik terhadap Anak Yatim, Anak Perempuan, Golongan Lemah, Golongan Miskin dan Mereka yang Rendah Kedudukannya.",
+      "urn": 1702700,
+      "body": "<p>Mus'ab bin Sa'd bin Abu Waqqas (Semoga Allah meredai mereka) meriwayatkan: Sa'd menganggap dirinya lebih baik daripada golongan yang lemah di bawahnya, maka Nabi (ﷺ) bersabda kepadanya, \"Kamu diberikan pertolongan dan rezeki disebabkan oleh orang-orang yang lemah di kalangan kamu.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
