@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "362.00",
-  "hadithNumber": "1793",
+  "bookNumber": "2",
+  "chapterId": "100.00",
+  "hadithNumber": "729",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "362",
-      "chapterTitle": "Prohibition of Magic",
-      "urn": 1625940,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Avoid the seven destructive things.\" It was asked: (by those present): \"What are they, O Messenger of Allah?\" He replied, \"Associating anyone or anything with Allah in worship; practising sorcery, killing of someone without a just cause whom Allah has forbidden, devouring the property of an orphan, eating of usury, fleeing from the battlefield and slandering chaste women who never even think of anything touching chastity and are good believers.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "100",
+      "chapterTitle": "Saying Bismillah Before and Al-Hamdulillah After Eating",
+      "urn": 1607170,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) saying, \"If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find no where to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food.\"'<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "362",
-      "chapterTitle": "- باب التغليظ في تحريم السحر",
-      "urn": 1717820,
-      "body": "<p>- عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ “أجتنبوا السبع الموبقات” قالوا‏:‏ يا رسول الله وما هن‏؟‏ قال‏:‏ ‏\"‏الشرك بالله، والسحر، وقتل النفس التى حرم الله إلا بالحق، وأكل الربا، وأكل مال اليتيم، والتولي يوم الزحف، وقذف المحصنات الغافلات” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "100",
+      "chapterTitle": "- باب التسمية في أوله والحمد في آخره",
+      "urn": 1707250,
+      "body": "<p>- وعن جابر، رضى الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إذا دخل الرجل بيته، فذكر الله تعالى عند دخوله وعند طعامه، قال الشيطان لأصحابه‏:‏ لا مبيت لكم ولا عشاء، وإذا دخل ، فلم يذكر الله تعالى عند دخوله، قال الشيطان‏:‏ أدركتم المبيت؛ وإذا لم يذكر الله تعالى عند طعامه قال‏:‏ أدركتم المبيت والعشاء‏\"‏ ‏. ((رواه مسلم))</p>",
       "grades": []
     }
   ]
