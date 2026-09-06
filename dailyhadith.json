@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "33.00",
-  "hadithNumber": "271",
+  "bookNumber": "17",
+  "chapterId": "362.00",
+  "hadithNumber": "1793",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "33",
-      "chapterTitle": "Benevolent Treatment towards Orphans, Girls, the Weak, the Poor and the Humble Persons",
-      "urn": 1602680,
-      "body": "<p>Mus'ab bin Sa'd bin Abu Waqqas (May Allah be pleased with them) reported: Sa'd considered himself better than his inferiors, so the Prophet (ﷺ) said to him, \"You are given help and provision because of your weak ones\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "362",
+      "chapterTitle": "Prohibition of Magic",
+      "urn": 1625940,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Avoid the seven destructive things.\" It was asked: (by those present): \"What are they, O Messenger of Allah?\" He replied, \"Associating anyone or anything with Allah in worship; practising sorcery, killing of someone without a just cause whom Allah has forbidden, devouring the property of an orphan, eating of usury, fleeing from the battlefield and slandering chaste women who never even think of anything touching chastity and are good believers.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "33",
-      "chapterTitle": "- باب ملاطفة اليتيم والبنات وسائر الضعفة والمساكين والمنكسرين والإحسان إليهم والشفقة عليهم‏ والتواضع معهم، وخفض الجناح لهم",
-      "urn": 1702700,
-      "body": "<p>- وعن مصعب بن سعد بن أبي وقاص رضي الله عنهما قال‏:‏ رأى سعد أن له فضلا على من دونه، فقال النبي صلى الله عليه وسلم‏:‏ ‏\"‏هل تنصرون وترزقون إلا بضعفائكم‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ هكذا مرسلا، فإن مصعب بن سعد تابعي، ‏(‏‏(‏ورواه الحافظ أبو بكر البرقاني في صحيحه متصلا عن مصعب عن أبيه رضي الله عنه‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "33",
-      "chapterTitle": "Berbuat Baik terhadap Anak Yatim, Anak Perempuan, Golongan Lemah, Golongan Miskin dan Mereka yang Rendah Kedudukannya.",
-      "urn": 1702700,
-      "body": "<p>Mus'ab bin Sa'd bin Abu Waqqas (Semoga Allah meredai mereka) meriwayatkan: Sa'd menganggap dirinya lebih baik daripada golongan yang lemah di bawahnya, maka Nabi (ﷺ) bersabda kepadanya, \"Kamu diberikan pertolongan dan rezeki disebabkan oleh orang-orang yang lemah di kalangan kamu.\" [Al-Bukhari].</p>",
+      "chapterNumber": "362",
+      "chapterTitle": "- باب التغليظ في تحريم السحر",
+      "urn": 1717820,
+      "body": "<p>- عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ “أجتنبوا السبع الموبقات” قالوا‏:‏ يا رسول الله وما هن‏؟‏ قال‏:‏ ‏\"‏الشرك بالله، والسحر، وقتل النفس التى حرم الله إلا بالحق، وأكل الربا، وأكل مال اليتيم، والتولي يوم الزحف، وقذف المحصنات الغافلات” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
