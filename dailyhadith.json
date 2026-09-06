@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "182.00",
-  "hadithNumber": "1006",
+  "bookNumber": "2",
+  "chapterId": "109.00",
+  "hadithNumber": "750",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "182",
-      "chapterTitle": "The Merit of Recitation of the Noble Qur'an in a Pleasant Voice",
-      "urn": 1620490,
-      "body": "<p>Al-Bara' bin 'Azib (May Allah be pleased with them) reported: I heard the Prophet (ﷺ) reciting Surat Wat-Teen Waz-Zaitun (Chapter 95) during the 'Isha' prayer. I have never heard anyone reciting it in a more beautiful voice than his.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
+      "urn": 1607280,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When a morsel of any of you falls, he should pick it up and remove any of the dirt on it and then eat it, and should not leave it for Satan nor should wipe his hand with towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "182",
-      "chapterTitle": "باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها‏:",
-      "urn": 1709970,
-      "body": "<p>- وعن البراء بن عازب رضي الله عنهما قال ‏:‏سمعت النبي صلى الله عليه وسلم قرأ في العشاء بالتين والزيتون، فما سمعت أحدًا أحسن صوتا منه ‏.‏‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
+      "urn": 1707450,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا وقعت لقمة أحدكم، فليأخذها فليمط ما كان بها من أذى وليأكلها، ولا يدعها للشيطان، ولا يمسح يده بالمنديل حتى يلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة‏\"‏ .‏‏((رواه مسلم))‏\n‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "182",
-      "chapterTitle": "Fadhilat Bacaan Al-Quran yang Mulia dengan Suara yang Merdu",
-      "urn": 1709970,
-      "body": "<p>Al-Bara' bin 'Azib (Semoga Allah meredai mereka) menceritakan: Aku mendengar Rasulullah (ﷺ) membaca Surah Wat-Teen Waz-Zaitun (Surah ke-95) semasa solat Isyak. Aku tidak pernah mendengar sesiapa pun membacanya dengan suara yang lebih merdu daripada suara Baginda. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Keutamaan Makan dengan Tiga Jari dan Menjilatnya",
+      "urn": 1707450,
+      "body": "<p>Jabir (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Apabila sebutir makanan jatuh daripada salah seorang di antara kamu, hendaklah dia mengambilnya, membersihkan sebarang kotoran padanya dan kemudian memakannya, dan janganlah membiarkannya untuk syaitan atau menyapu tangannya dengan kain sehinggalah dia menjilat jari-jemarinya, kerana dia tidak tahu di bahagian manakah letaknya keberkatan pada makanan tersebut.\" [Muslim].</p>",
       "grades": []
     }
   ]
