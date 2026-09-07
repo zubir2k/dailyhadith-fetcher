@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "255.00",
-  "hadithNumber": "1529",
+  "bookNumber": "1",
+  "chapterId": "86.00",
+  "hadithNumber": "688",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "255",
-      "chapterTitle": "Prohibition of Listening to Backbiting",
-      "urn": 1623300,
-      "body": "<p>'Itban bin Malik (May Allah be pleased with him) said in his long Hadith cited in the Chapter entitled 'Hope' reported: When the Prophet (ﷺ) stood up to offer As-Salat (the prayer) he asked, \"Where is Malik bin Ad-Dukhshum?\" A man replied: \"He is a hypocrite. He does not love Allah and His Messenger.\" The Prophet (ﷺ) said, \"Do not say that. Do you not know that he said: La ilaha illallah (there is no true god except Allah),' seeking His Pleasure. Allah has made the fire of Hell unlawful for him who affirms that none has the right to be worshipped but Allah.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "86",
+      "chapterTitle": "Fulfillment of Promises",
+      "urn": 1606800,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Three are the signs of a hypocrite: When he speaks, he lies; when he makes a promise, he breaks it; and when he is trusted, he betrays his trust.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration adds the words: \"Even if he observes Saum (fasts), performs Salat (prayer) and claims to be a Muslim.\"<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "255",
-      "chapterTitle": "باب تحريم سماع الغيبة وأمر من سمع غيبة محرمة بردها والإنكار على قائلها فإن عجز أو لم يقبل منه فارق ذلك المجلس إن أمكنه",
-      "urn": 1715190,
-      "body": "<p>- وعن عتبان بن مالك رضي الله عنه في حديثه الطويل المشهور الذي تقدم في باب الرجاء قال‏:‏ قام النبي صلى الله عليه وسلم يصلي فقال‏:‏ ‏\"‏أين مالك بن الدخشم‏؟‏ فقال رجل‏:‏ ذلك منافق لا يحب الله ورسوله، فقال النبي صلى الله عليه وسلم‏:‏ “لا تقل ذلك ألا تراه قد قال‏:‏ لا إله إلا الله يريد بذلك وجه الله‏!‏ وإن الله قد حرم على النار من قال لا إله إلا الله يبتغي بذلك وجه الله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \"وعِتبانُ\"بكسر العين عَلَى المشهور، وحُكِي ضمُّها، وبعدها تاءٌ مثناةٌ مِنْ فوق، ثُمَّ باءٌ موحدةٌ. و\"الدُّخْشُمُ\"بضم الدال وإسكان الخاءِ وضمِّ الشين المعجمتين</p>",
+      "chapterNumber": "86",
+      "chapterTitle": "-باب الوفاء بالعهد وإنجاز الوعد",
+      "urn": 1706840,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه ، أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏آية المنافق ثلاث‏:‏ إذا حدث كذب، وإذا وعد أخلف، وإذا اؤتمن خان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \nزاد في ‏(‏‏(‏رواية لمسلم‏)‏‏)‏‏:‏ ‏\"‏وإن صام وصلى وزعم أنه مسلم‏\"‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "86",
+      "chapterTitle": "Menepati Janji",
+      "urn": 1706840,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Tiga adalah tanda-tanda orang munafik: Apabila dia bercakap, dia berbohong; apabila dia berjanji, dia memungkiri; dan apabila dia diberi amanah, dia mengkhianati amanah tersebut.\" [Al-Bukhari dan Muslim]. Satu riwayat lain menambah: \"Walaupun dia berpuasa, menunaikan solat, dan mengaku sebagai seorang Muslim.\"</p>",
       "grades": []
     }
   ]
