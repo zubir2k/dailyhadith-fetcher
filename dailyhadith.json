@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "245.00",
-  "hadithNumber": "1445",
+  "bookNumber": "17",
+  "chapterId": "255.00",
+  "hadithNumber": "1529",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "245",
-      "chapterTitle": "Remembrance of Allah in all Conditions",
-      "urn": 1613120,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"If anyone intends to have (sexual intercourse) with his wife, he should say: \"Bismillah! Allahumma janibnash-Shaitana, wa jannibish-Shaitana ma razaqtana (In the Name of Allah, O Allah! Keep us away from Satan and keep Satan away from what You have bestowed upon us);' and if Allah has ordained a child for them, Satan will never harm him.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "255",
+      "chapterTitle": "Prohibition of Listening to Backbiting",
+      "urn": 1623300,
+      "body": "<p>'Itban bin Malik (May Allah be pleased with him) said in his long Hadith cited in the Chapter entitled 'Hope' reported: When the Prophet (ﷺ) stood up to offer As-Salat (the prayer) he asked, \"Where is Malik bin Ad-Dukhshum?\" A man replied: \"He is a hypocrite. He does not love Allah and His Messenger.\" The Prophet (ﷺ) said, \"Do not say that. Do you not know that he said: La ilaha illallah (there is no true god except Allah),' seeking His Pleasure. Allah has made the fire of Hell unlawful for him who affirms that none has the right to be worshipped but Allah.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "245",
-      "chapterTitle": "- باب ذكر الله تعالى قائمًا وقاعدًا ومضطجعًا ومحدثًا وجنبا وحائضًا إلا القرآن فلا يحل لجنب ولا حائض‏.‏",
-      "urn": 1714350,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لو أن أحدكم إذا أتى أهله قال‏:‏ بسم الله، اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا، فقضى بينهما ولد لم يضره ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "245",
-      "chapterTitle": "Mengingati Allah dalam apa jua keadaan",
-      "urn": 1714350,
-      "body": "<p>Ibnu Abbas (Semoga Allah meredai mereka) melaporkan: Nabi (ﷺ) bersabda, \"Jika sesiapa ingin melakukan hubungan (persetubuhan) dengan isterinya, hendaklah dia mengucapkan: 'Bismillah! Allahumma janibnash-Shaitana, wa jannibish-Shaitana ma razaqtana' (Dengan nama Allah! Ya Allah! Jauhkanlah kami daripada syaitan dan jauhkanlah syaitan daripada apa yang Engkau rezekikan kepada kami); dan jika Allah telah menetapkan seorang anak bagi mereka, syaitan tidak akan dapat membahayakannya.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "255",
+      "chapterTitle": "باب تحريم سماع الغيبة وأمر من سمع غيبة محرمة بردها والإنكار على قائلها فإن عجز أو لم يقبل منه فارق ذلك المجلس إن أمكنه",
+      "urn": 1715190,
+      "body": "<p>- وعن عتبان بن مالك رضي الله عنه في حديثه الطويل المشهور الذي تقدم في باب الرجاء قال‏:‏ قام النبي صلى الله عليه وسلم يصلي فقال‏:‏ ‏\"‏أين مالك بن الدخشم‏؟‏ فقال رجل‏:‏ ذلك منافق لا يحب الله ورسوله، فقال النبي صلى الله عليه وسلم‏:‏ “لا تقل ذلك ألا تراه قد قال‏:‏ لا إله إلا الله يريد بذلك وجه الله‏!‏ وإن الله قد حرم على النار من قال لا إله إلا الله يبتغي بذلك وجه الله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \"وعِتبانُ\"بكسر العين عَلَى المشهور، وحُكِي ضمُّها، وبعدها تاءٌ مثناةٌ مِنْ فوق، ثُمَّ باءٌ موحدةٌ. و\"الدُّخْشُمُ\"بضم الدال وإسكان الخاءِ وضمِّ الشين المعجمتين</p>",
       "grades": []
     }
   ]
