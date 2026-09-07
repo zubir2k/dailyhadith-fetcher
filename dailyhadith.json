@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "131.00",
-  "hadithNumber": "849",
+  "bookNumber": "15",
+  "chapterId": "245.00",
+  "hadithNumber": "1445",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "131",
-      "chapterTitle": "The Excellence of Promoting Greetings",
-      "urn": 1608080,
-      "body": "<p>At-Tufail bin Ubayy bin Ka'b (May Allah be pleased with him) reported: I used to visit 'Abdullah bin 'Umar (May Allah be pleased with them) in the morning and accompany him to the market. 'Abdullah offered greetings of peace to every one he met on the way, be they sellers of petty goods, traders or poor people. One day when I came to him, he asked me to accompany him to the market. I said to him: \"What is the point of your going to the market when you do not sell, nor ask about articles, nor offer a price for them, nor sit down with any company of people. Let us sit down here and talk.\" He replied: \"O Abu Batn (father of a belly) - Tufail had a large belly - we go to the market to greet everyone we meet.\"<br/><br/><b>[Malik, with a sound chain]</b>.<br/><br/></p>",
+      "chapterNumber": "245",
+      "chapterTitle": "Remembrance of Allah in all Conditions",
+      "urn": 1613120,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"If anyone intends to have (sexual intercourse) with his wife, he should say: \"Bismillah! Allahumma janibnash-Shaitana, wa jannibish-Shaitana ma razaqtana (In the Name of Allah, O Allah! Keep us away from Satan and keep Satan away from what You have bestowed upon us);' and if Allah has ordained a child for them, Satan will never harm him.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "131",
-      "chapterTitle": "- باب فضل السلام والأمر بإفشائه",
-      "urn": 1708430,
-      "body": "<p>- وعن الطفيل بن أبي بن كعب أنه كان يأتي عبد الله بن عمر، فيغدو معه إلى السوق، قال‏:‏ فإذا غدونا إلى السوق، لم يمر عبد الله على سقاط ولا صاحب بيعة، ولا مسكين، ولا أحد إلا سلم عليه، قال الطفيل، فجئت عبد الله بن عمر يومًا، فاستتبعني إلى السوق فقلت له‏:‏ ما تصنع بالسوق، وأنت لا تقف على البيع ولا تسأل عن السلع، ولا تسوم بها، ولا تجلس في مجالس السوق‏؟‏ وأقول‏:‏ اجلس بنا هاهنا نتحدث، فقال يا أبا بطن- وكان الطفيل ذا بطن- إنما نغدو من أجل السلام فنسلم على من لقيناه‏.‏ ‏(‏‏(‏رواه مالك في الموطأ بإسناد صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "245",
+      "chapterTitle": "- باب ذكر الله تعالى قائمًا وقاعدًا ومضطجعًا ومحدثًا وجنبا وحائضًا إلا القرآن فلا يحل لجنب ولا حائض‏.‏",
+      "urn": 1714350,
+      "body": "<p>- وعن ابن عباس رضي الله عنهما عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لو أن أحدكم إذا أتى أهله قال‏:‏ بسم الله، اللهم جنبنا الشيطان وجنب الشيطان ما رزقتنا، فقضى بينهما ولد لم يضره ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "131",
-      "chapterTitle": "Kelebihan Menyebarkan Salam",
-      "urn": 1708430,
-      "body": "<p>Daripada At-Tufail bin Ubayy bin Ka'b (semoga Allah meredainya) menceritakan: Aku biasa menziarahi 'Abdullah bin 'Umar (semoga Allah meredai keduanya) pada waktu pagi dan menemaninya ke pasar. 'Abdullah sentiasa mengucapkan salam kepada setiap orang yang ditemuinya di sepanjang jalan, sama ada penjual barangan kecil, pedagang mahupun orang miskin. Pada suatu hari ketika aku datang menemuinya, dia mengajakku untuk menemaninya ke pasar. Aku berkata kepadanya: \"Apakah tujuannya engkau pergi ke pasar sedangkan engkau tidak menjual, tidak bertanya tentang barang, tidak menawarkan harga, dan tidak juga duduk bersama mana-mana kumpulan orang. Marilah kita duduk di sini dan berbual-bual.\" Dia menjawab: \"Wahai Abu Batn (bapa perut buncit) — Tufail mempunyai perut yang besar — kami pergi ke pasar untuk mengucapkan salam kepada setiap orang yang kami temui.\" [Malik, dengan sanad yang sahih].</p>",
+      "chapterNumber": "245",
+      "chapterTitle": "Mengingati Allah dalam apa jua keadaan",
+      "urn": 1714350,
+      "body": "<p>Ibnu Abbas (Semoga Allah meredai mereka) melaporkan: Nabi (ﷺ) bersabda, \"Jika sesiapa ingin melakukan hubungan (persetubuhan) dengan isterinya, hendaklah dia mengucapkan: 'Bismillah! Allahumma janibnash-Shaitana, wa jannibish-Shaitana ma razaqtana' (Dengan nama Allah! Ya Allah! Jauhkanlah kami daripada syaitan dan jauhkanlah syaitan daripada apa yang Engkau rezekikan kepada kami); dan jika Allah telah menetapkan seorang anak bagi mereka, syaitan tidak akan dapat membahayakannya.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
