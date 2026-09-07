@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "182.00",
-  "hadithNumber": "1006",
+  "bookNumber": "7",
+  "chapterId": "168.00",
+  "hadithNumber": "962",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "182",
-      "chapterTitle": "The Merit of Recitation of the Noble Qur'an in a Pleasant Voice",
-      "urn": 1620490,
-      "body": "<p>Al-Bara' bin 'Azib (May Allah be pleased with them) reported: I heard the Prophet (ﷺ) reciting Surat Wat-Teen Waz-Zaitun (Chapter 95) during the 'Isha' prayer. I have never heard anyone reciting it in a more beautiful voice than his.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "168",
+      "chapterTitle": "Etiquette of Staying, Riding, Encamping at night and sleeping during the Journey and other matters relating to the Journey",
+      "urn": 1620070,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said: \"When you travel through green and lush land, give the camels their due from the ground, and when you travel through a dry and barren land, make them walk quickly lest their strength falters. When you encamp at night, keep away from the roads, for beasts pass there and they are the resort of insects at night.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "182",
-      "chapterTitle": "باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها‏:",
-      "urn": 1709970,
-      "body": "<p>- وعن البراء بن عازب رضي الله عنهما قال ‏:‏سمعت النبي صلى الله عليه وسلم قرأ في العشاء بالتين والزيتون، فما سمعت أحدًا أحسن صوتا منه ‏.‏‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "168",
+      "chapterTitle": "- باب آداب السير والنزول والمبيت والنوم في السفر واستحباب السري والرفق بالدواب ومراعاة مصلحتها وجواز الإرداف علي الدابة إذا كانت تطيق ذلك",
+      "urn": 1709530,
+      "body": "<p>- عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “إذا سافرتم في الخصب فأعطوا الإبل حظها من الأرض وإذا سافرتم في الجدب فأسرعوا عليها السير وبادروا بها نقيها، وإذا عرستم، فاجتنبوا الطريق، فإن طرق الدواب، ومأوي الهوام بالليل” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏\nمعنى‏:‏ “أعطوا الإبل حظها من الأرض” أي‏:‏ ارفقوا بها في السير لترعي في حال سيرها وقوله‏:‏ ‏ ‏نقيها‏ ‏ وهو بكسر النون، وإسكان القاف، وبالياء المثناة من تحت وهو‏:‏ المخ، معناه‏:‏ أسرعوا بها حتي تصلوا المقصد قبل أن يذهب مخها من ضنك السير‏.‏ و‏ ‏التعريس‏ ‏ النزول في الليل‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "182",
-      "chapterTitle": "Fadilat Bacaan Al-Quran yang Mulia dengan Suara yang Merdu",
-      "urn": 1709970,
-      "body": "<p>Al-Bara' bin 'Azib (semoga Allah meredainya) melaporkan: Aku mendengar Nabi (ﷺ) membaca Surah Wat-Teen Waz-Zaitun (Surah ke-95) semasa solat Isyak. Aku tidak pernah mendengar sesiapa pun membacanya dengan suara yang lebih merdu daripada suara baginda. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "168",
+      "chapterTitle": "Adab-adab bermukim, menunggang kenderaan, bermalam, dan tidur semasa dalam perjalanan serta perkara-perkara lain yang berkaitan dengan perjalanan.",
+      "urn": 1709530,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda: \"Apabila kamu bermusafir melalui tanah yang hijau dan subur, berikanlah unta-unta kamu hak mereka daripada bumi, dan apabila kamu bermusafir melalui tanah yang kering dan gersang, segerakanlah perjalanan mereka agar kekuatan mereka tidak merosot. Apabila kamu berkhemah pada waktu malam, jauhilah daripada jalan-jalan, kerana binatang-binatang melaluinya dan ia menjadi tempat bagi serangga pada waktu malam.\" [Muslim].</p>",
       "grades": []
     }
   ]
