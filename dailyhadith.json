@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "3",
-  "chapterId": "119.00",
-  "hadithNumber": "791",
+  "bookNumber": "introduction",
+  "chapterId": "13.00",
+  "hadithNumber": "124",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "119",
-      "chapterTitle": "The Description of the Length of the Qamees' Sleeves, the End of the Turban, and Prohibition of Wearing Long Garments Out of Pride and Undesirability of Wearing Them Without Pride",
-      "urn": 1607600,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"On the Day of Resurrection, Allah will not look at him who trails his lower garment out of pride.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "13",
+      "chapterTitle": "Numerous ways of doing Good",
+      "urn": 1601230,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: O Muslim women, never belittle any gift you give your neighbour even if it is a hoof of a sheep\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "119",
-      "chapterTitle": "- باب صفة طول القميص والكم والإزار وطرف العمامة وتحريم إسبال شئ من ذلك على سبيل الخيلاء وكراهته من غير خيلاء",
-      "urn": 1707850,
-      "body": "<p>وعن أبى هريرة رضى الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لا ينظر الله يوم القيامة إلى من جر إزاره بطراً‏\"‏.‏((متفق عليه))</p>",
+      "chapterNumber": "13",
+      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
+      "urn": 1701230,
+      "body": "<p>- الثامن‏:‏ عنه قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ يا نساء المسلمات لا تحقرن جارة لجارتها ولو فرسن شاة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "119",
-      "chapterTitle": "Penerangan tentang panjang lengan qamis, hujung serban, larangan memakai pakaian yang panjang kerana sombong, dan makruhnya memakai pakaian tersebut tanpa rasa sombong.",
-      "urn": 1707850,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Pada Hari Kiamat, Allah tidak akan melihat kepada orang yang menjulurkan pakaiannya kerana sombong.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "13",
+      "chapterTitle": "Pelbagai cara berbuat kebaikan",
+      "urn": 1701230,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) meriwayatkan: \"Wahai wanita-wanita Muslimah, janganlah sekali-kali kamu meremehkan sebarang pemberian kepada jiranmu walaupun ia hanyalah kaki kambing\". [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
