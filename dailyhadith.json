@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "154.00",
-  "hadithNumber": "928",
+  "bookNumber": "3",
+  "chapterId": "119.00",
+  "hadithNumber": "791",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "154",
-      "chapterTitle": "Prohibition of Disclosing the Physical defects of the Deceased",
-      "urn": 1608645,
-      "body": "<p>Abu Rafi` Aslam (May Allah be pleased with him), the freed slave of the Messenger of Allah (ﷺ) reported: The Messenger of Allah (ﷺ) said, \"He who washes a dead body and conceals what he notices of physical defects, he will be forgiven forty times.''\n</p>\n<p>\n<b>[Al-Hakim]</b>.</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "The Description of the Length of the Qamees' Sleeves, the End of the Turban, and Prohibition of Wearing Long Garments Out of Pride and Undesirability of Wearing Them Without Pride",
+      "urn": 1607600,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"On the Day of Resurrection, Allah will not look at him who trails his lower garment out of pride.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "154",
-      "chapterTitle": "- باب الكف عن ما يري من الميت من مكروه",
-      "urn": 1709210,
-      "body": "<p>- عن أبي رافع أسلم مولي رسول الله صلى الله عليه وسلم أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ من غسل ميتاً فكتم عليه ، غفر الله له أربعين مرة‏\"‏ ‏(‏‏(‏رواه الحاكم وقال صحيح علي شرط مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "- باب صفة طول القميص والكم والإزار وطرف العمامة وتحريم إسبال شئ من ذلك على سبيل الخيلاء وكراهته من غير خيلاء",
+      "urn": 1707850,
+      "body": "<p>وعن أبى هريرة رضى الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لا ينظر الله يوم القيامة إلى من جر إزاره بطراً‏\"‏.‏((متفق عليه))</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "154",
-      "chapterTitle": "Larangan Mendedahkan Kecacatan Fizikal Jenazah",
-      "urn": 1709210,
-      "body": "<p>Abu Rafi' Aslam (Semoga Allah meredainya), bekas hamba Rasulullah (ﷺ) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang memandikan jenazah dan menyembunyikan apa yang dilihatnya tentang kecacatan fizikal, dia akan diampunkan sebanyak empat puluh kali.\" [Al-Hakim].</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "Penerangan tentang panjang lengan qamis, hujung serban, larangan memakai pakaian yang panjang kerana sombong, dan makruhnya memakai pakaian tersebut tanpa rasa sombong.",
+      "urn": 1707850,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Pada Hari Kiamat, Allah tidak akan melihat kepada orang yang menjulurkan pakaiannya kerana sombong.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
