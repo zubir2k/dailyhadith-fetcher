@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1824",
+  "bookNumber": "6",
+  "chapterId": "154.00",
+  "hadithNumber": "928",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616140,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"From your caliphs there will be one in the Last Days who will distribute wealth without counting it.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "154",
+      "chapterTitle": "Prohibition of Disclosing the Physical defects of the Deceased",
+      "urn": 1608645,
+      "body": "<p>Abu Rafi` Aslam (May Allah be pleased with him), the freed slave of the Messenger of Allah (ﷺ) reported: The Messenger of Allah (ﷺ) said, \"He who washes a dead body and conceals what he notices of physical defects, he will be forgiven forty times.''\n</p>\n<p>\n<b>[Al-Hakim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718130,
-      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏يكون خليفة ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ خلفائكم في آخر الزمان يحثو المال ولا يعده‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "154",
+      "chapterTitle": "- باب الكف عن ما يري من الميت من مكروه",
+      "urn": 1709210,
+      "body": "<p>- عن أبي رافع أسلم مولي رسول الله صلى الله عليه وسلم أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ من غسل ميتاً فكتم عليه ، غفر الله له أربعين مرة‏\"‏ ‏(‏‏(‏رواه الحاكم وقال صحيح علي شرط مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718130,
-      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Akan ada seorang daripada khalifah-khalifah kamu pada akhir zaman yang akan membahagikan harta tanpa mengira-ngiranya.\" [Muslim].</p>",
+      "chapterNumber": "154",
+      "chapterTitle": "Larangan Mendedahkan Kecacatan Fizikal Jenazah",
+      "urn": 1709210,
+      "body": "<p>Abu Rafi' Aslam (Semoga Allah meredainya), bekas hamba Rasulullah (ﷺ) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang memandikan jenazah dan menyembunyikan apa yang dilihatnya tentang kecacatan fizikal, dia akan diampunkan sebanyak empat puluh kali.\" [Al-Hakim].</p>",
       "grades": []
     }
   ]
