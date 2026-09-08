@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "13.00",
-  "hadithNumber": "124",
+  "bookNumber": "11",
+  "chapterId": "238.00",
+  "hadithNumber": "1364",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "13",
-      "chapterTitle": "Numerous ways of doing Good",
-      "urn": 1601230,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: O Muslim women, never belittle any gift you give your neighbour even if it is a hoof of a sheep\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "238",
+      "chapterTitle": "The Merit of the Dutiful Slave",
+      "urn": 1612320,
+      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"A slave who worships his Rubb (Allah) well and discharges efficiently and faithfully the duties which are assigned to him by his master, will have a double reward.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "13",
-      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
-      "urn": 1701230,
-      "body": "<p>- الثامن‏:‏ عنه قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ يا نساء المسلمات لا تحقرن جارة لجارتها ولو فرسن شاة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "13",
-      "chapterTitle": "Pelbagai cara berbuat kebaikan",
-      "urn": 1701230,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) meriwayatkan: \"Wahai wanita-wanita Muslimah, janganlah sekali-kali kamu meremehkan sebarang pemberian kepada jiranmu walaupun ia hanyalah kaki kambing\". [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "238",
+      "chapterTitle": "- باب فضل المملوك الذي يؤدي حق الله وحق مواليه",
+      "urn": 1713540,
+      "body": "<p>- وعن أبي موسى الأشعري قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏المملوك الذي يحسن عبادة ربه ويؤدي إلى سيده الذي عليه من الحق، والنصيحة والطاعة له أجران‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
