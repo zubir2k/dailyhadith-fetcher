@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "238.00",
-  "hadithNumber": "1364",
+  "bookNumber": "introduction",
+  "chapterId": "14.00",
+  "hadithNumber": "145",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "238",
-      "chapterTitle": "The Merit of the Dutiful Slave",
-      "urn": 1612320,
-      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"A slave who worships his Rubb (Allah) well and discharges efficiently and faithfully the duties which are assigned to him by his master, will have a double reward.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "14",
+      "chapterTitle": "Moderation in Worship",
+      "urn": 1601440,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"The religion (of Islam) is easy, and whoever makes the religion a rigour, it will overpower him. So, follow a middle course (in worship); if you can't do this, do something near to it and give glad tidings and seek help (of Allah) at morn and at dusk and some part of night\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "238",
-      "chapterTitle": "- باب فضل المملوك الذي يؤدي حق الله وحق مواليه",
-      "urn": 1713540,
-      "body": "<p>- وعن أبي موسى الأشعري قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏المملوك الذي يحسن عبادة ربه ويؤدي إلى سيده الذي عليه من الحق، والنصيحة والطاعة له أجران‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "14",
+      "chapterTitle": "- باب في الاقتصاد في العبادة",
+      "urn": 1701440,
+      "body": "<p>- عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ إن الدين يسر، ولن يشاد الدين إلا غلبه، فسددوا وقاربوا وأبشروا، واستعينوا بالغدوة والروحة وشيء من الدلجة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏ \n<br/>\nوفي رواية له ‏:‏ ‏ ‏سددوا وقاربوا واغدوا وروحوا، وشيء من الدلجة، القصد القصد تبلغوا‏ ‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "14",
+      "chapterTitle": "Kesederhanaan dalam Ibadah",
+      "urn": 1701440,
+      "body": "<p>Abu Hurairah (Semoga Allah merahmatinya) melaporkan: Nabi (ﷺ) bersabda, \"Agama (Islam) itu mudah, dan sesiapa yang memberatkan diri dengan agama, ia akan mengalahkannya. Maka, amalkanlah jalan pertengahan (dalam ibadat); jika kamu tidak dapat melakukannya, lakukanlah sesuatu yang hampir dengannya, berilah khabar gembira, dan mintalah pertolongan (kepada Allah) pada waktu pagi, petang, dan sebahagian daripada waktu malam.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
