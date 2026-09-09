@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "16",
-  "chapterId": "250.00",
-  "hadithNumber": "1469",
+  "bookNumber": "introduction",
+  "chapterId": "3.00",
+  "hadithNumber": "48",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "250",
-      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
-      "urn": 1613350,
-      "body": "<p>Tariq bin Ashyam (May Allah be pleased with him) reported: Whenever a man entered the fold of Islam, the Prophet (ﷺ) would show him how to perform Salat and then direct him to supplicate: \"Allahumm-aghfir li, warhamni, wa-hdini, wa 'afini, warzuqni (O Allah! Forgive me, have mercy on me, guide me, guard me against harm and provide me with sustenance and salvation).\"'<br/><br/><b>[Muslim]</b>.<br/><br/>In another narration Tariq said: A man came to the Prophet (ﷺ) and said to him: \"O Messenger of Allah! What shall I say if I want to pray to my Rubb?\" He (ﷺ) said, \"Say: 'Allahumma-ghfir li, warhamni, wa 'afini, warzuqni (O Allah! Forgive me, have mercy on me, protect me and provide me with sustenance).' Surely, this supplication is better for you in this life and in the Hereafter.\"</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600480,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A man asked the Prophet (ﷺ) for an advice and he (ﷺ) said, \"Do not get angry\". The man repeated that several times and he replied, \"Do not get angry\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "250",
-      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
-      "urn": 1714590,
-      "body": "<p>- وعن طارق بن أشيم، رضي الله عنه، قال‏:‏ كان الرجل إذا أسلم علمه النبي صلى الله عليه وسلم، الصلاة، ثم أمره أن يدعو بهؤلاء الكلمات‏:‏ ‏\"‏اللهم اغفر لي، وارحمني، واهدني، وعافني، وارزقني‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ \nوفي رواية له عن طارق أنه سمع النبي صلى الله عليه وسلم، وأتاه رجل، فقال‏:‏ يا رسول الله، كيف أقول حين أسأل ربي‏؟‏ قال‏:‏ ‏\"‏قل‏:‏ اللهم اغفر لي، وارحمني، وعافني، وارزقني، فإن هؤلاء تجمع لك دنياك وآخرتك‏\"‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700480,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه ، أن رجلاً قال للنبي صلى الله عليه وسلم‏:‏ أوصني، قال‏:‏ ‏\"‏لا تغضب‏\"‏ فردد مراراً، قال‏:‏ ‏\"‏ لاتغضب‏\"‏ رواه البخاري‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "250",
-      "chapterTitle": "Perkara-perkara berkaitan Doa, Fadhilatnya dan Doa-doa Rasulullah (SAW)",
-      "urn": 1714590,
-      "body": "<p>Tariq bin Ashyam (Semoga Allah meredainya) meriwayatkan: Setiap kali seorang lelaki memeluk Islam, Nabi (ﷺ) akan menunjukkan kepadanya cara menunaikan solat dan kemudian mengarahkannya untuk berdoa: \"Allahumm-aghfir li, warhamni, wa-hdini, wa 'afini, warzuqni (Ya Allah! Ampunkanlah aku, rahmatilah aku, berilah aku petunjuk, lindungilah aku daripada kemudaratan dan kurniakanlah aku rezeki serta keselamatan).\" [Muslim].\n\nDalam riwayat lain, Tariq berkata: Seorang lelaki datang kepada Nabi (ﷺ) dan berkata kepadanya: \"Wahai Rasulullah! Apakah yang perlu aku ucapkan jika aku ingin berdoa kepada Tuhanku?\" Baginda (ﷺ) bersabda, \"Katakanlah: 'Allahumma-ghfir li, warhamni, wa 'afini, warzuqni (Ya Allah! Ampunkanlah aku, rahmatilah aku, lindungilah aku dan kurniakanlah aku rezeki).' Sesungguhnya, doa ini lebih baik bagimu di dunia dan di akhirat.\"</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Kesabaran dan Ketabahan",
+      "urn": 1700480,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) menceritakan: Seorang lelaki meminta nasihat daripada Nabi (ﷺ) lalu baginda (ﷺ) bersabda, \"Janganlah engkau marah\". Lelaki itu mengulangi permintaannya beberapa kali dan baginda menjawab, \"Janganlah engkau marah\". [Al-Bukhari].</p>",
       "grades": []
     }
   ]
