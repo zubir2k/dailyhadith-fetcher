@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "3.00",
-  "hadithNumber": "48",
+  "bookNumber": "17",
+  "chapterId": "365.00",
+  "hadithNumber": "1799",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "3",
-      "chapterTitle": "Patience and Perseverance",
-      "urn": 1600480,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A man asked the Prophet (ﷺ) for an advice and he (ﷺ) said, \"Do not get angry\". The man repeated that several times and he replied, \"Do not get angry\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "365",
+      "chapterTitle": "Prohibition of Wearing Saffron-Colored Dress",
+      "urn": 1626000,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'As (May Allah be pleased with them) said: The Prophet (ﷺ) saw me dressed in two saffron-coloured garments and asked, \"Has your mother commanded you to wear these?\" I asked him, \"Shall I wash them out?\" He replied, \"You had better set them to fire.\"<br/><br/>Another narration is: \"These are garments of the disbelievers. So do not wear them.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "3",
-      "chapterTitle": "- باب الصبر",
-      "urn": 1700480,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه ، أن رجلاً قال للنبي صلى الله عليه وسلم‏:‏ أوصني، قال‏:‏ ‏\"‏لا تغضب‏\"‏ فردد مراراً، قال‏:‏ ‏\"‏ لاتغضب‏\"‏ رواه البخاري‏.‏</p>",
+      "chapterNumber": "365",
+      "chapterTitle": "- باب تحريم لبس الرجل ثوباً مزعفراً",
+      "urn": 1717880,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنه قال‏:‏ رأى النبي صلى الله عليه وسلم علي ثوبين معصفرين فقال‏:‏ ‏\"‏أمك أمرتك بهذا‏؟‏‏\"‏ قلت‏:‏ أغسلهما‏؟‏ قال‏:‏ ‏\"‏بل احرقهما‏\"‏‏.‏ \nوفي رواية فقال‏:‏ ‏\"‏إن هذا من ثياب الكفار فلا تلبسها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "3",
-      "chapterTitle": "Kesabaran dan Ketabahan",
-      "urn": 1700480,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) menceritakan: Seorang lelaki meminta nasihat daripada Nabi (ﷺ) lalu baginda (ﷺ) bersabda, \"Janganlah engkau marah\". Lelaki itu mengulangi permintaannya beberapa kali dan baginda menjawab, \"Janganlah engkau marah\". [Al-Bukhari].</p>",
+      "chapterNumber": "365",
+      "chapterTitle": "Larangan Memakai Pakaian Berwarna Za'faran",
+      "urn": 1717880,
+      "body": "<p>Abdullah bin 'Amr bin Al-'As (Semoga Allah meredai mereka) berkata: Nabi (ﷺ) melihat aku memakai dua helai pakaian berwarna kuning kunyit dan bertanya, \"Adakah ibumu memerintahkanmu untuk memakai pakaian ini?\" Aku bertanya kepada Baginda, \"Patutkah aku membasuhnya?\" Baginda menjawab, \"Lebih baik engkau membakarnya.\" Riwayat lain menyebut: \"Ini adalah pakaian orang kafir. Maka janganlah kamu memakainya.\" [Muslim].</p>",
       "grades": []
     }
   ]
