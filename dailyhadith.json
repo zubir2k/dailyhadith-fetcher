@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1855",
+  "bookNumber": "introduction",
+  "chapterId": "60.00",
+  "hadithNumber": "548",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616450,
-      "body": "<p>Abu Sulaiman Khalid bin Al-Walid (May Allah be pleased with him) said: In the battle of Mu'tah, seven swords were broken in my hand, and all that remained with me was a Yemeni sword.<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Excellence of Generosity and Spending in a Good cause with Reliance on Allah",
+      "urn": 1605440,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says, 'Spend, O son of Adam, you will also be spent upon.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718430,
-      "body": "<p>- وعن أبي سليمان خالد بن الوليد رضي الله عنه قال‏:‏ “لقد انقطعت في يدي يوم مؤته تسعة أسياف، فما بقي في يدي إلا صفيحة يمانية‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "- باب الكرم والجود والإنفاق فى وجوه الخير ثقة بالله تعالى",
+      "urn": 1705440,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “قال الله تعالى‏:‏ انفق يا ابن آدم ينفق عليك” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718430,
-      "body": "<p>Abu Sulaiman Khalid bin Al-Walid (Semoga Allah meredainya) berkata: Dalam peperangan Mu'tah, tujuh bilah pedang telah patah di tanganku, dan yang berbaki padaku hanyalah sebilah pedang Yaman. [Al-Bukhari].</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Kelebihan Sifat Dermawan dan Berinfak di Jalan Allah dengan Bertawakal kepada Allah",
+      "urn": 1705440,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah yang Maha Tinggi berfirman, 'Berinfaklah wahai anak Adam, nescaya kamu juga akan diberi (rezeki)'.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
