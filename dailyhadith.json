@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "210.00",
-  "hadithNumber": "1148",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1855",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "210",
-      "chapterTitle": "The Excellence of Friday Prayer",
-      "urn": 1621920,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"If anyone performs Wudu' properly, then comes to the Friday prayer, listens to the Khutbah (religious talk) attentively and keeps silent, his (minor) sins between that Friday and the following Friday will be forgiven, with the addition of three more days; but he who touches pebbles has caused an interruption. \"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616450,
+      "body": "<p>Abu Sulaiman Khalid bin Al-Walid (May Allah be pleased with him) said: In the battle of Mu'tah, seven swords were broken in my hand, and all that remained with me was a Yemeni sword.<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "210",
-      "chapterTitle": "- باب فضل يوم الجمعة ووجوبها والاغتسال لها، والطيب والتبكير إليها والدعاء يوم الجمعة، والصلاة على النبي، صلى الله عليه وسلم، وفيه بيان ساعة الإجابة واستحباب إكثار ذكر الله تعالى بعد الجمعة",
-      "urn": 1711380,
-      "body": "<p>- وعنه قال‏:‏ قال رسول الله، صلى الله عليه وسلم ‏:‏ ‏\"‏من توضأ فأحسن الوضوء ثم أتي الجمعة، فاستمع وأنصت، غفر له ما بينه وبين الجمعة وزيادة ثلاثة أيام، ومن مس الحصى، فقد لغا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718430,
+      "body": "<p>- وعن أبي سليمان خالد بن الوليد رضي الله عنه قال‏:‏ “لقد انقطعت في يدي يوم مؤته تسعة أسياف، فما بقي في يدي إلا صفيحة يمانية‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "210",
-      "chapterTitle": "Kelebihan Solat Jumaat",
-      "urn": 1711380,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang berwuduk dengan sempurna, kemudian datang untuk solat Jumaat, mendengar khutbah dengan tekun dan berdiam diri, maka dosa-dosanya (kecil) di antara Jumaat tersebut dan Jumaat yang berikutnya akan diampunkan, beserta tambahan tiga hari lagi; namun sesiapa yang bermain dengan batu kerikil, maka dia telah melakukan perkara yang sia-sia.\" [Muslim].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718430,
+      "body": "<p>Abu Sulaiman Khalid bin Al-Walid (Semoga Allah meredainya) berkata: Dalam peperangan Mu'tah, tujuh bilah pedang telah patah di tanganku, dan yang berbaki padaku hanyalah sebilah pedang Yaman. [Al-Bukhari].</p>",
       "grades": []
     }
   ]
