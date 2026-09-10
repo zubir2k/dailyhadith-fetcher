@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "19",
-  "chapterId": "371.00",
-  "hadithNumber": "1869",
+  "bookNumber": "17",
+  "chapterId": "323.00",
+  "hadithNumber": "1728",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "371",
-      "chapterTitle": "Seeking Forgiveness",
-      "urn": 1616590,
-      "body": "<p>Al-Agharr Al-Muzani (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Sometimes I perceive a veil over my heart, and I supplicate Allah for forgiveness a hundred times in a day.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "323",
+      "chapterTitle": "Prohibition of Reviling the Wind",
+      "urn": 1625290,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) saying, \"The wind is the Blessing of Allah. Sometimes it brings His Mercy and sometimes it brings His Chastisement. When you experience it, do not revile it but beg of Allah its good; and seek Allah's Refuge against its evil.\"<br/><br/><b>[Abu Dawud with good Isnad]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "371",
-      "chapterTitle": "- باب الأمر بالاستغفار وفضله",
-      "urn": 1718570,
-      "body": "<p>- وعن الأغر المزني رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إنه ليغان على قلبي، وإني لأستغفر الله في اليوم مائة مرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "323",
+      "chapterTitle": "- باب النهي عن سب الريح وبيان ما يقال عند هبوبها",
+      "urn": 1717180,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏الريح من روح الله، تأتي بالرحمة، وتأتي بالعذاب، فإذا رأيتموها فلا تسبوها، وسلوا الله خيرها، واستعيذوا بالله من شرها‏\"‏‏.‏‏(‏‏(‏رواه أبو داود بإسناد حسن‏)‏‏) قوله صلى الله عليه وسلم من روح الله هو بفتح الراء أي رحمته بعباده‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "371",
-      "chapterTitle": "Memohon Keampunan",
-      "urn": 1718570,
-      "body": "<p>Al-Agharr Al-Muzani (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Kadangkala aku merasakan ada tabir di atas hatiku, dan aku memohon keampunan kepada Allah sebanyak seratus kali dalam sehari.\" [Muslim].</p>",
+      "chapterNumber": "323",
+      "chapterTitle": "Larangan Mencerca Angin",
+      "urn": 1717180,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda, \"Angin itu adalah kurniaan Allah. Kadangkala ia membawa rahmat-Nya dan kadangkala ia membawa azab-Nya. Apabila kamu merasainya, janganlah mencelanya, sebaliknya mohonlah kebaikannya daripada Allah dan memohonlah perlindungan Allah daripada keburukannya.\" [Abu Dawud dengan sanad yang baik].</p>",
       "grades": []
     }
   ]
