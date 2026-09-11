@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "100.00",
-  "hadithNumber": "734",
+  "bookNumber": "17",
+  "chapterId": "281.00",
+  "hadithNumber": "1599",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "100",
-      "chapterTitle": "Saying Bismillah Before and Al-Hamdulillah After Eating",
-      "urn": 1607210,
-      "body": "<p>Mu'adh bin Anas (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who has taken food and says at the end: 'Al- hamdu lillahi-lladhi at'amani hadha, wa razaqanihi min ghairi haulin minni wa la quwwatin (All praise is due to Allah Who has given me food to eat and provided it without any endeavour on my part or any power),' all his past sins will be forgiven.\" <br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "281",
+      "chapterTitle": "Prohibition of two Holding Secret Counsel to the Exclusion of Conversing together a Third",
+      "urn": 1624000,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"When three of you are together, two of you must not converse privately ignoring the third till the number increases, lest the third should be grieved.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "100",
-      "chapterTitle": "- باب التسمية في أوله والحمد في آخره",
-      "urn": 1707300,
-      "body": "<p>- وعن معاذ بن أنس رضى الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من أكل طعاماً فقال‏:‏ الحمد الله الذي أطعمني هذا، ورزقنيه من غير حول منى ولا قوةٍ، غفر له ما تقدم من ذنبه‏\"‏ ‏‏.‏((رواه أبو داود والترمذي))</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "100",
-      "chapterTitle": "Membaca Bismillah Sebelum Makan dan Alhamdulillah Selepas Makan",
-      "urn": 1707300,
-      "body": "<p>Mu'adh bin Anas (semoga Allah meredhainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang telah makan kemudian mengucapkan di penghujungnya: 'Al-hamdu lillahi-lladhi at'amani hadha, wa razaqanihi min ghairi haulin minni wa la quwwatin (Segala puji bagi Allah yang telah memberi aku makanan ini, dan memberikannya kepadaku tanpa sebarang daya dan upaya dariku),' maka akan diampunkan segala dosanya yang lalu.\" [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "281",
+      "chapterTitle": "- باب النهي عن تناجي اثنين دون الثالث بغير إذنه إلا لحاجة وهو أن يتحدثا سرًا بحيث لا يسمعهما وفي معناه إذا تحدثا بلسان لا يفهمه",
+      "urn": 1715890,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا كنتم ثلاثة، فلا يتناجى اثنان دون الآخر حتى تختلطوا بالناس، من أجل أن ذلك يحزنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
