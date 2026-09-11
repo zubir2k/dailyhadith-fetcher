@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "205.00",
-  "hadithNumber": "1135",
+  "bookNumber": "introduction",
+  "chapterId": "69.00",
+  "hadithNumber": "597",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "205",
-      "chapterTitle": "Witr Prayer, its Time and Ruling",
-      "urn": 1621790,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Perform Witr prayer before dawn.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "69",
+      "chapterTitle": "Desirability of Seclusion at times of corruption committed by the people of the World",
+      "urn": 1605910,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: Someone asked Messenger of Allah (ﷺ): \"Who is the best man?\" He (ﷺ) answered, \"A believer who strives in the Cause of Allah with his life and his wealth.\" The man asked: \"Who is the next?\" He said, \"One who retires into a narrow valley and worships his Rubb.\"<br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"One who fears Allah and safeguards people against his own mischief.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "205",
-      "chapterTitle": "- باب الحث على صلاة الوتر وبيان أنه سنة مؤكدة وبيان وقته‏:",
-      "urn": 1711250,
-      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏أوتروا قبل أن تصبحوا‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "69",
+      "chapterTitle": "- باب استحباب العزلة عند فساد الناس والزمان أو الخوف من فتنة فى الدين ووقوع فى حرام وشبهات ونحوها",
+      "urn": 1705930,
+      "body": "<p>- وعن أبي سعيد الخدرى رضي الله عنه قال‏:‏ قال رجل‏:‏ أى الناس أفضل يا رسول الله‏؟‏ قال‏:‏ ‏\"‏مؤمن مجاهد بنفسه وماله فى سبيل الله‏\"‏ قال‏:‏ ثم من‏؟‏ قال‏:‏ ‏\"‏ رجل معتزل فى شعب من الشعاب يعبد ربه‏\"‏ \nوفى رواية‏:‏ ‏\"‏يتقي الله، ويدع الناس من شره‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "205",
-      "chapterTitle": "Solat Witir, Waktunya dan Hukumnya",
-      "urn": 1711250,
-      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Laksanakanlah solat Witir sebelum fajar.\" [Muslim].</p>",
+      "chapterNumber": "69",
+      "chapterTitle": "Keutamaan Uzlah pada ketika berlaku kerosakan oleh penduduk dunia.",
+      "urn": 1705930,
+      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) meriwayatkan: Seseorang bertanya kepada Rasulullah (ﷺ): \"Siapakah lelaki yang terbaik?\" Baginda (ﷺ) menjawab, \"Seorang mukmin yang berjihad di jalan Allah dengan nyawa dan hartanya.\" Lelaki itu bertanya: \"Siapakah yang seterusnya?\" Baginda bersabda, \"Seseorang yang mengasingkan diri di sebuah lembah yang sunyi dan beribadah kepada Tuhannya.\" Riwayat lain menyatakan: Rasulullah (ﷺ) bersabda, \"Seseorang yang bertakwa kepada Allah dan menjaga manusia daripada kejahatannya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
