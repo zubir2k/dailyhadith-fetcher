@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "355.00",
-  "hadithNumber": "1777",
+  "bookNumber": "3",
+  "chapterId": "119.00",
+  "hadithNumber": "792",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "355",
-      "chapterTitle": "Prohibition of Malpractices in Commerce",
-      "urn": 1625780,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) said: The Messenger of Allah (ﷺ) said, \"The caravans carrying merchandise should not be met on the way to purchase from them; a man in the city should not sell for a man of the desert.\"<br/><br/>Tawus asked him (Ibn 'Abbas): \"What do these words really imply?\" He said: \"He should not work as an agent on his behalf.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "119",
+      "chapterTitle": "The Description of the Length of the Qamees' Sleeves, the End of the Turban, and Prohibition of Wearing Long Garments Out of Pride and Undesirability of Wearing Them Without Pride",
+      "urn": 1607610,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"What is below the ankles of a lower garment is condemned to the Fire (Hell).\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "355",
-      "chapterTitle": "- باب تحريم بيع الحاضر للبادي وتلقي الركبان والبيع على بيع أخيه والخطبة على خطبته إلا أن يأذن أو يرد",
-      "urn": 1717660,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “لا تتلقوا الركبان، ولا يبع حاضر لباد‏\"‏ فقال له طاوس‏:‏ ما قوله‏:‏ لا بيع حاضر لباد‏؟‏ قال‏:‏ لا يكون له سمسارًا‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "- باب صفة طول القميص والكم والإزار وطرف العمامة وتحريم إسبال شئ من ذلك على سبيل الخيلاء وكراهته من غير خيلاء",
+      "urn": 1707860,
+      "body": "<p>وعنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ما أسفل من الكعبين من الإزار ففي النار‏\"‏.‏‏‏((‏رواه البخارى‏)‏‏)‏‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "355",
-      "chapterTitle": "Larangan Penyelewengan dalam Perniagaan",
-      "urn": 1717660,
-      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) berkata: Rasulullah (ﷺ) bersabda, \"Janganlah menghadang kafilah-kafilah yang membawa barang dagangan dalam perjalanan untuk membelinya; dan janganlah seorang penduduk kota menjual bagi pihak seorang penduduk padang pasir.\" Tawus bertanya kepadanya (Ibn 'Abbas): \"Apakah maksud sebenar kata-kata ini?\" Beliau menjawab: \"Dia tidak boleh bertindak sebagai ejen bagi pihaknya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "Penerangan tentang Panjang Lengan Baju Qamis, Hujung Serban, dan Larangan Memakai Pakaian yang Labuh Kerana Sombong serta Makruh Memakainya Tanpa Rasa Sombong.",
+      "urn": 1707860,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Apa yang berada di bawah buku lali daripada pakaian akan dibakar dalam api neraka.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
