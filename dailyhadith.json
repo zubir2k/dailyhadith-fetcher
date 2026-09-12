@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "7",
-  "chapterId": "169.00",
-  "hadithNumber": "969",
+  "bookNumber": "15",
+  "chapterId": "248.00",
+  "hadithNumber": "1455",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "169",
-      "chapterTitle": "Helping a Companion",
-      "urn": 1620140,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: While we were travelling with the Messenger of Allah (ﷺ), a rider came and began to stare on the right and on the left. The Messenger of Allah (ﷺ) said, \"He who has an extra mount should hand it over to one who has none, and he who possesses surplus provision, should give it to him who is without provision.\" He named various kinds of possessions until we began to think (realize) that none of us had any right to anything surplus.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "248",
+      "chapterTitle": "Remembrance of Allah in the Morning and in the Evening",
+      "urn": 1613210,
+      "body": "<p>'Abdullah bin Mas'ud (May Allah be pleased with him) reported: When it was evening, the Prophet (ﷺ) used to supplicate: \"Amsaina wa amsal-mulku lillah, wal-hamdu lillah. La 'ilaha illallahu wahdahu la sharika lahu (We have entered upon evening and the whole kingdom of Allah, too, has entered upon evening. Praise is due to Allah. There is none who has the right to be worshiped but Allah, the One who has no partner with Him).\" He (the narrator) said: I think that he (ﷺ) used to follow the recitation with these words: \"Lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shi'in Qadir. Rabbi as'aluka khaira ma fi hadhihil-lailati, wa khaira ma ba'daha; wa a'udhu bika min sharri ma fi hadhihil-lailati, wa sharri ma ba'daha; Rabbi a'udhu bika minal- kasali, wa su'il-kibari; Rabbi a'udhu bika min 'adhabin fin-nari, wa 'adhabin fil-qabri (His is the sovereignty and to Him is all praise due, and He is Omnipotent. My Rubb, I beg of you good that lies in this night and good that follows it, and I seek refuge in You from the evil that lies in this night and from the evil of that which follows it. My Rubb! I seek refuge in You from lethargy and the misery of old age. O Allah! I seek Your Protection from the torment of Hell-fire and the punishment of the grave).\" When it was morning, he (ﷺ) would recite the same, replacing the words: \"We have entered upon evening and the whole kingdom of Allah, too, has entered upon evening\" with \"We have entered upon morning and the whole kingdom of Allah entered upon morning.\" (Replace the words \"Amsaina, amsa, hadhihil-lailati, ma ba'daha with Asbahna, asbaha, hadhal-yaumi, ma ba'dahu, respectively.)<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "169",
-      "chapterTitle": "- باب إعانة الرفيق",
-      "urn": 1709600,
-      "body": "<p>- وعن أبي سعيد الخدري، رضي الله عنه، قال‏:‏ بينما نحن في سفر إذ جاء رجل علي راحلة له، فجعل يصرف بصره يميناً وشمالاً، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من كان معه فضل ظهر؛ فليعد به علي من لا ظهر له، ومن كان له فضل زاد فليعد به علي من لا زاد له‏\"‏ فذكر من أصناف المال ما ذكره، حتي رأينا‏:‏ أنه لا حق لأحد منا في فضل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "169",
-      "chapterTitle": "Membantu Seorang Sahabat",
-      "urn": 1709600,
-      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) melaporkan: Ketika kami sedang dalam perjalanan bersama Rasulullah (ﷺ), seorang penunggang datang dan mula memandang ke kanan dan ke kiri. Rasulullah (ﷺ) bersabda, \"Sesiapa yang mempunyai tunggangan berlebihan, hendaklah menyerahkannya kepada orang yang tidak mempunyai tunggangan, dan sesiapa yang mempunyai bekalan yang berlebihan, hendaklah memberikannya kepada orang yang tidak mempunyai bekalan.\" Baginda menyebut pelbagai jenis harta benda sehinggakan kami mula berfikir (menyedari) bahawa tiada seorang pun di antara kami yang mempunyai hak ke atas apa-apa pun yang berlebihan. [Muslim].</p>",
+      "chapterNumber": "248",
+      "chapterTitle": "- باب الذكر عند الصباح والمساء",
+      "urn": 1714450,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ كان نبي الله صلى الله عليه وسلم، إذا أمسى قال‏:‏ أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له‏\"‏ قال الراوي‏:‏ أراه قال فيهن‏:‏ ‏\"‏له الملك وله الحمد وهو على كل شيء قدير، رب أسألك خير ما في هذه الليلة، وخير ما بعدها، وأعوذ بك من شر ما في هذه الليلة وشر ما بعدها، رب أعوذ بك من الكسل، وسوء الكبر، رب أعوذ بك من شر ما في هذه الليلة، وخير ما بعدها، وأعوذ بك من شر ما في هذه الليلة وشر ما بعدها، رب أعوذ بك من الكسل، وسوء الكبر، رب أعوذ بك من عذاب النار، وعذاب في القبر‏\"‏ وإذا أصبح قال ذلك أيضًا‏:‏ ‏\"‏أصبحنا وأصبح الملك لله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
