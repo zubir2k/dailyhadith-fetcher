@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "149.00",
-  "hadithNumber": "915",
+  "bookNumber": "8",
+  "chapterId": "222.00",
+  "hadithNumber": "1233",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "149",
-      "chapterTitle": "Permissibility of expressing feelings of agony in Serious Illness",
-      "urn": 1608550,
-      "body": "<p>Sa'd bin Abu Waqqas (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) came to visit me when I had a severe pain. I said: \"I am suffering from such trouble as you are observing. I am a wealthy man and the only heir of mine is my daughter.\" (Then Sa'd narrated the whole incident).<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "222",
+      "chapterTitle": "The Superiority of Hastening to Break the Fast, and the supplication to say upon Breaking it",
+      "urn": 1622770,
+      "body": "<p>Sahl bin Sa'd (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"People will continue to adhere to good as long as they hasten to break the Saum (fasting).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "149",
-      "chapterTitle": "باب جواز قول المريض‏:‏ أنا وجع أو شديد الوجع أو موعوك، أو وارأساه ونحو ذلك، وبيان أنه لا كراهة في ذلك إذا لم يكن علي التسخط وإظهار الجزع",
-      "urn": 1709080,
-      "body": "<p>- وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ جاءني رسول الله صلى الله عليه وسلم يعودني من وجع اشتد بي، فقلت‏:‏ بلغ بي ما ترى، وأنا ذو مال، ولايرثني إلا ابنتي، وذكر الحديث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "222",
+      "chapterTitle": "- باب فضل تعجيل الفطر وما يفطر عليه وما يقوله بعد إفطاره‏:‏",
+      "urn": 1712230,
+      "body": "<p>- عن سهل بن سعد رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لا يزال الناس بخير ما عجلوا الفطر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "149",
-      "chapterTitle": "Keharusan meluahkan perasaan penderitaan semasa sakit yang berat.",
-      "urn": 1709080,
-      "body": "<p>Sa'd bin Abu Waqqas (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) datang melawatku ketika aku sedang menanggung kesakitan yang amat sangat. Aku berkata: \"Aku sedang menderita kesakitan seperti yang engkau lihat. Aku seorang yang kaya dan satu-satunya warisku hanyalah anak perempuanku.\" (Kemudian Sa'd menceritakan keseluruhan peristiwa tersebut). [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "222",
+      "chapterTitle": "Keutamaan Menyegerakan Berbuka Puasa dan Doa Ketika Berbuka",
+      "urn": 1712230,
+      "body": "<p>Sahl bin Sa'd (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Manusia akan terus berpegang kepada kebaikan selagi mereka bersegera untuk berbuka puasa.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
