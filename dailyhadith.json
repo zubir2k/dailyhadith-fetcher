@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "248.00",
-  "hadithNumber": "1455",
+  "bookNumber": "6",
+  "chapterId": "157.00",
+  "hadithNumber": "938",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "248",
-      "chapterTitle": "Remembrance of Allah in the Morning and in the Evening",
-      "urn": 1613210,
-      "body": "<p>'Abdullah bin Mas'ud (May Allah be pleased with him) reported: When it was evening, the Prophet (ﷺ) used to supplicate: \"Amsaina wa amsal-mulku lillah, wal-hamdu lillah. La 'ilaha illallahu wahdahu la sharika lahu (We have entered upon evening and the whole kingdom of Allah, too, has entered upon evening. Praise is due to Allah. There is none who has the right to be worshiped but Allah, the One who has no partner with Him).\" He (the narrator) said: I think that he (ﷺ) used to follow the recitation with these words: \"Lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shi'in Qadir. Rabbi as'aluka khaira ma fi hadhihil-lailati, wa khaira ma ba'daha; wa a'udhu bika min sharri ma fi hadhihil-lailati, wa sharri ma ba'daha; Rabbi a'udhu bika minal- kasali, wa su'il-kibari; Rabbi a'udhu bika min 'adhabin fin-nari, wa 'adhabin fil-qabri (His is the sovereignty and to Him is all praise due, and He is Omnipotent. My Rubb, I beg of you good that lies in this night and good that follows it, and I seek refuge in You from the evil that lies in this night and from the evil of that which follows it. My Rubb! I seek refuge in You from lethargy and the misery of old age. O Allah! I seek Your Protection from the torment of Hell-fire and the punishment of the grave).\" When it was morning, he (ﷺ) would recite the same, replacing the words: \"We have entered upon evening and the whole kingdom of Allah, too, has entered upon evening\" with \"We have entered upon morning and the whole kingdom of Allah entered upon morning.\" (Replace the words \"Amsaina, amsa, hadhihil-lailati, ma ba'daha with Asbahna, asbaha, hadhal-yaumi, ma ba'dahu, respectively.)<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "157",
+      "chapterTitle": "Supplications in Funeral Prayers",
+      "urn": 1608720,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) supplicated in course of funeral prayer: \"Allahumma Anta Rabbuha, wa Anta khalaqtaha, wa Anta hadaytaha lil-Islam, wa Anta qabadta ruhaha, wa Anta a'lamu bisirriha wa 'alaniyyatiha, ji'naka shufa'a'a lahu <b>[if the dead person is a man, or laha if the dead person is a woman]</b>, faghfir lahu <b>[or laha, if it is a woman]</b> (O Allah, You are its Rubb; You created it; You guided it to Islam; You have taken its life back and You know best its insight and outer condition. We have come as intercessors, so forgive him).\"<br/><br/><b>[Abu Dawud]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "248",
-      "chapterTitle": "- باب الذكر عند الصباح والمساء",
-      "urn": 1714450,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ كان نبي الله صلى الله عليه وسلم، إذا أمسى قال‏:‏ أمسينا وأمسى الملك لله، والحمد لله، لا إله إلا الله وحده لا شريك له‏\"‏ قال الراوي‏:‏ أراه قال فيهن‏:‏ ‏\"‏له الملك وله الحمد وهو على كل شيء قدير، رب أسألك خير ما في هذه الليلة، وخير ما بعدها، وأعوذ بك من شر ما في هذه الليلة وشر ما بعدها، رب أعوذ بك من الكسل، وسوء الكبر، رب أعوذ بك من شر ما في هذه الليلة، وخير ما بعدها، وأعوذ بك من شر ما في هذه الليلة وشر ما بعدها، رب أعوذ بك من الكسل، وسوء الكبر، رب أعوذ بك من عذاب النار، وعذاب في القبر‏\"‏ وإذا أصبح قال ذلك أيضًا‏:‏ ‏\"‏أصبحنا وأصبح الملك لله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "157",
+      "chapterTitle": "- باب ما يقرأ في صلاة الجنازة",
+      "urn": 1709290,
+      "body": "<p>- وعنه عن النبي صلى الله عليه وسلم الله عليه وسلمى الله عليه وسلم الله عليه وسلم في الصلاة علي الجنازة‏:‏ “اللهم أنت ربها، وأنت خلقتها، وأنت هديتها للإسلام، وأنت قبضت روحها، وأنت أعلم بسرها وعلانيتها، جئناك شفعاء له، فاغفر له” ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "157",
+      "chapterTitle": "Doa-doa dalam Solat Jenazah",
+      "urn": 1709290,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) berdoa semasa solat jenazah: \"Allahumma Anta Rabbuha, wa Anta khalaqtaha, wa Anta hadaytaha lil-Islam, wa Anta qabadta ruhaha, wa Anta a'lamu bisirriha wa 'alaniyyatiha, ji'naka shufa'a'a lahu [jika si mati lelaki, atau laha jika si mati perempuan], faghfir lahu [atau laha, jika ia perempuan] (Ya Allah, Engkaulah Tuhannya; Engkau yang menciptakannya; Engkau yang memberinya hidayah kepada Islam; Engkau telah mencabut nyawanya dan Engkau lebih mengetahui rahsia batin serta zahirnya. Kami datang sebagai pemberi syafaat, maka ampunilah dia).\" [Abu Dawud].</p>",
       "grades": []
     }
   ]
