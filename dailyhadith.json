@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "281.00",
-  "hadithNumber": "1599",
+  "bookNumber": "introduction",
+  "chapterId": "67.00",
+  "hadithNumber": "584",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "281",
-      "chapterTitle": "Prohibition of two Holding Secret Counsel to the Exclusion of Conversing together a Third",
-      "urn": 1624000,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"When three of you are together, two of you must not converse privately ignoring the third till the number increases, lest the third should be grieved.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "67",
+      "chapterTitle": "Abomination of longing for Death",
+      "urn": 1605785,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"None of you should wish for death. If he is righteous, perhaps he may add to (his) good works, and if he is a sinner, possibly he may repent (in case he is given a longer life).\"\n</p>\n<p>\n<b>[Al-Bukhari]</b>.\n</p>\n<p>\nIn Muslim, Abu Hurairah (May Allah be pleased with him) reported : Messenger of Allah (ﷺ) said, \"Let none of you wish for death, nor he ask for it before it comes to him, because when he dies, his actions will be terminated; certainly the age of a (true) believer does not add but good.\"</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "281",
-      "chapterTitle": "- باب النهي عن تناجي اثنين دون الثالث بغير إذنه إلا لحاجة وهو أن يتحدثا سرًا بحيث لا يسمعهما وفي معناه إذا تحدثا بلسان لا يفهمه",
-      "urn": 1715890,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا كنتم ثلاثة، فلا يتناجى اثنان دون الآخر حتى تختلطوا بالناس، من أجل أن ذلك يحزنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "67",
+      "chapterTitle": "- باب كراهة تمنى الموت بسبب ضر نزل به ولا بأس به لخوف الفتنة فى الدين",
+      "urn": 1705800,
+      "body": "<p>- عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “لا يتمن أحدكم الموت إما محسناً فلعله يزداد، وإما مسيئاً فلعله يستعتب” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏وهذا لفظ البخاري \nوفى رواية لمسلم عن أبي هريرة رضي الله عنه عن رسول الله صلى الله عليه وسلم قال‏:‏ “لا يتمن أحدكم الموت، ولا يدع به من قبل أن يأتيه، إنه إذا مات انقطع عمله، وإنه لا يزيد المؤمن عمره إلا خيراً”‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "67",
+      "chapterTitle": "Kebencian mengharapkan kematian",
+      "urn": 1705800,
+      "body": "<p>Daripada Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Janganlah salah seorang di antara kamu mengharapkan kematian. Jika dia seorang yang soleh, mungkin dia dapat menambah amal kebaikannya, dan jika dia seorang yang berdosa, mungkin dia dapat bertaubat (sekiranya dia diberikan umur yang lebih panjang).\"\n\n[Al-Bukhari].\n\nDalam Muslim, Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Janganlah salah seorang di antara kamu mengharapkan kematian, dan janganlah dia memintanya sebelum ia datang kepadanya, kerana apabila dia mati, maka terputuslah amalannya; sesungguhnya umur seorang mukmin tidak menambah melainkan kebaikan.\"</p>",
       "grades": []
     }
   ]
