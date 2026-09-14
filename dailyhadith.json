@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "260.00",
-  "hadithNumber": "1542",
+  "bookNumber": "16",
+  "chapterId": "250.00",
+  "hadithNumber": "1467",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "260",
-      "chapterTitle": "Condemnation and Prohibition of Falsehood",
-      "urn": 1623430,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Truth leads to piety and piety leads to Jannah. A man persists in speaking the truth till he is recorded with Allah as a truthful man. Falsehood leads to transgression and transgression leads to the Hell-fire. A man continues to speak falsehood till he is recorded with Allah as a great liar.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
+      "urn": 1613330,
+      "body": "<p>Anas (May Allah be pleased with him) reported: The supplication most often recited by the Prophet (ﷺ) was: \"Allahumma atina fid-dunya hasanatan, wa fil-akhirati hasanatan, wa qina 'adhab-annar (O our Rubb! give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).\"'<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In the narration of Muslim it is added that whenever Anas supplicated, he used to beseech Allah with this Du'a.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "260",
-      "chapterTitle": "- باب تحريم الكذب",
-      "urn": 1715320,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ إن الصدق يهدي إلى البر، وإن البر يهدي إلى الجنة، وإن الرجل ليصدق حتى يكتب عند الله صديقًا، وإن الكذب يهدي إلى الفجور، وإن الفجور يهدي إلى النار، وإن الرجل ليكذب حتى يكتب عند الله كذابًا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
+      "urn": 1714570,
+      "body": "<p>- وعن أنس رضي الله عنه، قال‏:‏ كان أكثر دعاء النبي صلى الله عليه وسلم‏:‏ ‏\"‏اللهم آتنا في الدنيا حسنة، وفي الآخرة حسنة، وقنا عذاب النار‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nزاد مسلم في روايته قال‏:‏ وكان أنس إذا أراد أن يدعو بدعوة دعا بها، وإذا أراد أن يدعو بدعاء دعا بها فيه‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "260",
-      "chapterTitle": "Celaan dan Larangan Terhadap Pendustaan",
-      "urn": 1715320,
-      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Kebenaran membawa kepada ketakwaan dan ketakwaan membawa ke syurga. Seseorang itu sentiasa berkata benar sehinggalah dia dicatatkan di sisi Allah sebagai seorang yang benar. Kedustaan membawa kepada kefasikan dan kefasikan membawa ke neraka. Seseorang itu sentiasa berkata dusta sehinggalah dia dicatatkan di sisi Allah sebagai seorang pendusta yang besar.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Perkara-perkara mengenai doa, keutamaannya dan doa-doa Nabi (SAW)",
+      "urn": 1714570,
+      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Doa yang paling kerap dibaca oleh Nabi (ﷺ) adalah: \"Allahumma atina fid-dunya hasanatan, wa fil-akhirati hasanatan, wa qina 'adhab-annar (Wahai Tuhan kami! Berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab api neraka).\" [Al-Bukhari dan Muslim]. Dalam riwayat Muslim, dinyatakan tambahan bahawa setiap kali Anas berdoa, beliau akan memohon kepada Allah dengan doa ini.</p>",
       "grades": []
     }
   ]
