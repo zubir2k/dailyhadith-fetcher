@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "16",
-  "chapterId": "250.00",
-  "hadithNumber": "1467",
+  "bookNumber": "6",
+  "chapterId": "157.00",
+  "hadithNumber": "939",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "250",
-      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
-      "urn": 1613330,
-      "body": "<p>Anas (May Allah be pleased with him) reported: The supplication most often recited by the Prophet (ﷺ) was: \"Allahumma atina fid-dunya hasanatan, wa fil-akhirati hasanatan, wa qina 'adhab-annar (O our Rubb! give us in this world that which is good and in the Hereafter that which is good, and save us from the punishment of the Fire).\"'<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In the narration of Muslim it is added that whenever Anas supplicated, he used to beseech Allah with this Du'a.<br/><br/></p>",
+      "chapterNumber": "157",
+      "chapterTitle": "Supplications in Funeral Prayers",
+      "urn": 1608730,
+      "body": "<p>Wathilah bin Al-Asqa' (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) led the funeral prayer of a Muslim man in our presence, and I heard him saying \"Allahumma inna <b>[name of the dead person]</b> fi dhimmatika wa habli jiwarika, faqihi fitnatal- qabri; wa 'adhaban-Nari, wa Anta ahlul-wafa'i wal-hamdi; Allahumma faghfir lahu warhamhu, innaka Antal-Ghafur-ur-Rahim <b>[If the dead person is a woman, one can change hu in some words here with ha]</b> <b>[O Allah, (so-and-so son of so-and-so) is in Your Protection and inside the surroundings of Your Refuge. Safeguard him from the trial of the grave and the punishment of the Hell. You keep Your Promise and You deserve to be praised. O Allah! Forgive him and be merciful to him. Indeed, You are the Forgiving, the Merciful]</b>.\"<br/><br/><b>[Abu Dawud]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "250",
-      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
-      "urn": 1714570,
-      "body": "<p>- وعن أنس رضي الله عنه، قال‏:‏ كان أكثر دعاء النبي صلى الله عليه وسلم‏:‏ ‏\"‏اللهم آتنا في الدنيا حسنة، وفي الآخرة حسنة، وقنا عذاب النار‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nزاد مسلم في روايته قال‏:‏ وكان أنس إذا أراد أن يدعو بدعوة دعا بها، وإذا أراد أن يدعو بدعاء دعا بها فيه‏.‏</p>",
+      "chapterNumber": "157",
+      "chapterTitle": "- باب ما يقرأ في صلاة الجنازة",
+      "urn": 1709300,
+      "body": "<p>- وعن واثلة بن الأسقع رضي الله عنه قال‏:‏ صلى بنا رسول الله صلى الله عليه وسلم علي رجل من المسلمين، فسمعته يقول‏:‏ ‏\"‏اللهم إن فلان ابن فلان في ذمتك وحبل جوارك، فقه فتنة القبر، وعذاب النار، وأنت أهل الوفاء والحمد؛ اللهم اغفر له وارحمه، إنك أنت الغفور الرحيم‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "250",
-      "chapterTitle": "Perkara-perkara mengenai doa, keutamaannya dan doa-doa Nabi (SAW)",
-      "urn": 1714570,
-      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Doa yang paling kerap dibaca oleh Nabi (ﷺ) adalah: \"Allahumma atina fid-dunya hasanatan, wa fil-akhirati hasanatan, wa qina 'adhab-annar (Wahai Tuhan kami! Berikanlah kami kebaikan di dunia dan kebaikan di akhirat, dan peliharalah kami daripada azab api neraka).\" [Al-Bukhari dan Muslim]. Dalam riwayat Muslim, dinyatakan tambahan bahawa setiap kali Anas berdoa, beliau akan memohon kepada Allah dengan doa ini.</p>",
+      "chapterNumber": "157",
+      "chapterTitle": "Doa-doa dalam Solat Jenazah",
+      "urn": 1709300,
+      "body": "<p>Wathilah bin Al-Asqa' (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) telah mengimamkan solat jenazah seorang lelaki Muslim di hadapan kami, dan aku mendengar baginda mengucapkan \"Allahumma inna [nama si mati] fi dhimmatika wa habli jiwarika, faqihi fitnatal- qabri; wa 'adhaban-Nari, wa Anta ahlul-wafa'i wal-hamdi; Allahumma faghfir lahu warhamhu, innaka Antal-Ghafur-ur-Rahim [Jika si mati adalah seorang wanita, boleh menukarkan 'hu' kepada 'ha' pada beberapa perkataan di sini] [Ya Allah, (si fulan bin si fulan) berada di bawah perlindungan-Mu dan dalam jaminan-Mu. Lindungilah dia daripada fitnah kubur dan azab neraka. Engkau Maha Menepati Janji dan Engkau layak untuk dipuji. Ya Allah! Ampunilah dia dan rahmatilah dia. Sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang].\"[Abu Dawud].</p>",
       "grades": []
     }
   ]
