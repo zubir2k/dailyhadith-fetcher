@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1416",
+  "bookNumber": "introduction",
+  "chapterId": "36.00",
+  "hadithNumber": "294",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612830,
-      "body": "<p>Al-Mughirah bin Shu'bah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) used to say at the conclusion of prayer: \"La ilaha illallahu wahdahu la sharika lahu, lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shai'in Qadir. Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi, minkal-jaddu (there is no true god except Allah. He is One and He has no partner with Him, His is the sovereignty and His is the praise, and He is Omnipotent. O Allah! None can deny that which You bestow and none can bestow that which You hold back; and the greatness of the great will be of no avail to them against You).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "36",
+      "chapterTitle": "Sustentation of the Members of the Family",
+      "urn": 1602910,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"Neglecting one's own dependents is a reason enough for a man to commit a sin\".<br/><br/><b>[Abu Dawud]</b><br/><br/>The narration in Muslim is: Messenger of Allah (ﷺ) said, \"It is enough sin for a person to hold back the due of one whose provision is in his hand\".<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714060,
-      "body": "<p>- وعن المغيرة بن شعبة رضي الله عنه أن رسول الله صلى الله عليه وسلم، كان إذا فرغ من الصلاة وسلم قال ‏:‏ ‏\"‏لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير‏.‏ اللهم لا مانع لما أعطيت، ولا معطي لما منعت، ولا ينفع ذا الجد منك الجد‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "36",
+      "chapterTitle": "- باب النفقة على العيال",
+      "urn": 1702930,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يضيع من يقوت‏\"‏ حديث صحيح ‏(‏‏(‏رواه أبو داود وغيره‏)‏‏)‏‏.‏ \nورواه مسلم في صحيحه بمعناه قال‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يحبس عمن يملك قوته‏\"‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Zikir kepada Allah",
-      "urn": 1714060,
-      "body": "<p>Al-Mughirah bin Shu'bah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) sering mengucapkan pada akhir solat: \"La ilaha illallahu wahdahu la sharika lahu, lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shai'in Qadir. Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi, minkal-jaddu (tiada tuhan melainkan Allah. Dia Maha Esa dan tiada sekutu bagi-Nya, bagi-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu. Ya Allah! Tiada sesiapa yang dapat menghalang apa yang Engkau berikan dan tiada sesiapa yang dapat memberi apa yang Engkau halangi; dan kehebatan orang yang hebat tidak akan memberi manfaat kepada mereka di hadapan-Mu).\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "36",
+      "chapterTitle": "Pemberian Nafkah kepada Ahli Keluarga",
+      "urn": 1702930,
+      "body": "<p>Abdullah bin 'Amr bin Al-'as (Semoga Allah meredai mereka) menceritakan: Rasulullah (ﷺ) bersabda, \"Mengabaikan orang-orang di bawah tanggungannya sudah memadai untuk menjadikan seseorang itu berdosa.\" [Abu Dawud] Riwayat dalam Muslim adalah: Rasulullah (ﷺ) bersabda, \"Sudah cukup bagi seseorang itu berdosa apabila dia menahan hak seseorang yang rezekinya berada di bawah tanggungannya.\"</p>",
       "grades": []
     }
   ]
