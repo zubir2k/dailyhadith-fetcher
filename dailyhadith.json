@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "7.00",
-  "hadithNumber": "74",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1416",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "7",
-      "chapterTitle": "Firm Belief and Perfect Reliance on Allah",
-      "urn": 1600740,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"I was shown the past nations. I saw a Prophet who had a very small group (less than ten in total) with him, another Prophet who was accompanied by only one or two men and some did not have even one. Suddenly I was shown a huge crowd and I thought that they were my Ummah, but I was told: 'This is Musa (Moses) and his people, but look towards the other side.' I looked and beheld a great assemblage. I was told: 'These are your people and amongst them there are seventy thousand who shall enter Jannah without being taken to account or torment\". Then the Prophet (ﷺ) stood up and went into his apartment, and the Companions began to guess who may be those people who would enter Jannah without any accounting or torment. Some said: \"Probably, they are the ones who kept company with Messenger of Allah (ﷺ)\". Others said: \"Probably, they are the ones who have been born as Muslims and have never associated anyone with Allah in worship\". Then Messenger of Allah (ﷺ) came out and asked, \"What are you discussing?\" So they told him. He then said, \"They are those who do not make Ruqyah (blowing over themselves after reciting the Qur'an or some prayers and supplications the Prophet (ﷺ) used to say) nor seek it, nor perceive omens (i.e., they are not pessimistic) but keep trust in their Rubb (Allah).\" On this 'Ukashah bin Mihsan stood up and asked: \"Pray to Allah to make me one of them.\" The Prophet (ﷺ) said, \"You are one of them.\" Then another man stood up and asked the same thing. The Prophet (ﷺ) answered, \"'Ukashah has surpassed you\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612830,
+      "body": "<p>Al-Mughirah bin Shu'bah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) used to say at the conclusion of prayer: \"La ilaha illallahu wahdahu la sharika lahu, lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shai'in Qadir. Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi, minkal-jaddu (there is no true god except Allah. He is One and He has no partner with Him, His is the sovereignty and His is the praise, and He is Omnipotent. O Allah! None can deny that which You bestow and none can bestow that which You hold back; and the greatness of the great will be of no avail to them against You).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "7",
-      "chapterTitle": "- باب اليقين والتوكل",
-      "urn": 1700740,
-      "body": "<p>- فالأول عن ابن عباس رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ عرضت علي الأمم، فرأيت النبي ومعه الرهيط، والنبي ومعه الرجل والرجلان، والنبي وليس معه أحد إذ رفع لي سواد عظيم فظننت أنهم أمتي، فقيل لى ‏:‏ هذا موسى وقومه، ولكن انظر إلى الأفق، فنظرت فإذا سواد عظيم، فقيل لى، انظر إلى الأفق الآخر، فإذا سواد عظيم، فقيل لي‏:‏ هذه أمتك، ومعهم سبعون ألفاً يدخلون الجنة بغير حساب ولا عذاب‏\"‏ ثم نهض فدخل منزله، فخاض الناس في أولئك الذين يدخلون الجنة بغير حساب ولا عذاب، فقال بعضهم‏:‏ فلعلهم الذين صحبوا رسول الله صلى الله عليه وسلم ، وقال بعضهم‏:‏ فلعلهم الذين ولدوا في الإسلام، فلم يشركوا بالله شيئاً- وذكروا أشياء- فخرج عليهم رسول الله صلى الله عليه وسلم فقال‏:‏ ‏\"‏ما الذي تخوضون فيه‏؟‏‏\"‏ فأخبروه فقال‏:‏ ‏\"‏هم الذين لا يرقون ، ولا يسترقون ولا يتطيرون، وعلى ربهم يتوكلون‏\"‏ فقام عكاشة بن محصن فقال‏:‏ ادع الله أن يجعلني منهم، فقال‏:‏ ‏\"‏أنت منهم‏\"‏ ثم قام رجل آخر فقال‏:‏ ادع الله أن يجعلني منهم فقال‏:‏ ‏\"‏سبقك بها عكاشة‏\"‏ ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714060,
+      "body": "<p>- وعن المغيرة بن شعبة رضي الله عنه أن رسول الله صلى الله عليه وسلم، كان إذا فرغ من الصلاة وسلم قال ‏:‏ ‏\"‏لا إله إلا الله وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير‏.‏ اللهم لا مانع لما أعطيت، ولا معطي لما منعت، ولا ينفع ذا الجد منك الجد‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "244",
+      "chapterTitle": "Kelebihan Zikir kepada Allah",
+      "urn": 1714060,
+      "body": "<p>Al-Mughirah bin Shu'bah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) sering mengucapkan pada akhir solat: \"La ilaha illallahu wahdahu la sharika lahu, lahul-mulku, wa lahul-hamdu, wa Huwa 'ala kulli shai'in Qadir. Allahumma la mani'a lima a'tayta, wa la mu'tiya lima mana'ta, wa la yanfa'u dhal-jaddi, minkal-jaddu (tiada tuhan melainkan Allah. Dia Maha Esa dan tiada sekutu bagi-Nya, bagi-Nya segala kerajaan dan bagi-Nya segala pujian, dan Dia Maha Kuasa atas segala sesuatu. Ya Allah! Tiada sesiapa yang dapat menghalang apa yang Engkau berikan dan tiada sesiapa yang dapat memberi apa yang Engkau halangi; dan kehebatan orang yang hebat tidak akan memberi manfaat kepada mereka di hadapan-Mu).\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
