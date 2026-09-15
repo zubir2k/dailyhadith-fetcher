@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "36.00",
-  "hadithNumber": "294",
+  "bookNumber": "10",
+  "chapterId": "233.00",
+  "hadithNumber": "1274",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "36",
-      "chapterTitle": "Sustentation of the Members of the Family",
-      "urn": 1602910,
-      "body": "<p>'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"Neglecting one's own dependents is a reason enough for a man to commit a sin\".<br/><br/><b>[Abu Dawud]</b><br/><br/>The narration in Muslim is: Messenger of Allah (ﷺ) said, \"It is enough sin for a person to hold back the due of one whose provision is in his hand\".<br/><br/></p>",
+      "chapterNumber": "233",
+      "chapterTitle": "The Obligation of Hajj (Pilgrimage) and its Excellence",
+      "urn": 1611440,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Whoever performs Hajj (pilgrimage) and does not have sexual relations (with his wife), nor commits sin, nor disputes unjustly (during Hajj), then he returns from Hajj as pure and free from sins as on the day on which his mother gave birth to him.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "36",
-      "chapterTitle": "- باب النفقة على العيال",
-      "urn": 1702930,
-      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يضيع من يقوت‏\"‏ حديث صحيح ‏(‏‏(‏رواه أبو داود وغيره‏)‏‏)‏‏.‏ \nورواه مسلم في صحيحه بمعناه قال‏:‏ ‏\"‏ كفى بالمرء إثمًا أن يحبس عمن يملك قوته‏\"‏‏.‏</p>",
+      "chapterNumber": "233",
+      "chapterTitle": "- باب وجوب الحج وفضله",
+      "urn": 1712640,
+      "body": "<p>- وعنه قال سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من حج، فلم يرفث ولم يفسق، رجع كيوم ولدته أمه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "36",
-      "chapterTitle": "Pemberian Nafkah kepada Ahli Keluarga",
-      "urn": 1702930,
-      "body": "<p>Abdullah bin 'Amr bin Al-'as (Semoga Allah meredai mereka) menceritakan: Rasulullah (ﷺ) bersabda, \"Mengabaikan orang-orang di bawah tanggungannya sudah memadai untuk menjadikan seseorang itu berdosa.\" [Abu Dawud] Riwayat dalam Muslim adalah: Rasulullah (ﷺ) bersabda, \"Sudah cukup bagi seseorang itu berdosa apabila dia menahan hak seseorang yang rezekinya berada di bawah tanggungannya.\"</p>",
+      "chapterNumber": "233",
+      "chapterTitle": "Kewajipan Haji dan Keutamaannya",
+      "urn": 1712640,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang mengerjakan haji dan tidak melakukan hubungan seksual (dengan isterinya), tidak melakukan dosa, dan tidak bertengkar secara tidak adil (semasa haji), maka dia akan kembali daripada haji dalam keadaan suci dan bebas daripada dosa seumpama hari ketika ibunya melahirkannya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
