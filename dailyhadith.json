@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "212.00",
-  "hadithNumber": "1183",
+  "bookNumber": "introduction",
+  "chapterId": "82.00",
+  "hadithNumber": "677",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1622270,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"May Allah show mercy to a man who gets up during the night and performs Salat, awakens his wife to pray and if she refuses, he sprinkles water on her face (to make her get up). May Allah show mercy to a woman who gets up during the night and performs Salat, awakens her husband for the same purpose; and if he refuses, she sprinkles water on his face.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "82",
+      "chapterTitle": "Appointment of Pious Governors, Advisors and Judges",
+      "urn": 1606710,
+      "body": "<p>Abu Sa'id and Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah neither raised up any Prophet nor did He authorize any person with ruling power but for whom there were two types of entourage: one enjoins upon him to do good and incites him to carry it out, and the other enjoins evil and goads him; and the protected (from the bad entourage) is the one whom Allah protects.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "212",
-      "chapterTitle": "- باب فضل قيام الليل‏:‏",
-      "urn": 1711730,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه، قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏رحم الله رجلا قام من الليل، فصلى وأيقظ امرأته، فإن أبت نضح في وجهها الماء، ورحم الله امرأة قامت من الليل فصلت، وأيقظت زوجها فإن أبي نضحت في وجهه الماء‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "82",
+      "chapterTitle": "- باب حث السلطان والقاضي وغيرهما من ولاة الأمور على اتخاذ وزير صالح وتحذيرهم من قرناء السوء والقبول منهم",
+      "urn": 1706730,
+      "body": "<p>-عن أبي سعيد وأبي هريرة رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال ‏:‏ “ما بعث الله من نبي، ولا استخلف من خليفة إلا كانت له بطانتان بطانة تأمره بالمعروف وتحضه عليه، وبطانة تأمره بالشر وتحضه عليه، والمعصوم من عصم الله” ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "212",
-      "chapterTitle": "Keutamaan Solat Malam",
-      "urn": 1711730,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Semoga Allah merahmati seorang lelaki yang bangun pada waktu malam dan menunaikan solat, lalu dia mengejutkan isterinya untuk bersolat, dan jika isterinya enggan, dia memercikkan air ke wajah isterinya. Semoga Allah merahmati seorang wanita yang bangun pada waktu malam dan menunaikan solat, lalu dia mengejutkan suaminya untuk tujuan yang sama; dan jika suaminya enggan, dia memercikkan air ke wajah suaminya.\" [Abu Dawud].</p>",
+      "chapterNumber": "82",
+      "chapterTitle": "Pelantikan Pemimpin, Penasihat, dan Hakim yang Soleh",
+      "urn": 1706730,
+      "body": "<p>Abu Sa'id dan Abu Hurairah (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah tidaklah mengutuskan mana-mana Nabi mahupun memberikan kuasa pemerintahan kepada sesiapa pun melainkan baginya terdapat dua jenis pengikut: satu yang memerintahkannya melakukan kebaikan dan mendorongnya untuk melaksanakannya, manakala yang satu lagi memerintahkannya melakukan kejahatan dan menghasutnya; dan orang yang terpelihara (daripada pengikut yang buruk) adalah orang yang Allah peliharakan.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
