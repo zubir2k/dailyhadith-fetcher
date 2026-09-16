@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "51.00",
-  "hadithNumber": "413",
+  "bookNumber": "8",
+  "chapterId": "180.00",
+  "hadithNumber": "991",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "51",
-      "chapterTitle": "Hope in Allah's Mercy",
-      "urn": 1604090,
-      "body": "<p>Abu Dharr (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Allah, the Almighty, says: 'Whosoever does a good deed, will have (reward) ten times like it and I add more; and whosoever does an evil, will have the punishment like it or I will forgive (him); and whosoever approaches Me by one span, I will approach him by one cubit; and whosoever approaches Me by one cubit, I approach him by one fathom, and whosoever comes to Me walking, I go to him running; and whosoever meets Me with an earth-load of sins without associating anything with Me, I meet him with forgiveness like that\".<br/><br/><b>[Muslim]</b><br/><br/></p>",
+      "chapterNumber": "180",
+      "chapterTitle": "The Excellence of Reciting the Qur'an",
+      "urn": 1620350,
+      "body": "<p>Abu Umamah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Read the Qur'an, for it will come as an intercessor for its reciters on the Day of Resurrection.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "51",
-      "chapterTitle": "- باب الرجاء",
-      "urn": 1704090,
-      "body": "<p>- وعن أبي ذر، رضي الله عنه ، قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏يقول الله عز وجل‏:‏ من جاء بالحسنة، فله عشر أمثالها أو أزيد، ومن جاء بالسيئة، فجزاء سيئة سيئة مثلها أوغفر‏.‏ ومن تقرب مني شبراً ، تقربت منها ذراعا، ومن تقرب منى ذراعاً ، تقربت منه باعاً، ومن أتاني يمشي ، أتيته هرولة، ومن لقينى بقراب الأرض خطيئة لايشرك به شيئاً ، لقيته بمثلها مغفرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "180",
+      "chapterTitle": "- باب فضل قراءة القرآن",
+      "urn": 1709820,
+      "body": "<p>- عن أبي أمامة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ اقرءوا القرآن فإنه يأتي يوم القيامة شفيعًا لأصحابه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "51",
-      "chapterTitle": "Berharap kepada Rahmat Allah",
-      "urn": 1704090,
-      "body": "<p>Abu Dharr (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda: \"Allah yang Maha Agung berfirman: 'Sesiapa yang melakukan kebaikan, dia akan mendapat (pahala) sepuluh kali ganda daripadanya dan Aku akan menambah lagi; dan sesiapa yang melakukan kejahatan, dia akan mendapat balasan yang serupa dengannya atau Aku akan mengampuninya; dan sesiapa yang mendekati-Ku sejengkal, Aku akan mendekatinya sehasta; dan sesiapa yang mendekati-Ku sehasta, Aku akan mendekatinya sedepa; dan sesiapa yang datang kepada-Ku dengan berjalan, Aku akan mendatanginya dengan berlari; dan sesiapa yang menemui-Ku dengan dosa sepenuh bumi tanpa mensyirikkan sesuatu pun dengan-Ku, Aku akan menemuinya dengan keampunan yang sedemikian banyak'.\" [Muslim]</p>",
+      "chapterNumber": "180",
+      "chapterTitle": "The Excellence of Reciting the Qur'an",
+      "urn": 1709820,
+      "body": "<p>Abu Umamah (Semoga Allah meredainya) meriwayatkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Bacalah al-Quran, kerana sesungguhnya ia akan datang sebagai pemberi syafaat kepada pembacanya pada Hari Kebangkitan.\" [Muslim].</p>",
       "grades": []
     }
   ]
