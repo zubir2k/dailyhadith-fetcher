@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1868",
+  "bookNumber": "introduction",
+  "chapterId": "16.00",
+  "hadithNumber": "167",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616580,
-      "body": "<p>Sa'id bin Zaid (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Truffle (edible fungus) is a species of Al-Manna and their water cures eye diseases.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
+      "chapterNumber": "16",
+      "chapterTitle": "Observing the Sunnah and the manners of its obedience",
+      "urn": 1601660,
+      "body": "<p>'Abis bin Rabi'ah (May Allah be pleased with him) reported: I saw 'Umar bin Al-Khattab (May Allah be pleased with him) kissing the Black Stone (Al-Hajar Al-Aswad) and saying: \"I know that you are just a stone and that you can neither do any harm nor give benefit. Had I not seen Messenger of Allah (ﷺ) kissing you, I would not have kissed you\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718560,
-      "body": "<p>- وعن سعيد بن زيد رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏الكمأة من المن، وماؤها شفاء للعين‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "16",
+      "chapterTitle": "- باب الأمر بالمحافظة على السنة وآدابهـا",
+      "urn": 1701660,
+      "body": "<p>- وعن عابس بن ربيعة قال‏:‏ رأيت عمر بن الخطاب ، رضي الله عنه ، يقبل الحجر -يعنى الأسود- ويقول‏:‏إني أعلم أنك حجر ما تنفع ولا تضر، ولولا أني رأيت رسول الله، صلى الله عليه وسلم، يقبلك ما قبلتك‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis mengenai Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718560,
-      "body": "<p>Sa'id bin Zaid (semoga Allah meredainya) meriwayatkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Faq' (cendawan truffle) adalah sebahagian daripada Al-Manna dan airnya dapat menyembuhkan penyakit mata.\" [Al-Bukhari dan Muslim]</p>",
+      "chapterNumber": "16",
+      "chapterTitle": "Mengamalkan Sunnah dan adab-adab ketaatan kepadanya.",
+      "urn": 1701660,
+      "body": "<p>'Abis bin Rabi'ah (Semoga Allah meredainya) melaporkan: Aku melihat 'Umar bin Al-Khattab (Semoga Allah meredainya) mencium Hajar Aswad (Al-Hajar Al-Aswad) dan berkata: \"Sesungguhnya aku tahu bahawa engkau hanyalah sekadar batu dan engkau tidak dapat memberi sebarang mudarat mahupun memberi manfaat. Sekiranya aku tidak melihat Rasulullah (ﷺ) menciummu, nescaya aku tidak akan menciummu.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
