@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "180.00",
-  "hadithNumber": "991",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "503",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "180",
-      "chapterTitle": "The Excellence of Reciting the Qur'an",
-      "urn": 1620350,
-      "body": "<p>Abu Umamah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Read the Qur'an, for it will come as an intercessor for its reciters on the Day of Resurrection.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1605000,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: When Messenger of Allah (ﷺ) died, his armour was mortgaged with a Jew for thirty Sa' (measures) of barley.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "180",
-      "chapterTitle": "- باب فضل قراءة القرآن",
-      "urn": 1709820,
-      "body": "<p>- عن أبي أمامة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ اقرءوا القرآن فإنه يأتي يوم القيامة شفيعًا لأصحابه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1704990,
+      "body": "<p>- وعن عائشة، رضي الله عنها قالت‏:‏ توفي رسول الله صلى الله عليه وسلم ودرعه مرهونة عند يهودي في ثلاثين صاعاً من شعير‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "180",
-      "chapterTitle": "The Excellence of Reciting the Qur'an",
-      "urn": 1709820,
-      "body": "<p>Abu Umamah (Semoga Allah meredainya) meriwayatkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Bacalah al-Quran, kerana sesungguhnya ia akan datang sebagai pemberi syafaat kepada pembacanya pada Hari Kebangkitan.\" [Muslim].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Keutamaan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
+      "urn": 1704990,
+      "body": "<p>Aishah (semoga Allah merahmatinya) meriwayatkan: Apabila Rasulullah (ﷺ) wafat, baju perangnya telah digadaikan kepada seorang Yahudi dengan tiga puluh Sa' (ukuran) jelai. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
