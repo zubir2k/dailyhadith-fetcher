@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "65.00",
-  "hadithNumber": "577",
+  "bookNumber": "17",
+  "chapterId": "264.00",
+  "hadithNumber": "1555",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "65",
-      "chapterTitle": "Remembrance of Death and Restraint of Wishes",
-      "urn": 1605730,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Hasten to do good deeds before you are overtaken by one of the seven afflictions.\" Then (giving a warning) he said, \"Are you waiting for poverty which will make you unmindful of devotion, or prosperity which will make you corrupt, or a disease which will disable you, or senility which will make you mentally unstable, or sudden death which will take you all of a sudden, or Ad-Dajjal who is the worst expected, or the Hour; and the Hour will be most grievous and most bitter.\"<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "264",
+      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
+      "urn": 1623560,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"A true believer is not involved in taunting, or frequently cursing (others) or in indecency or abusing.\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "65",
-      "chapterTitle": "- باب ذكر الموت وقصر الأمل",
-      "urn": 1705730,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم‏:‏ قال‏:‏ “بادروا بالأعمال سبعاً، هل تنتظرون إلا فقراً منسياً، أو غنى مطغياً، أو مرضاً مفسداً، أو هرماً مفنداً، أو موتاً مجهزاً، أو الدجال، فشر غائب ينتظر، أو الساعة، فالساعة أدهى وأمر‏؟‏‏!‏” ‏(‏‏(‏رواه الترمذى وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
+      "urn": 1715450,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس المؤمن بالطعان، ولا اللعان، ولا الفاحش، ولا البذي‏\"‏‏.‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "65",
-      "chapterTitle": "Mengingati Kematian dan Menahan Keinginan",
-      "urn": 1705730,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Bersegeralah melakukan amal kebaikan sebelum kamu ditimpa salah satu daripada tujuh perkara.\" Kemudian (sebagai peringatan), Baginda bersabda, \"Adakah kamu menanti kemiskinan yang akan membuatkan kamu lalai daripada beribadah, atau kemewahan yang akan membuatkan kamu menjadi rosak, atau penyakit yang akan melumpuhkan kamu, atau usia tua yang akan membuatkan kamu hilang kewarasan, atau kematian mengejut yang akan meragut nyawa kamu secara tiba-tiba, atau Ad-Dajjal yang merupakan perkara paling buruk yang dinanti-nantikan, atau Kiamat; dan Kiamat itu adalah perkara yang paling dahsyat dan paling pahit.\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadith Hasan].</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "Larangan Melaknat Seseorang Manusia atau Haiwan yang Tertentu",
+      "urn": 1715450,
+      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Seorang mukmin yang sejati tidak terlibat dalam mencela, atau kerap mencaci (orang lain), atau dalam perbuatan keji atau kata-kata kesat.\" [At-Tirmidhi].</p>",
       "grades": []
     }
   ]
