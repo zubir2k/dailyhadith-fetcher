@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "264.00",
-  "hadithNumber": "1555",
+  "bookNumber": "introduction",
+  "chapterId": "65.00",
+  "hadithNumber": "576",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "264",
-      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
-      "urn": 1623560,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"A true believer is not involved in taunting, or frequently cursing (others) or in indecency or abusing.\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "65",
+      "chapterTitle": "Remembrance of Death and Restraint of Wishes",
+      "urn": 1605720,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) drew up a square and in the middle of it he drew a line, the end of which jutted out beyond the square. Further across the middle line, he drew a number of smaller lines. Then he (ﷺ) said, \"The figure represents man and the encircling square is the death which is encompassing him. The middle line represents his desires and the smaller lines are vicissitudes of life. If one of those misses him, another distresses him, and if that one misses him, he falls victim to another.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "264",
-      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
-      "urn": 1715450,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس المؤمن بالطعان، ولا اللعان، ولا الفاحش، ولا البذي‏\"‏‏.‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "65",
+      "chapterTitle": "- باب ذكر الموت وقصر الأمل",
+      "urn": 1705720,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ خط النبي صلى الله عليه وسلم خطا مربعا، وخط خطاً فى الوسط خارجاً منه، وخط خططاً صغاراً إلى هذا الذى فى الوسط من جانبه الذى فى الوسط، فقال‏:‏ “هذا الإنسان، وهذا أجله محيطا به -أو قد أحاط به- وهذا الذى هو خارج أمله، وهذه الخطط الصغار الأعراض فإن أخطأه هذا ، نهشه هذا، وإن أخطأه هذا نهشه هذا” ‏(‏‏(‏رواه البخاري‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "264",
-      "chapterTitle": "Larangan Melaknat Seseorang Manusia atau Haiwan yang Tertentu",
-      "urn": 1715450,
-      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Seorang mukmin yang sejati tidak terlibat dalam mencela, atau kerap mencaci (orang lain), atau dalam perbuatan keji atau kata-kata kesat.\" [At-Tirmidhi].</p>",
+      "chapterNumber": "65",
+      "chapterTitle": "Mengingati Kematian dan Menahan Keinginan",
+      "urn": 1705720,
+      "body": "<p>Ibn Mas'ud (semoga Allah merahmatinya) menceritakan: Nabi (ﷺ) melukis sebuah segi empat dan di tengah-tengahnya baginda melukis satu garisan, yang hujungnya menjulur keluar melepasi segi empat tersebut. Kemudian, di sepanjang garisan tengah itu, baginda melukis beberapa garisan kecil yang lain. Lalu baginda (ﷺ) bersabda, \"Gambaran ini mewakili manusia dan segi empat yang mengelilinginya itu adalah kematian yang mengepungnya. Garisan tengah itu mewakili hawa nafsunya dan garisan-garisan kecil itu adalah ujian-ujian kehidupan. Jika satu daripada ujian itu terlepas daripadanya, yang lain akan menyusahkannya, dan jika yang itu pula terlepas daripadanya, dia akan ditimpa yang lain.\"[Al-Bukhari].</p>",
       "grades": []
     }
   ]
