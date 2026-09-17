@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "16.00",
-  "hadithNumber": "159",
+  "bookNumber": "17",
+  "chapterId": "299.00",
+  "hadithNumber": "1651",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "16",
-      "chapterTitle": "Observing the Sunnah and the manners of its obedience",
-      "urn": 1601580,
-      "body": "<p>Salamah bin Al-Akwa' (May Allah be pleased with him) reported: My father said that a person ate in the presence of Messenger of Allah (ﷺ) with his left hand. He (ﷺ) said, \"Eat with your right hand\". He said, \"I cannot do that.\" Thereupon he (the Prophet) said, \"May you never do that.\" It was pride that prevented him from doing it. And he could not raise it (the right hand) up to his mouth afterwards.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "299",
+      "chapterTitle": "Undesirability of Wearing one Shoe or Sock",
+      "urn": 1624520,
+      "body": "<p>Jabir (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) forbade a person wearing (tying up) his shoe while standing.<br/><br/><b>[Abu Dawud with a good Isnad]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "16",
-      "chapterTitle": "- باب الأمر بالمحافظة على السنة وآدابهـا",
-      "urn": 1701580,
-      "body": "<p>- الرابع‏:‏ عن أبي مسلم، وقيل ‏:‏ أبي إياس سلمة بن عمرو بن الأكوع رضي الله عنه ، أن رجلاً أكل عند رسول الله صلى الله عليه وسلم بشماله فقال‏:‏ ‏\"‏كل بيمينك‏\"‏ قال‏:‏ لا أستطيع‏.‏ قال‏:‏ ‏\"‏ لا استطعت‏\"‏ ما منعه إلا الكبر، فما رفعها إلى فيه ‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "299",
+      "chapterTitle": "- باب كراهة المشي في نعل واحدة أو خف واحد لغير عذر وكراهة لبس النعل والخف قائمًا لغير عذر",
+      "urn": 1716410,
+      "body": "<p>- وعن جابر رضي الله عنه أن رسول الله صلى الله عليه وسلم نهى أن ينتعل الرجل قائمًا‏\"‏‏.‏ ((رواه أبو داود بإسناد حسن ))</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "299",
+      "chapterTitle": "Makruh Memakai Sebelah Kasut atau Stoking",
+      "urn": 1716410,
+      "body": "<p>Jabir (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) melarang seseorang memakai (mengikat) kasutnya sambil berdiri. [Abu Dawud dengan sanad yang baik].</p>",
       "grades": []
     }
   ]
