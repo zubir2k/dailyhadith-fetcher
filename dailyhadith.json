@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "305.00",
-  "hadithNumber": "1682",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "490",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "305",
-      "chapterTitle": "Prohibition of Drawing Portraits",
-      "urn": 1624830,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) saying, \"Those who will receive the most severe punishment from Allah on the Day of Resurrection will be painters (of living objects).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1604870,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: The family of Muhammad (ﷺ) never ate to the fill the bread of barley for two successive days until he died.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration is: 'Aishah (May Allah be pleased with her) said: Never did the family of Muhammad (ﷺ) eat to the fill, since their arrival to Al-Madinah, the bread of wheat for three successive nights until his death.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "305",
-      "chapterTitle": "- باب تحريم تصوير الحيوان في بساط أو حجر أو ثوب أو درهم أو مخدة أو دينار أو وسادة وغير ذلك وتحريم اتخاذ الصور في حائط وسقف وستر وعمامة وثوب ونحوها والأمر بإتلاف الصورة",
-      "urn": 1716720,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إن أشد الناس عذابًا يوم القيامة المصورون‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1704860,
+      "body": "<p>- وعن عائشة، رضي الله عنها ، قالت‏:‏ ما شبع آل محمد، صلى الله عليه وسلم ، من خبز شعير يومين متتابعين حتى قبض‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nوفي رواية‏:‏ ما شبع آل محمد، صلى الله عليه وسلم ، منذ قدم المدينة من طعام البر ثلاث ليال تباعاً حتى قبض‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "305",
-      "chapterTitle": "Larangan Melukis Potret",
-      "urn": 1716720,
-      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda, \"Mereka yang akan menerima azab yang paling berat daripada Allah pada Hari Kiamat adalah para pelukis (makhluk bernyawa).\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Keutamaan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
+      "urn": 1704860,
+      "body": "<p>Aishah (semoga Allah merahmatinya) melaporkan: Keluarga Muhammad (ﷺ) tidak pernah makan roti barli sehingga kenyang selama dua hari berturut-turut sehingga baginda wafat. [Al-Bukhari dan Muslim]. Satu lagi riwayat menyatakan: Aishah (semoga Allah merahmatinya) berkata: Sejak kedatangan mereka ke Al-Madinah, keluarga Muhammad (ﷺ) tidak pernah makan roti gandum sehingga kenyang selama tiga malam berturut-turut sehingga baginda wafat.</p>",
       "grades": []
     }
   ]
