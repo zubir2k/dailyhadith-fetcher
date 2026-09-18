@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "293.00",
-  "hadithNumber": "1636",
+  "bookNumber": "8",
+  "chapterId": "230.00",
+  "hadithNumber": "1263",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "293",
-      "chapterTitle": "Prohibition of following the Manners of Satan and Disbelievers",
-      "urn": 1624370,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) as saying: \"Jews and Christians do not dye their hair, so act differently from them.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "230",
+      "chapterTitle": "The Desirability of Observing Three Days of Fasting in Every Month",
+      "urn": 1623070,
+      "body": "<p>Qatadah bin Milhan (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) directed us to observe Saum (fasting) on the thirteenth, fourteenth and fifteenth of the (lunar) month.<br/><br/><b>[Abu Dawud]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "293",
-      "chapterTitle": "- باب النهي عن التشبه بالشيطان والكفار",
-      "urn": 1716260,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن اليهود والنصارى لا يصبغون، فخالفوهم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ المُرَادُ: خِضَابُ شَعْرِ اللِّحْيةِ والرَّأسِ الأبْيضِ بِصُفْرةٍ أوْ حُمْرةٍ، وأمَّا السَّوادُ، فَمنْهيُّ عَنْهُ كَما سَنَذْكُرُ في الْباب بعْدَهُ، إنْ شَاءَ اللَّه تَعَالَى.</p>",
+      "chapterNumber": "230",
+      "chapterTitle": "- باب استحباب صوم ثلاثة أيام من كل شهر‏:",
+      "urn": 1712530,
+      "body": "<p>- وعن قتادة بن ملحان، رضي الله عنه، قال‏:‏ كان رسول الله صلى الله عليه وسلم يأمرنا بصيام أيام البيض‏:‏ ثلاث عشرة، وأربع شعرة وخمس عشرة‏.‏ ‏(‏‏(‏رواه أبو داود‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "293",
-      "chapterTitle": "Larangan mencontohi akhlak Syaitan dan orang-orang kafir.",
-      "urn": 1716260,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda: \"Kaum Yahudi dan Nasrani tidak mewarnakan rambut mereka, maka berlainanlah kamu daripada mereka.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "230",
+      "chapterTitle": "Kelebihan Berpuasa Tiga Hari Setiap Bulan",
+      "urn": 1712530,
+      "body": "<p>Qatadah bin Milhan (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) mengarahkan kami untuk berpuasa pada hari ketiga belas, keempat belas dan kelima belas dalam bulan (qamari).[Abu Dawud].</p>",
       "grades": []
     }
   ]
