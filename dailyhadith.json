@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "100.00",
-  "hadithNumber": "729",
+  "bookNumber": "introduction",
+  "chapterId": "45.00",
+  "hadithNumber": "362",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "100",
-      "chapterTitle": "Saying Bismillah Before and Al-Hamdulillah After Eating",
-      "urn": 1607170,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) saying, \"If a person mentions the Name of Allah upon entering his house or eating, Satan says, addressing his followers: 'You will find no where to spend the night and no dinner.' But if he enters without mentioning the Name of Allah, Satan says (to his followers); 'You have found (a place) to spend the night in, and if he does not mention the Name of Allah at the time of eating, Satan says: 'You have found (a place) to spend the night in as well as food.\"'<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "45",
+      "chapterTitle": "Visiting the Pious Persons, loving them and adoption of their company",
+      "urn": 1603580,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) saying, \"Whosoever visits an ailing person or a brother of his to seek the Pleasure of Allah, an announcer (angel) calls out: 'May you be happy, may your walking be blessed, and may you be awarded a dignified position in Jannah\".<br/><br/><b>[At- Tirmidhi, who categorized it as Hadith Hasan]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "100",
-      "chapterTitle": "- باب التسمية في أوله والحمد في آخره",
-      "urn": 1707250,
-      "body": "<p>- وعن جابر، رضى الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إذا دخل الرجل بيته، فذكر الله تعالى عند دخوله وعند طعامه، قال الشيطان لأصحابه‏:‏ لا مبيت لكم ولا عشاء، وإذا دخل ، فلم يذكر الله تعالى عند دخوله، قال الشيطان‏:‏ أدركتم المبيت؛ وإذا لم يذكر الله تعالى عند طعامه قال‏:‏ أدركتم المبيت والعشاء‏\"‏ ‏. ((رواه مسلم))</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "100",
-      "chapterTitle": "Mengucapkan Bismillah Sebelum dan Al-Hamdulillah Selepas Makan",
-      "urn": 1707250,
-      "body": "<p>Jabir (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Jika seseorang menyebut nama Allah ketika memasuki rumahnya atau ketika makan, Syaitan akan berkata kepada pengikut-pengikutnya: 'Kamu tidak akan mendapat tempat untuk bermalam dan tiada makan malam.' Akan tetapi, jika dia masuk tanpa menyebut nama Allah, Syaitan akan berkata (kepada pengikut-pengikutnya): 'Kamu telah mendapat tempat untuk bermalam,' dan jika dia tidak menyebut nama Allah ketika makan, Syaitan akan berkata: 'Kamu telah mendapat tempat untuk bermalam dan juga makanan.'\" [Muslim].</p>",
+      "chapterNumber": "45",
+      "chapterTitle": "- باب زيارة أهل الخير ومجالستهم وصحبتهم ومحبتهم وطلب زيارتهم والدعاء منهم وزيارة المواضع الفاضلة",
+      "urn": 1703580,
+      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من عاد مريضًا أو زار أخًا له في الله، ناداه منادٍ، بأن طبت، وطاب ممشاك، وتبوأت من الجنة منزلاً‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن ، وفي بعض النسخ غريب‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
