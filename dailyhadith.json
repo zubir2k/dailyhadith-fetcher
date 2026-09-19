@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1412",
+  "bookNumber": "introduction",
+  "chapterId": "32.00",
+  "hadithNumber": "256",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612790,
-      "body": "<p>Abu Dharr (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said to me, \"Shall I tell you the expression that is most loved by Allah?\" It is 'Subhan-Allahi wa bihamdihi' (Allah is free from imperfection and His is the praise)'.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "Superiority of Poor, Weak and unrenowned Muslims",
+      "urn": 1602530,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A black woman (or probably a young man) used to clean the mosque. Messenger of Allah (ﷺ) missed her (or him) and asked about her (or him). He was told that she (or he) had died. He (ﷺ) said, \"Why did you not inform me?\" (It seemed as if) they (Companions) considered the matter insignificant. Then he (ﷺ) said, \"Show me her (or his) grave.\" When it was shown to him, he offered (Janazah-funeral) prayer over it and said, \"These graves cover those in them with darkness, and Allah illumines them for the inmates as a result of my supplication for them\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714020,
-      "body": "<p>- وعن أبي ذر رضي الله عنه قال‏:‏ قال لي رسول صلى الله عليه وسلم‏:‏ ‏\"‏ألا أخبرك بأحب الكلام إلى الله‏؟‏ إن أحب الكلام إلى الله‏:‏ سبحان الله وبحمده‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "- باب فضل ضعفة المسلمين والفقراء الخاملين",
+      "urn": 1702550,
+      "body": "<p>- وعنه أن امرأة سوداء كانت تقم المسجد، أو شابا، ففقدها، رسول الله صلى الله عليه وسلم، فسأل عنها أو عنه، فقالوا‏:‏ مات‏.‏ قال‏:‏ ‏\"‏ أفلا كنتم آذنتموني‏\"‏ فكأنهم صغروا أمرها، أو أمره، فقال‏:‏ ‏\"‏ دلوني على قبره‏\"‏ فدلوه فصلى عليه، ثم قال‏:‏ ‏\"‏ إن هذه القبور مملوءة ظلمة على أهلها، وإن الله تعالى ينورها لهم بصلاتي عليهم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ <a href=\"javascript:opencomment('‏‏قوله‏:‏ ‏ ‏تَقُم‏ ‏ هو بفتح التاء وضم القاف‏:‏ أي تكنس‏:‏ ‏ ‏والقمامة‏ ‏‏:‏ الكناسة‏.‏ ‏ ‏آذنتموني‏ ‏ بمد الهمزة‏:‏ أي‏:‏ أعلمتموني‏ ‏')\">(23)</a></p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Zikir kepada Allah",
-      "urn": 1714020,
-      "body": "<p>Abu Dharr (Semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda kepadaku, \"Mahukah aku beritahu kamu kalimah yang paling dicintai oleh Allah? Iaitu 'Subhanallahi wa bihamdihi' (Maha Suci Allah dan segala puji bagi-Nya)'.\"[Muslim].</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "Keutamaan umat Islam yang miskin, lemah dan tidak dikenali.",
+      "urn": 1702550,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Seorang wanita berkulit hitam (atau mungkin seorang pemuda) sering membersihkan masjid. Rasulullah (ﷺ) menyedari ketiadaannya dan bertanya tentangnya. Beliau diberitahu bahawa dia telah meninggal dunia. Baginda (ﷺ) bersabda, \"Mengapa kamu tidak memberitahu aku?\" (Seolah-olah) para Sahabat menganggap perkara itu remeh. Kemudian Baginda (ﷺ) bersabda, \"Tunjukkan kepadaku kuburnya.\" Apabila ditunjukkan kepadanya, Baginda menunaikan solat jenazah di atasnya dan bersabda, \"Kubur-kubur ini menyelubungi penghuninya dengan kegelapan, dan Allah menerangi mereka hasil daripada doa yang aku panjatkan untuk mereka.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
