@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "32.00",
-  "hadithNumber": "256",
+  "bookNumber": "3",
+  "chapterId": "117.00",
+  "hadithNumber": "785",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "32",
-      "chapterTitle": "Superiority of Poor, Weak and unrenowned Muslims",
-      "urn": 1602530,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A black woman (or probably a young man) used to clean the mosque. Messenger of Allah (ﷺ) missed her (or him) and asked about her (or him). He was told that she (or he) had died. He (ﷺ) said, \"Why did you not inform me?\" (It seemed as if) they (Companions) considered the matter insignificant. Then he (ﷺ) said, \"Show me her (or his) grave.\" When it was shown to him, he offered (Janazah-funeral) prayer over it and said, \"These graves cover those in them with darkness, and Allah illumines them for the inmates as a result of my supplication for them\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "117",
+      "chapterTitle": "The Excellence of Wearing White Clothes and the Permissibility of Wearing Red, Green, Yellow and Black Clothes Made from Cotton and Linen but not Silk",
+      "urn": 1607560,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: The body of Messenger of Allah (ﷺ) was shrouded in three white Yemeni cotton garments, among which was neither a gown nor a turban.<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "32",
-      "chapterTitle": "- باب فضل ضعفة المسلمين والفقراء الخاملين",
-      "urn": 1702550,
-      "body": "<p>- وعنه أن امرأة سوداء كانت تقم المسجد، أو شابا، ففقدها، رسول الله صلى الله عليه وسلم، فسأل عنها أو عنه، فقالوا‏:‏ مات‏.‏ قال‏:‏ ‏\"‏ أفلا كنتم آذنتموني‏\"‏ فكأنهم صغروا أمرها، أو أمره، فقال‏:‏ ‏\"‏ دلوني على قبره‏\"‏ فدلوه فصلى عليه، ثم قال‏:‏ ‏\"‏ إن هذه القبور مملوءة ظلمة على أهلها، وإن الله تعالى ينورها لهم بصلاتي عليهم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ <a href=\"javascript:opencomment('‏‏قوله‏:‏ ‏ ‏تَقُم‏ ‏ هو بفتح التاء وضم القاف‏:‏ أي تكنس‏:‏ ‏ ‏والقمامة‏ ‏‏:‏ الكناسة‏.‏ ‏ ‏آذنتموني‏ ‏ بمد الهمزة‏:‏ أي‏:‏ أعلمتموني‏ ‏')\">(23)</a></p>",
+      "chapterNumber": "117",
+      "chapterTitle": "- باب استحباب الثوب الأبيض وجواز الأحمر والأخضر والأصفر والأسود وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير",
+      "urn": 1707790,
+      "body": "<p>- وعن عائشة رضى الله عنها قالت‏:‏ كفن رسول الله صلى الله عليه وسلم في ثلاثة أثواب بيض سحولية من كرسف، ليس فيها قميص ولا عمامة‏.((متفق عليه)) \n‏ ‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "32",
-      "chapterTitle": "Keutamaan umat Islam yang miskin, lemah dan tidak dikenali.",
-      "urn": 1702550,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Seorang wanita berkulit hitam (atau mungkin seorang pemuda) sering membersihkan masjid. Rasulullah (ﷺ) menyedari ketiadaannya dan bertanya tentangnya. Beliau diberitahu bahawa dia telah meninggal dunia. Baginda (ﷺ) bersabda, \"Mengapa kamu tidak memberitahu aku?\" (Seolah-olah) para Sahabat menganggap perkara itu remeh. Kemudian Baginda (ﷺ) bersabda, \"Tunjukkan kepadaku kuburnya.\" Apabila ditunjukkan kepadanya, Baginda menunaikan solat jenazah di atasnya dan bersabda, \"Kubur-kubur ini menyelubungi penghuninya dengan kegelapan, dan Allah menerangi mereka hasil daripada doa yang aku panjatkan untuk mereka.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "117",
+      "chapterTitle": "Keutamaan Memakai Pakaian Putih dan Keharusan Memakai Pakaian Berwarna Merah, Hijau, Kuning dan Hitam yang Diperbuat daripada Kapas dan Linen tetapi Bukan Sutera.",
+      "urn": 1707790,
+      "body": "<p>Aishah (semoga Allah meredainya) meriwayatkan: Jenazah Rasulullah (ﷺ) telah dikafankan dengan tiga helai kain kapas putih dari Yaman, yang mana di antaranya bukanlah jubah mahupun serban. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
