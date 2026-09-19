@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "147.00",
-  "hadithNumber": "912",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1412",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "147",
-      "chapterTitle": "Supplication when one is disappointed about his Life",
-      "urn": 1608540,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: I saw the Messenger of Allah (ﷺ) when he was at the point of death. He had a drinking bowl with water in it. He would dip his hand into the bowl, and wipe his face. Then he would supplicate, \"O Allah! Help me over pangs and agony of death.\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612790,
+      "body": "<p>Abu Dharr (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said to me, \"Shall I tell you the expression that is most loved by Allah?\" It is 'Subhan-Allahi wa bihamdihi' (Allah is free from imperfection and His is the praise)'.\"<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "147",
-      "chapterTitle": "باب ما يقوله من آيس من حياته",
-      "urn": 1709050,
-      "body": "<p>- وعنها قالت‏:‏ رأيت رسول الله صلى الله عليه وسلم وهو بالموت عنده قدح فيه ماء وهو يدخل يده في القدح، ثم يمسح وجهه بالماء، ثم يقول‏:‏ ‏\"‏اللهم أعني علي غمرات الموت وسكرات الموت‏\"‏ ‏(‏‏(‏رواه الترمذي‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714020,
+      "body": "<p>- وعن أبي ذر رضي الله عنه قال‏:‏ قال لي رسول صلى الله عليه وسلم‏:‏ ‏\"‏ألا أخبرك بأحب الكلام إلى الله‏؟‏ إن أحب الكلام إلى الله‏:‏ سبحان الله وبحمده‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "147",
-      "chapterTitle": "Doa apabila seseorang merasa kecewa dengan kehidupannya",
-      "urn": 1709050,
-      "body": "<p>Aishah (Semoga Allah meredhainya) meriwayatkan: Aku telah melihat Rasulullah (ﷺ) ketika baginda berada dalam saat-saat sakaratul maut. Baginda mempunyai sebuah bekas minuman yang berisi air. Baginda memasukkan tangannya ke dalam bekas tersebut, lalu menyapu wajahnya. Kemudian baginda berdoa, \"Ya Allah! Bantulah aku menghadapi kepedihan dan peritnya sakaratul maut.\" [At-Tirmidhi].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "Kelebihan Zikir kepada Allah",
+      "urn": 1714020,
+      "body": "<p>Abu Dharr (Semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda kepadaku, \"Mahukah aku beritahu kamu kalimah yang paling dicintai oleh Allah? Iaitu 'Subhanallahi wa bihamdihi' (Maha Suci Allah dan segala puji bagi-Nya)'.\"[Muslim].</p>",
       "grades": []
     }
   ]
