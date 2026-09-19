@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "193.00",
-  "hadithNumber": "1075",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1814",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "193",
-      "chapterTitle": "Strict Orders for Observance of Obligatory Salat",
-      "urn": 1621180,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said, \"Islam is based on five (pillars): testifying that there is no true god except Allah and that Muhammad (ﷺ) is His slave and Messenger; performing of Salat (Iqamat-as-Salat); the payment of Zakat; performing Hajj (pilgrimage) to the House <b>[of Allah (Ka'bah)]</b>; and Saum (fasting) during the month of Ramadan.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616040,
+      "body": "<p>'Imran bin Hussain (May Allah be pleased with them) reported: I heard the Messenger of Allah (ﷺ) saying, \"Between time of the creation of Adam and the Resurrection Day, there is nothing greater than the mischief of Dajjal (the Antichrist).\"<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "193",
-      "chapterTitle": "- باب الأمر بالمحافظة على الصلوات المكتوبات والنهي الأكيد والوعيد الشديد في تركهن‏:‏",
-      "urn": 1710650,
-      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ بني الإسلام على خمس‏:‏ شهادة أن لا إله إلا الله وأن محمدًا رسول الله، وإقام الصلاة، وإيتاء الزكاة، وحج البيت، وصوم رمضان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718030,
+      "body": "<p>- وعن عمران بن حصين رضي الله عنهما قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ما بين خلق آدم إلى قيام الساعة أمر أكبر من الدجال‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "193",
-      "chapterTitle": "Perintah Tegas untuk Menunaikan Solat Fardu",
-      "urn": 1710650,
-      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Islam itu dibina di atas lima (rukun): bersaksi bahawa tiada Tuhan melainkan Allah dan bahawa Muhammad (ﷺ) adalah hamba dan Rasul-Nya; mendirikan solat; menunaikan zakat; menunaikan haji ke Baitullah [Kaabah]; dan berpuasa pada bulan Ramadan.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718030,
+      "body": "<p>'Imran bin Hussain (Semoga Allah meredai mereka) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Antara waktu penciptaan Adam dan Hari Kiamat, tidak ada sesuatu yang lebih besar daripada fitnah Dajjal.\"[Muslim].</p>",
       "grades": []
     }
   ]
