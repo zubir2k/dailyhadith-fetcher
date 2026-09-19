@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "3",
-  "chapterId": "117.00",
-  "hadithNumber": "785",
+  "bookNumber": "8",
+  "chapterId": "193.00",
+  "hadithNumber": "1075",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "117",
-      "chapterTitle": "The Excellence of Wearing White Clothes and the Permissibility of Wearing Red, Green, Yellow and Black Clothes Made from Cotton and Linen but not Silk",
-      "urn": 1607560,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: The body of Messenger of Allah (ﷺ) was shrouded in three white Yemeni cotton garments, among which was neither a gown nor a turban.<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "193",
+      "chapterTitle": "Strict Orders for Observance of Obligatory Salat",
+      "urn": 1621180,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said, \"Islam is based on five (pillars): testifying that there is no true god except Allah and that Muhammad (ﷺ) is His slave and Messenger; performing of Salat (Iqamat-as-Salat); the payment of Zakat; performing Hajj (pilgrimage) to the House <b>[of Allah (Ka'bah)]</b>; and Saum (fasting) during the month of Ramadan.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "117",
-      "chapterTitle": "- باب استحباب الثوب الأبيض وجواز الأحمر والأخضر والأصفر والأسود وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير",
-      "urn": 1707790,
-      "body": "<p>- وعن عائشة رضى الله عنها قالت‏:‏ كفن رسول الله صلى الله عليه وسلم في ثلاثة أثواب بيض سحولية من كرسف، ليس فيها قميص ولا عمامة‏.((متفق عليه)) \n‏ ‏</p>",
+      "chapterNumber": "193",
+      "chapterTitle": "- باب الأمر بالمحافظة على الصلوات المكتوبات والنهي الأكيد والوعيد الشديد في تركهن‏:‏",
+      "urn": 1710650,
+      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ بني الإسلام على خمس‏:‏ شهادة أن لا إله إلا الله وأن محمدًا رسول الله، وإقام الصلاة، وإيتاء الزكاة، وحج البيت، وصوم رمضان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "117",
-      "chapterTitle": "Keutamaan Memakai Pakaian Putih dan Keharusan Memakai Pakaian Berwarna Merah, Hijau, Kuning dan Hitam yang Diperbuat daripada Kapas dan Linen tetapi Bukan Sutera.",
-      "urn": 1707790,
-      "body": "<p>Aishah (semoga Allah meredainya) meriwayatkan: Jenazah Rasulullah (ﷺ) telah dikafankan dengan tiga helai kain kapas putih dari Yaman, yang mana di antaranya bukanlah jubah mahupun serban. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "193",
+      "chapterTitle": "Perintah Tegas untuk Menunaikan Solat Fardu",
+      "urn": 1710650,
+      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Islam itu dibina di atas lima (rukun): bersaksi bahawa tiada Tuhan melainkan Allah dan bahawa Muhammad (ﷺ) adalah hamba dan Rasul-Nya; mendirikan solat; menunaikan zakat; menunaikan haji ke Baitullah [Kaabah]; dan berpuasa pada bulan Ramadan.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
