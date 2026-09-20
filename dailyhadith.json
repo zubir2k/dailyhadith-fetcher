@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "264.00",
-  "hadithNumber": "1554",
+  "bookNumber": "7",
+  "chapterId": "171.00",
+  "hadithNumber": "979",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "264",
-      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
-      "urn": 1623550,
-      "body": "<p>Samurah bin Jundub (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not curse one another, invoking Curse of Allah or Wrath of Allah or the fire of Hell.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "171",
+      "chapterTitle": "Glorification of Allah by a Traveler while Ascending and Descending",
+      "urn": 1620230,
+      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: We accompanied the Prophet (ﷺ) in a journey, and when we climbed up a height, we proclaimed aloud: \"La ilaha illallah (There is no true god except Allah)\" and \"Allahu Akbar (Allah is Greatest).\" The Prophet (ﷺ) admonished us saying, \"O people, take it easy. He Whom you are calling is not deaf or absent. He is with you (i.e., by His Knowledge), He is Hearing and He is Near.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "264",
-      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
-      "urn": 1715440,
-      "body": "<p>- وعن سَمُرَة بن جُندب رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تلاعنوا بلعنة الله، ولا بغضبه، ولا بالنار‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "171",
+      "chapterTitle": "- باب تكبير المسافر إذا صعد الثنايا وشبهها وتسبيحه إذا هبط الأودية ونحوها والنهي عن المبالغة برفع الصوت بالتكبير ونحوه",
+      "urn": 1709700,
+      "body": "<p>- وعن أبي موسي الأشعري رضي الله عنه قال‏:‏ كنا مع النبي صلى الله عليه وسلم في سفر، فكنا إذا أشرفنا على واد هللنا وكبرنا وارتفعت أصواتنا، فقال النبي صلى الله عليه وسلم ‏:‏”يا أيها الناس أربعوا عل أنفسكم فإنكم لا تدعون أصم ولا غائباً‏.‏ إنه معكم ، إنه سميع قريب‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏\nأربعوا” بفتح الباء الموحدة أي ‏:‏ أرفقوا بأنفسكم‏.</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "264",
-      "chapterTitle": "Larangan melaknat manusia atau haiwan tertentu.",
-      "urn": 1715440,
-      "body": "<p>Samurah bin Jundub (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Janganlah kamu saling melaknat antara satu sama lain, dengan menyebut laknat Allah, kemurkaan Allah, atau api neraka.\" [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "171",
+      "chapterTitle": "Tasbih kepada Allah oleh seorang musafir ketika naik dan turun",
+      "urn": 1709700,
+      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) melaporkan: Kami menemani Nabi (ﷺ) dalam suatu perjalanan, dan apabila kami mendaki suatu tempat tinggi, kami melaungkan dengan kuat: \"La ilaha illallah (Tiada Tuhan melainkan Allah)\" dan \"Allahu Akbar (Allah Maha Besar).\" Nabi (ﷺ) menasihati kami dengan bersabda, \"Wahai sekalian manusia, berlemah-lembutlah. Zat yang kamu seru itu tidaklah pekak mahupun jauh. Dia sentiasa bersamamu (iaitu dengan ilmu-Nya), Dia Maha Mendengar dan Dia Maha Dekat.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
