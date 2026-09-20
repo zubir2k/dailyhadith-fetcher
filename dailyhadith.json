@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "56.00",
-  "hadithNumber": "512",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1166",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "56",
-      "chapterTitle": "Excellence of Simple Living and being Content with Little",
-      "urn": 1605090,
-      "body": "<p>Fadalah bin 'Ubaid Al-Ansari (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) say: \"Happiness is due to him who is guided to Islam and possesses provision that suffices him for his day and remains content.\"<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622100,
+      "body": "<p>'Abdullah bin Salam (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"O people, promote the greetings, feed (the poor and needy) and perform Salat when others are asleep so that you will enter Jannah safely.\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "56",
-      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
-      "urn": 1705080,
-      "body": "<p>-وعن أبي محمد فضاله بن عبيد الأنصاري رضي الله عنه ، أنه سمع رسول الله صلى الله عليه وسلم يقول ‏:‏ ‏\"‏طوبى لمن هدي إلى الإسلام ، وكان عيشه كفافا ،وقنع ‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏حديث حسن صحيح ‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711560,
+      "body": "<p>- وعن عبد الله بن سلام، رضي الله عنه ، أن النبي، صلى الله عليه وسلم ،قال‏:‏ ‏\"‏أيها الناس أفشوا السلام، وأطعموا الطعام، وصلوا بالليل والناس نيام، تدخلوا الجنة بسلام‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "56",
-      "chapterTitle": "Kelebihan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
-      "urn": 1705080,
-      "body": "<p>Fadalah bin 'Ubaid Al-Ansari (Semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Beruntunglah bagi sesiapa yang diberi petunjuk kepada Islam, memiliki rezeki yang mencukupi untuk sehari, dan sentiasa merasa cukup (redha).\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan Sahih].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Kelebihan Solat Malam",
+      "urn": 1711560,
+      "body": "<p>'Abdullah bin Salam (Semoga Allah merahmatinya) melaporkan: Nabi (ﷺ) bersabda, \"Wahai sekalian manusia, sebarkanlah salam, berilah makan (orang miskin dan fakir) dan dirikanlah solat ketika orang lain sedang tidur supaya kamu akan memasuki syurga dengan selamat.\"[At-Tirmidhi].</p>",
       "grades": []
     }
   ]
