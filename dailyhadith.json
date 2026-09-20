@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "73.00",
-  "hadithNumber": "630",
+  "bookNumber": "17",
+  "chapterId": "264.00",
+  "hadithNumber": "1554",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "73",
-      "chapterTitle": "Good Conduct",
-      "urn": 1606240,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The dearest and nearest among you to me on the Day of Resurrection will be one who is the best of you in manners; and the most abhorrent among you to me and the farthest of you from me will be the pompous, the garrulous, and Al-Mutafaihiqun.\" The Companions asked him: \"O Messenger of Allah! We know about the pompous and the garrulous, but we do not know who Al-Mutafaihiqun are.\" He replied: \"The arrogant people.\"<br/><br/><b>[At-Tirmidhi, who classified it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "264",
+      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
+      "urn": 1623550,
+      "body": "<p>Samurah bin Jundub (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not curse one another, invoking Curse of Allah or Wrath of Allah or the fire of Hell.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "73",
-      "chapterTitle": "- باب حسن الخلق",
-      "urn": 1706260,
-      "body": "<p>- وعن جابر رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “إن من أحبكم إلي، وأقربكم منى مجلساً يوم القيامة أحاسنكم أخلاقاً، وإن أبغضكم إلي وأبعدكم مني يوم القيامة، الثرثارون والمتشدقون والمتفيهقون” قالوا‏:‏ يا رسول الله قد علمنا “الثرثارون والمتشدون” فما المتفيهقون‏؟‏ قال‏:‏ “المتكبرون” ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏ \n<br/>\n‏\"‏الثرثار‏\"‏‏:‏ هو كثير الكلام تكلفاً‏.‏ ‏\"‏والمتشدق‏\"‏‏:‏ المتطاول على الناس بكلامه، ويتكلم بملء فيه تصافحاً وتعظيماً لكلامه؛ “والمتفيهق” ‏:‏أصله من الفهق، وهو الامتلاء، وهو الذى يملأ فمه بالكلام، ويتوسع فيه ويغرب به تكبراً واتفاعاً، وإظهاراً للفضيلة على غيره‏.‏\n<br/>\nوروى الترمذي عن عبد الله بن المبارك رحمه الله في تفسير حسن الخلق قال‏:‏ هو طلاقة الوجه، وبذل المعروف، وكف الأذى‏.‏</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
+      "urn": 1715440,
+      "body": "<p>- وعن سَمُرَة بن جُندب رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تلاعنوا بلعنة الله، ولا بغضبه، ولا بالنار‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "73",
-      "chapterTitle": "Akhlak yang Mulia",
-      "urn": 1706260,
-      "body": "<p>Jabir (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Orang yang paling dicintai dan paling dekat denganku di antara kamu pada Hari Kebangkitan adalah orang yang paling baik akhlaknya; dan orang yang paling aku benci serta paling jauh dariku di antara kamu adalah orang yang berlagak, orang yang banyak bercakap, dan Al-Mutafaihiqun.\" Para sahabat bertanya kepada baginda: \"Wahai Rasulullah! Kami mengetahui tentang orang yang berlagak dan orang yang banyak bercakap, tetapi kami tidak tahu siapakah Al-Mutafaihiqun itu.\" Baginda menjawab: \"Orang-orang yang angkuh.\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "Larangan melaknat manusia atau haiwan tertentu.",
+      "urn": 1715440,
+      "body": "<p>Samurah bin Jundub (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Janganlah kamu saling melaknat antara satu sama lain, dengan menyebut laknat Allah, kemurkaan Allah, atau api neraka.\" [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
