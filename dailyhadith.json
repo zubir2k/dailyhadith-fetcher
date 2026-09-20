@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1814",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "512",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616040,
-      "body": "<p>'Imran bin Hussain (May Allah be pleased with them) reported: I heard the Messenger of Allah (ﷺ) saying, \"Between time of the creation of Adam and the Resurrection Day, there is nothing greater than the mischief of Dajjal (the Antichrist).\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1605090,
+      "body": "<p>Fadalah bin 'Ubaid Al-Ansari (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) say: \"Happiness is due to him who is guided to Islam and possesses provision that suffices him for his day and remains content.\"<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718030,
-      "body": "<p>- وعن عمران بن حصين رضي الله عنهما قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ما بين خلق آدم إلى قيام الساعة أمر أكبر من الدجال‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1705080,
+      "body": "<p>-وعن أبي محمد فضاله بن عبيد الأنصاري رضي الله عنه ، أنه سمع رسول الله صلى الله عليه وسلم يقول ‏:‏ ‏\"‏طوبى لمن هدي إلى الإسلام ، وكان عيشه كفافا ،وقنع ‏\"‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏حديث حسن صحيح ‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718030,
-      "body": "<p>'Imran bin Hussain (Semoga Allah meredai mereka) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Antara waktu penciptaan Adam dan Hari Kiamat, tidak ada sesuatu yang lebih besar daripada fitnah Dajjal.\"[Muslim].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Kelebihan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
+      "urn": 1705080,
+      "body": "<p>Fadalah bin 'Ubaid Al-Ansari (Semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Beruntunglah bagi sesiapa yang diberi petunjuk kepada Islam, memiliki rezeki yang mencukupi untuk sehari, dan sentiasa merasa cukup (redha).\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan Sahih].</p>",
       "grades": []
     }
   ]
