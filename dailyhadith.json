@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "231.00",
-  "hadithNumber": "1267",
+  "bookNumber": "introduction",
+  "chapterId": "11.00",
+  "hadithNumber": "95",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "231",
-      "chapterTitle": "The Merit of Providing something to the Person Observing Saum (Fasting) for breaking the Fast",
-      "urn": 1623110,
-      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) came to visit Sa'd bin 'Ubadah (May Allah be pleased with him) who presented bread and olive oil to him. The Prophet (ﷺ) ate it and said, \"The observers of fast have broken their fast with you (this is the literal translation, but the meaning is: 'May Allah reward you for providing a fasting people with food to break their fast'); the pious people have eat your food and the angels invoked blessings on you.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "11",
+      "chapterTitle": "The Struggle (in the Cause of Allah)",
+      "urn": 1600940,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah the Exalted has said: 'I will declare war against him who shows hostility to a pious worshipper of Mine. And the most beloved thing with which My slave comes nearer to Me is what I have enjoined upon him; and My slave keeps on coming closer to Me through performing Nawafil (prayer or doing extra deeds besides what is obligatory) till I love him. When I love him I become his hearing with which he hears, his seeing with which he sees, his hand with which he strikes, and his leg with which he walks; and if he asks (something) from Me, I give him, and if he asks My Protection (refuge), I protect him\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "231",
-      "chapterTitle": "- باب فضل من فطر صائمًا، وفضل الصائم الذي يؤكل عنده ودعاء الآكل للمأكول عنده‏:",
-      "urn": 1712570,
-      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم جاء إلى سعد بن عبادة رضي الله عنه فجاء بخبز وزيت، فأكل ثم قال النبي صلى الله عليه وسلم‏:‏ ‏\"‏أفطر عندكم الصائمون وأكل طعامكم الأبرار وصلت عليكم الملائكة‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "- باب المجاهدة",
+      "urn": 1700940,
+      "body": "<p>- فالأول‏:‏ عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إن الله تعالى قال‏:‏ من عادى لي وليا فقد آذنته بالحرب‏.‏ وما تقرب إلي عبدي بشيء أحب إلي مما افترضت عليه، وما يزال عبدي يتقرب إلي بالنوافل حتى أحبه، فإذا أحببته كنت سمعه الذي يسمع به، وبصره الذي يبصر به، ويده التي يبطش بها، ورجله التي يمشي بها، وإن سألني أعطيته؛ ولئن استعاذني لأعيذنه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "231",
-      "chapterTitle": "Fadilat Memberi Sesuatu Kepada Orang Yang Berpuasa Untuk Berbuka Puasa",
-      "urn": 1712570,
-      "body": "<p>Anas (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) datang menziarahi Sa'd bin 'Ubadah (semoga Allah meredainya) yang telah menghidangkan roti dan minyak zaitun kepadanya. Nabi (ﷺ) memakannya lalu bersabda, \"Orang-orang yang berpuasa telah berbuka puasa bersamamu; orang-orang yang bertaqwa telah memakan makananmu dan para malaikat telah mendoakan keberkatan bagimu.\"[Abu Dawud].</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "Perjuangan (di jalan Allah)",
+      "urn": 1700940,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah Yang Maha Tinggi telah berfirman: 'Aku akan memerangi sesiapa yang memusuhi hamba-Ku yang soleh. Dan perkara yang paling dicintai oleh hamba-Ku untuk mendekatkan dirinya kepada-Ku adalah apa yang telah Aku wajibkan ke atasnya; dan hamba-Ku terus mendekatkan diri kepada-Ku dengan mengerjakan amalan-amalan Nawafil (solat sunat atau melakukan amalan tambahan selain yang wajib) sehingga Aku mencintainya. Apabila Aku telah mencintainya, Aku menjadi pendengarannya yang dengannya dia mendengar, penglihatannya yang dengannya dia melihat, tangannya yang dengannya dia memukul, dan kakinya yang dengannya dia berjalan; dan jika dia meminta sesuatu daripada-Ku, nescaya Aku akan memberinya, dan jika dia memohon perlindungan-Ku, nescaya Aku akan melindunginya'.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
