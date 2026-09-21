@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "149.00",
-  "hadithNumber": "914",
+  "bookNumber": "introduction",
+  "chapterId": "28.00",
+  "hadithNumber": "241",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "149",
-      "chapterTitle": "Permissibility of expressing feelings of agony in Serious Illness",
-      "urn": 1608547,
-      "body": "<p>Ibn Mas`ud (May Allah be pleased with him) reported: I visited the Prophet ({ﷺ) while he was suffering. I said: \"(O Messenger of Allah!) You suffer too much.'' He said, \"Yes, I suffer as much as two men of you.''\n</p>\n<p>\n<b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "Covering Faults of the Muslims",
+      "urn": 1602380,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Every one of my followers will be forgiven except those who expose (openly) their wrongdoings. An example of this is that of a man who commits a sin at night which Allah has covered for him, and in the morning, he would say (to people): \"I committed such and such sin last night,' while Allah had kept it a secret. During the night Allah has covered it up but in the morning he tears up the cover provided by Allah Himself.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "149",
-      "chapterTitle": "باب جواز قول المريض‏:‏ أنا وجع أو شديد الوجع أو موعوك، أو وارأساه ونحو ذلك، وبيان أنه لا كراهة في ذلك إذا لم يكن علي التسخط وإظهار الجزع",
-      "urn": 1709070,
-      "body": "<p>- عن بن مسعود رضي الله عنه قال‏:‏ دخلت علي النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم الله عليه وسلم وهو يوعك، فمسسته، فقلت‏:‏ إنك لتوعك وعكاً شديداً فقال‏:‏ ‏\"‏إني أوعك كما يوعك رجلان منكم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "- باب ستر عورات المسلمين والنهي عن إشاعتها لغير ضرورة",
+      "urn": 1702400,
+      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏كل أمتي معافًى إلا المجاهرين، وإن من المجاهرة أن يعمل الرجل بالليل عملاً، ثم يصبح وقد ستره الله عليه فيقول‏:‏ يا فلان عملت البارحة كذا وكذا، وقد بات يستره ربه، ويصبح يكشف ستر الله عنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "149",
-      "chapterTitle": "Keharusan meluahkan perasaan kesakitan ketika sakit yang berat.",
-      "urn": 1709070,
-      "body": "<p>Ibn Mas`ud (semoga Allah meredainya) meriwayatkan: Aku menziarahi Nabi ({ﷺ) ketika Baginda sedang sakit. Aku berkata: \"(Wahai Rasulullah!) Engkau menanggung kesakitan yang sangat hebat.\" Baginda bersabda, \"Ya, sesungguhnya aku menanggung kesakitan sebagaimana dua orang daripada kamu.\"\n\n[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "Menutup Aib Kaum Muslimin",
+      "urn": 1702400,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Setiap umatku akan diampunkan kecuali mereka yang mendedahkan (secara terang-terangan) dosa-dosa mereka. Contohnya adalah seperti seorang lelaki yang melakukan dosa pada waktu malam yang telah Allah tutup baginya, namun pada waktu pagi dia berkata (kepada orang ramai): 'Aku telah melakukan dosa ini dan itu pada malam tadi,' sedangkan Allah telah merahsiakannya. Pada waktu malam Allah telah menutupnya, tetapi pada waktu pagi dia merobek selubung yang telah Allah berikan kepadanya sendiri.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
