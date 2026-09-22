@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "12",
-  "chapterId": "241.00",
-  "hadithNumber": "1378",
+  "bookNumber": "introduction",
+  "chapterId": "57.00",
+  "hadithNumber": "533",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "241",
-      "chapterTitle": "Virtues of Knowledge which is Learnt and Taught for the sake of Allah",
-      "urn": 1612450,
-      "body": "<p>Abu Musa (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The guidance and knowledge with which Allah has sent me are like abundant rain which fell on a land. A fertile part of it absorbed the water and brought forth profuse herbage and pasture; and solid ground patches which retained the water by which Allah has benefited people, who drank from it, irrigated their crops and sowed their seeds; and another sandy plane which could neither retain the water nor produce herbage. Such is the similitude of the person who becomes well-versed in the religion of Allah and receives benefit from the Message entrusted to me by Allah, so he himself has learned and taught it to others; such is also the similitude of the person who has stubbornly and ignorantly rejected Allah's Guidance with which I have been sent.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
+      "chapterNumber": "57",
+      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
+      "urn": 1605300,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who suffers poverty and seeks relief from people, he will not be relieved; but he who seeks relief from Allah Alone, he will be relieved sooner or later.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi, who classified it as Hadith Hasan]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "241",
-      "chapterTitle": "- باب فضل العلم تعلما وتعليما لله",
-      "urn": 1713680,
-      "body": "<p>- وعن أبي موسى رضي الله عنه قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏مثل ما بعثني الله به من الهدى والعلم كمثل غيث أصاب أرضًا، فكانت منها طائفة طيبة قبلت الماء فأنبتت الكلأ، والعشب الكثير وكان منها أجادب أمسكت الماء، فنفع الله بها الناس، فشربوا منها وسقوا وزرعوا، وأصاب طائفة منها أخرى إنما هي قيعان لا تمسك ماء ولا تنبت كلأ فذلك مثل من فقه في دين الله ونفعه ما بعثني الله به وعلم، ومثل من لم يرفع بذلك رأسًا ولم يقبل هدى الله الذي أرسلت به‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "57",
+      "chapterTitle": "- باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة",
+      "urn": 1705290,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من أصابته فاقة فأنزلها بالناس لم تسد فاقته، ومن أنزلها بالله، فيوشك الله له برزق عاجل أو آجل‏\"‏ \n‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏\n<br/>\n‏\"‏يوشك‏\"‏ بكسر الشين‏:‏ أي يسرع‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "241",
-      "chapterTitle": "Kelebihan ilmu yang dipelajari dan diajarkan kerana Allah",
-      "urn": 1713680,
-      "body": "<p>Abu Musa (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Hidayah dan ilmu yang Allah utuskan kepadaku adalah seperti hujan yang lebat yang turun ke atas sekeping tanah. Sebahagian daripadanya adalah tanah yang subur, yang menyerap air lalu menumbuhkan rumput-rumpai dan padang ragut yang banyak; dan sebahagian lagi adalah tanah yang keras yang dapat menampung air, lalu Allah memberi manfaat kepada manusia dengannya; mereka meminum air tersebut, menyiram tanaman, dan menanam benih mereka; dan sebahagian lagi adalah tanah rata yang berpasir yang tidak dapat menampung air dan tidak juga menumbuhkan rumput. Demikianlah perumpamaan orang yang memahami agama Allah dan mendapat manfaat daripada risalah yang Allah amanahkan kepadaku, lalu dia sendiri mempelajarinya dan mengajarkannya kepada orang lain; dan demikian juga perumpamaan orang yang dengan degil dan jahil menolak hidayah Allah yang dengannya aku diutus.\" [Al-Bukhari dan Muslim]</p>",
+      "chapterNumber": "57",
+      "chapterTitle": "Keredaan, kemuliaan diri, dan menjauhi perbuatan meminta-minta kepada sesama manusia tanpa keperluan.",
+      "urn": 1705290,
+      "body": "<p>Ibn Mas'ud (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang ditimpa kemiskinan lalu meminta pertolongan daripada manusia, dia tidak akan ditolong; tetapi sesiapa yang meminta pertolongan kepada Allah semata-mata, dia akan diberikan kelegaan lambat laun.\" [Abu Dawud dan At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
       "grades": []
     }
   ]
