@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "206.00",
-  "hadithNumber": "1142",
+  "bookNumber": "introduction",
+  "chapterId": "74.00",
+  "hadithNumber": "640",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "206",
-      "chapterTitle": "Merit of the (Optional) Duha (Forenoon) Prayer",
-      "urn": 1621860,
-      "body": "<p>Umm Hani, daughter of Abu Talib (May Allah be pleased with her) reported: I went to the Messenger of Allah (ﷺ) on the day of the conquest of Makkah. He was taking a bath at that time. When he finished the bath, he performed eight Rak'ah (of optional) prayers. This was during the Duha (forenoon).<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "74",
+      "chapterTitle": "Clemency, Tolerance and Gentleness",
+      "urn": 1606340,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: Whenever the Prophet (ﷺ) was given a choice between two matters, he would (always) choose the easier as long as it was not sinful to do so; but if it was sinful he was most strict in avoiding it. He never took revenge upon anybody for his own sake; but when Allah's Legal Bindings were outraged, he would take revenge for Allah's sake.<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "206",
-      "chapterTitle": "- باب فضل صلاة الضحى وبيان أقلها وأكثرها وأوسطها والحث على المحافظة عليها‏:‏",
-      "urn": 1711320,
-      "body": "<p>- وعن أم هانئ فاختة بنت أبي طالب رضي الله عنها قالت‏:‏ ذهبت إلى رسول الله صلى الله عليه وسلم عام الفتح فوجدته يغتسل فلما فرغ من غسله صلى ثمان ركعات، وذلك ضحى‏\"‏ ‏(‏‏(‏متفق عليه وهذا مختصر لفظ إحدى روايات مسلم‏)‏‏)‏</p>",
+      "chapterNumber": "74",
+      "chapterTitle": "- باب الحلم والأناة والرفق",
+      "urn": 1706360,
+      "body": "<p>- عن عائشة رضي الله عنها قالت‏:‏ ما خير رسول الله صلى الله عليه وسلم بين أمرين قط إلا أخذ أيسرهما، ما لم يكن إثماً، فإن كان إثماً، كان أبعد الناس منه، وما انتقم رسول الله صلى الله عليه وسلم لنفسه في شئ قط، إلا أن تنتهك حرمة الله، فينتقم لله تعالى‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "206",
-      "chapterTitle": "Kelebihan Solat Sunat Duha",
-      "urn": 1711320,
-      "body": "<p>Umm Hani binti Abu Talib (Semoga Allah merahmatinya) meriwayatkan: Aku menemui Rasulullah (ﷺ) pada hari pembukaan Makkah. Baginda sedang mandi pada waktu itu. Apabila Baginda selesai mandi, Baginda menunaikan solat lapan rakaat (solat sunat). Ini adalah pada waktu Duha. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "74",
+      "chapterTitle": "Sifat Pemaaf, Toleransi dan Kelembutan",
+      "urn": 1706360,
+      "body": "<p>Aishah (Semoga Allah meredainya) meriwayatkan: Setiap kali Rasulullah (ﷺ) diberi pilihan antara dua perkara, baginda akan sentiasa memilih yang lebih mudah selagi mana ia tidak berdosa; namun jika ia berdosa, baginda sangat tegas untuk menjauhinya. Baginda tidak pernah membalas dendam terhadap sesiapa pun demi kepentingan diri baginda sendiri; tetapi apabila hukum-hukum Allah dicabuli, baginda akan membalas dendam kerana Allah. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
