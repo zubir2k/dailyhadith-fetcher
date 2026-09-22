@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "57.00",
-  "hadithNumber": "533",
+  "bookNumber": "8",
+  "chapterId": "206.00",
+  "hadithNumber": "1142",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "57",
-      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
-      "urn": 1605300,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who suffers poverty and seeks relief from people, he will not be relieved; but he who seeks relief from Allah Alone, he will be relieved sooner or later.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi, who classified it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "206",
+      "chapterTitle": "Merit of the (Optional) Duha (Forenoon) Prayer",
+      "urn": 1621860,
+      "body": "<p>Umm Hani, daughter of Abu Talib (May Allah be pleased with her) reported: I went to the Messenger of Allah (ﷺ) on the day of the conquest of Makkah. He was taking a bath at that time. When he finished the bath, he performed eight Rak'ah (of optional) prayers. This was during the Duha (forenoon).<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "57",
-      "chapterTitle": "- باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة",
-      "urn": 1705290,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من أصابته فاقة فأنزلها بالناس لم تسد فاقته، ومن أنزلها بالله، فيوشك الله له برزق عاجل أو آجل‏\"‏ \n‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏\n<br/>\n‏\"‏يوشك‏\"‏ بكسر الشين‏:‏ أي يسرع‏.‏</p>",
+      "chapterNumber": "206",
+      "chapterTitle": "- باب فضل صلاة الضحى وبيان أقلها وأكثرها وأوسطها والحث على المحافظة عليها‏:‏",
+      "urn": 1711320,
+      "body": "<p>- وعن أم هانئ فاختة بنت أبي طالب رضي الله عنها قالت‏:‏ ذهبت إلى رسول الله صلى الله عليه وسلم عام الفتح فوجدته يغتسل فلما فرغ من غسله صلى ثمان ركعات، وذلك ضحى‏\"‏ ‏(‏‏(‏متفق عليه وهذا مختصر لفظ إحدى روايات مسلم‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "57",
-      "chapterTitle": "Keredaan, kemuliaan diri, dan menjauhi perbuatan meminta-minta kepada sesama manusia tanpa keperluan.",
-      "urn": 1705290,
-      "body": "<p>Ibn Mas'ud (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang ditimpa kemiskinan lalu meminta pertolongan daripada manusia, dia tidak akan ditolong; tetapi sesiapa yang meminta pertolongan kepada Allah semata-mata, dia akan diberikan kelegaan lambat laun.\" [Abu Dawud dan At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
+      "chapterNumber": "206",
+      "chapterTitle": "Kelebihan Solat Sunat Duha",
+      "urn": 1711320,
+      "body": "<p>Umm Hani binti Abu Talib (Semoga Allah merahmatinya) meriwayatkan: Aku menemui Rasulullah (ﷺ) pada hari pembukaan Makkah. Baginda sedang mandi pada waktu itu. Apabila Baginda selesai mandi, Baginda menunaikan solat lapan rakaat (solat sunat). Ini adalah pada waktu Duha. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
