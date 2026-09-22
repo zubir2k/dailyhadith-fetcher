@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "11.00",
-  "hadithNumber": "107",
+  "bookNumber": "12",
+  "chapterId": "241.00",
+  "hadithNumber": "1378",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "11",
-      "chapterTitle": "The Struggle (in the Cause of Allah)",
-      "urn": 1601060,
-      "body": "<p>Thauban (May Allah be pleased with him) said: I heard Messenger of Allah (ﷺ) saying, \"Perform Salah more often. For every prostration that you perform before Allah will raise your position one degree and will remit one of your sins\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "241",
+      "chapterTitle": "Virtues of Knowledge which is Learnt and Taught for the sake of Allah",
+      "urn": 1612450,
+      "body": "<p>Abu Musa (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The guidance and knowledge with which Allah has sent me are like abundant rain which fell on a land. A fertile part of it absorbed the water and brought forth profuse herbage and pasture; and solid ground patches which retained the water by which Allah has benefited people, who drank from it, irrigated their crops and sowed their seeds; and another sandy plane which could neither retain the water nor produce herbage. Such is the similitude of the person who becomes well-versed in the religion of Allah and receives benefit from the Message entrusted to me by Allah, so he himself has learned and taught it to others; such is also the similitude of the person who has stubbornly and ignorantly rejected Allah's Guidance with which I have been sent.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "11",
-      "chapterTitle": "- باب المجاهدة",
-      "urn": 1701060,
-      "body": "<p>- الثالث عشر‏:‏ عن أبي عبد الله- ويقال‏:‏ أبو عبد الرحمن- ثوبان مولى رسول الله صلى الله عليه وسلم قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ عليك بكثرة السجود، فإنك لن تسجد لله سجدة إلا رفعك الله بها درجة، وحط عنك بها خطيئة‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "241",
+      "chapterTitle": "- باب فضل العلم تعلما وتعليما لله",
+      "urn": 1713680,
+      "body": "<p>- وعن أبي موسى رضي الله عنه قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏مثل ما بعثني الله به من الهدى والعلم كمثل غيث أصاب أرضًا، فكانت منها طائفة طيبة قبلت الماء فأنبتت الكلأ، والعشب الكثير وكان منها أجادب أمسكت الماء، فنفع الله بها الناس، فشربوا منها وسقوا وزرعوا، وأصاب طائفة منها أخرى إنما هي قيعان لا تمسك ماء ولا تنبت كلأ فذلك مثل من فقه في دين الله ونفعه ما بعثني الله به وعلم، ومثل من لم يرفع بذلك رأسًا ولم يقبل هدى الله الذي أرسلت به‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "11",
-      "chapterTitle": "Jihad di jalan Allah",
-      "urn": 1701060,
-      "body": "<p>Thauban (Semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda, \"Perbanyakkanlah solat. Kerana setiap sujud yang kamu lakukan di hadapan Allah akan mengangkat darjatmu satu darjah dan menghapuskan satu dosamu.\" [Muslim].</p>",
+      "chapterNumber": "241",
+      "chapterTitle": "Kelebihan ilmu yang dipelajari dan diajarkan kerana Allah",
+      "urn": 1713680,
+      "body": "<p>Abu Musa (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Hidayah dan ilmu yang Allah utuskan kepadaku adalah seperti hujan yang lebat yang turun ke atas sekeping tanah. Sebahagian daripadanya adalah tanah yang subur, yang menyerap air lalu menumbuhkan rumput-rumpai dan padang ragut yang banyak; dan sebahagian lagi adalah tanah yang keras yang dapat menampung air, lalu Allah memberi manfaat kepada manusia dengannya; mereka meminum air tersebut, menyiram tanaman, dan menanam benih mereka; dan sebahagian lagi adalah tanah rata yang berpasir yang tidak dapat menampung air dan tidak juga menumbuhkan rumput. Demikianlah perumpamaan orang yang memahami agama Allah dan mendapat manfaat daripada risalah yang Allah amanahkan kepadaku, lalu dia sendiri mempelajarinya dan mengajarkannya kepada orang lain; dan demikian juga perumpamaan orang yang dengan degil dan jahil menolak hidayah Allah yang dengannya aku diutus.\" [Al-Bukhari dan Muslim]</p>",
       "grades": []
     }
   ]
