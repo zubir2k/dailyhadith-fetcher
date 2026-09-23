@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1426",
+  "bookNumber": "introduction",
+  "chapterId": "13.00",
+  "hadithNumber": "129",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612930,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Messenger of Allah (ﷺ) used to recite in his bowing and prostration: \"Subbuhun Quddusun, Rabbul-mala'ikati war-ruh <b>[You are the Most Glorious. The Most Holy. You the Rubb of the angels and of Jibril<br/><br/><b>[Muslim]</b>.<br/><br/></b></p>",
+      "chapterNumber": "13",
+      "chapterTitle": "Numerous ways of doing Good",
+      "urn": 1601280,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"When a Muslim or a believer washes his face (in the course of Wudu'), every sin he has committed with his eyes is washed away from his face along with water, or with the last drop of water; when he washes his hands, every sin they wrought is erased from his hands with the water, or with the last drop of water; and when he washes his feet, every sin towards which his feet walked is washed away with water, or with the last drop of water, with the result that he comes out cleansed of all sins\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714160,
-      "body": "<p>- وعنها أن رسول الله صلى الله عليه وسلم كان يقول في ركوعه وسجوده‏:‏ ‏\"‏سبوح قدوس رب الملائكة والروح‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "13",
+      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
+      "urn": 1701280,
+      "body": "<p>- الثالث عشر‏:‏ عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ إذا توضأ العبد المسلم، أو المؤمن فغسل وجهه خرج من وجهه كل خطيئة نظر إليها بعينيه مع الماء، أو آخر قطر الماء، فإذا غسل رجليه خرجت كل خطيئة مشتها رجلاه مع الماء أو مع آخر قطر الماء حتى يخرج نقياً من الذنوب‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "13",
+      "chapterTitle": "Pelbagai cara untuk berbuat kebaikan",
+      "urn": 1701280,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila seorang Muslim atau seorang mukmin membasuh wajahnya (ketika berwuduk), setiap dosa yang dilakukan oleh matanya akan terhapus dari wajahnya bersama air, atau bersama titisan air yang terakhir; apabila dia membasuh kedua-dua tangannya, setiap dosa yang dilakukan oleh tangan tersebut akan terhapus dari tangannya bersama air, atau bersama titisan air yang terakhir; dan apabila dia membasuh kedua-dua kakinya, setiap dosa yang dilakukan oleh langkah kakinya akan terhapus bersama air, atau bersama titisan air yang terakhir, sehingga dia keluar dalam keadaan bersih daripada segala dosa.\" [Muslim].</p>",
       "grades": []
     }
   ]
