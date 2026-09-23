@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "156.00",
-  "hadithNumber": "932",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1426",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "156",
-      "chapterTitle": "Excellence of Participation in Funeral Prayers in Large Numbers and Formation of Three Rows or More",
-      "urn": 1608670,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Messenger of Allah (ﷺ) said, \"If a group of Muslims numbering a hundred perform funeral prayer over a dead person, and all of them ask Allah's forgiveness for him, their prayer for him will be accepted.\"\n<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612930,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Messenger of Allah (ﷺ) used to recite in his bowing and prostration: \"Subbuhun Quddusun, Rabbul-mala'ikati war-ruh <b>[You are the Most Glorious. The Most Holy. You the Rubb of the angels and of Jibril<br/><br/><b>[Muslim]</b>.<br/><br/></b></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "156",
-      "chapterTitle": "- باب استحباب تكثير المصلين على الجنازة وجعل صفوفهم ثلاثة فأكثر",
-      "urn": 1709246,
-      "body": "<p>عن عائشة رضي الله عنها، قالت: قال رسول الله صلى الله عليه وسلم: “ما من ميت يصلي عليه أمة من المسلمين يبلغون مائة كلهم يشفعون له إلا شفعوا فيه“ ((رواه مسلم).</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "156",
-      "chapterTitle": "Kelebihan Menghadiri Solat Jenazah Secara Beramai-ramai dan Membentuk Tiga Saf atau Lebih",
-      "urn": 1709246,
-      "body": "<p>Aishah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sekiranya sekumpulan umat Islam yang berjumlah seratus orang menunaikan solat jenazah ke atas seorang mayat, dan mereka semua memohon keampunan Allah untuknya, maka doa mereka untuknya akan dimakbulkan.\" [Muslim].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714160,
+      "body": "<p>- وعنها أن رسول الله صلى الله عليه وسلم كان يقول في ركوعه وسجوده‏:‏ ‏\"‏سبوح قدوس رب الملائكة والروح‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
