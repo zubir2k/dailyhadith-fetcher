@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1424",
+  "bookNumber": "17",
+  "chapterId": "266.00",
+  "hadithNumber": "1563",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612910,
-      "body": "<p>'Ali (May Allah be pleased with him) reported: When the Messenger of Allah (ﷺ) was in Salat (prayer), he used to supplicate towards the end of prayer after Tashahhud and before the concluding salutations: \"Allahum-maghfir li ma qaddamtu wa ma akh-khartu, wa ma asrartu, wa ma a'lantu, wa ma asraftu, wa ma Anta a'lamu bihi minni. Antal-Muqqadimu, wa Antal-Mu'akh-khiru. La ilaha illa Anta (O Allah! Forgive my former and latter sins, which I have done secretly and those which I have done openly, and that I have wronged others, and those defaults of mine about which You have better knowledge than I have. You Alone can send whomever You will to Jannah, and You Alone can send whomever You will to Hell-fire. None has the right to be worshipped but You.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "266",
+      "chapterTitle": "Prohibition of Reviling a Muslim without any cause",
+      "urn": 1623640,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) saying, \"He who accuses his slave of Zina will receive the punishment (Hadd) of slander on the Day of Resurrection, unless the accusation of Zina was true.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714140,
-      "body": "<p>- وعن علي رضي الله عنه قال‏:‏ كان رسول الله صلى الله عليه وسلم إذا قام إلى الصلاة يكون من آخر ما يقول بين التشهد والتسليم‏:‏ ‏\"‏اللهم اغفر لي ما قدمت وما أخرت، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به مني، أنت المقدم، وأنت المؤخر، لا إله إلا أنت‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "266",
+      "chapterTitle": "- باب تحريم سب المسلم بغير حق",
+      "urn": 1715530,
+      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من قذف مملوكه بالزنا يقام عليه الحد يوم القيامة، إلا أن يكون كما قال‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
