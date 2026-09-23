@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "266.00",
-  "hadithNumber": "1563",
+  "bookNumber": "introduction",
+  "chapterId": "39.00",
+  "hadithNumber": "309",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "266",
-      "chapterTitle": "Prohibition of Reviling a Muslim without any cause",
-      "urn": 1623640,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) saying, \"He who accuses his slave of Zina will receive the punishment (Hadd) of slander on the Day of Resurrection, unless the accusation of Zina was true.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "39",
+      "chapterTitle": "Rights of Neighbors",
+      "urn": 1603060,
+      "body": "<p>Abu Shuraih Al-Khuza'i (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"He who believes in Allah and the Last Day, let him be kind to his neighbour; and he who believes in Allah and the Last Day, let him show hospitality to his guest; and he who believes in Allah and the Last Day, let him either speak good or remain silent\".<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "266",
-      "chapterTitle": "- باب تحريم سب المسلم بغير حق",
-      "urn": 1715530,
-      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من قذف مملوكه بالزنا يقام عليه الحد يوم القيامة، إلا أن يكون كما قال‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "39",
+      "chapterTitle": "- باب حق الجار والوصية به",
+      "urn": 1703080,
+      "body": "<p>- و عن أبي شريح الخزاعي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كان يؤمن بالله واليوم الآخر، فليكرم ضيفه، ومن كان يؤمن بالله واليوم الآخر، فليقل خيرًا أو ليسكت‏\"‏ ‏(‏‏(‏رواه مسلم بهذا اللفظ، وروى البخاري بعضه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "39",
+      "chapterTitle": "Hak-hak Jiran",
+      "urn": 1703080,
+      "body": "<p>Abu Shuraih Al-Khuza'i (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berbuat baik kepada jirannya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia memuliakan tetamunya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berkata baik atau diam.\" [Muslim].</p>",
       "grades": []
     }
   ]
