@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "188.00",
-  "hadithNumber": "1051",
+  "bookNumber": "introduction",
+  "chapterId": "65.00",
+  "hadithNumber": "576",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "188",
-      "chapterTitle": "Excellence of the Morning (Fajr) and 'Asr Prayers",
-      "urn": 1620940,
-      "body": "<p>Jarir bin 'Abdullah Al-Bajali (May Allah be pleased with him) reported: We were sitting with the Messenger of Allah (ﷺ) when he looked at the full moon and observed, \"You will see your Rubb in the Hereafter as you see this moon having no difficulty in seeing it. So try your best to perform the prayers before the rising of the sun and that before its setting.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "65",
+      "chapterTitle": "Remembrance of Death and Restraint of Wishes",
+      "urn": 1605720,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) drew up a square and in the middle of it he drew a line, the end of which jutted out beyond the square. Further across the middle line, he drew a number of smaller lines. Then he (ﷺ) said, \"The figure represents man and the encircling square is the death which is encompassing him. The middle line represents his desires and the smaller lines are vicissitudes of life. If one of those misses him, another distresses him, and if that one misses him, he falls victim to another.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "188",
-      "chapterTitle": "- باب فضل صلاة الصبح والعصر",
-      "urn": 1710410,
-      "body": "<p>- - وعن جرير بن عبد الله البجلي رضي الله عنه قال‏:‏ كنا عند النبي صلى الله عليه وسلم، فنظر إلى القمر ليلة البدر فقال‏:‏ ‏\"‏إنكم سترون ربكم كما ترون هذا القمر، لاتضامون في رؤيته، فإن استطعتم أن لا تغلبو على صلاة قبل طلوع الشمس، وقبل غروبها فافعلوا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ ‏(‏‏(‏وفي رواية‏:‏ ‏\"‏فنظر إلى القمر ليلة أربع عشرة‏\"‏‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "65",
+      "chapterTitle": "- باب ذكر الموت وقصر الأمل",
+      "urn": 1705720,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ خط النبي صلى الله عليه وسلم خطا مربعا، وخط خطاً فى الوسط خارجاً منه، وخط خططاً صغاراً إلى هذا الذى فى الوسط من جانبه الذى فى الوسط، فقال‏:‏ “هذا الإنسان، وهذا أجله محيطا به -أو قد أحاط به- وهذا الذى هو خارج أمله، وهذه الخطط الصغار الأعراض فإن أخطأه هذا ، نهشه هذا، وإن أخطأه هذا نهشه هذا” ‏(‏‏(‏رواه البخاري‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "188",
-      "chapterTitle": "Keutamaan Solat Subuh (Fajr) dan 'Asar",
-      "urn": 1710410,
-      "body": "<p>Jarir bin 'Abdullah Al-Bajali (Semoga Allah meredainya) melaporkan: Kami sedang duduk bersama Rasulullah (ﷺ) ketika baginda melihat kepada bulan purnama dan bersabda, \"Kamu akan melihat Tuhanmu di akhirat kelak sebagaimana kamu melihat bulan ini tanpa sebarang kesukaran untuk melihatnya. Maka, berusahalah sedaya upaya untuk mendirikan solat sebelum terbitnya matahari dan sebelum terbenamnya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "65",
+      "chapterTitle": "Mengingati Kematian dan Menahan Keinginan",
+      "urn": 1705720,
+      "body": "<p>Ibn Mas'ud (semoga Allah merahmatinya) meriwayatkan: Nabi (ﷺ) melukis sebuah segiempat dan di tengah-tengahnya Baginda melukis satu garisan, yang hujungnya terkeluar melampaui segiempat tersebut. Di sepanjang garisan tengah itu, Baginda melukis beberapa garisan yang lebih kecil. Kemudian Baginda (ﷺ) bersabda, \"Gambaran ini mewakili manusia dan segiempat yang mengelilinginya itu adalah kematian yang mengepungnya. Garisan tengah itu mewakili hawa nafsunya dan garisan-garisan kecil itu adalah pancaroba kehidupan. Jika satu daripadanya terlepas daripadanya, yang lain akan menyusahkannya, dan jika yang itu pun terlepas, dia akan ditimpa yang lain pula.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
