@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "27.00",
-  "hadithNumber": "233",
+  "bookNumber": "17",
+  "chapterId": "290.00",
+  "hadithNumber": "1622",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "27",
-      "chapterTitle": "Reverence towards the Sanctity of the Muslims",
-      "urn": 1602300,
-      "body": "<p>Ibn 'Umar (May Allah bepleased with them) reported: Messenger of Allah (ﷺ) said, \"A Muslim is a brother of another Muslim. So he should not oppress him nor should he hand him over to (his satan or to his self which is inclined to evil). Whoever fulfills the needs of his brother, Allah will fulfill his needs; whoever removes the troubles of his brother, Allah will remove one of his troubles on the Day of Resurrection; and whoever covers up the fault of a Muslim, Allah will cover up his fault on the Day of Resurrection\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "290",
+      "chapterTitle": "Prohibition of gazing at women and Beardless Handsome Boys except in Exigency",
+      "urn": 1624230,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Allah has written the very portion of Zina which a man will indulge in. There will be no escape from it. The Zina of the eye is the (lustful) look, the Zina of the ears is the listening (to voluptuous songs or talk), the Zina of the tongue is (the licentious) speech, the Zina of the hand is the (lustful) grip, the Zina of the feet is the walking (to the place where he intends to commit Zina), the heart yearns and desires and the private parts approve all that or disapprove it.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>This is the wording in Muslim; Al-Bukhari wording is a bit short.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "27",
-      "chapterTitle": "- باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم",
-      "urn": 1702320,
-      "body": "<p>- وعن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏المسلم أخو المسلم، لا يظلمه، ولايسلمه، من كان في حاجة أخيه كان الله في حاجته، ومن فرج عن مسلم كربة فرج الله عنه بها كربة من كرب يوم القيامة، ومن ستر مسلمًا ستره الله يوم القيامة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "27",
-      "chapterTitle": "Memuliakan Kesucian Umat Islam",
-      "urn": 1702320,
-      "body": "<p>Ibnu 'Umar (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Seorang Muslim adalah saudara bagi Muslim yang lain. Maka dia tidak boleh menzaliminya dan tidak boleh juga membiarkannya (diserahkan kepada syaitan atau nafsunya yang cenderung kepada keburukan). Sesiapa yang memenuhi keperluan saudaranya, Allah akan memenuhi keperluannya; sesiapa yang menghilangkan kesusahan saudaranya, Allah akan menghilangkan salah satu kesusahannya pada Hari Kiamat; dan sesiapa yang menutup aib seorang Muslim, Allah akan menutup aibnya pada Hari Kiamat.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "290",
+      "chapterTitle": "- باب تحريم النظر إلى المرأة الأجنبية والأمرد الحسن لغير حاجة شرعية",
+      "urn": 1716120,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏كُتب على ابن آدم نصيبه من الزنا مدرك ذلك لا محالة‏:‏ العينان زناهما النظر، والأذنان زناهما الاستماع، واللسان زناه الكلام، واليد زناها البطش، والرجل زناها الخطا، والقلب يهوى ويتمنى، ويصدق ذلك الفرج أو يكذبه‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏.‏ وهذا لفظ مسلم، ورواية البخاري مختصرة‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
