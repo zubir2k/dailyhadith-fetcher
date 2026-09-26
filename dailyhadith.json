@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "17",
-  "chapterId": "330.00",
-  "hadithNumber": "1741",
+  "chapterId": "302.00",
+  "hadithNumber": "1666",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "330",
-      "chapterTitle": "Undesirability of Calling Grapes 'Al-Karm'",
-      "urn": 1625420,
-      "body": "<p>Wa'il bin Hujr (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Do not say Al-Karm when talking about grapes but say Al-'Inab or Al-Habalah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Prohibition of Bewailing the Deceased",
+      "urn": 1624670,
+      "body": "<p>Abu Musa (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"If anyone dies and the mourner gets up and says: 'Alas! For the mountain among men. Alas! For the chief ...' and such like, Allah will put two angels in charge of him who will beat on the breast and ask him (disapproving): 'Were you like that?' \"<br/><br/><b>[At- Tirmidhi]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "330",
-      "chapterTitle": "- باب كراهية تسمية العنب كَرْمًا",
-      "urn": 1717310,
-      "body": "<p>- وعن وائل بن حجر رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا تقولوا‏:‏ الكَرْم، ولكن قولوا‏:‏ العنب، والحَبَْلة‏\"‏ رواه مسلم الحبلة بفتح الحاء والباء ويقال أيضا بإسكان الباء</p>",
+      "chapterNumber": "302",
+      "chapterTitle": "- باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه، والدعاء بالويل والثبور",
+      "urn": 1716560,
+      "body": "<p>- وعن أبي موسى رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ما من ميت يموت، فيقوم باكيهم، فيقول‏:‏ واجبلاه، وأسيداه، أو نحو ذلك إلا وكل به ملكان يلهزانه‏:‏ أهكذا كنت‏؟‏‏!‏‏\"‏‏.‏ رواه الترمذي وقال حديث حسن‏.‏\n«اللَّهْزُ»: الدَّفْعُ بِجُمْعِ اليَدِ فِي الصَّدْرِ.</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "330",
-      "chapterTitle": "Makruh menamakan anggur sebagai 'Al-Karm'",
-      "urn": 1717310,
-      "body": "<p>Wa'il bin Hujr (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Janganlah menyebut Al-Karm ketika bercakap tentang anggur, tetapi sebutlah Al-'Inab atau Al-Habalah.\" [Muslim].</p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Larangan Meratapi Jenazah",
+      "urn": 1716560,
+      "body": "<p>Abu Musa (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Jika seseorang mati lalu orang yang meratap bangun dan berkata: 'Aduhai! Alangkah ruginya gunung di kalangan manusia. Aduhai! Alangkah ruginya pemimpin...' dan seumpamanya, Allah akan menugaskan dua malaikat untuk menyeksanya yang akan memukul dadanya dan bertanya kepadanya (dengan nada mencela): 'Adakah engkau melakukan perkara sedemikian?' \"[At-Tirmidhi].</p>",
       "grades": []
     }
   ]
