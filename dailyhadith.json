@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1421",
+  "bookNumber": "17",
+  "chapterId": "330.00",
+  "hadithNumber": "1741",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612880,
-      "body": "<p>Sa'd bin Abu Waqqas (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to seek (Allah's) protection after prayers in these words: \"Alla-humma inni a'udhu bika minal-jubni wal- bukhl, wa a'udhu bika min an uradda ila ardhalil-'umur, wa a'udhu bika min fitnatid-dunya, wa a'udhu bika min fitnatil-qabr (O Allah, I seek refuge with You from cowardice, miserliness and from being sent back to a feeble age; and, seek refuge with You from the trials of this life and those of the grave).\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "330",
+      "chapterTitle": "Undesirability of Calling Grapes 'Al-Karm'",
+      "urn": 1625420,
+      "body": "<p>Wa'il bin Hujr (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Do not say Al-Karm when talking about grapes but say Al-'Inab or Al-Habalah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714110,
-      "body": "<p>- وعن سعد بن أبي وقاص رضي الله عنه أن رسول الله صلى الله عليه وسلم كان يتعوذ دبر الصلوات بهؤلاء الكلمات‏:‏ ‏\"‏اللهم إني أعوذ بك من الجبن والبخل، وأعوذ بك من أن أرد إلى أرذل العمر وأعوذ بك من فتنة الدنيا، وأعوذ بك من فتنة القبر” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "330",
+      "chapterTitle": "- باب كراهية تسمية العنب كَرْمًا",
+      "urn": 1717310,
+      "body": "<p>- وعن وائل بن حجر رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا تقولوا‏:‏ الكَرْم، ولكن قولوا‏:‏ العنب، والحَبَْلة‏\"‏ رواه مسلم الحبلة بفتح الحاء والباء ويقال أيضا بإسكان الباء</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Zikir kepada Allah",
-      "urn": 1714110,
-      "body": "<p>Sa'd bin Abu Waqqas (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) sering memohon perlindungan (daripada Allah) selepas solat dengan kata-kata ini: \"Alla-humma inni a'udhu bika minal-jubni wal-bukhli, wa a'udhu bika min an uradda ila ardhalil-'umur, wa a'udhu bika min fitnatid-dunya, wa a'udhu bika min fitnatil-qabr (Ya Allah, sesungguhnya aku berlindung kepada-Mu daripada sifat penakut, bakhil, dan daripada dikembalikan kepada usia yang sangat lemah; dan aku berlindung kepada-Mu daripada fitnah dunia dan fitnah kubur).\" [Al-Bukhari].</p>",
+      "chapterNumber": "330",
+      "chapterTitle": "Makruh menamakan anggur sebagai 'Al-Karm'",
+      "urn": 1717310,
+      "body": "<p>Wa'il bin Hujr (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Janganlah menyebut Al-Karm ketika bercakap tentang anggur, tetapi sebutlah Al-'Inab atau Al-Habalah.\" [Muslim].</p>",
       "grades": []
     }
   ]
