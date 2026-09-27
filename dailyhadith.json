@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "16",
-  "chapterId": "250.00",
-  "hadithNumber": "1489",
+  "bookNumber": "17",
+  "chapterId": "260.00",
+  "hadithNumber": "1545",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "250",
-      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
-      "urn": 1613550,
-      "body": "<p>Shahr bin Haushab reported: I asked Umm Salamah (May Allah be pleased with her), \"O Mother of the Believers! Which supplication did the Messenger of Allah (ﷺ) make frequently when he was in your house?\" She said: \"He (ﷺ) supplicated frequently: 'Ya muqallibal-qulubi, thabbit qalbi 'ala dinika (O Controller of the hearts make my heart steadfast in Your religion).\"<br/><br/><b>[At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "260",
+      "chapterTitle": "Condemnation and Prohibition of Falsehood",
+      "urn": 1623460,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Prophet (ﷺ) as saying: \"The worst of lies is to pretend to have seen something which he has not seen.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "250",
-      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
-      "urn": 1714790,
-      "body": "<p>- وعن شهر بن حوشب قال‏:‏ قلت لأم سلمة، رضي الله عنها، يا أم المؤمنين ما كان أكثر دعاء رسول الله صلى الله عليه وسلم، إذا كان عندك‏؟‏ قالت‏:‏ كان أكثر دعائه‏:‏ ‏\"‏يا مقلب القلوب ثبت قلبي على دينك‏\"‏ ‏(‏‏(‏رواه الترمذي، وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "260",
+      "chapterTitle": "- باب تحريم الكذب",
+      "urn": 1715350,
+      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏أفرى الفرى أن يري الرجل عينيه ما لم تريا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ ‏\nومعناه يقول‏:‏ رأيت فيما لم يره‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "250",
-      "chapterTitle": "Perkara-perkara berkaitan Doa, Keutamaannya dan Doa-doa Rasulullah (SAW)",
-      "urn": 1714790,
-      "body": "<p>Shahr bin Haushab meriwayatkan: Aku bertanya kepada Umm Salamah (Semoga Allah meredainya), \"Wahai Ummul Mukminin! Apakah doa yang sering dibaca oleh Rasulullah (ﷺ) ketika Baginda berada di rumahmu?\" Beliau berkata: \"Baginda (ﷺ) sering berdoa: 'Ya muqallibal-qulubi, thabbit qalbi 'ala dinika (Wahai Tuhan yang membolak-balikkan hati, tetapkanlah hatiku di atas agama-Mu).'\" [At-Tirmidhi].</p>",
+      "chapterNumber": "260",
+      "chapterTitle": "Celaan dan Larangan Terhadap Kedustaan",
+      "urn": 1715350,
+      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) melaporkan: Nabi (ﷺ) bersabda: \"Seburuk-buruk pendustaan adalah mendakwa telah melihat sesuatu yang tidak dilihatnya.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
