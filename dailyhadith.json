@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "52.00",
-  "hadithNumber": "440",
+  "bookNumber": "15",
+  "chapterId": "249.00",
+  "hadithNumber": "1458",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "52",
-      "chapterTitle": "Excellence of Good Hopes",
-      "urn": 1604360,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah says: 'I am just as My slave thinks of Me when he remembers Me.' By Allah! Allah is more pleased with the repentance of His slave than one of you who unexpectedly finds in the desert his lost camel. 'He who comes closer to Me one span, I come closer to him a cubit; and he who comes closer to Me a cubit, I come closer to him a fathom; and if he comes to Me walking, I come to him running\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "249",
+      "chapterTitle": "Supplication before going to Bed",
+      "urn": 1613240,
+      "body": "<p>Hudhaifah and Abu Dharr (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to supplicate when he went to bed at night: \"Bismik-Allahumma ahya wa amut (With Your Name, O Allah, I expire and return to life).\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "52",
-      "chapterTitle": "- باب فضل الرجاء",
-      "urn": 1704350,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه ، عن رسول الله صلى الله عليه وسلم أنه قال‏:‏ “ قال الله، عز وجل‏:‏ أنا عند ظن عبدي بي وأنا معه حيث يذكرني، والله لله أفرح بتوبة عبده من أحدكم يجد ضالته بالفلاة، ومن تقرب إلي شبراً، تقربت إليه ذراعاً، ومن تقرب إلي ذراعاً، تقربت إليه باعاً، وإذا أقبل إلي يمشي، أقبلت إليه أهرول‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ وهذا لفظ إحدى روايات مسلم‏.‏ وتقدم شرحه في الباب قبله‏.‏ \nوروي في الصحيحين ‏:‏ ‏\"‏وأنا معه حين يذكرني‏\"‏ بالنون، وفي هذه الرواية ‏\"‏حيث” بالثاء وكلاهما صحيح‏.‏</p>",
+      "chapterNumber": "249",
+      "chapterTitle": "- باب ما يقوله عند النوم",
+      "urn": 1714480,
+      "body": "<p>- وعن حذيفة وأبي ذر رضي الله عنهما أن رسول الله صلى الله عليه وسلم كان إذا أوى إلى فراشه قال‏:‏ ‏\"‏باسمك اللهم أحيا وأموت‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "52",
-      "chapterTitle": "Kelebihan Harapan yang Baik",
-      "urn": 1704350,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah berfirman: 'Aku adalah sebagaimana sangkaan hamba-Ku kepada-Ku ketika dia mengingati-Ku.' Demi Allah! Allah lebih gembira dengan taubat hamba-Nya berbanding salah seorang daripada kamu yang menemui semula untanya yang hilang di padang pasir secara tidak disangka-sangka. 'Sesiapa yang mendekati-Ku sejengkal, Aku mendekatinya sehasta; dan sesiapa yang mendekati-Ku sehasta, Aku mendekatinya sedepa; dan jika dia datang kepada-Ku dengan berjalan, Aku datang kepadanya dengan berlari'.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "249",
+      "chapterTitle": "Doa sebelum tidur",
+      "urn": 1714480,
+      "body": "<p>Hudhaifah dan Abu Dharr (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) baginda sering berdoa apabila hendak tidur pada waktu malam: \"Bismik-Allahumma ahya wa amut (Dengan nama-Mu, ya Allah, aku hidup dan aku mati).\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
