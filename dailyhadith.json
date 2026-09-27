@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "260.00",
-  "hadithNumber": "1545",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1841",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "260",
-      "chapterTitle": "Condemnation and Prohibition of Falsehood",
-      "urn": 1623460,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Prophet (ﷺ) as saying: \"The worst of lies is to pretend to have seen something which he has not seen.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616310,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: the Prophet (ﷺ) said, \"The dearest parts on the face of the earth near Allah are its mosques, and the most hated parts near Allah are its markets.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "260",
-      "chapterTitle": "- باب تحريم الكذب",
-      "urn": 1715350,
-      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏أفرى الفرى أن يري الرجل عينيه ما لم تريا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏ ‏\nومعناه يقول‏:‏ رأيت فيما لم يره‏‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718290,
+      "body": "<p>- وعنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏أحب البلاد إلى الله مساجدها ، وأبغض البلاد إلى الله أسواقها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "260",
-      "chapterTitle": "Celaan dan Larangan Terhadap Kedustaan",
-      "urn": 1715350,
-      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) melaporkan: Nabi (ﷺ) bersabda: \"Seburuk-buruk pendustaan adalah mendakwa telah melihat sesuatu yang tidak dilihatnya.\" [Al-Bukhari].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718290,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tempat yang paling dicintai di muka bumi ini di sisi Allah adalah masjid-masjidnya, dan tempat yang paling dibenci di sisi Allah adalah pasar-pasarnya.\" [Muslim].</p>",
       "grades": []
     }
   ]
