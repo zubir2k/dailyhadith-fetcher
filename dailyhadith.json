@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "249.00",
-  "hadithNumber": "1458",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "507",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "249",
-      "chapterTitle": "Supplication before going to Bed",
-      "urn": 1613240,
-      "body": "<p>Hudhaifah and Abu Dharr (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to supplicate when he went to bed at night: \"Bismik-Allahumma ahya wa amut (With Your Name, O Allah, I expire and return to life).\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1605040,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: We were once sitting in the company of Messenger of Allah (ﷺ) when a man from the Ansar came and greeted. As he was leaving, Messenger of Allah (ﷺ) said to him, \"O brother of the Ansar, how is my brother Sa'd bin 'Ubadah?\" He replied, \"He is well.\" Messenger of Allah (ﷺ) asked, \"Which of you is desirous of visiting him?\" Having said this he got up and we followed him. We were ten and odd in number and we had neither shoes nor light boots nor caps nor shirts. We walked on foot through the barren plain till we came to the residence of Sa'd (May Allah be pleased with him). His people made way and Messenger of Allah (ﷺ) along with those who accompanied him went up to him.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "249",
-      "chapterTitle": "- باب ما يقوله عند النوم",
-      "urn": 1714480,
-      "body": "<p>- وعن حذيفة وأبي ذر رضي الله عنهما أن رسول الله صلى الله عليه وسلم كان إذا أوى إلى فراشه قال‏:‏ ‏\"‏باسمك اللهم أحيا وأموت‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "249",
-      "chapterTitle": "Doa sebelum tidur",
-      "urn": 1714480,
-      "body": "<p>Hudhaifah dan Abu Dharr (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) baginda sering berdoa apabila hendak tidur pada waktu malam: \"Bismik-Allahumma ahya wa amut (Dengan nama-Mu, ya Allah, aku hidup dan aku mati).\" [Al-Bukhari].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1705030,
+      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ كنا جلوساً مع رسول الله صلى الله عليه وسلم ، إذ جاء رجل من الأنصار، فسلم عليه، ثم أدبر الأنصاري، فقال رسول الله‏.‏ صلى الله عليه وسلم ‏:‏ ‏\"‏ يا أخا الأنصار؛ كيف أخي سعد بن عبادة‏؟‏‏\"‏ فقال‏:‏ صالح، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من يعوده منكم‏؟‏‏\"‏ فقام وقمنا معه، ونحن بضعة عشر، ما علينا نعال، ولا خفاف، ولا قلانس، ولا قمص، نمشي في تلك السباخ، حتى جئناه، فاستأخر قومه من حوله حتى دنا رسول الله صلى الله عليه وسلم وأصحابه الذين معه‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
