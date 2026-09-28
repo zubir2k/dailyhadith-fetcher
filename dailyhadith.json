@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "145.00",
-  "hadithNumber": "903",
+  "bookNumber": "introduction",
+  "chapterId": "51.00",
+  "hadithNumber": "420",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "145",
-      "chapterTitle": "Supplication for the Sick",
-      "urn": 1608470,
-      "body": "<p>Anas (May Allah be pleased with him) reported: I said to Thabit (May Allah had Mercy upon him) Should I not perform Ruqyah (i.e., recite supplication or Quranic Ayat and blow) over you, such supplication as was practised by the Messenger of Allah (ﷺ)?\" He said: \"Please do so.\" Anas (May Allah be pleased with him) supplicated: \"Allahumma Rabban-nasi, mudh-hibal-ba'si, ishfi Antash-Shafi, la shafiya illa Anta, shifa'an la yughadiru saqaman <b>[O Allah! the Rubb of mankind! Take away this disease and cure (him or her). You are the Curer. There is no cure except through You. Cure (him or her), a cure that leaves no disease]</b>.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "51",
+      "chapterTitle": "Hope in Allah's Mercy",
+      "urn": 1604160,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah has divided mercy into one hundred parts; and He retained with Him ninety-nine parts, and sent down to earth one part. Through this one part creatures deal with one another with compassion, so much so that an animal lifts its hoof over its young lest it should hurt it\".<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"Allah has one hundred mercies, out of which He has sent down only one for jinn, mankind, animals and insects, through which they love one another and have compassion for one another; and through it, wild animals care for their young. Allah has retained ninety-nine mercies to deal kindly with His slaves on the Day of Resurrection.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration in Muslim is reported: by Salman Al-Farisi: Messenger of Allah (ﷺ) said, \"Allah has hundred mercies, out of which one mercy is used by his creation for mutual love and affection. Ninety-nine mercies are kept for the Day of Resurrection.\"<br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"Allah created one hundred units of mercy on the Day He created the heavens and the earth. Each one of them can contain all that is between the heaven and the earth. Of them, he put one on earth, through which a mother has compassion for her children and animals and birds have compassion for one another. On the Day of Resurrection, He will perfect and complete His Mercy\". (That is He will use all the hundred units of mercy for his slaves on that Day).<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "145",
-      "chapterTitle": "باب ما يدعي به للمريض",
-      "urn": 1708960,
-      "body": "<p>- وعن أنس، رضي الله عنه أنه قال لثابت رحمه الله‏:‏ ألا أرقيك برقية رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ بلى، قال‏:‏ اللهم رب الناس، مذهب البأس، اشف أنت الشافي، لا شافي إلا أنت، شفاءً لا يغادر سقماً” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "145",
-      "chapterTitle": "Doa untuk orang sakit",
-      "urn": 1708960,
-      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Aku berkata kepada Thabit (semoga Allah merahmatinya), \"Tidakkah patut aku melakukan Ruqyah (iaitu membaca doa atau ayat Al-Quran dan meniup) ke atasmu, sebagaimana yang diamalkan oleh Rasulullah (ﷺ)?\" Dia menjawab: \"Silakan.\" Anas (semoga Allah meredainya) berdoa: \"Allahumma Rabban-nasi, mudh-hibal-ba'si, ishfi Antash-Shafi, la shafiya illa Anta, shifa'an la yughadiru saqaman [Ya Allah! Tuhan sekalian manusia! Hilangkanlah penyakit ini dan sembuhkanlah (dia). Engkaulah Yang Maha Menyembuhkan. Tiada kesembuhan melainkan daripada-Mu. Sembuhkanlah (dia), kesembuhan yang tidak meninggalkan sebarang penyakit].\" [Al-Bukhari].</p>",
+      "chapterNumber": "51",
+      "chapterTitle": "- باب الرجاء",
+      "urn": 1704150,
+      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله ، صلى الله عليه وسلم يقول‏:‏ “جعل الله الرحمة مائة جزء فأمسك عنده تسعة وتسعين، وأنزل في الأرض جزءا واحداً، فمن ذلك الجزء يتراحم الخلائق حتى ترفع الدابة حافرها عن ولدها خشية أن تصيبه‏\"‏‏.‏ \n‏\"‏وفي رواية‏:‏ ‏\"‏إن لله تعالى مائة رحمة أنزل منها رحمة واحدة بين الجن والإنس والبهائم والهوام، فيها يتعاطفون، وبها يتراحمون، وبها تعطف الوحش على ولدها، وأخر الله تعالى تسعاً وتسعين رحمة يرحم بها عباده يوم القيامة” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏\nورواه مسلم أيضاً من رواية سلمان الفارسي، رضي الله عنه ، قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “إن لله تعالى مائة رحمة فمنها رحمة يتراحم بها الخلق بينهم، وتسع وتسعون ليوم القيامة‏\"‏\n‏\"‏وفي رواية‏:‏ ‏\"‏إن الله تعالى خلق يوم خلق السماوات والأرض مائة رحمة كل رحمة طباق ما بين السماء إلى الأرض، فجعل منها في الأرض رحمة، فيها تعطف الوالدة على ولدها، والوحش والطير بعضها على بعض، فإذا كان يوم القيامة، أكملها بهذه الرحمة”‏.‏</p>",
       "grades": []
     }
   ]
