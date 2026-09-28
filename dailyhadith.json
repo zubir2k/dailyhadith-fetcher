@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "182.00",
-  "hadithNumber": "1005",
+  "bookNumber": "6",
+  "chapterId": "145.00",
+  "hadithNumber": "903",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "182",
-      "chapterTitle": "The Merit of Recitation of the Noble Qur'an in a Pleasant Voice",
-      "urn": 1620480,
-      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said to him, \"You have been given a Mizmar (sweet melodious voice) out of the Mazamir of Prophet Dawud (David).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>\nAnd in a version narrated by Muslim \"If you would have seen me, as I was listening to your recitation last night.\"</p>",
+      "chapterNumber": "145",
+      "chapterTitle": "Supplication for the Sick",
+      "urn": 1608470,
+      "body": "<p>Anas (May Allah be pleased with him) reported: I said to Thabit (May Allah had Mercy upon him) Should I not perform Ruqyah (i.e., recite supplication or Quranic Ayat and blow) over you, such supplication as was practised by the Messenger of Allah (ﷺ)?\" He said: \"Please do so.\" Anas (May Allah be pleased with him) supplicated: \"Allahumma Rabban-nasi, mudh-hibal-ba'si, ishfi Antash-Shafi, la shafiya illa Anta, shifa'an la yughadiru saqaman <b>[O Allah! the Rubb of mankind! Take away this disease and cure (him or her). You are the Curer. There is no cure except through You. Cure (him or her), a cure that leaves no disease]</b>.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "182",
-      "chapterTitle": "باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها‏:",
-      "urn": 1709960,
-      "body": "<p>- وعن أبي موسى الأشعري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال له ‏:‏‏\"‏ لقد أتيت مزمارا من مزامير آل داود ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \nوفي روايه لمسلم ‏:‏ أن رسول الله صلى الله عليه وسلم قال له ‏:‏ ‏\"‏ لو رأيتني وأنا أستمع لقراءتك البارحة‏\"‏‏.‏</p>",
+      "chapterNumber": "145",
+      "chapterTitle": "باب ما يدعي به للمريض",
+      "urn": 1708960,
+      "body": "<p>- وعن أنس، رضي الله عنه أنه قال لثابت رحمه الله‏:‏ ألا أرقيك برقية رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ بلى، قال‏:‏ اللهم رب الناس، مذهب البأس، اشف أنت الشافي، لا شافي إلا أنت، شفاءً لا يغادر سقماً” ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "182",
-      "chapterTitle": "Fadilat Bacaan Al-Quran yang Mulia dengan Suara yang Merdu",
-      "urn": 1709960,
-      "body": "<p>Abu Musa Al-Ash'ari (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda kepadanya, \"Sesungguhnya engkau telah dikurniakan sebuah mizmar (suara yang merdu) daripada mizmar-mizmar Nabi Dawud.\"[Al-Bukhari dan Muslim].\nDan dalam satu riwayat yang diriwayatkan oleh Muslim, \"Sekiranya engkau melihatku, ketika aku mendengar bacaanmu malam tadi.\"</p>",
+      "chapterNumber": "145",
+      "chapterTitle": "Doa untuk orang sakit",
+      "urn": 1708960,
+      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Aku berkata kepada Thabit (semoga Allah merahmatinya), \"Tidakkah patut aku melakukan Ruqyah (iaitu membaca doa atau ayat Al-Quran dan meniup) ke atasmu, sebagaimana yang diamalkan oleh Rasulullah (ﷺ)?\" Dia menjawab: \"Silakan.\" Anas (semoga Allah meredainya) berdoa: \"Allahumma Rabban-nasi, mudh-hibal-ba'si, ishfi Antash-Shafi, la shafiya illa Anta, shifa'an la yughadiru saqaman [Ya Allah! Tuhan sekalian manusia! Hilangkanlah penyakit ini dan sembuhkanlah (dia). Engkaulah Yang Maha Menyembuhkan. Tiada kesembuhan melainkan daripada-Mu. Sembuhkanlah (dia), kesembuhan yang tidak meninggalkan sebarang penyakit].\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
