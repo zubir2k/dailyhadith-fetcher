@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "71.00",
-  "hadithNumber": "602",
+  "bookNumber": "17",
+  "chapterId": "254.00",
+  "hadithNumber": "1515",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "71",
-      "chapterTitle": "Modesty and Courtesy towards the Believers",
-      "urn": 1605960,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Wealth does not diminish by giving Sadaqah (charity). Allah augments the honour of one who forgives; and one who serves another seeking the pleasure of Allah, Allah will exalt him in ranks.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "254",
+      "chapterTitle": "The Prohibition of Backbiting and the Commandment of Guarding one's Tongue",
+      "urn": 1623160,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"A man utters a word pleasing to Allah without considering it of any significance for which Allah exalts his ranks (in Jannah); another one speaks a word displeasing to Allah without considering it of any importance, and for this reason he will sink down into Hell.\"<br/><br/><b>[Al-Bukhari]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "71",
-      "chapterTitle": "- باب التواضع وخفض الجناح للمؤمنين",
-      "urn": 1705980,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “ما نقصت صدقة من مال، و ما زادالله عبداً بعفو إلا عزاً، وما تواضع أحد لله إلا رفعه الله” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "254",
+      "chapterTitle": "باب تحريم الغيبة والأمر بحفظ اللسان",
+      "urn": 1715050,
+      "body": "<p>- وعنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إن العبد ليتكلم بالكلمة من رضوان الله تعالى ما يُلقي لها بالا يرفعه الله بها درجات، وإن العبد ليتكلم بالكلمة من سخط الله تعالى لا يُلقي لها بالا يَهوي بها في جهنم‏\"‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "71",
-      "chapterTitle": "Sifat Malu dan Kesantunan terhadap Orang-orang Beriman",
-      "urn": 1705980,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Harta tidak akan berkurangan dengan memberi sedekah. Allah akan menambah kemuliaan bagi sesiapa yang memaafkan; dan sesiapa yang membantu orang lain demi mencari keredaan Allah, Allah akan mengangkat darjatnya.\" [Muslim].</p>",
+      "chapterNumber": "254",
+      "chapterTitle": "Larangan Mengumpat dan Perintah Menjaga Lisan",
+      "urn": 1715050,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Seseorang lelaki mengucapkan suatu perkataan yang diredai Allah tanpa menyedari kepentingannya, lalu Allah mengangkat darjatnya (di dalam syurga); manakala seorang lagi mengucapkan suatu perkataan yang dimurkai Allah tanpa menyedari kepentingannya, dan kerana itu dia akan terjerumus ke dalam neraka.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
