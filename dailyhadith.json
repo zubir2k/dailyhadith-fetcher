@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "254.00",
-  "hadithNumber": "1515",
+  "bookNumber": "introduction",
+  "chapterId": "36.00",
+  "hadithNumber": "290",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "254",
-      "chapterTitle": "The Prohibition of Backbiting and the Commandment of Guarding one's Tongue",
-      "urn": 1623160,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"A man utters a word pleasing to Allah without considering it of any significance for which Allah exalts his ranks (in Jannah); another one speaks a word displeasing to Allah without considering it of any importance, and for this reason he will sink down into Hell.\"<br/><br/><b>[Al-Bukhari]</b>.</p>",
+      "chapterNumber": "36",
+      "chapterTitle": "Sustentation of the Members of the Family",
+      "urn": 1602870,
+      "body": "<p>Thauban bin Bujdud (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"The most excellent dinar is one that a person spends on his family, and the dinar which he spends on his riding-animal in the way of Allah (in Jihad), and the dinar he spends on his companions in the way of Allah\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "254",
-      "chapterTitle": "باب تحريم الغيبة والأمر بحفظ اللسان",
-      "urn": 1715050,
-      "body": "<p>- وعنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إن العبد ليتكلم بالكلمة من رضوان الله تعالى ما يُلقي لها بالا يرفعه الله بها درجات، وإن العبد ليتكلم بالكلمة من سخط الله تعالى لا يُلقي لها بالا يَهوي بها في جهنم‏\"‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "36",
+      "chapterTitle": "- باب النفقة على العيال",
+      "urn": 1702890,
+      "body": "<p>- وعن أبي عبد الله - ويقال له‏:‏ أبو عبد الرحمن - ثوبان بن بجدد مولى رسول الله صلى الله عليه وسلم قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ أفضل دينار ينفقه الرجل دينار ينفقه على عياله، ودينار ينفقه على دابته في سبيل الله، ودينار ينفقه على أصحابه في سبيل الله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "254",
-      "chapterTitle": "Larangan Mengumpat dan Perintah Menjaga Lisan",
-      "urn": 1715050,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Seseorang lelaki mengucapkan suatu perkataan yang diredai Allah tanpa menyedari kepentingannya, lalu Allah mengangkat darjatnya (di dalam syurga); manakala seorang lagi mengucapkan suatu perkataan yang dimurkai Allah tanpa menyedari kepentingannya, dan kerana itu dia akan terjerumus ke dalam neraka.\" [Al-Bukhari].</p>",
+      "chapterNumber": "36",
+      "chapterTitle": "Nafkah Ahli Keluarga",
+      "urn": 1702890,
+      "body": "<p>Thauban bin Bujdud (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Dinar yang paling utama adalah dinar yang dibelanjakan oleh seseorang untuk keluarganya, dan dinar yang dibelanjakannya untuk tunggangannya di jalan Allah (di dalam jihad), serta dinar yang dibelanjakannya untuk teman-temannya di jalan Allah.\" [Muslim].</p>",
       "grades": []
     }
   ]
