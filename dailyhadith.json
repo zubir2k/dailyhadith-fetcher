@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "51.00",
-  "hadithNumber": "420",
+  "bookNumber": "17",
+  "chapterId": "313.00",
+  "hadithNumber": "1706",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "51",
-      "chapterTitle": "Hope in Allah's Mercy",
-      "urn": 1604160,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah has divided mercy into one hundred parts; and He retained with Him ninety-nine parts, and sent down to earth one part. Through this one part creatures deal with one another with compassion, so much so that an animal lifts its hoof over its young lest it should hurt it\".<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"Allah has one hundred mercies, out of which He has sent down only one for jinn, mankind, animals and insects, through which they love one another and have compassion for one another; and through it, wild animals care for their young. Allah has retained ninety-nine mercies to deal kindly with His slaves on the Day of Resurrection.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration in Muslim is reported: by Salman Al-Farisi: Messenger of Allah (ﷺ) said, \"Allah has hundred mercies, out of which one mercy is used by his creation for mutual love and affection. Ninety-nine mercies are kept for the Day of Resurrection.\"<br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"Allah created one hundred units of mercy on the Day He created the heavens and the earth. Each one of them can contain all that is between the heaven and the earth. Of them, he put one on earth, through which a mother has compassion for her children and animals and birds have compassion for one another. On the Day of Resurrection, He will perfect and complete His Mercy\". (That is He will use all the hundred units of mercy for his slaves on that Day).<br/><br/></p>",
+      "chapterNumber": "313",
+      "chapterTitle": "Prohibition of having a Hair cut or paring one's nail during the first ten days of Dhul-Hijjah for one who intends to Sacrifice an Animal",
+      "urn": 1625070,
+      "body": "<p>Umm Salamah (May Allah be pleased with her) said: The Messenger of Allah (ﷺ) said, \"When anyone of you intends to sacrifice the animal and enter in the month of Dhul-Hijjah, he should not get his hair cut or nails pared till he has offered his sacrifice.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "51",
-      "chapterTitle": "- باب الرجاء",
-      "urn": 1704150,
-      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله ، صلى الله عليه وسلم يقول‏:‏ “جعل الله الرحمة مائة جزء فأمسك عنده تسعة وتسعين، وأنزل في الأرض جزءا واحداً، فمن ذلك الجزء يتراحم الخلائق حتى ترفع الدابة حافرها عن ولدها خشية أن تصيبه‏\"‏‏.‏ \n‏\"‏وفي رواية‏:‏ ‏\"‏إن لله تعالى مائة رحمة أنزل منها رحمة واحدة بين الجن والإنس والبهائم والهوام، فيها يتعاطفون، وبها يتراحمون، وبها تعطف الوحش على ولدها، وأخر الله تعالى تسعاً وتسعين رحمة يرحم بها عباده يوم القيامة” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏\nورواه مسلم أيضاً من رواية سلمان الفارسي، رضي الله عنه ، قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “إن لله تعالى مائة رحمة فمنها رحمة يتراحم بها الخلق بينهم، وتسع وتسعون ليوم القيامة‏\"‏\n‏\"‏وفي رواية‏:‏ ‏\"‏إن الله تعالى خلق يوم خلق السماوات والأرض مائة رحمة كل رحمة طباق ما بين السماء إلى الأرض، فجعل منها في الأرض رحمة، فيها تعطف الوالدة على ولدها، والوحش والطير بعضها على بعض، فإذا كان يوم القيامة، أكملها بهذه الرحمة”‏.‏</p>",
+      "chapterNumber": "313",
+      "chapterTitle": "- باب نهي من دخل عليه عشر ذي الحجة وأراد أن يضحي عن أخذ شيء من شعره أو أظفاره حتى يضحي",
+      "urn": 1716960,
+      "body": "<p>- عن أم سلمة رضي الله عنها قالت قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من كان له ذبح يذبحه، فإذا أهل هلال ذي الحجة، فلا يأخذن من شعره ولا من أظفاره شيئًا حتى يضحي‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "313",
+      "chapterTitle": "Larangan memotong rambut atau kuku pada sepuluh hari pertama bulan Zulhijjah bagi sesiapa yang berniat untuk berkorban.",
+      "urn": 1716960,
+      "body": "<p>Umm Salamah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang di antara kamu berniat untuk berkorban dan telah memasuki bulan Zulhijjah, maka janganlah dia memotong rambut atau memotong kuku sehinggalah dia menyembelih korbannya.\" [Muslim].</p>",
       "grades": []
     }
   ]
