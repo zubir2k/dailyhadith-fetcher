@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "281.00",
-  "hadithNumber": "1598",
+  "bookNumber": "introduction",
+  "chapterId": "11.00",
+  "hadithNumber": "105",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "281",
-      "chapterTitle": "Prohibition of two Holding Secret Counsel to the Exclusion of Conversing together a Third",
-      "urn": 1623990,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) said: the Messenger of Allah (ﷺ) said, \"In the presence of three people, two should not hold secret counsel, to the exclusion of the third.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/>In Abu Dawud, Abu Salih related: I asked Ibn 'Umar: \"What if there are four people.\" He said, \"There is no harm in that.\"<br/><br/>Malik reported in Al-Muwatta that 'Abdullah bin Dinar related: Ibn 'Umar and I were together in Khalid bin 'Uqbah's house which was situated in the market place. A man came to consult Ibn 'Umar. None besides me was present. Ibn 'Umar called another man in and we became four and said to me and the man he had called: Move away a bit because I have heard the Messenger of Allah (ﷺ) saying, \"The two people should not hold secret counsel together excluding the third.\"<br/><br/></p>",
+      "chapterNumber": "11",
+      "chapterTitle": "The Struggle (in the Cause of Allah)",
+      "urn": 1601040,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Jannah is nearer to anyone of you than your shoe-lace, and so is the (Hell) Fire\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "281",
-      "chapterTitle": "- باب النهي عن تناجي اثنين دون الثالث بغير إذنه إلا لحاجة وهو أن يتحدثا سرًا بحيث لا يسمعهما وفي معناه إذا تحدثا بلسان لا يفهمه",
-      "urn": 1715880,
-      "body": "<p>- وعن ابن عمر رضي الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا كانوا ثلاثة فلا يتناجى اثنان دون الثالث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \n‏(‏‏(‏ورواه أبو دواد وزاد‏:‏ قال أبو صالح‏:‏ قلت لابن عمر‏:‏ فأربعة‏؟‏ قال‏:‏ لا يضرك‏.‏ ورواه مالك في الموطأ‏:‏ عن عبد الله بن دينار قال‏:‏ كنت أنا وابن عمر عند دار خالد بن عقبة التي في السوق، فجاء رجل يريد أن يناجيه، وليس مع ابن عمر أحد غيري، فدعا ابن عمر رجلا آخر حتى كنا أربعة فقال لي وللرجل الثالث الذي دعا‏:‏ استأخرا شيئًا، فإني سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏لا يتناجى اثنان دون واحد‏\"‏‏.‏</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "- باب المجاهدة",
+      "urn": 1701040,
+      "body": "<p>- الحادي عشر‏:‏ عن ابن مسعود رضي الله عنه قال‏:‏ قال النبي صلى الله عليه وسلم‏:‏ ‏\"‏ الجنة أقرب إلى أحدكم من شراك نعله، والنار مثل ذلك‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "281",
-      "chapterTitle": "Larangan dua orang berbisik-bisik sehingga meminggirkan orang ketiga daripada turut berbual bersama mereka.",
-      "urn": 1715880,
-      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) berkata: Rasulullah (ﷺ) bersabda, \"Di hadapan tiga orang, dua orang tidak sepatutnya berbincang secara rahsia sehingga meminggirkan orang yang ketiga.\" [Al-Bukhari dan Muslim]. Dalam Abu Dawud, Abu Salih meriwayatkan: Aku bertanya kepada Ibn 'Umar: \"Bagaimana jika ada empat orang?\" Beliau menjawab, \"Tidak mengapa dalam hal itu.\" Malik melaporkan dalam Al-Muwatta bahawa 'Abdullah bin Dinar meriwayatkan: Ibn 'Umar dan aku sedang bersama di rumah Khalid bin 'Uqbah yang terletak di kawasan pasar. Seorang lelaki datang untuk mendapatkan nasihat daripada Ibn 'Umar. Tiada sesiapa pun selain aku di situ. Ibn 'Umar memanggil lelaki lain masuk dan kami menjadi berempat, lalu beliau berkata kepada aku dan lelaki yang dipanggilnya itu: \"Menjauhlah sedikit kerana aku telah mendengar Rasulullah (ﷺ) bersabda, 'Dua orang tidak sepatutnya berbincang secara rahsia sehingga meminggirkan orang yang ketiga.'\"</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "Perjuangan (di jalan Allah)",
+      "urn": 1701040,
+      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Syurga itu lebih dekat kepada salah seorang daripada kamu daripada tali kasutmu, dan begitu juga dengan api neraka.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
