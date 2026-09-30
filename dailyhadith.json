@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "55.00",
-  "hadithNumber": "484",
+  "bookNumber": "8",
+  "chapterId": "207.00",
+  "hadithNumber": "1143",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "55",
-      "chapterTitle": "Excellence of Leading an Ascetic Life, and Virtues of Simple Life",
-      "urn": 1604810,
-      "body": "<p>K'ab bin Malik (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Two hungry wolves sent in the midst of a flock of sheep are no more destructive to them than a man's greed for wealth and fame is to his Deen.\"<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "207",
+      "chapterTitle": "Time for the Duha (Forenoon Optional) Prayer",
+      "urn": 1621870,
+      "body": "<p>Zaid bin Arqam (May Allah be pleased with him) reported: I saw some people performing Duha (prayers) in the early forenoon and warned them (saying): These people must know that performing Salat a little later is better. The Messenger of Allah (ﷺ) said, \"The Salat of the penitent is to be observed when the young ones of camels feel the heat of the sun (i.e., when it becomes very hot).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "55",
-      "chapterTitle": "- باب فضل الزهد في الدنيا و الحث على التقلل منها و فضل الفقر",
-      "urn": 1704800,
-      "body": "<p>- وعن كعب بن مالك، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ ما ذئبان جائعان أرسلا في غنم بأفسد لها من حرص المرء على المال والشرف، لدينه‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "207",
+      "chapterTitle": "- باب‏:‏ تجويز صلاة الضحى من ارتفاع الشمس إلى زوالها والأفضل أن تصلى عند اشتداد الحر وارتفاع الضحى‏:‏",
+      "urn": 1711330,
+      "body": "<p>- عن زيد بن أرقم رضي الله عنه أنه رأى قومًا يصلون من الضحى، فقال‏:‏ أما لقد علموا أن الصلاة في غير هذه الساعة أفضل، إن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏صلاة الأوابين حين ترمض الفصال‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "207",
+      "chapterTitle": "Waktu Solat Duha (Solat Sunat Duha)",
+      "urn": 1711330,
+      "body": "<p>Zaid bin Arqam (semoga Allah meredainya) menceritakan: Aku melihat beberapa orang sedang menunaikan solat Duha pada awal pagi dan aku memberi peringatan kepada mereka (dengan berkata): Orang-orang ini perlu tahu bahawa menunaikan solat sedikit lewat adalah lebih baik. Rasulullah (ﷺ) bersabda, \"Solat bagi orang yang bertaubat adalah ketika anak-anak unta mula merasakan bahang matahari (iaitu apabila cuaca sudah menjadi sangat panas).\" [Muslim].</p>",
       "grades": []
     }
   ]
