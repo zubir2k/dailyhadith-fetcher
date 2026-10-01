@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "55.00",
-  "hadithNumber": "479",
+  "bookNumber": "1",
+  "chapterId": "90.00",
+  "hadithNumber": "697",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "55",
-      "chapterTitle": "Excellence of Leading an Ascetic Life, and Virtues of Simple Life",
-      "urn": 1604760,
-      "body": "<p>'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: We were repairing our thatchy hut when Messenger of Allah (ﷺ) passed by and asked us, \"What are you doing?\" We said, \"The thatch had gone weak and we are repairing it.\" He (ﷺ) said, \"I see the sure thing (death) approaching sooner than this.\"<br/><br/><b>[Abu Dawud and At-Tirmdhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "90",
+      "chapterTitle": "Listening Attentively",
+      "urn": 1606875,
+      "body": "<p>Jarir bin 'Abdullah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) asked me on the occasion of the Farewell Pilgrimage to tell the people to keep silent, then he (ﷺ) said, \"Do not revert to disbelief after me, chopping the heads of one another.\"\n</p>\n<p>\n<b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "55",
-      "chapterTitle": "- باب فضل الزهد في الدنيا و الحث على التقلل منها و فضل الفقر",
-      "urn": 1704750,
-      "body": "<p>- وعن عبد الله بن عمرو بن العاص، رضي الله عنهما، قال‏:‏ مر علينا رسول الله، صلى الله عليه وسلم ، ونحن نعالج خصاً لنا فقال‏:‏ ‏\"‏ ما هذا‏؟‏‏\"‏ فقلنا‏:‏ قد وهي، فنحن نصلحه، فقال‏:‏ ‏\"‏ ما أرى الأمر إلا أعجل من ذلك‏\"‏‏.‏\n<br/>\n رواه أبو داود، والترمذي بإسناد البخاري ومسلم، وقال الترمذي‏:‏ ‏(‏‏(‏حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "55",
-      "chapterTitle": "Keutamaan Mengamalkan Kehidupan Zuhud, dan Fadhilat Kehidupan yang Sederhana",
-      "urn": 1704750,
-      "body": "<p>Abdullah bin 'Amr bin Al-'as (semoga Allah meredai mereka) melaporkan: Kami sedang membaiki pondok berbumbung atap kami ketika Rasulullah (ﷺ) lalu di hadapan kami dan bertanya, \"Apa yang sedang kamu lakukan?\" Kami menjawab, \"Atap ini telah menjadi lemah dan kami sedang membaikinya.\" Baginda (ﷺ) bersabda, \"Aku melihat perkara yang pasti (kematian) datang lebih cepat daripada ini.\" [Abu Dawud dan At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan Sahih].</p>",
+      "chapterNumber": "90",
+      "chapterTitle": "- باب إصغاء الجليس لحديث جليسه الذى ليس بحرام واستنصات العالم والواعظ حاضري مجلسه",
+      "urn": 1706930,
+      "body": "<p>- عن جرير بن عبد الله رضي الله عنه قال‏:‏ قال لي رسول الله صلى الله عليه وسلم في حجة الوداع‏:‏ ‏\"‏استنصت الناس‏\"‏ ثم قال‏:‏ لا ترجعوا بعدي كفاراً يضرب بعضكم رقاب بعض‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     }
   ]
