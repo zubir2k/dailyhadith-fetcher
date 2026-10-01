@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "162.00",
-  "hadithNumber": "949",
+  "bookNumber": "introduction",
+  "chapterId": "27.00",
+  "hadithNumber": "236",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "162",
-      "chapterTitle": "Charity on behalf of the Deceased and Praying for him",
-      "urn": 1608790,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When a man dies, his deeds come to an end, except for three: A continuous charity, knowledge by which people derive benefit, pious son who prays for him.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "27",
+      "chapterTitle": "Reverence towards the Sanctity of the Muslims",
+      "urn": 1602330,
+      "body": "<p>Anas (May Allah bepleased with him) reported: The Prophet (ﷺ) said, \"No one of you shall become a true believer until he desires for his brother what he desires for himself\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "162",
-      "chapterTitle": "- باب الصدقة عن الميت والدعاء له",
-      "urn": 1709400,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “إذا مات الأنسان انقطع عمله إلا من ثلاث‏:‏ صدقة جارية، أو علم ينتفع به، أو ولد صالح يدعو له‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "27",
+      "chapterTitle": "- باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم",
+      "urn": 1702350,
+      "body": "<p>- وعن أنس رضي الله عنه صلى الله عليه وسلم قال‏:‏ ‏\"‏ لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "162",
-      "chapterTitle": "Sedekah bagi pihak si mati dan mendoakannya",
-      "urn": 1709400,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila seorang manusia meninggal dunia, maka terputuslah amalannya kecuali tiga perkara: sedekah jariah, ilmu yang memberi manfaat, dan anak soleh yang mendoakannya.\" [Muslim]</p>",
+      "chapterNumber": "27",
+      "chapterTitle": "Memuliakan Kesucian Umat Islam",
+      "urn": 1702350,
+      "body": "<p>Anas (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Tidak sempurna iman seseorang di antara kamu sehingga dia mencintai untuk saudaranya apa yang dia cintai untuk dirinya sendiri.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
