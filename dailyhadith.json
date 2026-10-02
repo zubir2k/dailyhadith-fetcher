@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "56.00",
-  "hadithNumber": "498",
+  "chapterId": "3.00",
+  "hadithNumber": "36",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "56",
-      "chapterTitle": "Excellence of Simple Living and being Content with Little",
-      "urn": 1604950,
-      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: 'Aishah (May Allah be pleased with her) showed us a sheet and a thick lower garment and said to us Messenger of Allah (ﷺ) was wearing them when he died.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600360,
+      "body": "<p>'Abdullah bin Mas'ud (May Allah be pleased with him) reported: I can still recall as if I am seeing the Messenger of Allah (ﷺ) resembling one of the Prophets whose people scourged him and shed his blood, while he wiped blood from his face, he said: \"O Allah! Forgive my people, because they certainly do not know\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "56",
-      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
-      "urn": 1704940,
-      "body": "<p>- وعن أبي موسى الأشعري رضي الله عنه قال‏:‏ أخرجت لنا عائشة رضي الله عنها كساء وإزاراً غليظاً قالت‏:‏ قبض رسول الله صلى الله عليه وسلم في هذين ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700360,
+      "body": "<p>- وعن أبي عبد الرحمن عبد الله بن مسعود رضي الله عنه قال‏:‏ كأني انظر إلى رسول الله صلى الله عليه وسلم يحكي نبياً من الأنبياء، صلوات الله وسلامه عليهم، ضربه قومه فأدموه وهو يمسح الدم عن وجهه، يقول ‏:‏ ‏\"‏اللهم اغفر لقومى فإنهم لا يعلمون‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "56",
-      "chapterTitle": "Keutamaan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
-      "urn": 1704940,
-      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) meriwayatkan: 'Aishah (Semoga Allah meredainya) menunjukkan kepada kami sehelai kain dan sehelai kain sarung yang tebal dan berkata kepada kami bahawa Rasulullah (ﷺ) memakainya ketika baginda wafat. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Kesabaran dan Ketabahan",
+      "urn": 1700360,
+      "body": "<p>Abdullah bin Mas'ud (Semoga Allah meredainya) melaporkan: Aku masih dapat mengingati seolah-olah aku sedang melihat Rasulullah (ﷺ) menyerupai salah seorang nabi yang kaumnya telah menyakiti dan menumpahkan darahnya, manakala baginda menyapu darah dari wajahnya, lalu baginda bersabda: \"Ya Allah! Ampunilah kaumku, kerana sesungguhnya mereka tidak mengetahui\". [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
