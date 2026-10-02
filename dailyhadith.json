@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "191.00",
-  "hadithNumber": "1066",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "498",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "191",
-      "chapterTitle": "The Excellence of Performing Salat (Prayers) in Congregation",
-      "urn": 1621090,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A blind man came to the Messenger of Allah (ﷺ) and said: \"O Messenger of Allah! I have no one to guide me to the mosque.\" He, therefore, sought his permission to perform Salat (prayer) in his house. He (ﷺ) granted him permission. When the man turned away, he called him back, and said, \"Do you hear the Adhan (call to prayer)?\" He replied in the affirmative. The Messenger of Allah (ﷺ) then directed him to respond to it.<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1604950,
+      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: 'Aishah (May Allah be pleased with her) showed us a sheet and a thick lower garment and said to us Messenger of Allah (ﷺ) was wearing them when he died.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "191",
-      "chapterTitle": "- باب فضل صلاة الجماعة",
-      "urn": 1710560,
-      "body": "<p>- وعنه قال‏:‏ أتى النبي صلى الله عليه وسلم رجل أعمي، فقال‏:‏ يا رسول الله، ليس لي قائد يقودني إلى المسجد، فسأل رسول الله صلى الله عليه وسلم أن يرخص له فيصلي في بيته، فرخص له، فلما ولى دعاه فقال له‏:‏ ‏\"‏هل تسمع النداء بالصلاة‏؟‏ ‏\"‏ قال نعم، قال‏:‏ ‏\"‏فأجب‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1704940,
+      "body": "<p>- وعن أبي موسى الأشعري رضي الله عنه قال‏:‏ أخرجت لنا عائشة رضي الله عنها كساء وإزاراً غليظاً قالت‏:‏ قبض رسول الله صلى الله عليه وسلم في هذين ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "191",
-      "chapterTitle": "Keutamaan Menunaikan Solat Secara Berjemaah",
-      "urn": 1710560,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Seorang lelaki buta datang kepada Rasulullah (ﷺ) dan berkata: \"Wahai Rasulullah! Aku tidak mempunyai sesiapa untuk membimbingku ke masjid.\" Oleh itu, dia memohon izin baginda untuk menunaikan solat di rumahnya. Baginda (ﷺ) memberinya izin. Apabila lelaki itu berpaling, baginda memanggilnya kembali dan bertanya, \"Adakah engkau mendengar azan?\" Dia menjawab dengan mengiyakan. Rasulullah (ﷺ) kemudian memerintahkannya untuk menyahut azan tersebut. [Muslim].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Keutamaan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
+      "urn": 1704940,
+      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) meriwayatkan: 'Aishah (Semoga Allah meredainya) menunjukkan kepada kami sehelai kain dan sehelai kain sarung yang tebal dan berkata kepada kami bahawa Rasulullah (ﷺ) memakainya ketika baginda wafat. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
