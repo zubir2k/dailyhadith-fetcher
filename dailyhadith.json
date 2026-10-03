@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "14",
-  "chapterId": "243.00",
-  "hadithNumber": "1399",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1820",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "243",
-      "chapterTitle": "The Obligation of Supplicating Allah to Exalt His Mention and its Excellence, and its Manner",
-      "urn": 1612660,
-      "body": "<p>Aus bin Aus (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Among the best of your days is Friday; so supplicate Allah more often for me in it , for your supplications will be displayed to me.\" He was asked: \"O Messenger of Allah! How will our blessings be displayed to you when your decayed body will have mixed with the earth?\" He (ﷺ) replied, \"Allah has prohibited the earth from consuming the bodies of the Prophets.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616100,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah(ﷺ) said, \"The Last Hour will not come until the Muslims fight against the Jews, until a Jew will hide himself behind a stone or a tree, and the stone or the tree will say: 'O Muslim, there is a Jew behind me. Come and kill him,' but Al-Gharqad tree will not say so, for it is the tree of the Jews.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "243",
-      "chapterTitle": "- باب الأمر بالصلاة عليه وفضلها وبعض صيغها",
-      "urn": 1713890,
-      "body": "<p>- وعن أوس بن أوس، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إن من أفضل أيامكم يوم الجمعة، فأكثروا على من الصلاة فيه، فإن صلاتكم معروضة علي‏\"‏ فقالوا‏:‏ يا رسول الله، كيف تعرض صلاتنا عليك وقد أرمت‏؟‏ قال‏:‏ يقول‏:‏ بلىت، قال‏:‏ ‏\"‏إن الله عز وجل حرم على الأرض أجساد الأنبياء‏\"‏ رواه أبو داود بإسناد صحيح‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718090,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ لا تقوم الساعة حتى يقاتل المسلمون اليهود، حتى يختبيء اليهودي من وراء الحجر والشجر، فيقول الحجر والشجر‏:‏ يا مسلم هذا يهودي خلفى تعالى فاقتله، إلا الغرقد فإنه من شجر اليهود‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718090,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Kiamat tidak akan terjadi sehingga umat Islam memerangi orang Yahudi, sehinggakan seorang Yahudi akan bersembunyi di sebalik batu atau sebatang pohon, dan batu atau pohon itu akan berkata: 'Wahai Muslim, ada seorang Yahudi di belakangku. Marilah dan bunuhlah dia,' tetapi pohon Al-Gharqad tidak akan berkata demikian, kerana ia adalah pohon orang Yahudi.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
