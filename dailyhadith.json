@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "42.00",
-  "hadithNumber": "341",
+  "chapterId": "71.00",
+  "hadithNumber": "603",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "42",
-      "chapterTitle": "Excellence in doing Good to the Friends of Parents and other Relatives",
-      "urn": 1603371,
-      "body": "<p>'Abdullah bin 'Umar (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"The finest act of goodness is that a person should treat kindly the loved ones of his father\".</p>",
+      "chapterNumber": "71",
+      "chapterTitle": "Modesty and Courtesy towards the Believers",
+      "urn": 1605970,
+      "body": "<p>Anas (May Allah be pleased with him) passed by some children and greeted them (by saying As-salamu 'alaikum to them). Then he said: The Prophet (ﷺ) used to do the same.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "42",
-      "chapterTitle": "- باب فضل بر أصدقاء الأب والأم والأقارب والزوجة وسائر من يندب إكرامه",
-      "urn": 1703370,
-      "body": "<p>- عن ابن عمر رضي الله عنهما أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إن أبر البر أن يصل الرجل ود أبيه‏\"‏‏.‏</p>",
+      "chapterNumber": "71",
+      "chapterTitle": "- باب التواضع وخفض الجناح للمؤمنين",
+      "urn": 1705990,
+      "body": "<p>- وعن أنس رضي الله عنه أنه مر على صبيان فسلم عليهم وقال‏:‏ كان النبي صلى الله عليه وسلم يفعله‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "71",
+      "chapterTitle": "Sifat Malu dan Kesopanan terhadap Orang Beriman",
+      "urn": 1705990,
+      "body": "<p>Anas (semoga Allah meredainya) melewati sekumpulan kanak-kanak dan memberi salam kepada mereka (dengan mengucapkan As-salamu 'alaikum kepada mereka). Kemudian beliau berkata: Nabi (ﷺ) juga melakukan perkara yang sama. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
