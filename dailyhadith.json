@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "68.00",
-  "hadithNumber": "590",
+  "bookNumber": "14",
+  "chapterId": "243.00",
+  "hadithNumber": "1399",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "68",
-      "chapterTitle": "Leading an Abstemious Life and refraining from the Doubtful",
-      "urn": 1605840,
-      "body": "<p>Wabisah bin Ma'bad (May Allah be pleased with him) reported: I went to Messenger of Allah (ﷺ) and he asked me, \"Have you come to inquire about piety?\" I replied in the affirmative. Then he said, \"Ask your heart regarding it. Piety is that which contents the soul and comforts the heart, and sin is that which causes doubts and perturbs the heart, even if people pronounce it lawful and give you verdicts on such matters again and again.\"<br/><br/><b>[Ahmad and Ad- Darmi]</b>.<br/><br/></p>",
+      "chapterNumber": "243",
+      "chapterTitle": "The Obligation of Supplicating Allah to Exalt His Mention and its Excellence, and its Manner",
+      "urn": 1612660,
+      "body": "<p>Aus bin Aus (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Among the best of your days is Friday; so supplicate Allah more often for me in it , for your supplications will be displayed to me.\" He was asked: \"O Messenger of Allah! How will our blessings be displayed to you when your decayed body will have mixed with the earth?\" He (ﷺ) replied, \"Allah has prohibited the earth from consuming the bodies of the Prophets.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "68",
-      "chapterTitle": "- باب الورع وترك الشبهات",
-      "urn": 1705860,
-      "body": "<p>- وعن وابصة بن معبد رضي الله عنه قال‏:‏ أتيت رسول الله صلى الله عليه وسلم فقال‏:‏ “جئت تسأل عن البر‏؟‏” قلت نعم، فقال‏:‏ ‏\"‏استفت قلبك البر ما اطمأنت إليه النفس، واطمأن إليه القلب، والإثم ما حاك فى النفس وتردد فىالصدر، وإن أفتاك الناس وأفتوك” ‏(‏‏(‏حديث حسن، رواه أحمد والدارمي فى مسنديهما‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "68",
-      "chapterTitle": "Mengamalkan Kehidupan yang Sederhana dan Menjauhi Perkara yang Syubhah",
-      "urn": 1705860,
-      "body": "<p>Wabisah bin Ma'bad (Semoga Allah meredainya) melaporkan: Aku mendatangi Rasulullah (ﷺ) dan baginda bertanya kepadaku, \"Adakah kamu datang untuk bertanya tentang takwa?\" Aku menjawab, \"Ya.\" Kemudian baginda bersabda, \"Tanyalah hatimu mengenainya. Takwa itu adalah apa yang menenangkan jiwa dan mendamaikan hati, manakala dosa itu adalah apa yang menimbulkan keraguan dan menggelisahkan hati, walaupun orang ramai menyatakan ia halal dan memberikan fatwa kepadamu tentang perkara tersebut berulang kali.\" [Ahmad dan Ad-Darmi].</p>",
+      "chapterNumber": "243",
+      "chapterTitle": "- باب الأمر بالصلاة عليه وفضلها وبعض صيغها",
+      "urn": 1713890,
+      "body": "<p>- وعن أوس بن أوس، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إن من أفضل أيامكم يوم الجمعة، فأكثروا على من الصلاة فيه، فإن صلاتكم معروضة علي‏\"‏ فقالوا‏:‏ يا رسول الله، كيف تعرض صلاتنا عليك وقد أرمت‏؟‏ قال‏:‏ يقول‏:‏ بلىت، قال‏:‏ ‏\"‏إن الله عز وجل حرم على الأرض أجساد الأنبياء‏\"‏ رواه أبو داود بإسناد صحيح‏.‏</p>",
       "grades": []
     }
   ]
