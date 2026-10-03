@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "71.00",
-  "hadithNumber": "603",
+  "chapterId": "68.00",
+  "hadithNumber": "590",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "71",
-      "chapterTitle": "Modesty and Courtesy towards the Believers",
-      "urn": 1605970,
-      "body": "<p>Anas (May Allah be pleased with him) passed by some children and greeted them (by saying As-salamu 'alaikum to them). Then he said: The Prophet (ﷺ) used to do the same.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "68",
+      "chapterTitle": "Leading an Abstemious Life and refraining from the Doubtful",
+      "urn": 1605840,
+      "body": "<p>Wabisah bin Ma'bad (May Allah be pleased with him) reported: I went to Messenger of Allah (ﷺ) and he asked me, \"Have you come to inquire about piety?\" I replied in the affirmative. Then he said, \"Ask your heart regarding it. Piety is that which contents the soul and comforts the heart, and sin is that which causes doubts and perturbs the heart, even if people pronounce it lawful and give you verdicts on such matters again and again.\"<br/><br/><b>[Ahmad and Ad- Darmi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "71",
-      "chapterTitle": "- باب التواضع وخفض الجناح للمؤمنين",
-      "urn": 1705990,
-      "body": "<p>- وعن أنس رضي الله عنه أنه مر على صبيان فسلم عليهم وقال‏:‏ كان النبي صلى الله عليه وسلم يفعله‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "68",
+      "chapterTitle": "- باب الورع وترك الشبهات",
+      "urn": 1705860,
+      "body": "<p>- وعن وابصة بن معبد رضي الله عنه قال‏:‏ أتيت رسول الله صلى الله عليه وسلم فقال‏:‏ “جئت تسأل عن البر‏؟‏” قلت نعم، فقال‏:‏ ‏\"‏استفت قلبك البر ما اطمأنت إليه النفس، واطمأن إليه القلب، والإثم ما حاك فى النفس وتردد فىالصدر، وإن أفتاك الناس وأفتوك” ‏(‏‏(‏حديث حسن، رواه أحمد والدارمي فى مسنديهما‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "71",
-      "chapterTitle": "Sifat Malu dan Kesopanan terhadap Orang Beriman",
-      "urn": 1705990,
-      "body": "<p>Anas (semoga Allah meredainya) melewati sekumpulan kanak-kanak dan memberi salam kepada mereka (dengan mengucapkan As-salamu 'alaikum kepada mereka). Kemudian beliau berkata: Nabi (ﷺ) juga melakukan perkara yang sama. [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "68",
+      "chapterTitle": "Mengamalkan Kehidupan yang Sederhana dan Menjauhi Perkara yang Syubhah",
+      "urn": 1705860,
+      "body": "<p>Wabisah bin Ma'bad (Semoga Allah meredainya) melaporkan: Aku mendatangi Rasulullah (ﷺ) dan baginda bertanya kepadaku, \"Adakah kamu datang untuk bertanya tentang takwa?\" Aku menjawab, \"Ya.\" Kemudian baginda bersabda, \"Tanyalah hatimu mengenainya. Takwa itu adalah apa yang menenangkan jiwa dan mendamaikan hati, manakala dosa itu adalah apa yang menimbulkan keraguan dan menggelisahkan hati, walaupun orang ramai menyatakan ia halal dan memberikan fatwa kepadamu tentang perkara tersebut berulang kali.\" [Ahmad dan Ad-Darmi].</p>",
       "grades": []
     }
   ]
