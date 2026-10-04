@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "215.00",
-  "hadithNumber": "1202",
+  "bookNumber": "introduction",
+  "chapterId": "3.00",
+  "hadithNumber": "32",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "215",
-      "chapterTitle": "The Excellence of using Miswak (Tooth-Stick)",
-      "urn": 1622460,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Prophet (ﷺ) said, \"The Miswak (tooth-stick) cleanses and purifies the mouth and pleases the Rubb.\"<br/><br/><b>[An-Nasa'i and Ibn Khuzaimah]</b>.<br/><br/></p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600320,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says: 'I have no reward other than Jannah for a believing slave of Mine who remains patient for My sake when I take away his beloved one from among the inhabitants of the world\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "215",
-      "chapterTitle": "- باب فضل السواك وخصال الفطرة‏:‏",
-      "urn": 1711920,
-      "body": "<p>- وعن عائشة رضي الله عنها ان النبي صلى الله عليه وسلم ‏:‏ قال‏:‏ ‏\"‏السواك مطهرة للفم مرضاة للرب‏\"‏ ‏(‏‏(‏رواه النسائي، وابن خذيمة في صحيحه بأسانيد صحيحة‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700320,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال ‏:‏ ‏\"‏ يقول الله تعالى ‏:‏ ما لعبدي المؤمن عندي جزاء إذا قبضت صفيه من أهل الدنيا ثم احتسبه إلا الجنة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "215",
-      "chapterTitle": "Kelebihan Menggunakan Miswak (Kayu Siwak)",
-      "urn": 1711920,
-      "body": "<p>Aishah (semoga Allah meredainya) menceritakan: Nabi (ﷺ) bersabda, \"Miswak itu membersihkan dan menyucikan mulut serta menyenangkan Rabb.\" [An-Nasa'i dan Ibn Khuzaimah].</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Kesabaran dan Ketabahan",
+      "urn": 1700320,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Allah Yang Maha Tinggi berfirman: 'Tiada ganjaran bagi-Ku melainkan syurga bagi hamba-Ku yang beriman yang bersabar kerana-Ku apabila Aku mengambil orang yang dicintainya daripada kalangan penghuni dunia'.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
