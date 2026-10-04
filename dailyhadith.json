@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1311",
+  "bookNumber": "8",
+  "chapterId": "215.00",
+  "hadithNumber": "1202",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611810,
-      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"No one who has entered Jannah will desire to return to this world even if he should be given all that the world contains, except a martyr. For he will yearn that he should return to the world and be killed ten times on account of the dignity that he will experience by virtue of his martyrdom.\"<br/><br/>Another narration is: \"On account of the excellence and distinction, he will experience as a result of martyrdom.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "215",
+      "chapterTitle": "The Excellence of using Miswak (Tooth-Stick)",
+      "urn": 1622460,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Prophet (ﷺ) said, \"The Miswak (tooth-stick) cleanses and purifies the mouth and pleases the Rubb.\"<br/><br/><b>[An-Nasa'i and Ibn Khuzaimah]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713010,
-      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ما أحد يدخل الجنة يحب أن يرجع إلى الدنيا وله ما على الأرض من شيء إلا الشهيد، يتمنى أن يرجع إلى الدنيا فيقتل عشر مرات لما يرى من الكرامة”</p>",
+      "chapterNumber": "215",
+      "chapterTitle": "- باب فضل السواك وخصال الفطرة‏:‏",
+      "urn": 1711920,
+      "body": "<p>- وعن عائشة رضي الله عنها ان النبي صلى الله عليه وسلم ‏:‏ قال‏:‏ ‏\"‏السواك مطهرة للفم مرضاة للرب‏\"‏ ‏(‏‏(‏رواه النسائي، وابن خذيمة في صحيحه بأسانيد صحيحة‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713010,
-      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Tidak ada sesiapa pun yang telah memasuki syurga yang ingin kembali ke dunia ini walaupun dia diberikan segala apa yang ada di dunia, kecuali seorang syahid. Kerana dia akan sangat ingin kembali ke dunia dan dibunuh sepuluh kali disebabkan kemuliaan yang akan dialaminya hasil daripada kesyahidannya.\" Riwayat lain menyebut: \"Disebabkan kelebihan dan keistimewaan yang akan dialaminya hasil daripada kesyahidannya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "215",
+      "chapterTitle": "Kelebihan Menggunakan Miswak (Kayu Siwak)",
+      "urn": 1711920,
+      "body": "<p>Aishah (semoga Allah meredainya) menceritakan: Nabi (ﷺ) bersabda, \"Miswak itu membersihkan dan menyucikan mulut serta menyenangkan Rabb.\" [An-Nasa'i dan Ibn Khuzaimah].</p>",
       "grades": []
     }
   ]
