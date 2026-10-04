@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "30.00",
-  "hadithNumber": "247",
+  "chapterId": "44.00",
+  "hadithNumber": "349",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "30",
-      "chapterTitle": "Intercession",
-      "urn": 1602440,
-      "body": "<p>Ibn 'Abbas (May Allah bepleased with them), reported in connection with the case of Barirah (May Allah bepleased with her) and her husband: The Prophet (ﷺ) said to her, \"It is better for you to go back to your husband.\" She asked: \"O Messenger of Allah, do you order me to do so.\" He replied, \"I only intercede\" She then said: \"I have no need for him\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "44",
+      "chapterTitle": "Revering the Scholars and Elders, Preferring them to others and raising their Status",
+      "urn": 1603450,
+      "body": "<p>Abu Mas'ud Al-Ansari (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) would place his hands upon our shoulders when we would form rows for As-Salat (the prayer) and say, \"Stand in straight rows and do not differ among yourselves, or else your hearts will differ due to disaccord. Let those be nearest to me who are mature and endowed with understanding (of the religion), then those who are nearest to them in these respects and then those who are nearest to them\".<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "30",
-      "chapterTitle": "- باب الشفاعة",
-      "urn": 1702460,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما في قصة بريرة وزوجها‏.‏ قال‏:‏ قال لها النبي صلى الله عليه وسلم‏:‏ ‏\"‏لو راجعته‏؟‏‏\"‏ قالت‏:‏ يا رسول الله تأمرني‏؟‏ قال ‏:‏ ‏\"‏إنما أشفع‏\"‏ قالت‏:‏ لا حاجة لي فيه‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "30",
-      "chapterTitle": "Syafaat",
-      "urn": 1702460,
-      "body": "<p>Ibn 'Abbas (Semoga Allah meredai keduanya), melaporkan berkaitan dengan kisah Barirah (Semoga Allah meredainya) dan suaminya: Nabi (ﷺ) bersabda kepadanya, \"Adalah lebih baik bagimu untuk kembali kepada suamimu.\" Dia bertanya: \"Wahai Rasulullah, adakah engkau memerintahkanku untuk berbuat demikian?\" Baginda menjawab, \"Aku hanya memberi syafaat.\" Dia kemudian berkata: \"Aku tidak memerlukannya lagi.\" [Al-Bukhari].</p>",
+      "chapterNumber": "44",
+      "chapterTitle": "- باب توقير العلماء والكبار وأهل الفضل وتقديمهم على غيرهم، ورفع مجالسهم، وإظهار مرتبتهم",
+      "urn": 1703450,
+      "body": "<p>- وعنه قال‏:‏ كان رسول الله صلى الله عليه وسلم يمسح مناكبنا في الصلاة ويقول‏:‏ ‏\"‏استووا ولا تختلفوا، فتختلف قلوبكم، ليلني منكم أولو الأحلام والنهى، ثم الذين يلونهم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
