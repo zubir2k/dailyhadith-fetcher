@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "3.00",
-  "hadithNumber": "32",
+  "chapterId": "30.00",
+  "hadithNumber": "247",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "3",
-      "chapterTitle": "Patience and Perseverance",
-      "urn": 1600320,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says: 'I have no reward other than Jannah for a believing slave of Mine who remains patient for My sake when I take away his beloved one from among the inhabitants of the world\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "30",
+      "chapterTitle": "Intercession",
+      "urn": 1602440,
+      "body": "<p>Ibn 'Abbas (May Allah bepleased with them), reported in connection with the case of Barirah (May Allah bepleased with her) and her husband: The Prophet (ﷺ) said to her, \"It is better for you to go back to your husband.\" She asked: \"O Messenger of Allah, do you order me to do so.\" He replied, \"I only intercede\" She then said: \"I have no need for him\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "3",
-      "chapterTitle": "- باب الصبر",
-      "urn": 1700320,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال ‏:‏ ‏\"‏ يقول الله تعالى ‏:‏ ما لعبدي المؤمن عندي جزاء إذا قبضت صفيه من أهل الدنيا ثم احتسبه إلا الجنة‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "30",
+      "chapterTitle": "- باب الشفاعة",
+      "urn": 1702460,
+      "body": "<p>- وعن ابن عباس رضي الله عنهما في قصة بريرة وزوجها‏.‏ قال‏:‏ قال لها النبي صلى الله عليه وسلم‏:‏ ‏\"‏لو راجعته‏؟‏‏\"‏ قالت‏:‏ يا رسول الله تأمرني‏؟‏ قال ‏:‏ ‏\"‏إنما أشفع‏\"‏ قالت‏:‏ لا حاجة لي فيه‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "3",
-      "chapterTitle": "Kesabaran dan Ketabahan",
-      "urn": 1700320,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Allah Yang Maha Tinggi berfirman: 'Tiada ganjaran bagi-Ku melainkan syurga bagi hamba-Ku yang beriman yang bersabar kerana-Ku apabila Aku mengambil orang yang dicintainya daripada kalangan penghuni dunia'.\" [Al-Bukhari].</p>",
+      "chapterNumber": "30",
+      "chapterTitle": "Syafaat",
+      "urn": 1702460,
+      "body": "<p>Ibn 'Abbas (Semoga Allah meredai keduanya), melaporkan berkaitan dengan kisah Barirah (Semoga Allah meredainya) dan suaminya: Nabi (ﷺ) bersabda kepadanya, \"Adalah lebih baik bagimu untuk kembali kepada suamimu.\" Dia bertanya: \"Wahai Rasulullah, adakah engkau memerintahkanku untuk berbuat demikian?\" Baginda menjawab, \"Aku hanya memberi syafaat.\" Dia kemudian berkata: \"Aku tidak memerlukannya lagi.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
