@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "106.00",
-  "hadithNumber": "742",
+  "bookNumber": "17",
+  "chapterId": "357.00",
+  "hadithNumber": "1784",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "106",
-      "chapterTitle": "What Should a Person Say or Do When He Eats and is Unsatisfied",
-      "urn": 1607234,
-      "body": "<p>Wahshi bin Harb (May Allah be pleased with him) reported: Some of the Companions of Messenger of Allah (ﷺ) said: \"We eat but are not satisfied.\" He (ﷺ) said, \"Perhaps you eat separately.\" The Companions replied in affirmative. He then said: \"Eat together and mention the Name of Allah over your food. It will be blessed for you.\"\n</p>\n<p>\n<b>[Abu Dawud]</b>.</p>",
+      "chapterNumber": "357",
+      "chapterTitle": "Prohibition of Pointing with a Weapon at another Brother in Faith",
+      "urn": 1625850,
+      "body": "<p>Jabir (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) prohibited from presenting a drawn sword to another.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "106",
-      "chapterTitle": "- باب ما يقوله ويفعله من يأكل ولا يشبع",
-      "urn": 1707370,
-      "body": "<p>- عن وحشى بن حرب رضى الله عنه أن أصحاب رسول الله صلى الله عليه وسلم قالوا‏:‏ يا رسول الله ، إنا نأكل ولا نشبع قال‏:‏ ‏\"‏فلعلكم تفترقون‏\"‏ قالوا‏:‏ نعم‏.‏ قال‏:‏ فاجتمعوا على طعامكم، واذكروا اسم الله ، يبارك لكم فيه‏\"‏ ((رواه أبو داود)) ‏‏‏</p>",
+      "chapterNumber": "357",
+      "chapterTitle": "- باب النهي عن الإشارة إلى مسلم بسلاح ونحوه سواء كان جادًا أو مازحًا، والنهي عن تعاطي السيف مسلولا",
+      "urn": 1717730,
+      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ ‏\"‏نهى رسول الله صلى الله عليه وسلم أن يتعاطى السيف مسلولا‏\"‏‏.‏‏(‏‏(‏رواه أبو داود والترمذي وقال حديث حسن‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "106",
-      "chapterTitle": "Apa yang Perlu Diucapkan atau Dilakukan oleh Seseorang Apabila Dia Makan dan Berasa Tidak Puas Hati",
-      "urn": 1707370,
-      "body": "<p>Wahshi bin Harb (Semoga Allah meredainya) melaporkan: Sebahagian para Sahabat Rasulullah (ﷺ) berkata: \"Kami makan tetapi tidak merasa kenyang.\" Baginda (ﷺ) bersabda: \"Mungkin kamu makan secara berasingan.\" Para Sahabat pun mengiyakannya. Baginda kemudian bersabda: \"Makanlah secara bersama-sama dan sebutlah nama Allah ke atas makanan kamu. Nescaya ia akan diberkati bagi kamu.\"\n\n[Abu Dawud].</p>",
+      "chapterNumber": "357",
+      "chapterTitle": "Larangan Menghalakan Senjata kepada Saudara Seiman",
+      "urn": 1717730,
+      "body": "<p>Jabir (semoga Allah meredainya) berkata: Rasulullah (ﷺ) melarang daripada menghalakan pedang yang terhunus kepada orang lain. [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
