@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "212.00",
-  "hadithNumber": "1180",
+  "bookNumber": "introduction",
+  "chapterId": "56.00",
+  "hadithNumber": "492",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1622240,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: Whenever the Messenger of Allah (ﷺ) stood for Salat at night, he would start his prayer with two brief Rak'ah.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Excellence of Simple Living and being Content with Little",
+      "urn": 1604890,
+      "body": "<p>Abu Sa'id Maqburi reported: Abu Hurairah (May Allah be pleased with him) said that he happened to pass by some people who had a roast lamb before them. They invited him, but he declined, saying: \"The Messenger of Allah (ﷺ) left the world without having eaten his fill with barley bread.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "212",
-      "chapterTitle": "- باب فضل قيام الليل‏:‏",
-      "urn": 1711700,
-      "body": "<p>- وعن عائشة رضي الله عنها قالت كان رسول الله صلى الله عليه وسلم إذا قام من الليل افتتح صلاته بركعتين خفيفتين ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
+      "urn": 1704880,
+      "body": "<p>- وعن أبي سعيد المقبري عن أبي هريرة رضي الله عنه، أنه مر بقوم بين أيديهم شاة مصلية، فدعوه فأبي أن يأكل، وقال‏:‏ خرج رسول الله صلى الله عليه وسلم من الدنيا ولم يشبع من خبز الشعير‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏\n<br/>\n '‏مصلية‏'‏ بفتح الميم‏:‏ أي‏:‏ مشوية‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1711700,
-      "body": "<p>Aishah (semoga Allah merahmatinya) melaporkan: Setiap kali Rasulullah (ﷺ) bangun untuk solat pada waktu malam, baginda akan memulakan solatnya dengan dua rakaat yang ringkas. [Muslim].</p>",
+      "chapterNumber": "56",
+      "chapterTitle": "Keutamaan Hidup Sederhana dan Merasa Cukup dengan yang Sedikit",
+      "urn": 1704880,
+      "body": "<p>Abu Sa'id Maqburi meriwayatkan: Abu Hurairah (semoga Allah meredainya) berkata bahawa beliau kebetulan lalu di hadapan sekumpulan orang yang sedang mempunyai daging kambing panggang di hadapan mereka. Mereka mengajaknya, namun beliau menolak dengan berkata: \"Rasulullah (ﷺ) telah meninggalkan dunia ini tanpa pernah kenyang dengan makan roti barli.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
