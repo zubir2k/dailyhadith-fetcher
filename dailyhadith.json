@@ -2,30 +2,30 @@
   "collection": "riyadussalihin",
   "bookNumber": "11",
   "chapterId": "234.00",
-  "hadithNumber": "1337",
+  "hadithNumber": "1321",
   "hadith": [
     {
       "lang": "en",
       "chapterNumber": "234",
       "chapterTitle": "Obligation of Jihad",
-      "urn": 1612070,
-      "body": "<p>'Amr bin 'Abasah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying: \"He who shoots an arrow for the sake of Allah, will have a reward equal to the emancipation of a slave.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.</p>",
+      "urn": 1611910,
+      "body": "<p>Sahl bin Hunaif (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"He who supplicates Allah sincerely for martyrdom, Allah will elevate him to the station of the martyrs, even if he dies on his bed.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
       "chapterNumber": "234",
       "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713270,
-      "body": "<p>- وعن عمرو بن عبسة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ من رمى بسهم في سبيل الله فهو له عدل محررة‏:‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏.‏ ‏)‏‏)‏‏.‏</p>",
+      "urn": 1713110,
+      "body": "<p>- وعن سهل بن حنيف رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏من سأل الله تعالى الشهادة بصدق بلغه الله منازل الشهداء وإن مات على فراشه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
       "chapterNumber": "234",
       "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713270,
-      "body": "<p>'Amr bin 'Abasah (semoga Allah meredainya) menceritakan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Sesiapa yang memanah kerana Allah, maka dia akan mendapat pahala yang menyamai pembebasan seorang hamba.\" [Abu Dawud dan At-Tirmidhi].</p>",
+      "urn": 1713110,
+      "body": "<p>Sahl bin Hunaif (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang berdoa kepada Allah dengan ikhlas untuk mati syahid, Allah akan mengangkatnya ke kedudukan para syuhada, walaupun dia mati di atas tempat tidurnya.\" [Muslim].</p>",
       "grades": []
     }
   ]
