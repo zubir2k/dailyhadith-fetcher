@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1321",
+  "bookNumber": "introduction",
+  "chapterId": "3.00",
+  "hadithNumber": "47",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611910,
-      "body": "<p>Sahl bin Hunaif (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"He who supplicates Allah sincerely for martyrdom, Allah will elevate him to the station of the martyrs, even if he dies on his bed.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600470,
+      "body": "<p>Mu'adh bin Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"The one who suppresses anger and has the power to give effect to it, will be called out by Allah, the Exalted, to the forefront of the creatures on the Day of Resurrection and he will be asked to choose any of the virgins (Hur) of his liking\".<br/><br/><b>[Abu Dawud and At-Tirmidhi, who categorised it as Hadith Hasan]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713110,
-      "body": "<p>- وعن سهل بن حنيف رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏من سأل الله تعالى الشهادة بصدق بلغه الله منازل الشهداء وإن مات على فراشه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700470,
+      "body": "<p>- وعن معاذ بن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كظم غيظاً ، وهو قادر على أن ينفذه، دعاه الله سبحانه وتعالى على رؤوس الخلائق يوم القيامة حتى يخيره من الحور العين ما شاء‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713110,
-      "body": "<p>Sahl bin Hunaif (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang berdoa kepada Allah dengan ikhlas untuk mati syahid, Allah akan mengangkatnya ke kedudukan para syuhada, walaupun dia mati di atas tempat tidurnya.\" [Muslim].</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Kesabaran dan Ketabahan",
+      "urn": 1700470,
+      "body": "<p>Mu'adh bin Anas (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Sesiapa yang menahan kemarahan sedangkan dia mempunyai kemampuan untuk membalasnya, dia akan dipanggil oleh Allah Yang Maha Tinggi di hadapan sekalian makhluk pada Hari Kebangkitan dan dia akan diminta untuk memilih mana-mana bidadari (Hur) yang disukainya.\" [Abu Dawud dan At-Tirmidhi, yang mengkategorikannya sebagai Hadis Hasan].</p>",
       "grades": []
     }
   ]
