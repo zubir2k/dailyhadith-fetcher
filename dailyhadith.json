@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "357.00",
-  "hadithNumber": "1784",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1337",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "357",
-      "chapterTitle": "Prohibition of Pointing with a Weapon at another Brother in Faith",
-      "urn": 1625850,
-      "body": "<p>Jabir (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) prohibited from presenting a drawn sword to another.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1612070,
+      "body": "<p>'Amr bin 'Abasah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying: \"He who shoots an arrow for the sake of Allah, will have a reward equal to the emancipation of a slave.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "357",
-      "chapterTitle": "- باب النهي عن الإشارة إلى مسلم بسلاح ونحوه سواء كان جادًا أو مازحًا، والنهي عن تعاطي السيف مسلولا",
-      "urn": 1717730,
-      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ ‏\"‏نهى رسول الله صلى الله عليه وسلم أن يتعاطى السيف مسلولا‏\"‏‏.‏‏(‏‏(‏رواه أبو داود والترمذي وقال حديث حسن‏)‏‏)‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1713270,
+      "body": "<p>- وعن عمرو بن عبسة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ من رمى بسهم في سبيل الله فهو له عدل محررة‏:‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏.‏ ‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "357",
-      "chapterTitle": "Larangan Menghalakan Senjata kepada Saudara Seiman",
-      "urn": 1717730,
-      "body": "<p>Jabir (semoga Allah meredainya) berkata: Rasulullah (ﷺ) melarang daripada menghalakan pedang yang terhunus kepada orang lain. [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Kewajipan Jihad",
+      "urn": 1713270,
+      "body": "<p>'Amr bin 'Abasah (semoga Allah meredainya) menceritakan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Sesiapa yang memanah kerana Allah, maka dia akan mendapat pahala yang menyamai pembebasan seorang hamba.\" [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
