@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "3.00",
-  "hadithNumber": "47",
+  "chapterId": "51.00",
+  "hadithNumber": "418",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "3",
-      "chapterTitle": "Patience and Perseverance",
-      "urn": 1600470,
-      "body": "<p>Mu'adh bin Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"The one who suppresses anger and has the power to give effect to it, will be called out by Allah, the Exalted, to the forefront of the creatures on the Day of Resurrection and he will be asked to choose any of the virgins (Hur) of his liking\".<br/><br/><b>[Abu Dawud and At-Tirmidhi, who categorised it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "51",
+      "chapterTitle": "Hope in Allah's Mercy",
+      "urn": 1604140,
+      "body": "<p>'Umar bin Al-Khattab (May Allah be pleased with him) reported: Some prisoners were brought to Messenger of Allah (ﷺ) amongst whom there was a woman who was running (searching for her child). When she saw a child among the captives, she took hold of it, pressed it against her belly and gave it a suck. Messenger of Allah (ﷺ) said, \"Do you think this woman would ever throw her child in fire?\" We said, \"By Allah, she would never throw the child in fire.\" Thereupon Messenger of Allah (ﷺ) said, \"Allah is more kind to his slave than this woman is to her child\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "3",
-      "chapterTitle": "- باب الصبر",
-      "urn": 1700470,
-      "body": "<p>- وعن معاذ بن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كظم غيظاً ، وهو قادر على أن ينفذه، دعاه الله سبحانه وتعالى على رؤوس الخلائق يوم القيامة حتى يخيره من الحور العين ما شاء‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "3",
-      "chapterTitle": "Kesabaran dan Ketabahan",
-      "urn": 1700470,
-      "body": "<p>Mu'adh bin Anas (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Sesiapa yang menahan kemarahan sedangkan dia mempunyai kemampuan untuk membalasnya, dia akan dipanggil oleh Allah Yang Maha Tinggi di hadapan sekalian makhluk pada Hari Kebangkitan dan dia akan diminta untuk memilih mana-mana bidadari (Hur) yang disukainya.\" [Abu Dawud dan At-Tirmidhi, yang mengkategorikannya sebagai Hadis Hasan].</p>",
+      "chapterNumber": "51",
+      "chapterTitle": "- باب الرجاء",
+      "urn": 1704130,
+      "body": "<p>- وعن عمر بن الخطاب، رضي الله عنه ، قال‏:‏ قدم رسول الله ، صلى الله عليه وسلم، بسبي، فإذا امرأة من السبي تسعى، إذ وجدت صبياً في السبي أخذته، فألزقته ببطنها، فأرضعته، فقال رسول الله، صلى الله عليه وسلم‏:‏ “أترون هذه المرأة طارحة ولدها في النار‏؟‏” قلنا لا والله ‏.‏ قال‏:‏ ‏\"‏لله أرحم بعباده من هذه الأم بولدها‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     }
   ]
