@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "51.00",
-  "hadithNumber": "418",
+  "chapterId": "25.00",
+  "hadithNumber": "199",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "51",
-      "chapterTitle": "Hope in Allah's Mercy",
-      "urn": 1604140,
-      "body": "<p>'Umar bin Al-Khattab (May Allah be pleased with him) reported: Some prisoners were brought to Messenger of Allah (ﷺ) amongst whom there was a woman who was running (searching for her child). When she saw a child among the captives, she took hold of it, pressed it against her belly and gave it a suck. Messenger of Allah (ﷺ) said, \"Do you think this woman would ever throw her child in fire?\" We said, \"By Allah, she would never throw the child in fire.\" Thereupon Messenger of Allah (ﷺ) said, \"Allah is more kind to his slave than this woman is to her child\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "25",
+      "chapterTitle": "Discharging the Trusts",
+      "urn": 1601980,
+      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"There are three signs of a hypocrite: When he speaks, he lies; when he makes a promise, he breaks it; and when he is trusted, he betrays his trust.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration adds the words: 'Even if he observes fasts, performs Salat and asserts that he is a Muslim\".<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "51",
-      "chapterTitle": "- باب الرجاء",
-      "urn": 1704130,
-      "body": "<p>- وعن عمر بن الخطاب، رضي الله عنه ، قال‏:‏ قدم رسول الله ، صلى الله عليه وسلم، بسبي، فإذا امرأة من السبي تسعى، إذ وجدت صبياً في السبي أخذته، فألزقته ببطنها، فأرضعته، فقال رسول الله، صلى الله عليه وسلم‏:‏ “أترون هذه المرأة طارحة ولدها في النار‏؟‏” قلنا لا والله ‏.‏ قال‏:‏ ‏\"‏لله أرحم بعباده من هذه الأم بولدها‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "25",
+      "chapterTitle": "- باب الأمر بأداء الأمانة",
+      "urn": 1701980,
+      "body": "<p>- عن أبي هريرة ، رضي الله عنه ، أن رسول الله صلى الله عليه وسلم قال‏:‏ “آية المنافق ثلاث‏:‏ إذا حدث كذب، وإذا وعد أخلف، وإذا أؤتمن خان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "25",
+      "chapterTitle": "Menunaikan Amanah",
+      "urn": 1701980,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Terdapat tiga tanda orang munafik: Apabila dia bercakap, dia berbohong; apabila dia berjanji, dia mungkiri; dan apabila dia diberi amanah, dia mengkhianatinya.\"[Al-Bukhari dan Muslim]. Riwayat lain menambah kata-kata: 'Walaupun dia berpuasa, mendirikan solat, dan mengaku bahawa dia adalah seorang Muslim'.</p>",
       "grades": []
     }
   ]
