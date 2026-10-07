@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "303.00",
-  "hadithNumber": "1669",
+  "bookNumber": "11",
+  "chapterId": "240.00",
+  "hadithNumber": "1367",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "303",
-      "chapterTitle": "Prohibition of Consultation with Soothsayers",
-      "urn": 1624700,
-      "body": "<p>Narrated Safiyyah, daughter of Abu 'Ubaid, on the authority of some of the wives of the Prophet (ﷺ) who said, \"He who goes to one who claims to tell about matters of the Unseen and believes in him, his Salat (prayers) will not be accepted for forty days.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "240",
+      "chapterTitle": "Excellence of Fair Bargaining and Matters Relation to it",
+      "urn": 1612340,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A man demanded of the Prophet (ﷺ) for repayment of a loan and was harsh to him. His Companions were about to attack him, but he (ﷺ) said, \"Leave him, as the creditor is entitled to make a demand. Give him a camel of the same age as the camel that is due to him.\" They said: \"We find a better camel senior to it in age.\" He (ﷺ) said, \"Then buy it and give it to him; verily the best of you is the one who is the best in discharging his obligations (repayment of loans).\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "303",
-      "chapterTitle": "- باب النهي عن إتيان الكهان والمنجمين والعراف وأصحاب الرمل والطوارق بالحصى وبالشعير ونحو ذلك",
-      "urn": 1716590,
-      "body": "<p>- وعن قبيصة بنت أبي عبيد، عن بعض أزواج النبي صلى الله عليه وسلم، ورضي الله عنها، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من أتي عرافًا فسأله عن شيء، فصدقه، لم تقبل له صلاة أربعين يومًا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "240",
+      "chapterTitle": "- باب فضل السماحة في البيع والشراء والأخذ والعطاء وحسن القضاء وإرجاح المكيال والميزان والنهي عن التطفيف، وفضل إنظار الموسر المعسر، والوضع عنه",
+      "urn": 1713570,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رجلا أتى النبي صلى الله عليه وسلم يتقاضاه فأغلظ له فهم به أصحابه، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏دعوه فإن لصاحب الحق مقالا‏\"‏ ثم قال‏:‏ ‏\"‏أعطوه سنا مثل سنه‏\"‏ قالوا‏:‏ يا رسول الله لا نجد إلا أمثل من سنه، قال‏:‏ ‏\"‏أعطوه فإن خيركم أحسنكم قضاء‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "240",
+      "chapterTitle": "Kelebihan Jual Beli yang Jujur dan Perkara-perkara yang Berkaitan Dengannya",
+      "urn": 1713570,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) meriwayatkan: Seorang lelaki telah menuntut bayaran hutang daripada Nabi (ﷺ) dengan cara yang kasar terhadap baginda. Para sahabat baginda hampir sahaja menyerangnya, tetapi baginda (ﷺ) bersabda, \"Biarkan dia, kerana pemberi hutang berhak untuk membuat tuntutan. Berikan kepadanya seekor unta yang sama umurnya dengan unta yang sepatutnya dibayar kepadanya.\" Mereka berkata: \"Kami dapati ada unta yang lebih baik dan lebih tua daripadanya.\" Baginda (ﷺ) bersabda, \"Kalau begitu, belilah ia dan berikan kepadanya; sesungguhnya sebaik-baik kamu adalah orang yang paling baik dalam melunaskan tanggungjawabnya (pembayaran hutang).\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
