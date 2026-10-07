@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "25.00",
-  "hadithNumber": "199",
+  "bookNumber": "17",
+  "chapterId": "303.00",
+  "hadithNumber": "1669",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "25",
-      "chapterTitle": "Discharging the Trusts",
-      "urn": 1601980,
-      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"There are three signs of a hypocrite: When he speaks, he lies; when he makes a promise, he breaks it; and when he is trusted, he betrays his trust.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration adds the words: 'Even if he observes fasts, performs Salat and asserts that he is a Muslim\".<br/><br/></p>",
+      "chapterNumber": "303",
+      "chapterTitle": "Prohibition of Consultation with Soothsayers",
+      "urn": 1624700,
+      "body": "<p>Narrated Safiyyah, daughter of Abu 'Ubaid, on the authority of some of the wives of the Prophet (ﷺ) who said, \"He who goes to one who claims to tell about matters of the Unseen and believes in him, his Salat (prayers) will not be accepted for forty days.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "25",
-      "chapterTitle": "- باب الأمر بأداء الأمانة",
-      "urn": 1701980,
-      "body": "<p>- عن أبي هريرة ، رضي الله عنه ، أن رسول الله صلى الله عليه وسلم قال‏:‏ “آية المنافق ثلاث‏:‏ إذا حدث كذب، وإذا وعد أخلف، وإذا أؤتمن خان‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "25",
-      "chapterTitle": "Menunaikan Amanah",
-      "urn": 1701980,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Terdapat tiga tanda orang munafik: Apabila dia bercakap, dia berbohong; apabila dia berjanji, dia mungkiri; dan apabila dia diberi amanah, dia mengkhianatinya.\"[Al-Bukhari dan Muslim]. Riwayat lain menambah kata-kata: 'Walaupun dia berpuasa, mendirikan solat, dan mengaku bahawa dia adalah seorang Muslim'.</p>",
+      "chapterNumber": "303",
+      "chapterTitle": "- باب النهي عن إتيان الكهان والمنجمين والعراف وأصحاب الرمل والطوارق بالحصى وبالشعير ونحو ذلك",
+      "urn": 1716590,
+      "body": "<p>- وعن قبيصة بنت أبي عبيد، عن بعض أزواج النبي صلى الله عليه وسلم، ورضي الله عنها، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من أتي عرافًا فسأله عن شيء، فصدقه، لم تقبل له صلاة أربعين يومًا‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
