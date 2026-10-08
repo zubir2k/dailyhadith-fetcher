@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "68.00",
-  "hadithNumber": "591",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1168",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "68",
-      "chapterTitle": "Leading an Abstemious Life and refraining from the Doubtful",
-      "urn": 1605850,
-      "body": "<p>'Uqbah bin Al-Harith (May Allah be pleased with him) reported that he had married a daughter of Abu Ihab bin 'Aziz and a woman came to him and said she had suckled both 'Uqbah and the woman whom he had married, to which he replied: \"I am not aware that you suckled me, and you did not inform me.\" So he ('Uqbah) rode to Messenger of Allah (ﷺ) in Al-Madinah and put the matter before him. The Messenger of Allah (ﷺ) said, \"How can you continue (to be her husband) after what you have been told?\" 'Uqbah (May Allah be pleased with him) therefore divorced her and she married another man.<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622120,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"Salat during the night should consist of pairs of but if you fear that morning is near, then pray one Rak'ah as Witr.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "68",
-      "chapterTitle": "- باب الورع وترك الشبهات",
-      "urn": 1705870,
-      "body": "<p>- وعن أبي سروعة -كسر السين المهملة ونصبها- عقبة بن الحارث رضي الله عنه أنه تزوج ابنة لأبي إهاب بن عزيز، فأتته امرأة فقالت‏:‏ إنى قد أرضعت عقبة والتى قد تزوج بها، فقال لها عقبة‏:‏ ما أعلم أنك أرضعتني ولا أخبرتني فركب إلى رسول الله صلى الله عليه وسلم بالمدينة فسأله فقال رسول الله صلى الله عليه وسلم‏:‏ “كيف، وقد قيل‏؟‏‏!‏” ففارقها عقبة ونكحت زوجاً غيره”‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711580,
+      "body": "<p>- وعن ابن عمر رضي الله عنهما، أن النبي صلى الله عليه وسلم ، قال‏:‏ ‏\"‏صلاة الليل مثنى مثنى، فإذا خفت الصبح فأوتر بواحدة‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "68",
-      "chapterTitle": "Menjalani Kehidupan yang Sederhana dan Menjauhi Perkara yang Syubhah",
-      "urn": 1705870,
-      "body": "<p>'Uqbah bin Al-Harith (Semoga Allah meredainya) melaporkan bahawa beliau telah mengahwini seorang puteri Abu Ihab bin 'Aziz, kemudian seorang wanita datang kepadanya dan berkata bahawa dia telah menyusukan 'Uqbah dan wanita yang dikahwininya itu. Beliau menjawab: \"Aku tidak tahu bahawa engkau telah menyusukanku, dan engkau tidak memberitahuku.\" Maka beliau ('Uqbah) pergi menemui Rasulullah (ﷺ) di Al-Madinah dan membentangkan perkara tersebut kepada Baginda. Rasulullah (ﷺ) bersabda, \"Bagaimana kamu boleh meneruskan (perkahwinan) setelah apa yang telah diberitahu kepadamu?\" Oleh itu, 'Uqbah (Semoga Allah meredainya) menceraikannya dan wanita itu berkahwin dengan lelaki lain. [Al-Bukhari].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1711580,
+      "body": "<p>Ibn 'Umar (Semoga Allah meredai mereka) meriwayatkan: Nabi (ﷺ) bersabda, \"Solat pada waktu malam hendaklah dilakukan secara berpasangan, tetapi jika kamu bimbang waktu subuh sudah hampir, maka solatlah satu rakaat sebagai Witir.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
