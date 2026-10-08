@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "355.00",
-  "hadithNumber": "1778",
+  "bookNumber": "introduction",
+  "chapterId": "40.00",
+  "hadithNumber": "314",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "355",
-      "chapterTitle": "Prohibition of Malpractices in Commerce",
-      "urn": 1625790,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) forbade that a man in the city should be the commission agent of a man from the desert and prohibited the practice of Najsh (i.e., offering a high price for something in order to allure another customer who is interested in the thing); and that a man should make an offer while the offer of his brother is pending; or that he should make a proposal of marriage while that of his brother is pending; or that a woman should try that a sister of hers might be divorced so that she might take her place.<br/><br/>Another narration is: The Messenger of Allah (ﷺ) forbade the people from meeting the caravan on the way for entering into business transaction with them; and the selling of the goods by a dweller of the city on behalf of a man of the desert; and the seeking by a woman the divorce of her sister (from her husband); and the practice of Najsh and leaving the animals unmilked (for sometime for the purpose of accumulation of milk to deceive the buyer).<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "40",
+      "chapterTitle": "Kind Treatment towards Parents and establishment of the ties of Blood Relationship",
+      "urn": 1603110,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who believes in Allah and the Last Day, let him be hospitable to his guest; and he who believes in Allah and the Last Day, let him maintain good the ties of blood relationship; and he who believes in Allah and the Last Day, must speak good or remain silent\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "355",
-      "chapterTitle": "- باب تحريم بيع الحاضر للبادي وتلقي الركبان والبيع على بيع أخيه والخطبة على خطبته إلا أن يأذن أو يرد",
-      "urn": 1717670,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ نهى رسول الله صلى الله عليه وسلم أن يبيع حاضر لباد، ولا تناجشوا ولا يبيع الرجل على بيع أخيه، ولا يخطب على خطبة أخيه، ولا تسأل المرأة طلاق أختها لتكفأ ما في إنائها‏.‏ \nوفي رواية قال‏:‏ نهى رسول الله صلى الله عليه وسلم عن التلقي وأن يبتاع المهاجر للأعرابي، وأن تشترط المرأة طلاق أختها، وأن يستام الرجل على سوم أخيه، ونهى عن النجش والتصرية‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "40",
+      "chapterTitle": "- باب بر الوالدين وصلة الأرحام",
+      "urn": 1703125,
+      "body": "<p>وعنه أيضاً أن رسول الله قَالَ : « مَنْ كَانَ يُؤْمِنُ باللهِ وَاليَومِ الآخِرِ ، فَلْيُكْرِمْ ضَيْفَهُ ، وَمَنْ كَانَ يُؤْمِنُ باللهِ وَاليَومِ الآخِرِ ، فَلْيَصِلْ رَحِمَهُ ، وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَاليَومِ الآخِرِ ، فَلْيَقُلْ خَيْراً أَوْ لِيَصْمُتْ » . مُتَّفَقٌ عَلَيهِ .</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "40",
+      "chapterTitle": "Berbuat baik kepada ibu bapa dan menyambung tali silaturahim",
+      "urn": 1703125,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia memuliakan tetamunya; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia menyambung tali silaturahim; dan sesiapa yang beriman kepada Allah dan Hari Akhirat, hendaklah dia berkata baik atau diam.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
