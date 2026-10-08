@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "225.00",
-  "hadithNumber": "1248",
+  "bookNumber": "17",
+  "chapterId": "355.00",
+  "hadithNumber": "1778",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "225",
-      "chapterTitle": "The Excellence of Observing Saum (Fasting) in the months of Muharram and Sha'ban and the Secred Months",
-      "urn": 1622920,
-      "body": "<p>Reported Mujibah Al-Bahiliyah on the authority of her father or uncle that he visited the Messenger of Allah (ﷺ) once and then went to see him again after a year. His appearance had totally changed. He asked the Messenger of Allah (ﷺ) if he had recognized him. The Messenger of Allah (ﷺ) asked, \"Who are you?\" He replied: \"I am Al- Bahili who visited you last year.\" The Messenger of Allah (ﷺ) said, \"You were quite handsome, what has changed your appearance so much?\" He replied, \"Since my departure from here, I have not eaten anything except at night.\" The Messenger of Allah (ﷺ) remarked, \"You have put yourself to torture. Observe Saum (fasting) during the Month of Patience (i.e., Ramadan) and fast one day from each month.\" He submitted, \"Permit me to observe more voluntary fasts because I have capacity to do so.\" The Messenger of Allah (ﷺ) said, \"Then observe fasts for two days in every month.\" He said, \"Permit me to observe more.\" The Messenger of Allah (ﷺ) said, \"Observe fasts on three days in every month.\" He requested that he should be allowed to observe more fasts. The Messenger of Allah (ﷺ) said, \"Fast three days during the sacred months and omit fasting for three days alternately.\" He (ﷺ) joined his three fingers together and left them apart while repeating this sentence thrice.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "355",
+      "chapterTitle": "Prohibition of Malpractices in Commerce",
+      "urn": 1625790,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) forbade that a man in the city should be the commission agent of a man from the desert and prohibited the practice of Najsh (i.e., offering a high price for something in order to allure another customer who is interested in the thing); and that a man should make an offer while the offer of his brother is pending; or that he should make a proposal of marriage while that of his brother is pending; or that a woman should try that a sister of hers might be divorced so that she might take her place.<br/><br/>Another narration is: The Messenger of Allah (ﷺ) forbade the people from meeting the caravan on the way for entering into business transaction with them; and the selling of the goods by a dweller of the city on behalf of a man of the desert; and the seeking by a woman the divorce of her sister (from her husband); and the practice of Najsh and leaving the animals unmilked (for sometime for the purpose of accumulation of milk to deceive the buyer).<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "225",
-      "chapterTitle": "- باب بيان فضل صوم المحرم وشعبان والأشهر الحرم‏:‏",
-      "urn": 1712380,
-      "body": "<p>- وعن مجيبة الباهلية عن أبيها أو عمها، أنه أتى رسول الله صلى الله عليه وسلم ثم انطلق فأتاه بعد سنة وقد تغيرت حاله وهيئته، فقال‏:‏ يا رسول الله أما تعرفني‏؟‏ قال‏:‏ ‏\"‏ومن أنت‏؟‏‏\"‏ قال‏:‏ أنا الباهلي الذي جئتك عام الأول‏.‏ قال‏:‏ ‏\"‏فما غيرك، وقد كنت حسن الهيئة‏؟‏‏\"‏ قال‏:‏ ما أكلت طعامًا منذ فارقتك إلا بليل‏.‏ فقال رسول الله صلى الله عليه وسلم ‏\"‏عذبت نفسك‏!‏‏\"‏ ثم قال‏:‏ ‏\"‏صم شهر الصبر، ويومًا من كل شهر‏\"‏ قال‏:‏ زدني، فإن بي قوة، قال‏:‏ ‏\"‏ صم يومين‏\"‏ قال‏:‏ زذني، قال‏:‏ ‏\"‏صم ثلاثة أيام‏\"‏ قال‏:‏ زدني‏.‏ قال‏:‏ ‏\"‏صم من الحرم واترك، صم من الحرم واترك، صم من الحرم واترك‏\"‏ وقال بأصابعه الثلاث فضمها، ثم أرسلها‏.‏ ‏(‏‏(‏رواه أبو داود‏.‏ ‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "355",
+      "chapterTitle": "- باب تحريم بيع الحاضر للبادي وتلقي الركبان والبيع على بيع أخيه والخطبة على خطبته إلا أن يأذن أو يرد",
+      "urn": 1717670,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ نهى رسول الله صلى الله عليه وسلم أن يبيع حاضر لباد، ولا تناجشوا ولا يبيع الرجل على بيع أخيه، ولا يخطب على خطبة أخيه، ولا تسأل المرأة طلاق أختها لتكفأ ما في إنائها‏.‏ \nوفي رواية قال‏:‏ نهى رسول الله صلى الله عليه وسلم عن التلقي وأن يبتاع المهاجر للأعرابي، وأن تشترط المرأة طلاق أختها، وأن يستام الرجل على سوم أخيه، ونهى عن النجش والتصرية‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
