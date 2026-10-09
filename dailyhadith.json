@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "15.00",
-  "hadithNumber": "154",
+  "bookNumber": "8",
+  "chapterId": "199.00",
+  "hadithNumber": "1117",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "15",
-      "chapterTitle": "Righteous Conduct on a Regular Basis",
-      "urn": 1601530,
-      "body": "<p>'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said to me, \"O Abdullah! Do not be like so-and-so. He used to get up at night for optional prayer but abandoned it later.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "199",
+      "chapterTitle": "Sunnah of Zuhr Prayer",
+      "urn": 1621600,
+      "body": "<p>'Abdullah bin As-Sa'ib (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to perform four Rak'ah prayer after the declining of the sun before Zuhr prayer and would say, \"This is an hour at which the gates of heaven are opened, and I like that my good deeds should rise to heaven at that time.\"<br/><br/><b>[At- Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "15",
-      "chapterTitle": "- باب المحافظة على الأعمال",
-      "urn": 1701530,
-      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ قال لي رسول الله صلى الله عليه وسلم‏:‏ يا عبد الله لا تكن مثل فلان، كان يقوم الليل فترك قيام الليل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "199",
+      "chapterTitle": "- باب سنة الظهر‏:",
+      "urn": 1711070,
+      "body": "<p>- وعن عبد الله بن السائب، رضي الله عنه أن رسول الله صلى الله عليه وسلم كان يصلى أربعًا بعد أن تزول الشمس قبل الظهر، وقال ‏\"‏إنها ساعة تفتح فيها أبواب السماء، فأحب أن يصعد لي فيها عمل صالح‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "15",
-      "chapterTitle": "Amalan Soleh Secara Berterusan",
-      "urn": 1701530,
-      "body": "<p>Abdullah bin 'Amr bin Al-'as (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda kepadaku, \"Wahai Abdullah! Janganlah engkau menjadi seperti si fulan itu. Dia dahulunya sering bangun pada waktu malam untuk solat sunat, tetapi kemudiannya meninggalkannya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "199",
+      "chapterTitle": "Sunnah Solat Zuhur",
+      "urn": 1711070,
+      "body": "<p>'Abdullah bin As-Sa'ib (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) sering menunaikan solat empat rakaat selepas tergelincirnya matahari sebelum solat Zohor dan baginda bersabda, \"Inilah waktu di mana pintu-pintu langit dibuka, dan aku suka amalan-amalan baikku naik ke langit pada waktu tersebut.\" [At-Tirmidhi].</p>",
       "grades": []
     }
   ]
