@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "19",
-  "chapterId": "372.00",
-  "hadithNumber": "1895",
+  "bookNumber": "introduction",
+  "chapterId": "15.00",
+  "hadithNumber": "154",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "372",
-      "chapterTitle": "Some of the Bounties which Allah has prepared for the Believers in Paradise",
-      "urn": 1616850,
-      "body": "<p>Jarir bin 'Abdullah (May Allah be pleased with him) reported: We were sitting with the Messenger of Allah (ﷺ) when he looked at the full moon and observed, \"You shall see your Rubb in the Hereafter as you are seeing this moon; and you will not feel the slightest inconvenience in seeing Him.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "15",
+      "chapterTitle": "Righteous Conduct on a Regular Basis",
+      "urn": 1601530,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said to me, \"O Abdullah! Do not be like so-and-so. He used to get up at night for optional prayer but abandoned it later.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "372",
-      "chapterTitle": "باب بيان ما أعد الله للمؤمنين في الجنة",
-      "urn": 1718830,
-      "body": "<p>- وعن جرير بن عبد الله رضي الله عنه قال‏:‏ كنا عند رسول الله صلى الله عليه وسلم فنظر إلى القمر ليلة البدر، وقال‏:‏ ‏\"‏إنكم سترون ربكم عياناً كما ترون هذا القمر، لا تضامون في رؤيته‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ ‏.‏</p>",
+      "chapterNumber": "15",
+      "chapterTitle": "- باب المحافظة على الأعمال",
+      "urn": 1701530,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ قال لي رسول الله صلى الله عليه وسلم‏:‏ يا عبد الله لا تكن مثل فلان، كان يقوم الليل فترك قيام الليل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "372",
-      "chapterTitle": "Sebahagian daripada nikmat yang telah Allah sediakan bagi orang-orang beriman di syurga.",
-      "urn": 1718830,
-      "body": "<p>Jarir bin 'Abdullah (Semoga Allah meredainya) meriwayatkan: Kami sedang duduk bersama Rasulullah (ﷺ) ketika baginda melihat bulan purnama lalu bersabda, \"Kamu akan melihat Tuhan kamu di Akhirat sebagaimana kamu melihat bulan ini; dan kamu tidak akan merasa sebarang kesulitan dalam melihat-Nya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "15",
+      "chapterTitle": "Amalan Soleh Secara Berterusan",
+      "urn": 1701530,
+      "body": "<p>Abdullah bin 'Amr bin Al-'as (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda kepadaku, \"Wahai Abdullah! Janganlah engkau menjadi seperti si fulan itu. Dia dahulunya sering bangun pada waktu malam untuk solat sunat, tetapi kemudiannya meninggalkannya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
