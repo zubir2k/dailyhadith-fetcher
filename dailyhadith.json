@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "27.00",
-  "hadithNumber": "231",
+  "bookNumber": "19",
+  "chapterId": "372.00",
+  "hadithNumber": "1895",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "27",
-      "chapterTitle": "Reverence towards the Sanctity of the Muslims",
-      "urn": 1602280,
-      "body": "<p>Abu Qatadah Al-Harith bin Rib'i (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"I stand up to lead Salat with the intention of prolonging it. Then I hear the crying of an infant and I shorten the Salat lest I should make it burdensome for his mother\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "372",
+      "chapterTitle": "Some of the Bounties which Allah has prepared for the Believers in Paradise",
+      "urn": 1616850,
+      "body": "<p>Jarir bin 'Abdullah (May Allah be pleased with him) reported: We were sitting with the Messenger of Allah (ﷺ) when he looked at the full moon and observed, \"You shall see your Rubb in the Hereafter as you are seeing this moon; and you will not feel the slightest inconvenience in seeing Him.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "27",
-      "chapterTitle": "- باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم",
-      "urn": 1702300,
-      "body": "<p>- وعن أبي قتادة الحارث بن ربعي رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إني لأقوم إلى الصلاة، وأريد أن أطول فيها ، فأسمع بكاء الصبي، فأتجوز في صلاتي كراهية أن أشق على أمه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "372",
+      "chapterTitle": "باب بيان ما أعد الله للمؤمنين في الجنة",
+      "urn": 1718830,
+      "body": "<p>- وعن جرير بن عبد الله رضي الله عنه قال‏:‏ كنا عند رسول الله صلى الله عليه وسلم فنظر إلى القمر ليلة البدر، وقال‏:‏ ‏\"‏إنكم سترون ربكم عياناً كما ترون هذا القمر، لا تضامون في رؤيته‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "27",
-      "chapterTitle": "Memuliakan Kesucian Umat Islam",
-      "urn": 1702300,
-      "body": "<p>Abu Qatadah Al-Harith bin Rib'i (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Aku bangun untuk mengimami solat dengan niat untuk memanjangkannya. Kemudian aku mendengar tangisan bayi lalu aku memendekkan solat agar tidak memberatkan ibunya.\" [Al-Bukhari].</p>",
+      "chapterNumber": "372",
+      "chapterTitle": "Sebahagian daripada nikmat yang telah Allah sediakan bagi orang-orang beriman di syurga.",
+      "urn": 1718830,
+      "body": "<p>Jarir bin 'Abdullah (Semoga Allah meredainya) meriwayatkan: Kami sedang duduk bersama Rasulullah (ﷺ) ketika baginda melihat bulan purnama lalu bersabda, \"Kamu akan melihat Tuhan kamu di Akhirat sebagaimana kamu melihat bulan ini; dan kamu tidak akan merasa sebarang kesulitan dalam melihat-Nya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
