@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "199.00",
-  "hadithNumber": "1117",
+  "bookNumber": "17",
+  "chapterId": "347.00",
+  "hadithNumber": "1766",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "199",
-      "chapterTitle": "Sunnah of Zuhr Prayer",
-      "urn": 1621600,
-      "body": "<p>'Abdullah bin As-Sa'ib (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) used to perform four Rak'ah prayer after the declining of the sun before Zuhr prayer and would say, \"This is an hour at which the gates of heaven are opened, and I like that my good deeds should rise to heaven at that time.\"<br/><br/><b>[At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "347",
+      "chapterTitle": "Prohibition of Sitting on the Graves",
+      "urn": 1625670,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is much better for one of you to sit on a live coal, which will burn his clothes and get to his skin than to sit on a grave.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "199",
-      "chapterTitle": "- باب سنة الظهر‏:",
-      "urn": 1711070,
-      "body": "<p>- وعن عبد الله بن السائب، رضي الله عنه أن رسول الله صلى الله عليه وسلم كان يصلى أربعًا بعد أن تزول الشمس قبل الظهر، وقال ‏\"‏إنها ساعة تفتح فيها أبواب السماء، فأحب أن يصعد لي فيها عمل صالح‏\"‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "347",
+      "chapterTitle": "- باب تحريم الجلوس على قبر",
+      "urn": 1717550,
+      "body": "<p>- عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏ لأن يجلس أحدكم على جمرة، فتحرق ثيابه، فتخلص على جلده خير له من أن يجلس على قبر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "199",
-      "chapterTitle": "Sunnah Solat Zuhur",
-      "urn": 1711070,
-      "body": "<p>'Abdullah bin As-Sa'ib (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) sering menunaikan solat empat rakaat selepas tergelincirnya matahari sebelum solat Zohor dan baginda bersabda, \"Inilah waktu di mana pintu-pintu langit dibuka, dan aku suka amalan-amalan baikku naik ke langit pada waktu tersebut.\" [At-Tirmidhi].</p>",
+      "chapterNumber": "347",
+      "chapterTitle": "Larangan Duduk di Atas Kubur",
+      "urn": 1717550,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Adalah lebih baik bagi salah seorang daripada kamu duduk di atas bara api yang membakar pakaiannya sehingga terkena kulitnya, daripada duduk di atas kubur.\" [Muslim].</p>",
       "grades": []
     }
   ]
