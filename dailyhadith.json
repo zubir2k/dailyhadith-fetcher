@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "5.00",
-  "hadithNumber": "66",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1302",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "5",
-      "chapterTitle": "Watchfulness",
-      "urn": 1600660,
-      "body": "<p>Shaddad bin Aus (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"A wise man is the one who calls himself to account (and refrains from doing evil deeds) and does noble deeds to benefit him after death; and the foolish person is the one who subdues himself to his temptations and desires and seeks from Allah the fulfillment of his vain desires\".<br/><br/><b>[At-Tirmidhi, who categorized it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611720,
+      "body": "<p>Abu Bakr bin Abu Musa Al-Ash'ari reported: I heard my father saying in the presence of the enemy: The Messenger of Allah (ﷺ) said, \"The gates of Jannah are under the shades of the swords.\" A man with a shaggy appearance got up and said, \"O Abu Musa! Did you hear the Messenger of Allah (ﷺ) say that in person?\" Abu Musa replied in the affirmative; so he returned to his companions and said: \"I tender you farewell greetings.\" Then he broke the scabbard of his sword and threw it away. He rushed towards the enemy with his sword and fought with it till he was martyred.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "5",
-      "chapterTitle": "- باب المراقبة",
-      "urn": 1700660,
-      "body": "<p>- السابع‏:‏ عن أبي يعلى شداد بن أوس رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ الكيس من دان نفسه، وعمل لما بعد الموت ، والعاجز من أتبع نفسه هواها، وتمنى على الله‏\"‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "5",
-      "chapterTitle": "Watchfulness",
-      "urn": 1700660,
-      "body": "<p>Shaddad bin Aus (semoga Allah merahmatinya) melaporkan: Nabi (ﷺ) bersabda, \"Orang yang bijak adalah orang yang bermuhasabah (dan menahan diri daripada melakukan kejahatan) serta melakukan amal kebajikan yang memberi manfaat kepadanya selepas mati; manakala orang yang bodoh adalah orang yang membiarkan dirinya tunduk kepada godaan dan hawa nafsu, serta mengharapkan daripada Allah pemenuhan keinginan-keinginannya yang sia-sia.\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1712920,
+      "body": "<p>- وعن أبي بكر بن أبي موسى الأشعري، قال‏:‏ سمعت أبي رضي الله عنه وهو بحضرة العدو، يقول قال رسول الله صلى الله عليه وسلم ‏\"‏إن أبواب الجنة تحت ظلال السيوف‏\"‏ فقام رجل رث الهيئة فقال يا أبا موسى أأنت سمعت رسول الله صلى الله عليه وسلم يقول هذا‏؟‏ قال‏:‏ نعم، فرجع إلى أصحابه، فقال‏:‏ ‏\"‏اقرأ عليكم السلام‏\"‏ ثم كسر جفن سيفه فألقاه، ثم مشى بسيفه إلى العدو فضرب به حتى قتل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
