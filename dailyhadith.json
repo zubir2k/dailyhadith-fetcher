@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "141.00",
-  "hadithNumber": "874",
+  "bookNumber": "introduction",
+  "chapterId": "5.00",
+  "hadithNumber": "66",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "141",
-      "chapterTitle": "Seeking Permission to Enter by Stating One's Name",
-      "urn": 1608235,
-      "body": "<p>Anas (May Allah be pleased with him) reported in the course of his famous Hadith pertaining to Al-Isra' (the Ascension) that Messenger of Allah (ﷺ) said, \"Then Jibril (Gabriel) ascended along with me to the nearest heaven and requested for the gate to be opened. He was asked: `Who is there?' He replied: `Jibril.' He was asked: `Who is with you?' He said: `Muhammad.' Then he ascended to the second heaven and requested for the opening of the gate. He was asked: `Who is there?' He said: `Jibril.' He was asked: `Who is with you?' He replied: `Muhammad.' In the same way he ascended to the third, fourth and all the heavens (i.e., until the seventh). At all of the gates he was asked: `Who is there?' He replied: Jibril.'''\n</p>\n<p>\n<b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "5",
+      "chapterTitle": "Watchfulness",
+      "urn": 1600660,
+      "body": "<p>Shaddad bin Aus (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"A wise man is the one who calls himself to account (and refrains from doing evil deeds) and does noble deeds to benefit him after death; and the foolish person is the one who subdues himself to his temptations and desires and seeks from Allah the fulfillment of his vain desires\".<br/><br/><b>[At-Tirmidhi, who categorized it as Hadith Hasan]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "141",
-      "chapterTitle": "- باب بيان أن السُّنة إذا قيل للمستأذن من أنت أن يقول‏:‏ فلان فيسمي نفسه بما يعرف به من اسم أو كنية وكراهة قوله ‏\"‏أنا‏\"‏ ونحوها",
-      "urn": 1708670,
-      "body": "<p>- عن أنس رضي الله عنه في حديثه المشهور في الإسراء قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ثم صعد بي جبريل إلي السماء الدنيا فاستفتح، فقيل‏:‏ من هذا‏؟‏ قال‏:‏ جبريل، قيل‏:‏ومن معك‏؟‏ قال‏:‏ محمد‏.‏ ثم صعد إلي السماء الثانية والثالثة والرابعة وسائرهن، ويقال في باب كل سماء‏:‏ من هذا‏؟‏ فيقول‏:‏ جبريل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "5",
+      "chapterTitle": "- باب المراقبة",
+      "urn": 1700660,
+      "body": "<p>- السابع‏:‏ عن أبي يعلى شداد بن أوس رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ الكيس من دان نفسه، وعمل لما بعد الموت ، والعاجز من أتبع نفسه هواها، وتمنى على الله‏\"‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "141",
-      "chapterTitle": "Meminta Izin Masuk dengan Menyebut Nama",
-      "urn": 1708670,
-      "body": "<p>Anas (semoga Allah meredainya) melaporkan dalam hadisnya yang masyhur mengenai Al-Isra' (Mi'raj) bahawa Rasulullah (ﷺ) bersabda, \"Kemudian Jibril naik bersamaku ke langit yang paling dekat dan meminta agar pintu itu dibuka. Dia ditanya: 'Siapa di sana?' Dia menjawab: 'Jibril.' Dia ditanya: 'Siapa bersamamu?' Dia menjawab: 'Muhammad.' Kemudian dia naik ke langit kedua dan meminta agar pintu itu dibuka. Dia ditanya: 'Siapa di sana?' Dia berkata: 'Jibril.' Dia ditanya: 'Siapa bersamamu?' Dia menjawab: 'Muhammad.' Begitu juga seterusnya dia naik ke langit ketiga, keempat dan seluruh langit (iaitu sehingga langit ketujuh). Di setiap pintu, dia ditanya: 'Siapa di sana?' Dia menjawab: 'Jibril.'\"\n\n[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "5",
+      "chapterTitle": "Watchfulness",
+      "urn": 1700660,
+      "body": "<p>Shaddad bin Aus (semoga Allah merahmatinya) melaporkan: Nabi (ﷺ) bersabda, \"Orang yang bijak adalah orang yang bermuhasabah (dan menahan diri daripada melakukan kejahatan) serta melakukan amal kebajikan yang memberi manfaat kepadanya selepas mati; manakala orang yang bodoh adalah orang yang membiarkan dirinya tunduk kepada godaan dan hawa nafsu, serta mengharapkan daripada Allah pemenuhan keinginan-keinginannya yang sia-sia.\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
       "grades": []
     }
   ]
