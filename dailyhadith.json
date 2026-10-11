@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1302",
+  "bookNumber": "17",
+  "chapterId": "305.00",
+  "hadithNumber": "1680",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611720,
-      "body": "<p>Abu Bakr bin Abu Musa Al-Ash'ari reported: I heard my father saying in the presence of the enemy: The Messenger of Allah (ﷺ) said, \"The gates of Jannah are under the shades of the swords.\" A man with a shaggy appearance got up and said, \"O Abu Musa! Did you hear the Messenger of Allah (ﷺ) say that in person?\" Abu Musa replied in the affirmative; so he returned to his companions and said: \"I tender you farewell greetings.\" Then he broke the scabbard of his sword and threw it away. He rushed towards the enemy with his sword and fought with it till he was martyred.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "305",
+      "chapterTitle": "Prohibition of Drawing Portraits",
+      "urn": 1624810,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) said: I heard the Messenger of Allah (ﷺ) saying, \"Every painter will go to Hell, and for every portrait he has made, there will be appointed one who will chastise him in the Hell.\" Ibn 'Abbas said: If you have to do it, draw pictures of trees and other inanimate things.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1712920,
-      "body": "<p>- وعن أبي بكر بن أبي موسى الأشعري، قال‏:‏ سمعت أبي رضي الله عنه وهو بحضرة العدو، يقول قال رسول الله صلى الله عليه وسلم ‏\"‏إن أبواب الجنة تحت ظلال السيوف‏\"‏ فقام رجل رث الهيئة فقال يا أبا موسى أأنت سمعت رسول الله صلى الله عليه وسلم يقول هذا‏؟‏ قال‏:‏ نعم، فرجع إلى أصحابه، فقال‏:‏ ‏\"‏اقرأ عليكم السلام‏\"‏ ثم كسر جفن سيفه فألقاه، ثم مشى بسيفه إلى العدو فضرب به حتى قتل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "305",
+      "chapterTitle": "- باب تحريم تصوير الحيوان في بساط أو حجر أو ثوب أو درهم أو مخدة أو دينار أو وسادة وغير ذلك وتحريم اتخاذ الصور في حائط وسقف وستر وعمامة وثوب ونحوها والأمر بإتلاف الصورة",
+      "urn": 1716700,
+      "body": "<p>- وعن ابن عباس رضي الله عنهما قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏كل مصور في النار يجعل له بكل صورة صورها نفس فيعذبه في جهنم‏\"‏ قال ابن عباس‏:‏ فإن كنت لابد فاعلا، فاصنع الشجر وما لا ورح فيه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "305",
+      "chapterTitle": "Larangan Melukis Potret",
+      "urn": 1716700,
+      "body": "<p>Ibnu 'Abbas (semoga Allah meredai keduanya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda: \"Setiap pelukis akan masuk ke dalam Neraka, dan bagi setiap lukisan yang telah dibuatnya, akan ditetapkan baginya seseorang yang akan menyeksanya di dalam Neraka.\" Ibnu 'Abbas berkata: \"Jika kamu terpaksa melakukannya, lukiskanlah gambar pohon-pohon dan benda-benda lain yang tidak bernyawa.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
