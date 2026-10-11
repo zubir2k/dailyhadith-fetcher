@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "317.00",
-  "hadithNumber": "1719",
+  "bookNumber": "introduction",
+  "chapterId": "26.00",
+  "hadithNumber": "217",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "317",
-      "chapterTitle": "Expiation of Oaths",
-      "urn": 1625200,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Ayah: \"Allah will not punish you for what is unintentional in your oaths ...\" was revealed in respect of those persons who are in the habit of repeating: 'No, by Allah'; and 'Yes, by Allah.'<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "26",
+      "chapterTitle": "Unlawfulness of Oppression and Restoring Others Rights",
+      "urn": 1602140,
+      "body": "<p>Abu Qatadah Al-Harith bin Rib'i (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"Faith in Allah and striving in His Cause (Jihad) are the deeds of highest merit.\" A man stood up said: \"O Messenger of Allah! Tell me if I am killed in the Cause of Allah, will all my sins be forgiven?\" He (ﷺ) replied, \"Yes, if you are killed in the Cause of Allah while you are patient, hopeful of your reward and marching forward not retreating.\" Then the Prophet (ﷺ) said to him, \"Repeat what you have said.\" The man said: \"Tell me if I am killed in the Cause of Allah, will all my sins be remitted?\". He replied, \"Yes, if you are martyred while you are patient, hopeful of your reward and march forward without retreating, unless, if you owe any debt, that will not be remitted. Angel Jibril told me that\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "317",
-      "chapterTitle": "باب العفو عن لغو اليمين وأنَّه لا كفَّارة فِيهِ وَهُوَ مَا يجري عَلَى اللسان بغير قصد اليمين كقوله عَلَى العادة: لا والله، وبلى والله، ونحو ذَلِكَ",
-      "urn": 1717090,
-      "body": "<p>- وعن عائشة رضي الله عنها قالت‏:‏ أنزلت هذه الآية‏:‏ ‏{‏لا يؤاخذكم الله باللغو في أيمانكم‏}‏ في قول الرجل‏:‏ لا والله، وبلى والله‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "26",
+      "chapterTitle": "- باب تحريم الظلم والأمر برد المظالم",
+      "urn": 1702160,
+      "body": "<p>- وعن أبي قتادة الحارث بن ربعي رضي الله عنه عن رسول الله صلى الله عليه وسلم أنه قام فيهم ، فذكر لهم أن الجهاد في سبيل الله، والإيمان بالله أفضل الأعمال، فقام رجل فقال‏:‏ يا رسول الله أرأيت إن قتلت في سبيل الله، تكفر عني خطاياي‏؟‏ فقال له رسول الله صلى الله عليه وسلم‏:‏ “نعم إن قتلت في سبيل الله وأنت صابر محتسب، مقبل غير مدبر” ثم قال رسول الله صلى الله عليه وسلم‏:‏ “كيف قلت‏؟‏” قال‏:‏ أرأيت إن قتلت في سبيل الله، أتكفر عني خطاياي‏؟‏ فقال رسول الله صلى الله عليه وسلم‏:‏ “نعم وأنت صابر محتسب، مقبل غير مدبر، إلا الدين فإن جبريل قال لي ذلك” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "317",
-      "chapterTitle": "Kafarah Sumpah",
-      "urn": 1717090,
-      "body": "<p>Aishah (Semoga Allah merahmatinya) meriwayatkan: Ayat: \"Allah tidak akan menghukum kamu atas apa yang tidak disengajakan dalam sumpah kamu...\" telah diturunkan berkenaan dengan orang-orang yang sering mengulang-ulang: 'Tidak, demi Allah'; dan 'Ya, demi Allah.' [Al-Bukhari].</p>",
+      "chapterNumber": "26",
+      "chapterTitle": "Keharaman Kezaliman dan Mengembalikan Hak Orang Lain",
+      "urn": 1702160,
+      "body": "<p>Abu Qatadah Al-Harith bin Rib'i (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Beriman kepada Allah dan berjihad di jalan-Nya adalah amalan yang paling mulia.\" Seorang lelaki berdiri lalu berkata: \"Wahai Rasulullah! Beritahulah kepadaku, jika aku terbunuh di jalan Allah, adakah semua dosaku akan diampunkan?\" Baginda (ﷺ) menjawab, \"Ya, jika engkau terbunuh di jalan Allah dalam keadaan sabar, mengharapkan pahala-Nya, dan terus maju ke hadapan tanpa berundur.\" Kemudian Nabi (ﷺ) bersabda kepadanya, \"Ulangi apa yang telah engkau katakan.\" Lelaki itu berkata: \"Beritahulah kepadaku, jika aku terbunuh di jalan Allah, adakah semua dosaku akan diampunkan?\" Baginda menjawab, \"Ya, jika engkau mati syahid dalam keadaan sabar, mengharapkan pahala-Nya, dan terus maju ke hadapan tanpa berundur, kecuali jika engkau mempunyai sebarang hutang, maka ia tidak akan diampunkan. Malaikat Jibril telah memberitahuku tentang hal itu.\" [Muslim].</p>",
       "grades": []
     }
   ]
