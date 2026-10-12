@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1318",
+  "bookNumber": "17",
+  "chapterId": "347.00",
+  "hadithNumber": "1766",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611880,
-      "body": "<p>Samurah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Last night two men (angels) came to me (in a dream) and made me ascend a tree and then admitted me into a nice and excellent house, the like of which I have never seen before. One of them said: 'This house is the house of martyrs'.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "347",
+      "chapterTitle": "Prohibition of Sitting on the Graves",
+      "urn": 1625670,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is much better for one of you to sit on a live coal, which will burn his clothes and get to his skin than to sit on a grave.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713080,
-      "body": "<p>- وعن سمرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “رأيت الليلة رجلين أتياني فصعدا بي الشجرة وأدخلاني دارًا هي أحسن وأفضل، لم أر قط أحسن منها، قال أما هذه الدار فدار الشهداء‏\"‏ <a href=\"javascript:opencomment('‏‏(‏‏(‏رواه البخاري وهو بعض من حديث طويل فيه أنواع العلم سيأتي في باب تحريم الكذب إن شاء الله تعالى‏.‏ ‏')\">(5)</a></p>",
+      "chapterNumber": "347",
+      "chapterTitle": "- باب تحريم الجلوس على قبر",
+      "urn": 1717550,
+      "body": "<p>- عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏ لأن يجلس أحدكم على جمرة، فتحرق ثيابه، فتخلص على جلده خير له من أن يجلس على قبر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713080,
-      "body": "<p>Samurah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Malam tadi dua orang lelaki (malaikat) datang kepadaku (dalam mimpi) dan membawaku mendaki sebuah pohon, kemudian memasukkanku ke dalam sebuah rumah yang indah dan sangat bagus, yang belum pernah aku lihat sebelumnya. Salah seorang daripada mereka berkata: 'Rumah ini adalah rumah para syuhada'.\" [Al-Bukhari].</p>",
+      "chapterNumber": "347",
+      "chapterTitle": "Larangan Duduk di Atas Kubur",
+      "urn": 1717550,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Adalah lebih baik bagi salah seorang daripada kamu duduk di atas bara api yang membakar pakaiannya sehingga sampai ke kulitnya, daripada duduk di atas kubur.\" [Muslim].</p>",
       "grades": []
     }
   ]
