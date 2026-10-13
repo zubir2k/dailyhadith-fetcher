@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "156.00",
-  "hadithNumber": "933",
+  "bookNumber": "7",
+  "chapterId": "168.00",
+  "hadithNumber": "964",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "156",
-      "chapterTitle": "Excellence of Participation in Funeral Prayers in Large Numbers and Formation of Three Rows or More",
-      "urn": 1608675,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said, \"If a Muslim dies and forty people, who do not associate anything with Allah in worship, participate in the funeral prayer over him, Allah will accept their intercession for him.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "168",
+      "chapterTitle": "Etiquette of Staying, Riding, Encamping at night and sleeping during the Journey and other matters relating to the Journey",
+      "urn": 1620090,
+      "body": "<p>Anas (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Keep to travelling by night because the earth is folded (traversed more easily) during the night.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "156",
-      "chapterTitle": "- باب استحباب تكثير المصلين على الجنازة وجعل صفوفهم ثلاثة فأكثر",
-      "urn": 1709247,
-      "body": "<p>وعن ابن عباس رَضِيَ اللَّهُ عَنهُما قال سمعت رَسُول اللَّهِ صَلَّى اللَّهُ عَلَيهِ وَسَلَّم يقول : \"ما من رجل مسلم يموت فيقوم على جنازته أربعون رجلاً لا يشركون بالله شيئاً إلا شفعهم اللَّه فيه.\" ((رَوَاهُ مُسلِمٌ)).</p>",
+      "chapterNumber": "168",
+      "chapterTitle": "- باب آداب السير والنزول والمبيت والنوم في السفر واستحباب السري والرفق بالدواب ومراعاة مصلحتها وجواز الإرداف علي الدابة إذا كانت تطيق ذلك",
+      "urn": 1709550,
+      "body": "<p>- عن أنس، رضي الله عنه، قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏عليكم بالدلجة، فإن الأرض تطوي بالليل‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد حسن‏)‏‏)‏‏\nالدلجة‏ ‏ ‏:‏ السير في الليل‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "156",
-      "chapterTitle": "Kelebihan Menyertai Solat Jenazah Secara Beramai-ramai dan Membentuk Tiga Saf atau Lebih",
-      "urn": 1709247,
-      "body": "<p>Ibn 'Abbas (semoga Allah meredai mereka) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sekiranya seorang Muslim meninggal dunia dan empat puluh orang yang tidak menyekutukan sesuatu pun dengan Allah dalam beribadah menyertai solat jenazah ke atasnya, Allah akan menerima syafaat mereka untuknya.\" [Muslim].</p>",
+      "chapterNumber": "168",
+      "chapterTitle": "Adab bermalam, menunggang, berkhemah pada waktu malam dan tidur semasa musafir serta perkara-perkara lain yang berkaitan dengan musafir.",
+      "urn": 1709550,
+      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Berjalanlah pada waktu malam kerana bumi itu dilipat (memudahkan perjalanan) pada waktu malam.\" [Abu Dawud].</p>",
       "grades": []
     }
   ]
