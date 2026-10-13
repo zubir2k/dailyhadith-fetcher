@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "212.00",
-  "hadithNumber": "1174",
+  "bookNumber": "6",
+  "chapterId": "156.00",
+  "hadithNumber": "933",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1622180,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: One night I joined the Prophet (ﷺ) in his (optional) Salat. He (ﷺ) prolonged the Qiyam (standing) so much that I made up my mind to commit an act of wrong. He was questioned: \"What did you intend to do?\" He replied: \"I intended to sit down and stop following him (in Salat).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "156",
+      "chapterTitle": "Excellence of Participation in Funeral Prayers in Large Numbers and Formation of Three Rows or More",
+      "urn": 1608675,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said, \"If a Muslim dies and forty people, who do not associate anything with Allah in worship, participate in the funeral prayer over him, Allah will accept their intercession for him.\"<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "212",
-      "chapterTitle": "- باب فضل قيام الليل‏:‏",
-      "urn": 1711640,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه، قال‏:‏ صليت مع النبي صلى الله عليه وسلم ، ليلة، فلم يزل قائمًا حتى هممت بأمر سوء‏.‏ قيل‏:‏ ما هممت‏؟‏ قال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "156",
+      "chapterTitle": "- باب استحباب تكثير المصلين على الجنازة وجعل صفوفهم ثلاثة فأكثر",
+      "urn": 1709247,
+      "body": "<p>وعن ابن عباس رَضِيَ اللَّهُ عَنهُما قال سمعت رَسُول اللَّهِ صَلَّى اللَّهُ عَلَيهِ وَسَلَّم يقول : \"ما من رجل مسلم يموت فيقوم على جنازته أربعون رجلاً لا يشركون بالله شيئاً إلا شفعهم اللَّه فيه.\" ((رَوَاهُ مُسلِمٌ)).</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "212",
-      "chapterTitle": "Kelebihan Menunaikan Solat pada Waktu Malam",
-      "urn": 1711640,
-      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) meriwayatkan: Pada suatu malam, aku menyertai Rasulullah (ﷺ) dalam solat (sunat) baginda. Baginda (ﷺ) memanjangkan Qiyam (berdiri) dengan sangat lama sehingga aku berniat untuk melakukan sesuatu yang salah. Baginda ditanya: \"Apakah yang engkau ingin lakukan?\" Baginda menjawab: \"Aku berniat untuk duduk dan berhenti mengikutinya (dalam solat).\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "156",
+      "chapterTitle": "Kelebihan Menyertai Solat Jenazah Secara Beramai-ramai dan Membentuk Tiga Saf atau Lebih",
+      "urn": 1709247,
+      "body": "<p>Ibn 'Abbas (semoga Allah meredai mereka) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sekiranya seorang Muslim meninggal dunia dan empat puluh orang yang tidak menyekutukan sesuatu pun dengan Allah dalam beribadah menyertai solat jenazah ke atasnya, Allah akan menerima syafaat mereka untuknya.\" [Muslim].</p>",
       "grades": []
     }
   ]
