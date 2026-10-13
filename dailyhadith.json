@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "347.00",
-  "hadithNumber": "1766",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1174",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "347",
-      "chapterTitle": "Prohibition of Sitting on the Graves",
-      "urn": 1625670,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is much better for one of you to sit on a live coal, which will burn his clothes and get to his skin than to sit on a grave.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622180,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: One night I joined the Prophet (ﷺ) in his (optional) Salat. He (ﷺ) prolonged the Qiyam (standing) so much that I made up my mind to commit an act of wrong. He was questioned: \"What did you intend to do?\" He replied: \"I intended to sit down and stop following him (in Salat).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "347",
-      "chapterTitle": "- باب تحريم الجلوس على قبر",
-      "urn": 1717550,
-      "body": "<p>- عن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏‏\"‏ لأن يجلس أحدكم على جمرة، فتحرق ثيابه، فتخلص على جلده خير له من أن يجلس على قبر‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711640,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه، قال‏:‏ صليت مع النبي صلى الله عليه وسلم ، ليلة، فلم يزل قائمًا حتى هممت بأمر سوء‏.‏ قيل‏:‏ ما هممت‏؟‏ قال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "347",
-      "chapterTitle": "Larangan Duduk di Atas Kubur",
-      "urn": 1717550,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Adalah lebih baik bagi salah seorang daripada kamu duduk di atas bara api yang membakar pakaiannya sehingga sampai ke kulitnya, daripada duduk di atas kubur.\" [Muslim].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Kelebihan Menunaikan Solat pada Waktu Malam",
+      "urn": 1711640,
+      "body": "<p>Ibn Mas'ud (semoga Allah meredainya) meriwayatkan: Pada suatu malam, aku menyertai Rasulullah (ﷺ) dalam solat (sunat) baginda. Baginda (ﷺ) memanjangkan Qiyam (berdiri) dengan sangat lama sehingga aku berniat untuk melakukan sesuatu yang salah. Baginda ditanya: \"Apakah yang engkau ingin lakukan?\" Baginda menjawab: \"Aku berniat untuk duduk dan berhenti mengikutinya (dalam solat).\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
