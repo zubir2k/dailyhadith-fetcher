@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "212.00",
-  "hadithNumber": "1180",
+  "bookNumber": "17",
+  "chapterId": "295.00",
+  "hadithNumber": "1641",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1622240,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: Whenever the Messenger of Allah (ﷺ) stood for Salat at night, he would start his prayer with two brief Rak'ah.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "295",
+      "chapterTitle": "On Prohibition of Shaving a part of Head",
+      "urn": 1624420,
+      "body": "<p>'Ali (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) prohibited a woman from shaving her head.<br/><br/><b>[An- Nasa'i]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "212",
-      "chapterTitle": "- باب فضل قيام الليل‏:‏",
-      "urn": 1711700,
-      "body": "<p>- وعن عائشة رضي الله عنها قالت كان رسول الله صلى الله عليه وسلم إذا قام من الليل افتتح صلاته بركعتين خفيفتين ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "295",
+      "chapterTitle": "- باب النهي عن القزع وهو حلق بعض الرأس دون بعض وإباحة حلقه كله للرجل دون المرأة",
+      "urn": 1716310,
+      "body": "<p>- وعن علي قال‏:‏ نهى رسول الله صلى الله عليه وسلم أن تحلق المرأة رأسها‏.‏ ‏(‏‏(‏رواه النسائي‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "212",
-      "chapterTitle": "Keutamaan Menunaikan Solat Malam",
-      "urn": 1711700,
-      "body": "<p>Aishah (semoga Allah meredainya) menceritakan: Setiap kali Rasulullah (ﷺ) berdiri untuk solat pada waktu malam, baginda akan memulakan solatnya dengan dua rakaat yang ringkas. [Muslim].</p>",
+      "chapterNumber": "295",
+      "chapterTitle": "Mengenai Larangan Mencukur Sebahagian Kepala",
+      "urn": 1716310,
+      "body": "<p>'Ali (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) melarang seorang wanita daripada mencukur rambutnya. [An-Nasa'i].</p>",
       "grades": []
     }
   ]
