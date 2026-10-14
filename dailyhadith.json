@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "3",
-  "chapterId": "117.00",
-  "hadithNumber": "783",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1301",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "117",
-      "chapterTitle": "The Excellence of Wearing White Clothes and the Permissibility of Wearing Red, Green, Yellow and Black Clothes Made from Cotton and Linen but not Silk",
-      "urn": 1607540,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) entered Makkah on the day of its conquest and he was wearing a black turban.<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611710,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"If anyone is pleased with Allah as his Rubb, with Islam as his religion and with Muhammad (ﷺ) as (Allah's) Messenger, surely, he will be entitled to enter Jannah.\" Abu Sa'id was delighted with this and requested the Messenger of Allah (ﷺ) to repeat it. He (ﷺ) repeated it again and then said, \"There is also another act by which Allah will elevate the position of a (pious believing) slave in Jannah to a grade one hundred degrees higher. And the distance between any two grades is equal to the distance between heaven and earth.\" He asked the Messenger of Allah (ﷺ) what it was and he ((ﷺ)) replied, \"Jihad in the way of Allah; Jihad in the way of Allah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "117",
-      "chapterTitle": "- باب استحباب الثوب الأبيض وجواز الأحمر والأخضر والأصفر والأسود وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير",
-      "urn": 1707770,
-      "body": "<p>- وعن جابر رضى الله عنه ، أن رسول الله صلى الله عليه وسلم دخل يوم فتح مكة وعليه عمامة سوداء‏.‏‏‏((رواه مسلم))‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "117",
-      "chapterTitle": "Kelebihan Memakai Pakaian Putih dan Keharusan Memakai Pakaian Berwarna Merah, Hijau, Kuning dan Hitam yang Diperbuat daripada Kapas dan Linen tetapi Bukan Sutera",
-      "urn": 1707770,
-      "body": "<p>Jabir (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) memasuki Makkah pada hari pembukaannya dan baginda memakai serban hitam. [Muslim].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1712910,
+      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏من رضي بالله ربًا وبالإسلام دينًا، وبمحمد رسولا وجبت له الجنة‏\"‏ فعجب لها أبو سعيد فقال أعدها علي يا رسول الله فأعادها عليه ثم قال‏:‏ ‏\"‏وأخرى يرفع الله بها العبد مائة درجة في الجنة، ما بين كل درجتين، كما بين السماء والأرض‏\"‏ قال‏:‏ وما هي يا رسول الله‏؟‏ قال‏:‏ ‏\"‏الجهاد في سبيل الله، الجهاد في سبيل الله‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
