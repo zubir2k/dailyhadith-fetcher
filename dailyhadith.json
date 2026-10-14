@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "8.00",
-  "hadithNumber": "85",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1180",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "8",
-      "chapterTitle": "Uprightness and Steadfastness",
-      "urn": 1600840,
-      "body": "<p>Sufyan bin 'Abdullah (May Allah be pleased with him) reported: I said, \"O Messenger of Allah, tell me something of Islam which I will not ask anyone else about it.\" He (ﷺ) said, \"Say, 'I believe in Allah' and then be steadfast\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622240,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: Whenever the Messenger of Allah (ﷺ) stood for Salat at night, he would start his prayer with two brief Rak'ah.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "8",
-      "chapterTitle": "- باب الاستقامة",
-      "urn": 1700850,
-      "body": "<p>- وعن أبي عمرو، وقيل‏:‏ أبي عمرة سفيان بن عبد الله رضي الله عنه قال‏:‏ قلت‏:‏ يا رسول الله قل لي في الإسلام قولاً لا أسأل عنه أحداً غيرك‏.‏ قال‏:‏ ‏\"‏قل آمنت بالله‏:‏ ثم استقم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711700,
+      "body": "<p>- وعن عائشة رضي الله عنها قالت كان رسول الله صلى الله عليه وسلم إذا قام من الليل افتتح صلاته بركعتين خفيفتين ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "8",
-      "chapterTitle": "Uprightness and Steadfastness",
-      "urn": 1700850,
-      "body": "<p>Sufyan bin 'Abdullah (Semoga Allah meredainya) meriwayatkan: Aku berkata, \"Wahai Rasulullah, beritahukanlah kepadaku sesuatu tentang Islam yang tidak akan aku tanyakan kepada sesiapa pun selainmu.\" Baginda (ﷺ) bersabda, \"Katakanlah, 'Aku beriman kepada Allah' dan kemudianlah beristiqamah.\" [Muslim].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Keutamaan Menunaikan Solat Malam",
+      "urn": 1711700,
+      "body": "<p>Aishah (semoga Allah meredainya) menceritakan: Setiap kali Rasulullah (ﷺ) berdiri untuk solat pada waktu malam, baginda akan memulakan solatnya dengan dua rakaat yang ringkas. [Muslim].</p>",
       "grades": []
     }
   ]
