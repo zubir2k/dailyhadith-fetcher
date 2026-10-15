@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "141.00",
-  "hadithNumber": "877",
+  "bookNumber": "16",
+  "chapterId": "252.00",
+  "hadithNumber": "1497",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "141",
-      "chapterTitle": "Seeking Permission to Enter by Stating One's Name",
-      "urn": 1608260,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: I went to the Prophet (ﷺ) and knocked at the door (to seek permission). He asked, \"Who is there?\" I said: \"I\". He repeated, \" I, I?!\" as if he disliked it.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "252",
+      "chapterTitle": "Some Verdicts Pertaining to Supplications",
+      "urn": 1613620,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Do not invoke curses on yourself or on your children or on your possessions lest you should happen to do it at a moment when the supplications are accepted, and your prayer might be granted.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "141",
-      "chapterTitle": "- باب بيان أن السُّنة إذا قيل للمستأذن من أنت أن يقول‏:‏ فلان فيسمي نفسه بما يعرف به من اسم أو كنية وكراهة قوله ‏\"‏أنا‏\"‏ ونحوها",
-      "urn": 1708700,
-      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ أتيت النبي صلى الله عليه وسلم فدققت الباب، فقال ‏\"‏من ذا‏؟‏‏\"‏ فقلت‏:‏ أنا، فقال‏:‏ ‏\"‏أنا أنا‏؟‏‏!‏‏\"‏ كـأنه كرهها ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "252",
+      "chapterTitle": "- باب في مسائل من الدعاء",
+      "urn": 1714870,
+      "body": "<p>- وعن جابر رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏لا تدعوا على أنفسكم، ولا تدعوا على أولادكم، ولا تدعو على أموالكم، لا توافقوا من الله ساعة يسأل فيها عطاء، فيستجيب لكم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "252",
+      "chapterTitle": "Beberapa Hukum Berkenaan Doa",
+      "urn": 1714870,
+      "body": "<p>Jabir (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Janganlah kamu melaknat diri kamu sendiri, atau anak-anak kamu, atau harta benda kamu, bimbang kamu melakukannya pada saat doa sedang dimakbulkan, lalu doa kamu itu dikabulkan.\" [Muslim].</p>",
       "grades": []
     }
   ]
