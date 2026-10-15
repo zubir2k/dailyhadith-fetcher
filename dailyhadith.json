@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "1",
-  "chapterId": "86.00",
-  "hadithNumber": "690",
+  "bookNumber": "introduction",
+  "chapterId": "23.00",
+  "hadithNumber": "184",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "86",
-      "chapterTitle": "Fulfillment of Promises",
-      "urn": 1606820,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Prophet (ﷺ) said to me, \"When the revenues of Bahrain will arrive, I shall give you such and such and such.\" He passed away before the revenues were received. When they arrive during the caliphate of Abu Bakr (May Allah be pleased with him), he ordered to be announced: \"Anyone whom Messenger of Allah (ﷺ) promised or owed anything, should come to him.\" I went to him and said: \"Messenger of Allah (ﷺ) had said to me such and such.\" He took a double handful out of the money and gave it to me. I counted it and found that it was five hundred dirham. Then Abu Bakr (May Allah be pleased with him) said to me: \"Take twice as much more of that amount.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "23",
+      "chapterTitle": "Enjoining Good and forbidding Evil",
+      "urn": 1601830,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Whoever amongst you sees an evil, he must change it with his hand; if he is unable to do so, then with his tongue; and if he is unable to do so, then with his heart; and that is the weakest form of Faith\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "86",
-      "chapterTitle": "-باب الوفاء بالعهد وإنجاز الوعد",
-      "urn": 1706860,
-      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ قال لي النبى صلى الله عليه وسلم‏:‏ ‏\"‏لو قد جاء مال البحرين أعطيتك هكذا وهكذا وهكذا‏\"‏ فلم يجئ مال البحرين حتى قبض النبى صلى الله عليه وسلم، فلما جاء مال البحرين أمر أبو بكر رضي الله عنه فنادي‏:‏ من كان له عند رسول صلى الله عليه وسلم عدة أو دين فليأتنا‏.‏ فأتيته وقلت له‏:‏ إن النبى صلى الله عليه وسلم قال لى كذا وكذا، فحثى لى حثية، فعددتها، فإذا هى خمسمائة، فقال لى‏:‏ خذ مثلها‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "23",
+      "chapterTitle": "- باب الأمر بالمعروف والنهي عن المنكر",
+      "urn": 1701830,
+      "body": "<p>- فالأول‏:‏ عن أبي سعيد الخدري رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من رأى منكم منكرًا فليغيره بيده ، فإن لم يستطع فبلسانه، فإن لم يستطع فبقلبه وذلك أضعف الإيمان‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "86",
-      "chapterTitle": "Menunaikan Janji",
-      "urn": 1706860,
-      "body": "<p>Jabir (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda kepadaku, \"Apabila hasil pendapatan Bahrain sampai, aku akan memberikanmu sekian, sekian, dan sekian.\" Baginda wafat sebelum hasil pendapatan itu diterima. Apabila ia sampai pada zaman khalifah Abu Bakr (semoga Allah meredainya), beliau memerintahkan agar diumumkan: \"Sesiapa yang dijanjikan atau mempunyai hutang dengan Rasulullah (ﷺ), hendaklah datang kepadanya.\" Aku pergi kepadanya dan berkata: \"Rasulullah (ﷺ) telah bersabda kepadaku begini dan begitu.\" Beliau mengambil dua genggam wang tersebut dan memberikannya kepadaku. Aku mengiranya dan mendapati ia berjumlah lima ratus dirham. Kemudian Abu Bakr (semoga Allah meredainya) berkata kepadaku: \"Ambillah dua kali ganda daripada jumlah tersebut.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "23",
+      "chapterTitle": "Menyuruh kepada kebaikan dan mencegah kemungkaran",
+      "urn": 1701830,
+      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa di antara kamu yang melihat kemungkaran, hendaklah dia mengubahnya dengan tangannya; jika dia tidak mampu melakukannya, maka dengan lidahnya; dan jika dia tidak mampu melakukannya, maka dengan hatinya; dan itulah selemah-lemah iman.\" [Muslim].</p>",
       "grades": []
     }
   ]
