@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "282.00",
-  "hadithNumber": "1601",
+  "bookNumber": "introduction",
+  "chapterId": "57.00",
+  "hadithNumber": "534",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "282",
-      "chapterTitle": "Prohibition of Cruelty",
-      "urn": 1624020,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: I happened to pass by some lads of the Quraish who had tied a bird at which they have been shooting arrows. Every arrow that they missed came into the possession of the owner of the bird. No sooner had they seen Ibn 'Umar, they dispersed. Thereupon, Ibn 'Umar said: \"Who has done this? May Allah curse him who has done so. Verily, the Messenger of Allah (ﷺ) has cursed anyone who makes a live thing the target (of one's marksmanship).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "57",
+      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
+      "urn": 1605310,
+      "body": "<p>Thauban (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who guarantees me that he will not beg anything from anyone, I will guarantee him (to enter) Jannah.\" I said, \"I give you the guarantee.\" Then Thauban (May Allah be pleased with him) never begged anything from anyone.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "282",
-      "chapterTitle": "- باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أو زائد على قدر الأدب",
-      "urn": 1715910,
-      "body": "<p>- وعنه أنه مر بفتيان من قريش قد نصبوا طيرًا وهم يرمونه، وقد جعلوا لصاحب الطير كل خاطئة من نبلهم، فلما رأوا ابن عمر تفرقوا، فقال ابن عمر‏:‏ من فعل هذا‏؟‏ لعن الله من فعل هذا، إن رسول الله صلى الله عليه وسلم لعن من اتخذ شيئًا فيه روح غرضًا‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \n‏\"‏الغَرَض‏\"‏ ‏:‏ بفتح الغين المعجمة والراء، وهو الهدف، والشيء الذي يرمى إليه‏.‏</p>",
+      "chapterNumber": "57",
+      "chapterTitle": "- باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة",
+      "urn": 1705300,
+      "body": "<p>- وعن ثوبان رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من تكفل لي أن لا يسأل الناس شيئاً، وأتكفل له الجنة‏؟‏‏\"‏ فقلت‏:‏ أنا؛ فكان لا يسأل أحداً شيئاً، ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "282",
-      "chapterTitle": "Larangan Kezaliman",
-      "urn": 1715910,
-      "body": "<p>Ibn 'Umar (Semoga Allah meredai mereka) melaporkan: Aku kebetulan melewati sekumpulan pemuda Quraisy yang telah mengikat seekor burung untuk dijadikan sasaran anak panah mereka. Setiap anak panah yang tersasar jatuh ke tangan pemilik burung tersebut. Sebaik sahaja mereka melihat Ibn 'Umar, mereka pun beredar. Lalu Ibn 'Umar berkata: \"Siapakah yang telah melakukan ini? Semoga Allah melaknat sesiapa yang melakukannya. Sesungguhnya, Rasulullah (ﷺ) telah melaknat sesiapa sahaja yang menjadikan makhluk bernyawa sebagai sasaran.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "57",
+      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
+      "urn": 1705300,
+      "body": "<p>Thauban (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang menjamin kepadaku bahawa dia tidak akan meminta-minta kepada sesiapa pun, maka aku menjamin baginya (untuk masuk) syurga.\" Aku berkata, \"Aku berikan jaminan kepada engkau.\" Kemudian Thauban (Semoga Allah meredainya) tidak pernah meminta-minta kepada sesiapa pun. [Abu Dawud].</p>",
       "grades": []
     }
   ]
