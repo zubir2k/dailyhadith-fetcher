@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "57.00",
-  "hadithNumber": "534",
+  "bookNumber": "5",
+  "chapterId": "141.00",
+  "hadithNumber": "877",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "57",
-      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
-      "urn": 1605310,
-      "body": "<p>Thauban (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who guarantees me that he will not beg anything from anyone, I will guarantee him (to enter) Jannah.\" I said, \"I give you the guarantee.\" Then Thauban (May Allah be pleased with him) never begged anything from anyone.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "141",
+      "chapterTitle": "Seeking Permission to Enter by Stating One's Name",
+      "urn": 1608260,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: I went to the Prophet (ﷺ) and knocked at the door (to seek permission). He asked, \"Who is there?\" I said: \"I\". He repeated, \" I, I?!\" as if he disliked it.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "57",
-      "chapterTitle": "- باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة",
-      "urn": 1705300,
-      "body": "<p>- وعن ثوبان رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏من تكفل لي أن لا يسأل الناس شيئاً، وأتكفل له الجنة‏؟‏‏\"‏ فقلت‏:‏ أنا؛ فكان لا يسأل أحداً شيئاً، ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "57",
-      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
-      "urn": 1705300,
-      "body": "<p>Thauban (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang menjamin kepadaku bahawa dia tidak akan meminta-minta kepada sesiapa pun, maka aku menjamin baginya (untuk masuk) syurga.\" Aku berkata, \"Aku berikan jaminan kepada engkau.\" Kemudian Thauban (Semoga Allah meredainya) tidak pernah meminta-minta kepada sesiapa pun. [Abu Dawud].</p>",
+      "chapterNumber": "141",
+      "chapterTitle": "- باب بيان أن السُّنة إذا قيل للمستأذن من أنت أن يقول‏:‏ فلان فيسمي نفسه بما يعرف به من اسم أو كنية وكراهة قوله ‏\"‏أنا‏\"‏ ونحوها",
+      "urn": 1708700,
+      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ أتيت النبي صلى الله عليه وسلم فدققت الباب، فقال ‏\"‏من ذا‏؟‏‏\"‏ فقلت‏:‏ أنا، فقال‏:‏ ‏\"‏أنا أنا‏؟‏‏!‏‏\"‏ كـأنه كرهها ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
