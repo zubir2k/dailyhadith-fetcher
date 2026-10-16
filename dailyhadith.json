@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "215.00",
-  "hadithNumber": "1196",
+  "bookNumber": "2",
+  "chapterId": "109.00",
+  "hadithNumber": "747",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "215",
-      "chapterTitle": "The Excellence of using Miswak (Tooth-Stick)",
-      "urn": 1622400,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Had I not thought it difficult for my Ummah, I would have commanded them to use the Miswak (tooth-stick) before every Salat.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
+      "urn": 1607255,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"When one of you finishes eating, he should not wipe his fingers until he has licked them himself or has given them to someone else to lick for him.\"\n</p>\n<p>\n<b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "215",
-      "chapterTitle": "- باب فضل السواك وخصال الفطرة‏:‏",
-      "urn": 1711860,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه، أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لولا أن أشق على أمتي - أو على الناس- لأمرتهم بالسواك مع كل صلاة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
+      "urn": 1707420,
+      "body": "<p>- عن ابن عباس رضى الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إذا أكل أحدكم طعاماً، فلا يمسح أصابعه حتى يلعقها أو يلعقها‏\"‏‏.‏ ‏((متفق عليه))</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "215",
-      "chapterTitle": "Kelebihan Menggunakan Miswak",
-      "urn": 1711860,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sekiranya aku tidak bimbang ia akan memberatkan umatku, niscaya aku akan memerintahkan mereka untuk bersiwak sebelum setiap solat.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Kelebihan Makan dengan Tiga Jari dan Menjilatnya",
+      "urn": 1707420,
+      "body": "<p>Ibn 'Abbas (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang daripada kamu selesai makan, janganlah dia menyapu jari-jemarinya sehinggalah dia menjilatnya sendiri atau menyerahkannya kepada orang lain untuk menjilatnya bagi pihaknya.\"\n\n[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
