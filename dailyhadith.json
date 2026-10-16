@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "3.00",
-  "hadithNumber": "42",
+  "bookNumber": "8",
+  "chapterId": "215.00",
+  "hadithNumber": "1196",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "3",
-      "chapterTitle": "Patience and Perseverance",
-      "urn": 1600420,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: After the battle of Hunain, Messenger of Allah (ﷺ) favoured some people in the distribution of spoils (for consolation). He gave Al-Aqra' bin Habis and 'Uyainah bin Hisn a hundred camels each and showed favour also to some more honourable persons among the Arabs. Someone said: \"This division is not based on justice and it was not intended to win the Pleasure of Allah.\" I said to myself: \"By Allah! I will inform Messenger of Allah (ﷺ) of this.\" I went to him and informed him. His face became red and he said, \"Who will do justice if Allah and His Messenger do not?\" Then he said, \"May Allah have mercy on (Prophet) Musa (Moses); he was caused more distress than this but he remained patient.\" Having heard this I said to myself: \"I shall never convey anything of this kind to him in future\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "215",
+      "chapterTitle": "The Excellence of using Miswak (Tooth-Stick)",
+      "urn": 1622400,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Had I not thought it difficult for my Ummah, I would have commanded them to use the Miswak (tooth-stick) before every Salat.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "3",
-      "chapterTitle": "- باب الصبر",
-      "urn": 1700420,
-      "body": "<p>- وعن ابن مسعود رضي الله عنه قال ‏:‏ لما كان يوم حنين آثر رسول الله صلى الله عليه وسلم ناساً في القسمة، فأعطى الأقرع بن حابس مائة من الإبل، وأعطى عيينة بن حصن مثل ذلك، وأعطى ناساً من أشراف العرب وآثرهم يومئذ في القسمة‏.‏ فقال رجل‏:‏ والله إن هذه قسمة ما عدل فيها، وما أريد فيها وجه الله، فقلت ‏:‏ والله لأخبرن رسول الله صلى الله عليه وسلم ، فأتيته فأخبرته بما قال‏:‏ فتغير وجههه حتى كان كالصرف ‏.‏ ثم قال ‏\"‏ فمن يعدل إذا لم يعدل الله ورسوله‏؟‏ ثم قال‏:‏ يرحم الله موسى قد أوذي بأكثر من هذا فصبر‏\"‏‏.‏ فقلت‏:‏ لا جرم لا أرفع إليه بعدها حديثاً‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "215",
+      "chapterTitle": "- باب فضل السواك وخصال الفطرة‏:‏",
+      "urn": 1711860,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه، أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لولا أن أشق على أمتي - أو على الناس- لأمرتهم بالسواك مع كل صلاة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "3",
-      "chapterTitle": "Kesabaran dan Ketabahan",
-      "urn": 1700420,
-      "body": "<p>Ibnu Mas'ud (Semoga Allah meredainya) melaporkan: Selepas peperangan Hunain, Rasulullah (ﷺ) memberikan keutamaan kepada sebahagian orang dalam pembahagian harta rampasan perang (sebagai saguhati). Baginda memberikan kepada Al-Aqra' bin Habis dan 'Uyainah bin Hisn masing-masing seratus ekor unta, dan turut menunjukkan ihsan kepada beberapa tokoh yang lebih mulia dalam kalangan orang Arab. Seseorang berkata: \"Pembahagian ini tidak berasaskan keadilan dan ia tidak bertujuan untuk mencari keredaan Allah.\" Aku berkata kepada diriku: \"Demi Allah! Aku akan memaklumkan perkara ini kepada Rasulullah (ﷺ).\" Aku pergi menemui Baginda dan memaklumkannya. Wajah Baginda menjadi merah dan Baginda bersabda, \"Siapakah yang akan berlaku adil jika Allah dan Rasul-Nya tidak berlaku adil?\" Kemudian Baginda bersabda, \"Semoga Allah merahmati (Nabi) Musa; beliau telah ditimpa kesusahan yang lebih besar daripada ini, namun beliau tetap bersabar.\" Setelah mendengar ini, aku berkata kepada diriku: \"Aku tidak akan sekali-kali menyampaikan perkara seumpama ini kepada Baginda pada masa hadapan.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "215",
+      "chapterTitle": "Kelebihan Menggunakan Miswak",
+      "urn": 1711860,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sekiranya aku tidak bimbang ia akan memberatkan umatku, niscaya aku akan memerintahkan mereka untuk bersiwak sebelum setiap solat.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
