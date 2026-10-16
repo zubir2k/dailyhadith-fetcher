@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "109.00",
-  "hadithNumber": "747",
+  "bookNumber": "introduction",
+  "chapterId": "32.00",
+  "hadithNumber": "257",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "109",
-      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
-      "urn": 1607255,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"When one of you finishes eating, he should not wipe his fingers until he has licked them himself or has given them to someone else to lick for him.\"\n</p>\n<p>\n<b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "Superiority of Poor, Weak and unrenowned Muslims",
+      "urn": 1602540,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Many a person with shaggy and dusty hair, dusty and driven away from doors (because of their poverty and shabby clothes) were to swear by Allah (that something would happen), Allah will certainly make it happen\".<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "109",
-      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
-      "urn": 1707420,
-      "body": "<p>- عن ابن عباس رضى الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إذا أكل أحدكم طعاماً، فلا يمسح أصابعه حتى يلعقها أو يلعقها‏\"‏‏.‏ ‏((متفق عليه))</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "- باب فضل ضعفة المسلمين والفقراء الخاملين",
+      "urn": 1702560,
+      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏رب أشعث أغبر مدفوع بالأبواب لو أقسم على الله لأبره ‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "109",
-      "chapterTitle": "Kelebihan Makan dengan Tiga Jari dan Menjilatnya",
-      "urn": 1707420,
-      "body": "<p>Ibn 'Abbas (semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang daripada kamu selesai makan, janganlah dia menyapu jari-jemarinya sehinggalah dia menjilatnya sendiri atau menyerahkannya kepada orang lain untuk menjilatnya bagi pihaknya.\"\n\n[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "32",
+      "chapterTitle": "Kelebihan Kaum Muslimin yang Miskin, Lemah, dan Tidak Dikenali",
+      "urn": 1702560,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Banyaklah orang yang berambut kusut-masai dan berdebu, serta dihalau dari pintu-pintu (kerana kemiskinan dan pakaian yang lusuh), jika mereka bersumpah dengan nama Allah (tentang sesuatu perkara), nescaya Allah akan memakbulkan sumpah tersebut.\" [Muslim].</p>",
       "grades": []
     }
   ]
