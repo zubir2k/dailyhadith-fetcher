@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "27.00",
-  "hadithNumber": "223",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1431",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "27",
-      "chapterTitle": "Reverence towards the Sanctity of the Muslims",
-      "urn": 1602200,
-      "body": "<p>Abu Musa (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"Whoever enters our mosque or passes through our market with arrows with him, he should hold them by their heads lest it should injure any of the Muslims\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612980,
+      "body": "<p>Sa'd bin Abu Waqqas (May Allah be pleased with him) reported: We were with the Messenger of Allah (ﷺ) when he asked, \"Is anyone of you unable to earn a thousand good deeds?\" One of those present asked: \"How can one earn thousand good deeds in a day?\" He (ﷺ) replied, \"By saying: Subhan Allah a hundred times, then one thousand good deeds will be recorded for him or one thousand sins will be blotted out from his record.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "27",
-      "chapterTitle": "- باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم",
-      "urn": 1702220,
-      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “من مر في شيء من مساجدنا، أو أسواقنا، ومعه نبل فليمسك، أو ليقبض على نصالها بكفه أن يصيب أحدًا من المسلمين منها بشيء” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714210,
+      "body": "<p>- وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ كنا عند رسول الله صلى الله عليه وسلم فقال‏:‏ ‏\"‏أيعجز أحدكم أن يكسب في كل يوم ألف حسنة‏!‏‏\"‏ فسأله سائل من جلسائه‏:‏ كيف يكسب ألف حسنة‏؟‏ قال‏:‏ ‏\"‏يسبح مائة تسبيحة، فيكتب له ألف حسنة، أو يحط عنه ألف خطيئة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.\nقال الحميدي: كذا هو في كتاب مسلم : ((او يحط)) قال البرقاني: ورواه شعبة و ابو عوانة, و يحيى القطان, عن موسى الذي رواه مسلم من جهته فقالوا:((و يحط)) بغير الف.</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "27",
-      "chapterTitle": "Memuliakan Kesucian Umat Islam",
-      "urn": 1702220,
-      "body": "<p>Abu Musa (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang memasuki masjid kami atau melalui pasar kami dengan membawa anak panah, hendaklah dia memegang bahagian hujungnya agar tidak mencederakan mana-mana umat Islam.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "Kelebihan Berzikir kepada Allah",
+      "urn": 1714210,
+      "body": "<p>Sa'd bin Abu Waqqas (Semoga Allah meredainya) meriwayatkan: Kami sedang bersama Rasulullah (ﷺ) ketika Baginda bertanya, \"Adakah sesiapa di antara kamu yang tidak mahu memperoleh seribu kebaikan?\" Salah seorang yang hadir bertanya: \"Bagaimanakah seseorang itu boleh memperoleh seribu kebaikan dalam sehari?\" Baginda (ﷺ) menjawab, \"Dengan mengucapkan: Subhan Allah sebanyak seratus kali, maka seribu kebaikan akan dicatat baginya atau seribu dosa akan dihapuskan daripada catatannya.\" [Muslim].</p>",
       "grades": []
     }
   ]
