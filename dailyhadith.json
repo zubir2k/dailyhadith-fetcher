@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "257.00",
-  "hadithNumber": "1537",
+  "bookNumber": "introduction",
+  "chapterId": "27.00",
+  "hadithNumber": "223",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "257",
-      "chapterTitle": "Prohibition of Calumny",
-      "urn": 1623380,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) said: The Messenger of Allah (ﷺ) passed by two graves and said, \"Both of them (the persons in these graves) are being tortured, and they are not being tortured for a cardinal sin. But indeed they are great sins. One of them used not to save himself from being soiled with his urine, and the other one used to go about with calumnies (among the people to rouse hostilities, e.g., one goes to a person and tells him that so-and-so says about him such and such evil things).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "27",
+      "chapterTitle": "Reverence towards the Sanctity of the Muslims",
+      "urn": 1602200,
+      "body": "<p>Abu Musa (May Allah bepleased with him) reported: Messenger of Allah (ﷺ) said, \"Whoever enters our mosque or passes through our market with arrows with him, he should hold them by their heads lest it should injure any of the Muslims\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "257",
-      "chapterTitle": "- باب تحريم النميمة وهي نقل الكلام بين الناس على جهة الإفساد",
-      "urn": 1715270,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما أن رسول الله صلى الله عليه وسلم مر بقبرين فقال‏:‏ “إنهما يعذابان ، وما يعذبان في كبير‏!‏ بلى إنه كبير‏:‏ أما أحدهما ، فكان يمشي بالنميمة، وأما الآخر فكان لا يستتر من بوله ‏(‏‏(‏متفق عليه وهذا لفظ إحدى روايات البخاري‏)‏‏)‏‏.‏ \nقال العلماء‏:‏ معنى ‏\"‏وما يعذبان في كبير‏\"‏ أي كبير في زعمهما وقيل‏:‏ كبير تركه عليهما‏.‏</p>",
+      "chapterNumber": "27",
+      "chapterTitle": "- باب تعظيم حرمات المسلمين وبيان حقوقهم والشفقة عليهم ورحمتهم",
+      "urn": 1702220,
+      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ “من مر في شيء من مساجدنا، أو أسواقنا، ومعه نبل فليمسك، أو ليقبض على نصالها بكفه أن يصيب أحدًا من المسلمين منها بشيء” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "27",
+      "chapterTitle": "Memuliakan Kesucian Umat Islam",
+      "urn": 1702220,
+      "body": "<p>Abu Musa (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang memasuki masjid kami atau melalui pasar kami dengan membawa anak panah, hendaklah dia memegang bahagian hujungnya agar tidak mencederakan mana-mana umat Islam.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
