@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "145.00",
-  "hadithNumber": "906",
+  "bookNumber": "introduction",
+  "chapterId": "13.00",
+  "hadithNumber": "139",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "145",
-      "chapterTitle": "Supplication for the Sick",
-      "urn": 1608500,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"He who visits a sick person who is not on the point of death and supplicates seven times: As'alullahal-'Azima Rabbal-'Arshil-'Azimi, an yashfiyaka (I beseech Allah the Great, the Rubb of the Great Throne, to heal you), Allah will certainly heal him from that sickness.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "13",
+      "chapterTitle": "Numerous ways of doing Good",
+      "urn": 1601380,
+      "body": "<p>'Adi bin Hatim (May Allah be pleased with him) reported: I heard the Prophet (ﷺ) saying, \"Protect yourself from (Hell) Fire, by giving of half of a date (in charity)\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In another narration 'Adi bin Hatim (May Allah be pleased with him) reported Messenger of Allah (ﷺ) as saying: \"Allah will surely speak with everyone of you without an interpreter. He (the man) will look at his right side and will see nothing but (the deeds) which he had done before, and he will look to his left side and will see nothing but (the deeds) which he had done before. Then he will look in front of him and will find nothing but Hell-fire facing him. So protect (yourselves) from (Hell) Fire, by giving in charity even half a date; and if he does not finds it, then with a kind word\".<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "145",
-      "chapterTitle": "باب ما يدعي به للمريض",
-      "urn": 1708990,
-      "body": "<p>- وعن ابن عباس، رضي الله عنهما، عن النبي،صلى الله عليه وسلمى الله عليه وسلم صلى الله عليه وسلم ، قال‏:‏ ‏\"‏من عاد مريضاً لم يحضره أجله، فقال عنده سبع مرات‏:‏ أسأل الله العظيم رب العرش العظيم أن يشفيك‏:‏ إلا عافاه الله من ذلك المرض‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن، وقال الحاكم‏:‏ حديث صحيح علي شرط البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "13",
+      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
+      "urn": 1701380,
+      "body": "<p>- الثالث والعشرون‏:‏ عن عدي بن حاتم رضي الله عنه قال‏:‏ سمعت النبي صلى الله عليه وسلم يقول‏:‏ ‏\"‏ اتقوا النار ولو بشق تمرةٍ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ \nوفي رواية لهما عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ ما منكم من أحد إلا سيكلمه ربه ليس بينه وبينه ترجمان فينظر أيمن منه فلا يرى إلا ما قدم، وينظر أشأم منه فلا يرى إلا ما قدم، ينظر بين يديه فلا يرى إلا النار تلقاء وجهه، فاتقوا النار ولو بشق تمرة، فمن لم يجد فبكلمة طيبةٍ‏\"‏‏.‏</p>",
       "grades": []
     }
   ]
