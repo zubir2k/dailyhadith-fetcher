@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "6",
-  "chapterId": "157.00",
-  "hadithNumber": "937",
+  "chapterId": "145.00",
+  "hadithNumber": "906",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "157",
-      "chapterTitle": "Supplications in Funeral Prayers",
-      "urn": 1608710,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying: \"When you pray over the dead, make a sincere supplication for him.\"<br/><br/><b>[Abu Dawud]</b>.</p>",
+      "chapterNumber": "145",
+      "chapterTitle": "Supplication for the Sick",
+      "urn": 1608500,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"He who visits a sick person who is not on the point of death and supplicates seven times: As'alullahal-'Azima Rabbal-'Arshil-'Azimi, an yashfiyaka (I beseech Allah the Great, the Rubb of the Great Throne, to heal you), Allah will certainly heal him from that sickness.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "157",
-      "chapterTitle": "- باب ما يقرأ في صلاة الجنازة",
-      "urn": 1709280,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ “إذا صليتم علي الميت، فأخلصوا له الدعاء‏\"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "157",
-      "chapterTitle": "Doa-doa dalam Solat Jenazah",
-      "urn": 1709280,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Apabila kamu menyolatkan mayat, berdoalah dengan ikhlas untuknya.\" [Abu Dawud]</p>",
+      "chapterNumber": "145",
+      "chapterTitle": "باب ما يدعي به للمريض",
+      "urn": 1708990,
+      "body": "<p>- وعن ابن عباس، رضي الله عنهما، عن النبي،صلى الله عليه وسلمى الله عليه وسلم صلى الله عليه وسلم ، قال‏:‏ ‏\"‏من عاد مريضاً لم يحضره أجله، فقال عنده سبع مرات‏:‏ أسأل الله العظيم رب العرش العظيم أن يشفيك‏:‏ إلا عافاه الله من ذلك المرض‏\"‏ ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن، وقال الحاكم‏:‏ حديث صحيح علي شرط البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
