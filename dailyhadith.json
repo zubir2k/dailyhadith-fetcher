@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "72.00",
-  "hadithNumber": "619",
+  "bookNumber": "17",
+  "chapterId": "269.00",
+  "hadithNumber": "1567",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "72",
-      "chapterTitle": "Condemnation of Pride and Self-Conceit",
-      "urn": 1606130,
-      "body": "<p>Salamah bin Al-Akwa' (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Man continues to display haughtiness and arrogance until he is recorded among the arrogant and will be therefore afflicted with what afflicts them.\"<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "269",
+      "chapterTitle": "Prohibition of Nursing Rancor and Enmity",
+      "urn": 1623680,
+      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Do not harbour grudge against one another, nor jealousy, nor enmity; and do not show your backs to one another; and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to avoid speaking with his brother beyond three days.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "72",
-      "chapterTitle": "- باب تحريم الكبر والإعجاب",
-      "urn": 1706150,
-      "body": "<p>- وعن سلمه بن الأكوع رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “لا يزال الرجل يذهب بنفسه حتى يكتب في الجبارين، فيصيبه ما أصابهم” ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏.‏\n<br/>\n ‏(‏‏(‏“يذهب بنفسه” أى‏:‏ يرتفع ويتكبر)‏‏)‏‏.‏</p>",
+      "chapterNumber": "269",
+      "chapterTitle": "- باب النهي عن التباغض والتقاطع والتدابر",
+      "urn": 1715570,
+      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا تباغضوا، ولا تحاسدوا ولا تدابروا، ولا تقاطعوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "72",
-      "chapterTitle": "Celaan terhadap Takabbur dan Ujub",
-      "urn": 1706150,
-      "body": "<p>Salamah bin Al-Akwa' (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Seseorang yang terus-menerus bersikap sombong dan angkuh sehingga dia dicatatkan dalam kalangan orang-orang yang sombong, maka dia akan ditimpa dengan apa yang menimpa mereka.\"[At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan].</p>",
+      "chapterNumber": "269",
+      "chapterTitle": "Larangan Memendam Dendam dan Permusuhan",
+      "urn": 1715570,
+      "body": "<p>Anas bin Malik (semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Janganlah kamu saling mendendam, janganlah bersikap hasad dengki, dan janganlah bermusuhan; dan janganlah kamu saling membelakangi satu sama lain; dan jadilah kamu sebagai saudara dan hamba-hamba Allah. Tidak halal bagi seorang Muslim untuk tidak bercakap dengan saudaranya melebihi tiga hari.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
