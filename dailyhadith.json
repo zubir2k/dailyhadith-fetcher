@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "269.00",
-  "hadithNumber": "1567",
+  "bookNumber": "introduction",
+  "chapterId": "11.00",
+  "hadithNumber": "98",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "269",
-      "chapterTitle": "Prohibition of Nursing Rancor and Enmity",
-      "urn": 1623680,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Do not harbour grudge against one another, nor jealousy, nor enmity; and do not show your backs to one another; and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to avoid speaking with his brother beyond three days.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "11",
+      "chapterTitle": "The Struggle (in the Cause of Allah)",
+      "urn": 1600970,
+      "body": "<p>'Aishah (May Allah be pleased with her) said: The Prophet (ﷺ) would stand (in prayer) so long that the skin of his feet would crack. I asked him, \"Why do you do this while your past and future sins have been forgiven?\" He said, \"Should I not be a grateful slave of Allah?\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "269",
-      "chapterTitle": "- باب النهي عن التباغض والتقاطع والتدابر",
-      "urn": 1715570,
-      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا تباغضوا، ولا تحاسدوا ولا تدابروا، ولا تقاطعوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "- باب المجاهدة",
+      "urn": 1700970,
+      "body": "<p>- الرابع‏:‏ عن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم كان يقوم من الليل حتى تنفطر قدماه، فقلت له‏:‏ لم تصنع هذا يا رسول الله، وقد غفر الله لك ما تقدم من ذنبك وما تأخر‏؟‏‏!‏ قال‏:‏ ‏\"‏ أفلا أحب أن أكون عبداً شكوراً‏؟‏‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ هذا لفظ البخاري، ونحوه في الصحيحين من رواية المغيرة بن شعبة‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "269",
-      "chapterTitle": "Larangan Memendam Dendam dan Permusuhan",
-      "urn": 1715570,
-      "body": "<p>Anas bin Malik (semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Janganlah kamu saling mendendam, janganlah bersikap hasad dengki, dan janganlah bermusuhan; dan janganlah kamu saling membelakangi satu sama lain; dan jadilah kamu sebagai saudara dan hamba-hamba Allah. Tidak halal bagi seorang Muslim untuk tidak bercakap dengan saudaranya melebihi tiga hari.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "Perjuangan (di jalan Allah)",
+      "urn": 1700970,
+      "body": "<p>Aishah (Semoga Allah meredainya) berkata: Nabi (ﷺ) berdiri (dalam solat) begitu lama sehingga kulit kakinya merekah. Aku bertanya kepada Baginda, \"Mengapakah engkau melakukan ini sedangkan dosa-dosamu yang lalu dan yang akan datang telah diampunkan?\" Baginda bersabda, \"Tidakkah sepatutnya aku menjadi hamba Allah yang bersyukur?\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
