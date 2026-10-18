@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "50.00",
-  "hadithNumber": "401",
+  "bookNumber": "8",
+  "chapterId": "180.00",
+  "hadithNumber": "998",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "50",
-      "chapterTitle": "Fear (of Allah)",
-      "urn": 1603970,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) delivered a Khutbah to us the like of which I had never heard from him before. He said, \"If you knew what I know, you would laugh little and weep much\". Thereupon those present covered their faces and began sobbing.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration is: Messenger of Allah (ﷺ) heard of something about his Companions upon which he addressed them and said, \"Jannah and (Hell) Fire were shown to me and I have never seen the like of this day in good and in evil. If you were to know what I know, you would laugh little and weep much\". His Companions experienced such suffering on that day that had no equal. They covered their faces and began to weep.</p>",
+      "chapterNumber": "180",
+      "chapterTitle": "The Excellence of Reciting the Qur'an",
+      "urn": 1620420,
+      "body": "<p>Al-Bara' bin 'Azib (May Allah be pleased with them) reported: A man was reciting Surat Al-Kahf, and a horse was tied with two ropes beside him. As he was reciting, a cloud overshadowed him, and as it began to come nearer and nearer, the horse began to trample voilently. The man came to the Messenger of Allah (ﷺ) in the morning and mentioned the incident to him. He (ﷺ) said, \"That was tranquillity which descended as a result of the recitation of the Qur'an.\"\n<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "50",
-      "chapterTitle": "- باب الخوف",
-      "urn": 1703970,
-      "body": "<p>- وعن أنس، رضي الله عنه، قال‏:‏ خطبنا رسول الله، صلى الله عليه وسلم خطبة ما سمعت مثلها قط، فقال‏:‏ ‏\"‏لو تعلمون ما أعلم لضحكتم قليلاً ولبكيتم كثيراً‏\"‏ فغطى أصحاب رسول الله، صلى الله عليه وسلم وجوههم، ولهم خنين‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏\n<br/>\nوفي رواية‏:‏ بلغ رسول الله، صلى الله عليه وسلم عن أصحابه شئ فخطب ، فقال‏:‏ ‏\"‏عرضت على الجنة والنار، فلم أر كاليوم في الخير والشر، ولو تعلمون ما أعلم لضحكتم قليلا، ولبكيتم كثيراً‏\"‏ فما أتى على أصحاب رسول الله، صلى الله عليه وسلم يوم أشد منه، غطوا رؤوسهم ولهم خنين‏.‏</p>",
+      "chapterNumber": "180",
+      "chapterTitle": "- باب فضل قراءة القرآن",
+      "urn": 1709890,
+      "body": "<p>- وعن البراء بن عازب رضي الله عنهما قال‏:‏ كان رجل يقرأ سورة الكهف، وعنده فرس مربوط بشطنين فتغشته سحابة فجعلت تدنو، وجعل فرسه ينفر منها‏.‏ فلما أصبح أتى النبي صلى الله عليه وسلم ، فذكر له ذلك فقال ‏:‏‏\"‏ تلك السكينة تنزلت للقرآن‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "180",
+      "chapterTitle": "Kelebihan Membaca Al-Quran",
+      "urn": 1709890,
+      "body": "<p>Al-Bara' bin 'Azib (semoga Allah meredainya) melaporkan: Seorang lelaki sedang membaca Surah Al-Kahfi, dan seekor kuda diikat dengan dua tali di sisinya. Semasa dia sedang membacanya, sebuah awan menaunginya, dan apabila awan itu semakin mendekatinya, kuda tersebut mula meronta-ronta dengan kuat. Lelaki itu menemui Rasulullah (ﷺ) pada waktu pagi dan menceritakan kejadian tersebut kepada Baginda. Baginda (ﷺ) bersabda, \"Itu adalah ketenangan yang turun disebabkan bacaan al-Quran tersebut.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
