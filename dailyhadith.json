@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "51.00",
-  "hadithNumber": "412",
+  "bookNumber": "16",
+  "chapterId": "250.00",
+  "hadithNumber": "1480",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "51",
-      "chapterTitle": "Hope in Allah's Mercy",
-      "urn": 1604080,
-      "body": "<p>'Ubadah bin As-Samit (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"He who bears witness that there is no true god except Allah, alone having no partner with Him, that Muhammad is His slave and His Messenger, that 'Isa (Jesus) is His slave and Messenger and he (Jesus) is His Word which He communicated to Maryam (Mary) and His spirit which He sent to her, that Jannah is true and Hell is true; Allah will make him enter Jannah accepting whatever deeds he accomplished\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration in Muslim is: the Messenger of Allah (ﷺ) said, \"Whosoever testifies that there is no true god except Allah and that Muhammad is the Messenger of Allah, Allah (SWT) saves him from the Fire (of Hell)\".<br/><br/></p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
+      "urn": 1613460,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) used to supplicate: \"Allahumma laka aslamtu, wa bika amantu, wa 'alaika tawakkaltu, wa ilaika anabtu, wa bika khasamtu, wa ilaika hakamtu. Faghfir li ma qaddamtu, wa ma akh-khartu, wa ma asrartu wa ma a'lantu, Antal-Muqaddimu, wa Antal-Mu'akhkhiru, la ilaha illa Anta (O Allah! to You I submit, in You I affirm my faith, in You I repose my trust, to You I turn in repentance and with Your Help I contend my adversaries and from You I seek judgement. O Allah! Grant me forgiveness for the faults which I made in past and those ones I may commit in the future, those which I committed secretly or openly. You Alone send whomever You will to Jannah, and You Alone send whomever You will to Hell-fire. There is none worthy of worship except You).\" Another narration adds: \"La hawla wa la quwwata illa billah (There is no strength to resist evil and no power to do good except through Allah).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "51",
-      "chapterTitle": "- باب الرجاء",
-      "urn": 1704080,
-      "body": "<p>- وعن عبادة بن الصامت، رضي الله عنه ، قال‏:‏ قال رسول الله، صلى الله عليه وسلم‏:‏ ‏\"‏من شهد أن لا إله إلا الله وحده لا شريك له، وأن محمداً عبده ورسوله، وأن عيسى عبد الله ورسوله، وكلمته ألقاها إلى مريم وروح منه، وأن الجنة حق والنار حق، أدخله الله الجنة على ما كان من العمل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ وفي رواية لمسلم‏:‏‏\"‏من شهد أن لا إله إلا الله، وأن محمداً رسول الله، حرم عليه النار‏\"‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "51",
-      "chapterTitle": "Mengharapkan Rahmat Allah",
-      "urn": 1704080,
-      "body": "<p>'Ubadah bin As-Samit (semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang bersaksi bahawa tiada tuhan yang hak melainkan Allah, yang Maha Esa dan tiada sekutu bagi-Nya, bahawa Muhammad adalah hamba dan utusan-Nya, bahawa 'Isa adalah hamba dan utusan-Nya, dan dia adalah Kalimah-Nya yang disampaikan kepada Maryam serta roh-Nya yang dikirimkan kepadanya, bahawa syurga itu benar dan neraka itu benar; Allah akan memasukkannya ke dalam syurga dengan menerima apa jua amal yang telah dilakukannya.\" [Al-Bukhari dan Muslim]. Riwayat lain dalam Muslim menyatakan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang bersaksi bahawa tiada tuhan yang hak melainkan Allah dan bahawa Muhammad adalah utusan Allah, maka Allah (SWT) akan menyelamatkannya daripada api (neraka).\"</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
+      "urn": 1714700,
+      "body": "<p>- وعن ابن عباس رضي الله عنهما أن رسول الله صلى الله عليه وسلم، كان يقول‏:‏ ‏\"‏اللهم لك أسلمت، وبك آمنت، وعليك توكلت، وإليك أنبت وبك خاصمت، وإليك حاكمت، فاغفر لي ما قدمت، وما أخرت وما أسررت وما أعلنت، أنت المقدم، وأنت المؤخر، لا إله إلا أنت‏\"‏ زاد بعض الرواة‏:‏ ‏\"‏ولا حول ولا قوة إلا بالله‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
