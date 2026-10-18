@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "327.00",
-  "hadithNumber": "1735",
+  "bookNumber": "introduction",
+  "chapterId": "50.00",
+  "hadithNumber": "401",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "327",
-      "chapterTitle": "Prohibition of Obscenity",
-      "urn": 1625360,
-      "body": "<p>Anas (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Indecency does not leave anything untainted and decency does not leave anything ungraced and embellished.\"<br/><br/><b>[At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "50",
+      "chapterTitle": "Fear (of Allah)",
+      "urn": 1603970,
+      "body": "<p>Anas bin Malik (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) delivered a Khutbah to us the like of which I had never heard from him before. He said, \"If you knew what I know, you would laugh little and weep much\". Thereupon those present covered their faces and began sobbing.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>Another narration is: Messenger of Allah (ﷺ) heard of something about his Companions upon which he addressed them and said, \"Jannah and (Hell) Fire were shown to me and I have never seen the like of this day in good and in evil. If you were to know what I know, you would laugh little and weep much\". His Companions experienced such suffering on that day that had no equal. They covered their faces and began to weep.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "327",
-      "chapterTitle": "- باب النهي عن الفحش وبذاء اللسان",
-      "urn": 1717250,
-      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ما كان الفحش في شيء إلا شانه، وما كان الحياء في شيء إلا زانه‏\"‏‏.‏‏(‏‏(‏رواه الترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "327",
-      "chapterTitle": "Larangan Perbuatan Keji",
-      "urn": 1717250,
-      "body": "<p>Anas (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Kekejian tidak akan meninggalkan sesuatu melainkan ia akan menajiskannya, dan sifat malu tidak akan meninggalkan sesuatu melainkan ia akan menghiasinya.\" [At-Tirmidhi].</p>",
+      "chapterNumber": "50",
+      "chapterTitle": "- باب الخوف",
+      "urn": 1703970,
+      "body": "<p>- وعن أنس، رضي الله عنه، قال‏:‏ خطبنا رسول الله، صلى الله عليه وسلم خطبة ما سمعت مثلها قط، فقال‏:‏ ‏\"‏لو تعلمون ما أعلم لضحكتم قليلاً ولبكيتم كثيراً‏\"‏ فغطى أصحاب رسول الله، صلى الله عليه وسلم وجوههم، ولهم خنين‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏\n<br/>\nوفي رواية‏:‏ بلغ رسول الله، صلى الله عليه وسلم عن أصحابه شئ فخطب ، فقال‏:‏ ‏\"‏عرضت على الجنة والنار، فلم أر كاليوم في الخير والشر، ولو تعلمون ما أعلم لضحكتم قليلا، ولبكيتم كثيراً‏\"‏ فما أتى على أصحاب رسول الله، صلى الله عليه وسلم يوم أشد منه، غطوا رؤوسهم ولهم خنين‏.‏</p>",
       "grades": []
     }
   ]
