@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "290.00",
-  "hadithNumber": "1623",
+  "bookNumber": "5",
+  "chapterId": "132.00",
+  "hadithNumber": "856",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "290",
-      "chapterTitle": "Prohibition of gazing at women and Beardless Handsome Boys except in Exigency",
-      "urn": 1624240,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Avoid sitting on roadsides.\" His Companions said: \"O Messenger of Allah (ﷺ), there is no other alternative but to sit there to talk.\" Thereupon the Messenger of Allah (ﷺ) said, \"If you have to sit at all, then fulfill the rights of the road.\" They asked: \"What are their rights?\" Thereupon he said, \"Lowering the gaze (so that you may not stare at unlawful things); refraining from doing some harm to others, responding to greeting (i.e., saying 'Wa'alaikumus- salam' to one another) and commanding the good and forbidding the evil.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "132",
+      "chapterTitle": "Words to be Used for Offering Greetings",
+      "urn": 1608140,
+      "body": "<p>Abu Juraiy Al-Hujaimi (May Allah be pleased with him) reported: I saw the Messenger of Allah (ﷺ) and said: \"Alaikas-Salamu ya Rasulallah! (Upon you be peace, O Messenger of Allah)!\" He said, \"Do not say: 'Alaikas-Salamu (Upon you be peace).' This is the Salam to the dead.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi, who classified the hadith as Hasan Sahih]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "290",
-      "chapterTitle": "- باب تحريم النظر إلى المرأة الأجنبية والأمرد الحسن لغير حاجة شرعية",
-      "urn": 1716130,
-      "body": "<p>- وعن أبي سعيد الخُدري رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إياكم والجلوس في الطرقات‏\"‏‏.‏ قالوا‏:‏ يا رسول الله ما لنا من مجالسنا بُد نتحدث فيها‏.‏ فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏فإذا أبيتم إلا المجلس، فأعطوا الطريق حقه‏\"‏ قالوا‏:‏ وما حق الطريق يا رسول الله‏؟‏ قال‏:‏ ‏\"‏غض البصر، وكف الأذى، ورد السلام، والأمر المعروف والنهي عن المنكر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "132",
+      "chapterTitle": "- باب كيفية السلام",
+      "urn": 1708490,
+      "body": "<p>- وعن أبي جري الهجيمي رضي الله عنه قال‏:‏ أتيت رسول الله صلى الله عليه وسلم فقلت‏:‏ عليك السلام يا رسول الله قال‏:‏ ‏\"‏لا تقل عليك السلام؛ فإن عليك السلام تحية الموتى‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏.‏ وقد سبق بطوله‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "290",
-      "chapterTitle": "Larangan memandang wanita dan lelaki tampan yang tidak berjanggut kecuali atas sebab keperluan.",
-      "urn": 1716130,
-      "body": "<p>Abu Sa'id Al-Khudri (Semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Janganlah kalian duduk di pinggir jalan.\" Para sahabat Baginda bertanya: \"Wahai Rasulullah (ﷺ), kami tidak mempunyai pilihan lain melainkan duduk di situ untuk berbual-bual.\" Maka Rasulullah (ﷺ) bersabda, \"Jika kamu benar-benar perlu duduk, maka tunaikanlah hak-hak jalan tersebut.\" Mereka bertanya: \"Apakah hak-hak jalan tersebut?\" Lalu Baginda bersabda, \"Menundukkan pandangan (supaya tidak melihat perkara yang haram); meninggalkan perkara yang menyakiti orang lain, menjawab salam (iaitu mengucapkan 'Wa'alaikumus-salam' sesama sendiri), serta menyuruh kepada kebaikan dan mencegah daripada kemungkaran.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "132",
+      "chapterTitle": "Lafaz-lafaz untuk Memberi Salam",
+      "urn": 1708490,
+      "body": "<p>Abu Juraiy Al-Hujaimi (Semoga Allah meredainya) menceritakan: \"Aku melihat Rasulullah (ﷺ) lalu berkata: 'Alaikas-Salamu ya Rasulallah! (Sejahtera ke atasmu wahai Rasulullah)!' Baginda bersabda, 'Janganlah kamu mengucapkan: 'Alaikas-Salamu (Sejahtera ke atasmu). Ini adalah salam kepada orang yang telah mati.'\" [Abu Dawud dan At-Tirmidhi, yang mengklasifikasikan hadis ini sebagai Hasan Sahih].</p>",
       "grades": []
     }
   ]
