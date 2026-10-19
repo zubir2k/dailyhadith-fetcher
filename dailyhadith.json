@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "288.00",
-  "hadithNumber": "1617",
+  "bookNumber": "introduction",
+  "chapterId": "65.00",
+  "hadithNumber": "576",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "288",
-      "chapterTitle": "Prohibition of Show-off",
-      "urn": 1624190,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) saying, \"The first to be judged on the Day of Resurrection will be a man who had died as a martyr. He will be brought forward. Allah will remind him of the favours He had bestowed upon him and the man will acknowledge them. Then He will ask him: 'What did you do to express gratitude for it?' The man will reply: 'I fought for Your Cause till I was martyred.' Allah will say: 'You have lied. You fought so that people might call you courageous; and they have done so.' Command will then be issued about him and he will be dragged on his face and thrown into Hell. Next a man who had acquired and imparted knowledge and read the Qur'an will be brought forward, Allah will remind him of the favours He had bestowed upon him and the man will acknowledge them. Then He will ask him: 'What did you do to express gratitude for it?' The man will reply: 'I acquired knowledge and taught it, and read the Qur'an for Your sake.' Allah will say to him: 'You have lied. You acquired knowledge so that people might call you a learned (man), and you read the Qur'an so that they might call you a reciter, and they have done so.' Command will then be issued about him, and he will be dragged on his face and thrown into Hell. Next a man whom Allah had made affluent and to whom Allah had given plenty of wealth, will be brought forward, Allah will remind him of the favours He had bestowed upon him and the man will acknowledge them. He will ask him: 'What did you do to express gratitude for it?' The man will reply: 'I did not neglect any of the ways You liked wealth to be spent liberally for Your sake'. Allah will say to him: 'You have lied. You did it so that people might call you generous, and they have done so.' Command will then be issued about him and he will be dragged on his face and thrown into Hell.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "65",
+      "chapterTitle": "Remembrance of Death and Restraint of Wishes",
+      "urn": 1605720,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) drew up a square and in the middle of it he drew a line, the end of which jutted out beyond the square. Further across the middle line, he drew a number of smaller lines. Then he (ﷺ) said, \"The figure represents man and the encircling square is the death which is encompassing him. The middle line represents his desires and the smaller lines are vicissitudes of life. If one of those misses him, another distresses him, and if that one misses him, he falls victim to another.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "288",
-      "chapterTitle": "- باب تحريم الرياء",
-      "urn": 1716070,
-      "body": "<p>- وعنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ إن أول الناس يقضى يوم القيامة عليه رجل اسُتشهد، فأتي به، فعرفه نعمته، فعرفها، قال‏:‏ فما عملت فيها‏؟‏ قال‏:‏ قاتلت فيك حتى اسُتشهدت، قال‏:‏ كذبت، ولكنك قاتلت لأن يقال‏:‏ جريء، فقد قيل، ثم أمر به، فسحب على وجهه حتى ألقي في النار‏.‏ ورجل تعلم العلم وعلمه، وقرأ القرآن، فأتي به، فعرفه نعمه فعرفها‏.‏ قال فما عملت فيها‏؟‏ قال تعلمت العلم وعلمته وقرأت فيك القرآن‏.‏ قال كذبت، ولكنك تعلمت ليقال‏:‏ عالم‏.‏ وقرأت القرآن ليقال‏:‏ هو قارئ، فقد قيل‏:‏ ثم أُمر به، فسُحب على وجهه حتى ألقي في النار، ورجل وسع الله عليه، وأعطاه من أصناف المال، فأتي به فعرفه نعمه، فعرفها‏.‏ قال‏:‏ فما عملت فيها ‏؟‏ قال‏:‏ ما تركت من سبيل تحب أن ينفق فيها إلا أنفقت فيها لك، قال‏:‏ كذبت، ولكنك فعلت ليقال‏:‏ جواد، فقد قيل، ثم أُمر به فسُحب على وجهه ثم ألقي في النار‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏\n ‏جَريء‏ ‏ بفتح الجيم وكسر الراء وبالمد، أي‏:‏ شجاع حاذق</p>",
+      "chapterNumber": "65",
+      "chapterTitle": "- باب ذكر الموت وقصر الأمل",
+      "urn": 1705720,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه قال‏:‏ خط النبي صلى الله عليه وسلم خطا مربعا، وخط خطاً فى الوسط خارجاً منه، وخط خططاً صغاراً إلى هذا الذى فى الوسط من جانبه الذى فى الوسط، فقال‏:‏ “هذا الإنسان، وهذا أجله محيطا به -أو قد أحاط به- وهذا الذى هو خارج أمله، وهذه الخطط الصغار الأعراض فإن أخطأه هذا ، نهشه هذا، وإن أخطأه هذا نهشه هذا” ‏(‏‏(‏رواه البخاري‏)‏‏)‏</p>",
       "grades": []
     }
   ]
