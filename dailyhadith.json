@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "180.00",
-  "hadithNumber": "991",
+  "bookNumber": "introduction",
+  "chapterId": "11.00",
+  "hadithNumber": "103",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "180",
-      "chapterTitle": "The Excellence of Reciting the Qur'an",
-      "urn": 1620350,
-      "body": "<p>Abu Umamah (May Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Read the Qur'an, for it will come as an intercessor for its reciters on the Day of Resurrection.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "11",
+      "chapterTitle": "The Struggle (in the Cause of Allah)",
+      "urn": 1601020,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: One night I joined the Prophet (ﷺ) in his (optional) Salat. He prolonged the standing so much that I thought of doing something evil. He was asked: \"What did you intend to do?\" He replied: \"To sit down and leave him\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "180",
-      "chapterTitle": "- باب فضل قراءة القرآن",
-      "urn": 1709820,
-      "body": "<p>- عن أبي أمامة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ اقرءوا القرآن فإنه يأتي يوم القيامة شفيعًا لأصحابه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "- باب المجاهدة",
+      "urn": 1701020,
+      "body": "<p>- التاسع‏:‏ عن ابن مسعود رضي الله عنه قال‏:‏ صليت مع النبي صلى الله عليه وسلم ليلة، فأطال القيام حتى هممت بأمر سوء‏!‏ قيل‏:‏ وما هممت به‏؟‏ \nقال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "180",
-      "chapterTitle": "Kelebihan Membaca Al-Quran",
-      "urn": 1709820,
-      "body": "<p>Abu Umamah (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Bacalah Al-Quran, kerana ia akan datang sebagai pemberi syafaat bagi pembacanya pada Hari Kiamat.\" [Muslim].</p>",
+      "chapterNumber": "11",
+      "chapterTitle": "Jihad (di jalan Allah)",
+      "urn": 1701020,
+      "body": "<p>Ibnu Mas'ud (semoga Allah meredainya) berkata: Pada suatu malam, aku menyertai Nabi (ﷺ) dalam solat (sunat) baginda. Baginda memanjangkan berdiri sedemikian rupa sehingga aku terdetik untuk melakukan sesuatu yang buruk. Baginda ditanya: \"Apakah yang engkau ingin lakukan?\" Baginda menjawab: \"Duduk dan meninggalkannya.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
