@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "140.00",
-  "hadithNumber": "872",
+  "bookNumber": "17",
+  "chapterId": "273.00",
+  "hadithNumber": "1574",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "140",
-      "chapterTitle": "Seeking Permission to Enter (Someone's House) and Manners Relating to It",
-      "urn": 1608220,
-      "body": "<p>Rib'i bin Hirash (May Allah be pleased with him) reported: A man of Banu 'Amir tribe has told us that he had asked the Prophet (ﷺ) for permission to enter when he was at home. He said: \"May I enter?\" the Messenger of Allah (ﷺ) said to the servant, \"Go out and instruct him about the manner of seeking permission. Tell him to say: As-Salamu 'Alaikum (may peace be upon you). May I come in?\" The man heard this and said: \"As-Salamu 'Alaikum (may peace be upon you). May I come in?\" The Prophet (ﷺ) then granted him permission and he entered.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "273",
+      "chapterTitle": "Prohibition of Despising Muslims",
+      "urn": 1623750,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is enough evil for a Muslim to look down upon his (Muslim) brother.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "140",
-      "chapterTitle": "- باب الاستئذان وآدابه",
-      "urn": 1708650,
-      "body": "<p>- وعن ربعي بن حراش قال‏:‏ حدثنا رجل من بني عامر استأذن علي النبي صلى الله عليه وسلم وهو في بيت، فقال‏:‏ أألج‏؟‏ فقال رسول الله صلى الله عليه وسلم لخادمه‏:‏ ‏\"‏أخرج إلي هذا وعلمه الاستئذان، فقل له‏:‏ قل‏:‏ السلام عليكم، أأدخل‏؟‏” فسمعه الرجل فقال‏:‏ السلام عليكم، أأدخل‏؟‏ فأذن له النبي صلى الله عليه وسلم ، فدخل‏.‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "273",
+      "chapterTitle": "- باب تحريم احتقار المسلمين",
+      "urn": 1715640,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏بحسب امرئ من الشر أن يحقر المسلم‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم، وقد سبق قريبًا بطوله‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "140",
-      "chapterTitle": "Meminta Izin untuk Masuk (Rumah Seseorang) dan Adab-adab yang Berkaitan Dengannya",
-      "urn": 1708650,
-      "body": "<p>Daripada Rib'i bin Hirash (semoga Allah meredainya) menceritakan: Seorang lelaki daripada kabilah Banu 'Amir telah memberitahu kami bahawa dia telah meminta izin daripada Nabi (ﷺ) untuk masuk ketika Baginda berada di rumah. Dia berkata: \"Bolehkah saya masuk?\" Rasulullah (ﷺ) berkata kepada pelayan itu, \"Keluar dan ajarkan dia tentang adab meminta izin. Beritahu dia supaya mengucapkan: As-Salamu 'Alaikum (sejahtera ke atas kamu). Bolehkah saya masuk?\" Lelaki itu mendengar perkara ini lalu berkata: \"As-Salamu 'Alaikum (sejahtera ke atas kamu). Bolehkah saya masuk?\" Nabi (ﷺ) kemudian memberinya izin dan dia pun masuk. [Abu Dawud]</p>",
+      "chapterNumber": "273",
+      "chapterTitle": "Larangan Menghina Umat Islam",
+      "urn": 1715640,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda: \"Cukuplah suatu kejahatan bagi seorang Muslim apabila dia memandang rendah terhadap saudaranya (sesama Muslim).\" [Muslim].</p>",
       "grades": []
     }
   ]
