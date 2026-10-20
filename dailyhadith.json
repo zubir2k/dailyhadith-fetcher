@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "11.00",
-  "hadithNumber": "103",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1349",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "11",
-      "chapterTitle": "The Struggle (in the Cause of Allah)",
-      "urn": 1601020,
-      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) said: One night I joined the Prophet (ﷺ) in his (optional) Salat. He prolonged the standing so much that I thought of doing something evil. He was asked: \"What did you intend to do?\" He replied: \"To sit down and leave him\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1612190,
+      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Fight the polytheists with your wealth, lives and tongues.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "11",
-      "chapterTitle": "- باب المجاهدة",
-      "urn": 1701020,
-      "body": "<p>- التاسع‏:‏ عن ابن مسعود رضي الله عنه قال‏:‏ صليت مع النبي صلى الله عليه وسلم ليلة، فأطال القيام حتى هممت بأمر سوء‏!‏ قيل‏:‏ وما هممت به‏؟‏ \nقال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1713390,
+      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏جاهدوا المشركين بأموالكم وأنفسكم وألسنتكم‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "11",
-      "chapterTitle": "Jihad (di jalan Allah)",
-      "urn": 1701020,
-      "body": "<p>Ibnu Mas'ud (semoga Allah meredainya) berkata: Pada suatu malam, aku menyertai Nabi (ﷺ) dalam solat (sunat) baginda. Baginda memanjangkan berdiri sedemikian rupa sehingga aku terdetik untuk melakukan sesuatu yang buruk. Baginda ditanya: \"Apakah yang engkau ingin lakukan?\" Baginda menjawab: \"Duduk dan meninggalkannya.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Kewajipan Jihad",
+      "urn": 1713390,
+      "body": "<p>Anas (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Perangilah kaum musyrikin dengan harta, nyawa, dan lisan kamu.\" [Abu Dawud].</p>",
       "grades": []
     }
   ]
