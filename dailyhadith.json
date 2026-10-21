@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "198.00",
-  "hadithNumber": "1112",
+  "bookNumber": "17",
+  "chapterId": "302.00",
+  "hadithNumber": "1665",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "198",
-      "chapterTitle": "Desirability of Lying down on one's right side after the Sunnah of Fajr Prayer",
-      "urn": 1621550,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When anyone of you has performed two of Sunnah before the Fajr prayer, he should lie down on his right side.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Prohibition of Bewailing the Deceased",
+      "urn": 1624660,
+      "body": "<p>Asid bin Abu Usaid reported: A woman who had taken a pledge of allegiance at the hand of the Messenger of Allah (ﷺ) said: \"Among the matters in respect of which we gave the Messenger of Allah (ﷺ) the pledge not to disobey him in any Ma'ruf <b>[i.e., all that Islam ordains (V:60:12)]</b> was that we should not slap our faces, bewail, tear our clothes up and tear out our hair (in grief).\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "198",
-      "chapterTitle": "- باب استحباب الاضطجاع بعد ركعتي الفجر على جنبه الأيمن والحث عليه سواء كان تهجد بالليل أم لا‏.",
-      "urn": 1711020,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إذا صلى أحدكم ركعتي الفجر، فليضطجع على يمينه‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود، والترمذي بأسانيد صحيحة‏.‏ قال الترمذي‏:‏ حديث حسن صحيح‏.‏</p>",
+      "chapterNumber": "302",
+      "chapterTitle": "- باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه، والدعاء بالويل والثبور",
+      "urn": 1716550,
+      "body": "<p>- وعن أسيد بن أبي أسيد التابعي عن امرأة من المبايعات قالت‏:‏ كان فيما أخذ علينا رسول الله صلى الله عليه وسلم، في المعروف الذي أخذ علينا أن لا نعصيه فيه‏:‏ أن لا نخمش وجهًا، ولا ندعو ويلا، ولا نشق جيبًا، وأن لا ننشر شعرًا‏\"‏‏. ((رواه أبو داود بإسناد حسن ))‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "198",
-      "chapterTitle": "Desirability of Lying down on one's right side after the Sunnah of Fajr Prayer",
-      "urn": 1711020,
-      "body": "<p>Abu Hurairah (semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang daripada kamu telah menunaikan dua rakaat sunnah sebelum solat Subuh, hendaklah dia berbaring di atas sisi kanannya.\"[Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Larangan Meratapi Jenazah",
+      "urn": 1716550,
+      "body": "<p>Asid bin Abu Usaid melaporkan: Seorang wanita yang telah memberikan bai'ah kepada Rasulullah (ﷺ) berkata: \"Antara perkara yang kami berikan bai'ah kepada Rasulullah (ﷺ) untuk tidak menderhakainya dalam perkara Ma'ruf [iaitu apa yang diperintahkan oleh Islam (Ayat 60:12)] adalah bahawa kami tidak boleh menampar muka, meratap, mengoyakkan pakaian, dan mencabut rambut (kerana kesedihan).\" [Abu Dawud].</p>",
       "grades": []
     }
   ]
