@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "312.00",
-  "hadithNumber": "1705",
+  "bookNumber": "introduction",
+  "chapterId": "60.00",
+  "hadithNumber": "543",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "312",
-      "chapterTitle": "Undesirability of Sitting with Erected Legs during Friday Sermon",
-      "urn": 1625060,
-      "body": "<p>Mu'adh bin Anas Al-Juhani (May Allah be pleased with him) said: The Prophet (ﷺ) forbade (us) from sitting with our legs drawn up to our belly (Ihtiba') during the Friday Khutbah (religious talk before the prayer).<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Excellence of Generosity and Spending in a Good cause with Reliance on Allah",
+      "urn": 1605390,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Envy is permitted only in two cases: A man whom Allah gives wealth, and he disposes of it rightfully, and a man to whom Allah gives knowledge which he applies and teaches it.\"<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "312",
-      "chapterTitle": "- باب كراهة الاحتباء يوم الجمعة والإمام يخطب لأنه يجلب النوم فيفوت استماع الخطبة ويخاف انتقاض الوضوء",
-      "urn": 1716950,
-      "body": "<p>- عن معاذ بن أنس الجهني، رضي الله عنه، أن النبي صلى الله عليه وسلم نهى عن الحبوة يوم الجمعة والإمام يخطب ‏(‏‏(‏رواه أبو داود والترمذي وقالا‏:‏ حديث حسن‏)‏‏)‏</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "- باب الكرم والجود والإنفاق فى وجوه الخير ثقة بالله تعالى",
+      "urn": 1705390,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏لا حسد إلا فى اثنتين‏:‏ رجل آتاه الله مالاً، فسلطه على هلكته فى الحق، ورجل آتاه الله حكمة، فهو يقضي بها ويعلمها‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "312",
-      "chapterTitle": "Makruh Duduk Dengan Kaki Tegak Semasa Khutbah Jumaat",
-      "urn": 1716950,
-      "body": "<p>Mu'adh bin Anas Al-Juhani (Semoga Allah meredainya) berkata: Nabi (ﷺ) melarang (kami) daripada duduk dengan melipat kaki ke arah perut (Ihtiba') semasa Khutbah Jumaat. [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Keutamaan Sifat Pemurah dan Berinfaq di Jalan Allah dengan Bertawakal kepada Allah",
+      "urn": 1705390,
+      "body": "<p>Ibn Mas'ud (Semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Hanya dibolehkan iri hati dalam dua perkara: Seseorang lelaki yang Allah berikan harta, lalu dia membelanjakannya dengan cara yang benar, dan seseorang lelaki yang Allah berikan ilmu, lalu dia mengamalkannya dan mengajarkannya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
