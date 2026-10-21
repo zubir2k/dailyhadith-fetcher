@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1349",
+  "bookNumber": "8",
+  "chapterId": "198.00",
+  "hadithNumber": "1112",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1612190,
-      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Fight the polytheists with your wealth, lives and tongues.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "198",
+      "chapterTitle": "Desirability of Lying down on one's right side after the Sunnah of Fajr Prayer",
+      "urn": 1621550,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"When anyone of you has performed two of Sunnah before the Fajr prayer, he should lie down on his right side.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713390,
-      "body": "<p>- وعن أنس رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏جاهدوا المشركين بأموالكم وأنفسكم وألسنتكم‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "198",
+      "chapterTitle": "- باب استحباب الاضطجاع بعد ركعتي الفجر على جنبه الأيمن والحث عليه سواء كان تهجد بالليل أم لا‏.",
+      "urn": 1711020,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏إذا صلى أحدكم ركعتي الفجر، فليضطجع على يمينه‏\"‏‏.‏ ‏(‏‏(‏رواه أبو داود، والترمذي بأسانيد صحيحة‏.‏ قال الترمذي‏:‏ حديث حسن صحيح‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713390,
-      "body": "<p>Anas (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Perangilah kaum musyrikin dengan harta, nyawa, dan lisan kamu.\" [Abu Dawud].</p>",
+      "chapterNumber": "198",
+      "chapterTitle": "Desirability of Lying down on one's right side after the Sunnah of Fajr Prayer",
+      "urn": 1711020,
+      "body": "<p>Abu Hurairah (semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda, \"Apabila salah seorang daripada kamu telah menunaikan dua rakaat sunnah sebelum solat Subuh, hendaklah dia berbaring di atas sisi kanannya.\"[Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
