@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "1",
-  "chapterId": "92.00",
-  "hadithNumber": "702",
+  "bookNumber": "introduction",
+  "chapterId": "26.00",
+  "hadithNumber": "210",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "92",
-      "chapterTitle": "Dignity and Tranquility",
-      "urn": 1606920,
-      "body": "<p>'Aishah (May Allah be pleased with him) reported: I have never seen Messenger of Allah (ﷺ) laughing so heartily that his uvula could be seen. He used to smile only.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "26",
+      "chapterTitle": "Unlawfulness of Oppression and Restoring Others Rights",
+      "urn": 1602070,
+      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: The Prophet (ﷺ) said, \"He who has done a wrong affecting his brother's honour or anything else, let him ask his forgiveness today before the time (i.e., the Day of Resurrection) when he will have neither a dinar nor a dirham. If he has done some good deeds, a portion equal to his wrong doings will be subtracted from them; but if he has no good deeds, he will be burdened with the evil deeds of the one he had wronged in the same proportion\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "92",
-      "chapterTitle": "- باب الوقار والسكينة",
-      "urn": 1706980,
-      "body": "<p>- عن عائشة رضي الله عنها قالت‏:‏ ما رأيت رسول الله صلى الله عليه وسلم مستجمعا قط ضاحكاً حتى ترى منه لهواته، إنما كان يتبسم ‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "26",
+      "chapterTitle": "- باب تحريم الظلم والأمر برد المظالم",
+      "urn": 1702090,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كانت عنده مظلمة لأخيه، من عرضه أو من شيء، فليتحلله منه اليوم قبل أن لا يكون دينار ولا درهم ، إن كان له عمل صالح أخذ منه بقدر مظلمته، وإن لم يكن له حسنات أخذ من سيئات صاحبه فحمل عليه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "92",
-      "chapterTitle": "Kemuliaan dan Ketenangan",
-      "urn": 1706980,
-      "body": "<p>Aishah (semoga Allah meredainya) meriwayatkan: \"Aku tidak pernah melihat Rasulullah (ﷺ) ketawa dengan begitu kuat sehingga menampakkan anak tekaknya. Baginda hanyalah sekadar tersenyum.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "26",
+      "chapterTitle": "Keharaman Kezaliman dan Mengembalikan Hak Orang Lain",
+      "urn": 1702090,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang telah melakukan kezaliman yang menjejaskan maruah saudaranya atau apa sahaja, hendaklah dia meminta keampunan daripadanya hari ini sebelum tiba masanya (iaitu, Hari Kiamat) di mana dia tidak lagi memiliki dinar mahupun dirham. Jika dia mempunyai amalan-amalan kebaikan, maka sebahagian daripadanya akan dikurangkan setimpal dengan kezaliman yang dilakukannya; namun jika dia tidak mempunyai amalan kebaikan, maka dia akan memikul dosa-dosa orang yang telah dizaliminya itu mengikut kadar yang sama.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
