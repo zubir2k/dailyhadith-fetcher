@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "26.00",
-  "hadithNumber": "210",
+  "bookNumber": "17",
+  "chapterId": "312.00",
+  "hadithNumber": "1705",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "26",
-      "chapterTitle": "Unlawfulness of Oppression and Restoring Others Rights",
-      "urn": 1602070,
-      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: The Prophet (ﷺ) said, \"He who has done a wrong affecting his brother's honour or anything else, let him ask his forgiveness today before the time (i.e., the Day of Resurrection) when he will have neither a dinar nor a dirham. If he has done some good deeds, a portion equal to his wrong doings will be subtracted from them; but if he has no good deeds, he will be burdened with the evil deeds of the one he had wronged in the same proportion\".<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "312",
+      "chapterTitle": "Undesirability of Sitting with Erected Legs during Friday Sermon",
+      "urn": 1625060,
+      "body": "<p>Mu'adh bin Anas Al-Juhani (May Allah be pleased with him) said: The Prophet (ﷺ) forbade (us) from sitting with our legs drawn up to our belly (Ihtiba') during the Friday Khutbah (religious talk before the prayer).<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "26",
-      "chapterTitle": "- باب تحريم الظلم والأمر برد المظالم",
-      "urn": 1702090,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ من كانت عنده مظلمة لأخيه، من عرضه أو من شيء، فليتحلله منه اليوم قبل أن لا يكون دينار ولا درهم ، إن كان له عمل صالح أخذ منه بقدر مظلمته، وإن لم يكن له حسنات أخذ من سيئات صاحبه فحمل عليه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "312",
+      "chapterTitle": "- باب كراهة الاحتباء يوم الجمعة والإمام يخطب لأنه يجلب النوم فيفوت استماع الخطبة ويخاف انتقاض الوضوء",
+      "urn": 1716950,
+      "body": "<p>- عن معاذ بن أنس الجهني، رضي الله عنه، أن النبي صلى الله عليه وسلم نهى عن الحبوة يوم الجمعة والإمام يخطب ‏(‏‏(‏رواه أبو داود والترمذي وقالا‏:‏ حديث حسن‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "26",
-      "chapterTitle": "Keharaman Kezaliman dan Mengembalikan Hak Orang Lain",
-      "urn": 1702090,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang telah melakukan kezaliman yang menjejaskan maruah saudaranya atau apa sahaja, hendaklah dia meminta keampunan daripadanya hari ini sebelum tiba masanya (iaitu, Hari Kiamat) di mana dia tidak lagi memiliki dinar mahupun dirham. Jika dia mempunyai amalan-amalan kebaikan, maka sebahagian daripadanya akan dikurangkan setimpal dengan kezaliman yang dilakukannya; namun jika dia tidak mempunyai amalan kebaikan, maka dia akan memikul dosa-dosa orang yang telah dizaliminya itu mengikut kadar yang sama.\" [Al-Bukhari].</p>",
+      "chapterNumber": "312",
+      "chapterTitle": "Makruh Duduk Dengan Kaki Tegak Semasa Khutbah Jumaat",
+      "urn": 1716950,
+      "body": "<p>Mu'adh bin Anas Al-Juhani (Semoga Allah meredainya) berkata: Nabi (ﷺ) melarang (kami) daripada duduk dengan melipat kaki ke arah perut (Ihtiba') semasa Khutbah Jumaat. [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
