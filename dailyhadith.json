@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "81.00",
-  "hadithNumber": "673",
+  "bookNumber": "17",
+  "chapterId": "301.00",
+  "hadithNumber": "1656",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "81",
-      "chapterTitle": "Undesirability of Aspiring for Office",
-      "urn": 1606670,
-      "body": "<p>'Abdur-Rahman bin Samurah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said to me, \"Do not ask for position of authority. If you are granted this position without asking for it, you will be helped (by Allah) in discharging its responsibilities; but if you are given it as a result of your request, you will be left alone as its captive. If you take an oath to do something and then find a better alternative, you should adopt the latter and expiate for your oath.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "301",
+      "chapterTitle": "Prohibition of putting oneself to Undue Hardship",
+      "urn": 1624570,
+      "body": "<p>Masruq (May Allah be pleased with him) said: We visited 'Abdullah bin Mas'ud (May Allah be pleased with him) and he said to us: O people! He who has the knowledge of any matter may convey it to the others. And he who has no knowledge, thereof, should say: \"Allahu a'lam (Allah knows better).\" It is a part and parcel of knowledge that a man who has no knowledge of a matter should say: \"Allah knows better.\" Allah said to His Prophet (ﷺ):<br/><br/>\"Say (O Muhammad (ﷺ)): 'No wage do I ask of you for this (the Qur'an), nor am I one of the Mutakallifun (those who pretend and fabricate things which do not exist).\"' (38:86)<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "81",
-      "chapterTitle": "- باب النهى عن سؤال الإمارة واختيار ترك الولايات إذا لم يتعين عليه أو تدع حاجة اليه",
-      "urn": 1706690,
-      "body": "<p>- وعن أبى سعيد عبد الرحمن بن سمرة رضي الله عنه ، قال‏:‏ قال رسول الله صلى الله عليه وسلم ، ‏\"‏يا عبد الرحمن بن سمرة‏:‏ لا تسأل الإمارة، فإنك إن أعطيتها عن غير مسألة أعنت عليها، وإن أعطيتها عن مسألةٍ وكلت إليها، وإذا حلفت على يمين ، فرأيت غيرها خيراً منها، فأت الذى هو خير ، وكفر عن يمينك” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "301",
+      "chapterTitle": "- باب النهي عن التكلف وهو فعل وقول ما لا مصلحة فيه بمشقة",
+      "urn": 1716460,
+      "body": "<p>- وعن مسروق قال ‏:‏ دخلنا على عبدالله بن مسعود رضي الله عنه فقال ‏:‏ يا أيها الناس من علم شيئا فليقل به، ومن لم يعلم، فليقل ‏:‏الله أعلم، فإن من العلم أن يقول الرجل لما لا يعلم‏:‏ الله أعلم ‏.‏ قال الله تعالى لنبيه صلى الله عليه وسلم ‏:‏‏{‏قل ما أسألكم عليه من أجر وما أنا من المتكلفين‏}‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "81",
-      "chapterTitle": "Larangan Mengejar Jawatan",
-      "urn": 1706690,
-      "body": "<p>'Abdur-Rahman bin Samurah (Semoga Allah meredainya) menceritakan: Rasulullah (ﷺ) bersabda kepadaku, \"Janganlah kamu meminta jawatan kepimpinan. Jika kamu diberikan jawatan ini tanpa memintanya, kamu akan dibantu (oleh Allah) dalam menjalankan tanggungjawabnya; tetapi jika ia diberikan kepadamu disebabkan permintaanmu, kamu akan dibiarkan sendirian sebagai tawanannya. Jika kamu bersumpah untuk melakukan sesuatu dan kemudian kamu mendapati ada pilihan lain yang lebih baik, maka lakukanlah yang lebih baik itu dan bayarlah kafarat bagi sumpahmu.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "301",
+      "chapterTitle": "Larangan membebankan diri dengan kesulitan yang melampau.",
+      "urn": 1716460,
+      "body": "<p>Masruq (Semoga Allah meredainya) berkata: Kami menziarahi 'Abdullah bin Mas'ud (Semoga Allah meredainya) dan beliau berkata kepada kami: \"Wahai sekalian manusia! Sesiapa yang mempunyai pengetahuan tentang sesuatu perkara, hendaklah dia menyampaikannya kepada orang lain. Dan sesiapa yang tidak mempunyai pengetahuan mengenainya, hendaklah dia berkata: 'Allahu a'lam' (Allah lebih mengetahui). Sesungguhnya sebahagian daripada ilmu itu adalah apabila seseorang yang tidak mengetahui sesuatu perkara berkata: 'Allah lebih mengetahui'. Allah berfirman kepada Rasulullah (ﷺ): 'Katakanlah (wahai Muhammad (ﷺ)): \"Aku tidak meminta sebarang upah daripadamu untuk (penyampaian) ini (Al-Quran), dan aku bukanlah termasuk dalam kalangan Mutakallifun (mereka yang mengada-adakan sesuatu yang tidak wujud).\"' (38:86) [Al-Bukhari].</p>",
       "grades": []
     }
   ]
