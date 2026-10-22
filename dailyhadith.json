@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "301.00",
-  "hadithNumber": "1656",
+  "bookNumber": "1",
+  "chapterId": "89.00",
+  "hadithNumber": "695",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "301",
-      "chapterTitle": "Prohibition of putting oneself to Undue Hardship",
-      "urn": 1624570,
-      "body": "<p>Masruq (May Allah be pleased with him) said: We visited 'Abdullah bin Mas'ud (May Allah be pleased with him) and he said to us: O people! He who has the knowledge of any matter may convey it to the others. And he who has no knowledge, thereof, should say: \"Allahu a'lam (Allah knows better).\" It is a part and parcel of knowledge that a man who has no knowledge of a matter should say: \"Allah knows better.\" Allah said to His Prophet (ﷺ):<br/><br/>\"Say (O Muhammad (ﷺ)): 'No wage do I ask of you for this (the Qur'an), nor am I one of the Mutakallifun (those who pretend and fabricate things which do not exist).\"' (38:86)<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "89",
+      "chapterTitle": "Clarity of Discourse",
+      "urn": 1606865,
+      "body": "<p>Anas (May Allah be pleased with him) reported: Whenever the Prophet (ﷺ) said something, he would repeat his words thrice so that the meanings would be understood fully; and whenever he came upon a group of people, he would greet them, and he would repeat salutation thrice.\n</p>\n<p>\n<b>[Al-Bukhari]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "301",
-      "chapterTitle": "- باب النهي عن التكلف وهو فعل وقول ما لا مصلحة فيه بمشقة",
-      "urn": 1716460,
-      "body": "<p>- وعن مسروق قال ‏:‏ دخلنا على عبدالله بن مسعود رضي الله عنه فقال ‏:‏ يا أيها الناس من علم شيئا فليقل به، ومن لم يعلم، فليقل ‏:‏الله أعلم، فإن من العلم أن يقول الرجل لما لا يعلم‏:‏ الله أعلم ‏.‏ قال الله تعالى لنبيه صلى الله عليه وسلم ‏:‏‏{‏قل ما أسألكم عليه من أجر وما أنا من المتكلفين‏}‏‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "89",
+      "chapterTitle": "- باب استحباب بيان الكلام وإيضاحه للمخاطب وتكريره ليفهم إذا لم يفهم إلا بذلك",
+      "urn": 1706910,
+      "body": "<p>- عن أنس رضي الله عنه أن النبى صلى الله عليه وسلم كان إذا تكلم بكلمة أعادها ثلاثاً حتى تفهم عنه، وإذا أتى على قومٍ فسلم عليهم سلم عليهم ثلاثاً‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "301",
-      "chapterTitle": "Larangan membebankan diri dengan kesulitan yang melampau.",
-      "urn": 1716460,
-      "body": "<p>Masruq (Semoga Allah meredainya) berkata: Kami menziarahi 'Abdullah bin Mas'ud (Semoga Allah meredainya) dan beliau berkata kepada kami: \"Wahai sekalian manusia! Sesiapa yang mempunyai pengetahuan tentang sesuatu perkara, hendaklah dia menyampaikannya kepada orang lain. Dan sesiapa yang tidak mempunyai pengetahuan mengenainya, hendaklah dia berkata: 'Allahu a'lam' (Allah lebih mengetahui). Sesungguhnya sebahagian daripada ilmu itu adalah apabila seseorang yang tidak mengetahui sesuatu perkara berkata: 'Allah lebih mengetahui'. Allah berfirman kepada Rasulullah (ﷺ): 'Katakanlah (wahai Muhammad (ﷺ)): \"Aku tidak meminta sebarang upah daripadamu untuk (penyampaian) ini (Al-Quran), dan aku bukanlah termasuk dalam kalangan Mutakallifun (mereka yang mengada-adakan sesuatu yang tidak wujud).\"' (38:86) [Al-Bukhari].</p>",
+      "chapterNumber": "89",
+      "chapterTitle": "Kejelasan Tutur Kata",
+      "urn": 1706910,
+      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Setiap kali Nabi (ﷺ) berkata sesuatu, baginda akan mengulangi kata-katanya sebanyak tiga kali supaya maknanya dapat difahami dengan sepenuhnya; dan setiap kali baginda bertemu dengan sekumpulan orang, baginda akan memberi salam kepada mereka, dan baginda akan mengulangi salam tersebut sebanyak tiga kali.\n\n[Al-Bukhari].</p>",
       "grades": []
     }
   ]
