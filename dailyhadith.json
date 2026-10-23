@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "23.00",
-  "hadithNumber": "195",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1432",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "23",
-      "chapterTitle": "Enjoining Good and forbidding Evil",
-      "urn": 1601940,
-      "body": "<p>Abu 'Abdullah Tariq bin Shihab (May Allah bepleased with him) reported: A person asked the Prophet (ﷺ) (when he had just put his foot in the stirrup): \"What is the highest form of Jihad?\" He (ﷺ) said, \"Speaking the truth in the presence of a tyrant ruler\".<br/><br/><b>[An-Nasa'i, with a sound chain]</b>.</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612990,
+      "body": "<p>Abu Dharr (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Every morning charity is due from every joint bone of the body of every one of you. Every utterance of Allah's Glorification (i.e., Subhan-Allah) is an act of charity, and every utterance of praise of Him (i.e., Al-hamdu lillah) is an act of charity, and every utterance of profession of Faith (i.e., La ilaha illallah) is an act of charity, and every utterance of His Greatness (i.e., Allahu Akbar) is an act of charity; and enjoining good is an act of charity and forbidding what is disreputable is an act of charity; and two Rak'ah prayer which one offers in the forenoon (Ad- Duha) will suffice for all this.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "23",
-      "chapterTitle": "- باب الأمر بالمعروف والنهي عن المنكر",
-      "urn": 1701940,
-      "body": "<p>- الثاني عشر‏:‏ عن أبي عبد الله طارق بن شهاب البجلي الأحمسي رضي الله عنه أن رجلاً سأل النبي صلى الله عليه وسلم، وقد وضع رجله في الغرز‏:‏ أي الجهاد أفضل‏؟‏ قال‏:‏ “كلمة حق عند سلطان جائر‏\"‏ ‏(‏‏(‏رواه النسائي بإسناد صحيح‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "23",
-      "chapterTitle": "Amar ma'ruf nahi munkar",
-      "urn": 1701940,
-      "body": "<p>Abu 'Abdullah Tariq bin Shihab (Semoga Allah merahmatinya) melaporkan: Seseorang bertanya kepada Rasulullah (ﷺ) (ketika baginda baru sahaja meletakkan kakinya di atas pengalas kaki pelana): \"Apakah jihad yang paling utama?\" Baginda (ﷺ) bersabda, \"Mengucapkan kebenaran di hadapan pemerintah yang zalim.\" [An-Nasa'i, dengan sanad yang sahih].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714220,
+      "body": "<p>- وعن أبي ذر رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “يصبح على كل سلامى من أحدكم صدقة‏:‏ فكل تسبيحة صدقة، وكل تحميدة صدقة، وكل تهليلة صدقة، وكل تكبيرة صدقة، وأمر بالمعروف صدقة، ونهي عن المنكر صدقة، ويجزي من ذلك ركعتان يركعهما من الضحى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
