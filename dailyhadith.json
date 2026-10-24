@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "4.00",
-  "hadithNumber": "57",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1334",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "4",
-      "chapterTitle": "Truthfulness",
-      "urn": 1600570,
-      "body": "<p>Abu Thabit from Sahl bin Hunaif (May Allah be pleased with him) said: The Prophet (ﷺ) said: \"He who asks Allah for martyrdom, Allah will raise him to the high status of the martyrs, even if he dies on his bed\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1612040,
+      "body": "<p>'Uqbah bin 'Amir Al-Juhani (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"He who learnt archery and then neglected it, is not from us.\" (Or said,) \"He has been guilty of disobedience (to Messenger of Allah).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "4",
-      "chapterTitle": "- باب الصدق‏.‏",
-      "urn": 1700570,
-      "body": "<p>- الرابع‏:‏ عن أبي ثابت، وقيل أبي سعيد، وقيل أبي الوليد، سهل بن حنيف ، وهو بدري، رضي الله عنه، أن النبي ، صلى الله عليه وسلم، قال‏:‏ ‏\"‏من سأل الله، تعالى، الشهادة بصدق بلغه الله منازل الشهداء، وإن مات على فراشه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1713240,
+      "body": "<p>- وعنه أنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من عُلم الرمي ثم تركه فليس منا أو فقد عصى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "4",
-      "chapterTitle": "Kejujuran",
-      "urn": 1700570,
-      "body": "<p>Abu Thabit daripada Sahl bin Hunaif (semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda: \"Sesiapa yang memohon kepada Allah untuk mati syahid, Allah akan mengangkatnya ke kedudukan tinggi para syuhada, walaupun dia mati di atas tempat tidurnya.\" [Muslim].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Kewajipan Jihad",
+      "urn": 1713240,
+      "body": "<p>'Uqbah bin 'Amir Al-Juhani (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang mempelajari memanah kemudian mengabaikannya, maka dia bukan daripada kalangan kami.\" (Atau bersabda,) \"Dia telah melakukan maksiat (kepada Rasulullah).\" [Muslim].</p>",
       "grades": []
     }
   ]
