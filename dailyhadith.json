@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "254.00",
-  "hadithNumber": "1526",
+  "bookNumber": "8",
+  "chapterId": "214.00",
+  "hadithNumber": "1189",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "254",
-      "chapterTitle": "The Prohibition of Backbiting and the Commandment of Guarding one's Tongue",
-      "urn": 1623270,
-      "body": "<p>Anas (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"During the Mi'raj (the Night of Ascension), I saw a group of people who were scratching their chests and faces with their copper nails. I asked, 'Who are these people, O Jibril?' Jibril replied: 'These are the people who ate flesh of others (by backbiting) and trampled people's honour.\"'<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "214",
+      "chapterTitle": "The Superiority of Lailat-ul-Qadr (the Night of Decree)",
+      "urn": 1622330,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Whosoever performs Qiyam during Lailat-ul-Qadr (Night of Decree), with Faith and being hopeful of Allah's reward, will have his former sins forgiven.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "254",
-      "chapterTitle": "باب تحريم الغيبة والأمر بحفظ اللسان",
-      "urn": 1715160,
-      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “لما عُرج بي مررت بقوم لهم أظفار من نُحاس يخمشون وجوههم وصدورهم، فقلت‏:‏ من هؤلاء يا جبريل‏؟‏ قال‏:‏ هؤلاء الذين يأكلون لحوم الناس، ويقعون في أعراضهم‏!‏”‏.‏ ‏(‏‏(‏رواه أبو داود‏.‏‏)‏‏)‏</p>",
+      "chapterNumber": "214",
+      "chapterTitle": "- باب فضل قيام ليلة القدر وبيان أرجى لياليها‏:‏",
+      "urn": 1711790,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من قام ليلة القدر إيمانا واحتسابًا غفر له ما تقدم من ذنبه‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "254",
-      "chapterTitle": "Larangan Mengumpat dan Perintah Menjaga Lidah",
-      "urn": 1715160,
-      "body": "<p>Anas (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Semasa peristiwa Mi'raj, aku melihat sekumpulan manusia yang mencakar dada dan wajah mereka dengan kuku tembaga. Aku bertanya, 'Siapakah mereka ini, wahai Jibril?' Jibril menjawab: 'Mereka adalah orang-orang yang memakan daging orang lain (dengan mengumpat) dan menjatuhkan maruah orang lain.'\" [Abu Dawud].</p>",
+      "chapterNumber": "214",
+      "chapterTitle": "Keutamaan Lailatul Qadr (Malam Ketetapan)",
+      "urn": 1711790,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang melakukan Qiyam pada malam Lailatul Qadar dengan penuh iman dan mengharapkan ganjaran daripada Allah, nescaya dosa-dosanya yang lalu akan diampunkan.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
