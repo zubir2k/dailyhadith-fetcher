@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1334",
+  "bookNumber": "introduction",
+  "chapterId": "14.00",
+  "hadithNumber": "152",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1612040,
-      "body": "<p>'Uqbah bin 'Amir Al-Juhani (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"He who learnt archery and then neglected it, is not from us.\" (Or said,) \"He has been guilty of disobedience (to Messenger of Allah).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "14",
+      "chapterTitle": "Moderation in Worship",
+      "urn": 1601510,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: While the Prophet (ﷺ) was delivering Khutbah (religious talk), he noticed a man who was standing, so he asked about him and was told that he was Abu Israel who had taken a vow to remain standing and not sit, or go into the shade, or speak while observing fasting. Thereupon Messenger of Allah (ﷺ) said, \"Tell him to speak, to go into the shade, to sit and to complete his fast\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713240,
-      "body": "<p>- وعنه أنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من عُلم الرمي ثم تركه فليس منا أو فقد عصى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "14",
+      "chapterTitle": "- باب في الاقتصاد في العبادة",
+      "urn": 1701510,
+      "body": "<p>- - وعن ابن عباس رضي الله عنهما قال‏:‏ بينما النبي صلى الله عليه وسلم يخطب إذا هو برجل قائم، فسأل عنه فقالوا‏:‏ أبو إسرائيل نذر أن يقوم في الشمس ولا يقعد، ولا يستظل ولا يتكلم، ويصوم، فقال النبي صلى الله عليه وسلم‏:‏ ‏\"‏مروه فليتكلم وليستظل وليقعد وليتم صومه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713240,
-      "body": "<p>'Uqbah bin 'Amir Al-Juhani (Semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang mempelajari memanah kemudian mengabaikannya, maka dia bukan daripada kalangan kami.\" (Atau bersabda,) \"Dia telah melakukan maksiat (kepada Rasulullah).\" [Muslim].</p>",
+      "chapterNumber": "14",
+      "chapterTitle": "Kesederhanaan dalam Ibadah",
+      "urn": 1701510,
+      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) melaporkan: Ketika Nabi (ﷺ) sedang menyampaikan khutbah, Baginda menyedari ada seorang lelaki yang sedang berdiri, lalu Baginda bertanya tentangnya dan diberitahu bahawa lelaki itu adalah Abu Israel yang telah bernazar untuk terus berdiri dan tidak duduk, tidak berteduh, atau tidak bercakap semasa sedang berpuasa. Maka Rasulullah (ﷺ) bersabda, \"Beritahulah kepadanya agar dia bercakap, berteduh, duduk, dan menyempurnakan puasanya.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
