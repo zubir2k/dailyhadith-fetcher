@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "214.00",
-  "hadithNumber": "1189",
+  "bookNumber": "3",
+  "chapterId": "119.00",
+  "hadithNumber": "791",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "214",
-      "chapterTitle": "The Superiority of Lailat-ul-Qadr (the Night of Decree)",
-      "urn": 1622330,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Whosoever performs Qiyam during Lailat-ul-Qadr (Night of Decree), with Faith and being hopeful of Allah's reward, will have his former sins forgiven.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "119",
+      "chapterTitle": "The Description of the Length of the Qamees' Sleeves, the End of the Turban, and Prohibition of Wearing Long Garments Out of Pride and Undesirability of Wearing Them Without Pride",
+      "urn": 1607600,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"On the Day of Resurrection, Allah will not look at him who trails his lower garment out of pride.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "214",
-      "chapterTitle": "- باب فضل قيام ليلة القدر وبيان أرجى لياليها‏:‏",
-      "urn": 1711790,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏من قام ليلة القدر إيمانا واحتسابًا غفر له ما تقدم من ذنبه‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "- باب صفة طول القميص والكم والإزار وطرف العمامة وتحريم إسبال شئ من ذلك على سبيل الخيلاء وكراهته من غير خيلاء",
+      "urn": 1707850,
+      "body": "<p>وعن أبى هريرة رضى الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لا ينظر الله يوم القيامة إلى من جر إزاره بطراً‏\"‏.‏((متفق عليه))</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "214",
-      "chapterTitle": "Keutamaan Lailatul Qadr (Malam Ketetapan)",
-      "urn": 1711790,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Nabi (ﷺ) bersabda, \"Sesiapa yang melakukan Qiyam pada malam Lailatul Qadar dengan penuh iman dan mengharapkan ganjaran daripada Allah, nescaya dosa-dosanya yang lalu akan diampunkan.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "119",
+      "chapterTitle": "Penerangan tentang Panjang Lengan Baju Qamis, Hujung Serban, serta Larangan Memakai Pakaian Panjang Kerana Sombong dan Makruh Memakainya Tanpa Rasa Sombong.",
+      "urn": 1707850,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Pada Hari Kiamat, Allah tidak akan melihat kepada orang yang melabuhkan pakaiannya kerana sombong.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
