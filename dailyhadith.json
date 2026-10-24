@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "13.00",
-  "hadithNumber": "141",
+  "chapterId": "4.00",
+  "hadithNumber": "57",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "13",
-      "chapterTitle": "Numerous ways of doing Good",
-      "urn": 1601400,
-      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Giving in charity is an obligation upon every Muslim\". It was said (to him): \"What about one who does not find (the means) to do so?\" He (ﷺ) said, \"Let him work with his hands, thus doing benefit to himself and give in charity.\" It was said to him: \"What if he does not have (the means) to do so?\" He (ﷺ) said, \"Then let him assist the needy, the aggrieved.\" It was said: \"What about if he cannot even do this?\" He (ﷺ) said, \"Then he should enjoin good.\" He was asked: \"What if he cannot do that?\" He (the Prophet (ﷺ)) said, \"He should then abstain from evil, for verily, that is a charity from him\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "4",
+      "chapterTitle": "Truthfulness",
+      "urn": 1600570,
+      "body": "<p>Abu Thabit from Sahl bin Hunaif (May Allah be pleased with him) said: The Prophet (ﷺ) said: \"He who asks Allah for martyrdom, Allah will raise him to the high status of the martyrs, even if he dies on his bed\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "13",
-      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
-      "urn": 1701400,
-      "body": "<p>- الخامس والعشرون‏:‏ عن أبي موس رضي الله عنه ، عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏على كل مسلم صدقة‏\"‏ قال ‏:‏ أرأيت إن لم يجد‏؟‏ قال‏:‏ أرأيت إن لم يستطع‏؟‏ قال‏:‏ ‏\"‏يعين ذا الحاجة الملهوف‏\"‏ قال‏:‏ أرأيت إن لم يستطع‏؟‏ قال‏:‏ ‏\"‏يأمر بالمعروف أو الخير‏\"‏ قال ‏:‏ أرأيت إن لم يفعل‏؟‏ قال‏:‏ يمسك عن الشر فإنها صدقة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "4",
+      "chapterTitle": "- باب الصدق‏.‏",
+      "urn": 1700570,
+      "body": "<p>- الرابع‏:‏ عن أبي ثابت، وقيل أبي سعيد، وقيل أبي الوليد، سهل بن حنيف ، وهو بدري، رضي الله عنه، أن النبي ، صلى الله عليه وسلم، قال‏:‏ ‏\"‏من سأل الله، تعالى، الشهادة بصدق بلغه الله منازل الشهداء، وإن مات على فراشه‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "13",
-      "chapterTitle": "Pelbagai cara melakukan kebaikan",
-      "urn": 1701400,
-      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah merahmatinya) melaporkan: Nabi (ﷺ) bersabda, \"Bersedekah itu adalah satu kewajipan bagi setiap Muslim.\" Ditanyakan kepada baginda: \"Bagaimana pula dengan orang yang tidak mempunyai (kemampuan) untuk melakukannya?\" Baginda (ﷺ) bersabda, \"Hendaklah dia bekerja dengan tangannya sendiri, dengan cara memberi manfaat kepada dirinya sendiri dan bersedekah.\" Ditanyakan kepada baginda: \"Bagaimana jika dia tidak mempunyai (kemampuan) untuk berbuat demikian?\" Baginda (ﷺ) bersabda, \"Maka hendaklah dia membantu orang yang memerlukan dan orang yang dizalimi.\" Ditanyakan lagi: \"Bagaimana jika dia tidak mampu melakukan ini sekalipun?\" Baginda (ﷺ) bersabda, \"Maka hendaklah dia menyuruh kepada kebaikan.\" Baginda ditanya: \"Bagaimana jika dia tidak mampu melakukannya juga?\" Baginda (Rasulullah (ﷺ)) bersabda, \"Maka hendaklah dia menjauhi kejahatan, kerana sesungguhnya itu adalah sedekah daripadanya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "4",
+      "chapterTitle": "Kejujuran",
+      "urn": 1700570,
+      "body": "<p>Abu Thabit daripada Sahl bin Hunaif (semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda: \"Sesiapa yang memohon kepada Allah untuk mati syahid, Allah akan mengangkatnya ke kedudukan tinggi para syuhada, walaupun dia mati di atas tempat tidurnya.\" [Muslim].</p>",
       "grades": []
     }
   ]
