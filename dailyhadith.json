@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "50.00",
-  "hadithNumber": "405",
+  "bookNumber": "19",
+  "chapterId": "372.00",
+  "hadithNumber": "1894",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "50",
-      "chapterTitle": "Fear (of Allah)",
-      "urn": 1604010,
-      "body": "<p>'Adi bin Hatim (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Everyone of you will speak to his Rubb without an interpreter between them. He will look to his right side and will see only the deeds he had previously done; he will look to his left and will see only the deeds he had previously done, and he will look in front of him and will see nothing but Fire (of Hell) before his face. So protect yourselves from Fire (of Hell), even by giving half a date- fruit (in charity)\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "372",
+      "chapterTitle": "Some of the Bounties which Allah has prepared for the Believers in Paradise",
+      "urn": 1616840,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Allah, the Rubb of honour and glory, will say to the inhabitants of Jannah: 'O inhabitants of Jannah!' They will respond: 'Here we are! At Your service, O our Rubb. All good is in Your Hand!' He will ask them: 'Are you pleased?' They will reply: 'Why should we not be pleased, O Rubb, when You have given us what You have not given to any of Your creatures?' Allah will say: 'Shall I not give you something better than that?' They will ask: 'O Rubb! What can be better than that?' Allah will say: 'I shall bestow My Pleasure upon you and I shall never be displeased with you.\"'<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "50",
-      "chapterTitle": "- باب الخوف",
-      "urn": 1704010,
-      "body": "<p>- وعن عدى بن حاتم، رضي الله عنه ، قال‏:‏ قال رسول الله، صلى الله عليه وسلم ‏\"‏ما منكم من أحد إلا سيكلمه ربه ليس بينه وبينه ترجمان، فينظر أيمن منه، فلا يرى إلا ماقدم، وينظر أشأم منه، فلا يرى إلا ما قدم، وينظر بين يديه، فلا يرى إلا النار تلقاء وجهه، فاتقوا النار ولو بشق تمرة‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "50",
-      "chapterTitle": "Takut (kepada Allah)",
-      "urn": 1704010,
-      "body": "<p>'Adi bin Hatim (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Setiap daripada kamu akan berbicara dengan Tuhannya tanpa ada penterjemah di antara mereka. Dia akan melihat ke arah kanannya dan hanya akan melihat amalan-amalan yang telah dilakukannya; dia akan melihat ke arah kirinya dan hanya akan melihat amalan-amalan yang telah dilakukannya, dan dia akan melihat ke hadapannya dan tidak akan melihat melainkan api (Neraka) di hadapan wajahnya. Maka peliharalah dirimu daripada api (Neraka), walaupun dengan bersedekah separuh biji kurma.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "372",
+      "chapterTitle": "باب بيان ما أعد الله للمؤمنين في الجنة",
+      "urn": 1718820,
+      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن الله عز وجل يقول لأهل الجنة‏:‏ يا أهل الجنة، فيقولون ‏:‏ لبيك ربنا وسعديك، والخير في يديك فيقول‏:‏ هل رضيتم‏؟‏ فيقولون‏:‏ وما لنا لا نرضى يا ربنا وقد أعطيتنا مالم تعط أحداً من خلقك‏!‏ فيقول‏:‏ ألا أعطيكم أفضل من ذلك فيقولون‏:‏ وأي شيء أفضل من ذلك‏؟‏ فيقول‏:‏ أحل عليكم رضواني، فلا أسخط عليكم بعده أبداً‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
