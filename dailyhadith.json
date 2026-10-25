@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "19",
-  "chapterId": "372.00",
-  "hadithNumber": "1894",
+  "bookNumber": "introduction",
+  "chapterId": "75.00",
+  "hadithNumber": "646",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "372",
-      "chapterTitle": "Some of the Bounties which Allah has prepared for the Believers in Paradise",
-      "urn": 1616840,
-      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Allah, the Rubb of honour and glory, will say to the inhabitants of Jannah: 'O inhabitants of Jannah!' They will respond: 'Here we are! At Your service, O our Rubb. All good is in Your Hand!' He will ask them: 'Are you pleased?' They will reply: 'Why should we not be pleased, O Rubb, when You have given us what You have not given to any of Your creatures?' Allah will say: 'Shall I not give you something better than that?' They will ask: 'O Rubb! What can be better than that?' Allah will say: 'I shall bestow My Pleasure upon you and I shall never be displeased with you.\"'<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "75",
+      "chapterTitle": "Forgiveness of the Ignorant",
+      "urn": 1606400,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"The strong man is not the one who wrestles, but the strong man is in fact the one who controls himself in a fit of rage.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "372",
-      "chapterTitle": "باب بيان ما أعد الله للمؤمنين في الجنة",
-      "urn": 1718820,
-      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن الله عز وجل يقول لأهل الجنة‏:‏ يا أهل الجنة، فيقولون ‏:‏ لبيك ربنا وسعديك، والخير في يديك فيقول‏:‏ هل رضيتم‏؟‏ فيقولون‏:‏ وما لنا لا نرضى يا ربنا وقد أعطيتنا مالم تعط أحداً من خلقك‏!‏ فيقول‏:‏ ألا أعطيكم أفضل من ذلك فيقولون‏:‏ وأي شيء أفضل من ذلك‏؟‏ فيقول‏:‏ أحل عليكم رضواني، فلا أسخط عليكم بعده أبداً‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "75",
+      "chapterTitle": "- باب العفو والإعراض عن الجاهلين",
+      "urn": 1706420,
+      "body": "<p>- وعن أبى هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ليس الشديد بالصرعة، إنما الشديد الذى يملك نفسه عند الغضب” ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     }
   ]
