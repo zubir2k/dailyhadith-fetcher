@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "72.00",
-  "hadithNumber": "618",
+  "chapterId": "39.00",
+  "hadithNumber": "303",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "72",
-      "chapterTitle": "Condemnation of Pride and Self-Conceit",
-      "urn": 1606120,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"While a man was walking, dressed in clothes admiring himself, his hair combed, walking haughtily when Allah caused the earth to swallow him. Now he will continue to go down in it (as a punishment) until the Day of Resurrection.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "39",
+      "chapterTitle": "Rights of Neighbors",
+      "urn": 1603000,
+      "body": "<p>Ibn 'Umar and 'Aishah (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"Jibril kept recommending treating neighbours with kindness until I thought he would assign a share of inheritance\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "72",
-      "chapterTitle": "- باب تحريم الكبر والإعجاب",
-      "urn": 1706140,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏‏\"‏بينما رجل يمشى في حلة تعجبه نفسه، مرجل رأسه، يختال في مشيته، إذ خسف الله به، فهو يتجلجل في الأرض إلى يوم القيامة” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "72",
-      "chapterTitle": "Celaan Terhadap Sifat Takabbur dan Ujub",
-      "urn": 1706140,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sewaktu seorang lelaki sedang berjalan dengan memakai pakaian untuk menonjolkan kebanggaannya, rambutnya disisir rapi, dan dia berjalan dengan sombong, Allah menyebabkan bumi menelannya. Dia akan terus tenggelam di dalamnya (sebagai azab) sehingga Hari Kiamat.\" [Muslim].</p>",
+      "chapterNumber": "39",
+      "chapterTitle": "- باب حق الجار والوصية به",
+      "urn": 1703020,
+      "body": "<p>- وعن ابن عمر وعائشة رضي الله عنهما قالا‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ ما زال جبريل يوصيني بالجار حتى ظننت أنه سيورثه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
