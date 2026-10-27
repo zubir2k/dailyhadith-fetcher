@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "192.00",
-  "hadithNumber": "1073",
+  "bookNumber": "2",
+  "chapterId": "109.00",
+  "hadithNumber": "751",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "192",
-      "chapterTitle": "Urging to Observe 'Isha' and Fajr Prayers in Congregation",
-      "urn": 1621160,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"No Salat is more burdensome to the hypocrites than the Fajr (dawn) prayer and the 'Isha' (night) prayer; and if they knew their merits, they would come to them even if they had to crawl to do so.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
+      "urn": 1607290,
+      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Satan appears at every thing done by you; he appears even at one's dinner. When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it. He should not leave it for Satan, nor should he wipe his hand with the towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "192",
-      "chapterTitle": "- باب الحث على حضور الجماعة في الصبح والعشاء",
-      "urn": 1710630,
-      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس صلاة أثقل على المنافقين من صلاة الفجر والعشاء ولو يعلمون ما فيهما لأتوهما ولو حبوًا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
+      "urn": 1707460,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن الشيطان يحضر أحدكم عند كل شئ من شأنه، حتى يحضره عند طعامه؛ فإذا سقطت لقمة أحدكم فليأخذها فليمط ما كان بها من أذى، ثم ليأكلها ولا يدعها للشيطان، فإذا فرغ فليلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة‏\"‏‏‏.‏‏‏((رواه مسلم))‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "192",
-      "chapterTitle": "Anjuran menunaikan solat Isyak dan Subuh secara berjemaah",
-      "urn": 1710630,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Tiada solat yang lebih berat bagi orang munafik daripada solat Subuh dan solat Isyak; dan sekiranya mereka mengetahui kelebihannya, mereka pasti akan mendatanginya walaupun terpaksa merangkak untuk melakukannya.\"[Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "109",
+      "chapterTitle": "Keutamaan Makan dengan Tiga Jari dan Menjilatnya",
+      "urn": 1707460,
+      "body": "<p>Jabir (semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda: \"Syaitan sentiasa hadir dalam setiap perkara yang kamu lakukan; dia hadir walaupun ketika sedang makan. Apabila sebutir makanan daripada salah seorang di antara kamu terjatuh, hendaklah dia mengambilnya dan membuang kotoran padanya, kemudian memakannya. Janganlah membiarkannya untuk syaitan, dan janganlah menyapu tangan dengan kain sehinggalah dia menjilat jari-jemarinya, kerana dia tidak tahu pada bahagian makanan yang manakah letaknya keberkatan.\" [Muslim].</p>",
       "grades": []
     }
   ]
