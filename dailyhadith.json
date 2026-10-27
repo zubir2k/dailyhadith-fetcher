@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "46.00",
-  "hadithNumber": "376",
+  "bookNumber": "8",
+  "chapterId": "192.00",
+  "hadithNumber": "1073",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "46",
-      "chapterTitle": "Excellence and Etiquette of Sincere love for the sake of Allah",
-      "urn": 1603720,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Seven are (the persons) whom Allah will give Shade of His Thrown on the Day when there would be no shade other than His Throne's Shade: A just ruler; a youth who grew up worshipping Allah; a man whose heart is attached to mosques; two persons who love and meet each other and depart from each other for the sake of Allah; a man whom an extremely beautiful woman seduces (for illicit relation), but he (rejects this offer by saying): 'I fear Allah'; a man who gives in charity and conceals it (to such an extent) that the left hand does not know what the right has given; and a person who remembers Allah in solitude and his eyes well up\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "192",
+      "chapterTitle": "Urging to Observe 'Isha' and Fajr Prayers in Congregation",
+      "urn": 1621160,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"No Salat is more burdensome to the hypocrites than the Fajr (dawn) prayer and the 'Isha' (night) prayer; and if they knew their merits, they would come to them even if they had to crawl to do so.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "46",
-      "chapterTitle": "- باب فضل الحب في الله والحث عليه وإعلام الرجل من يحبه أنه يحبه، وماذا يقول له إذا أعلمه",
-      "urn": 1703720,
-      "body": "<p>- و عن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ سبعة يظلهم الله في ظله يوم لا ظل إلا ظله‏:‏ إما عادل، وشاب نشأ في عبادة الله عز وجل، ورجل قلبه معلق بالمساجد‏.‏ ورجلان تحابا في الله اجتمعا عليه ، وتفرقا عليه، ورجل دعته امرأة ذات حسن وجمال، فقال‏:‏ إني أخاف الله، ورجل تصدق بصدقة، فأخفاها حتى لا تعلم شماله ما تنفق يمينه، ورجل ذكر الله خاليًا ففاضت عيناه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "192",
+      "chapterTitle": "- باب الحث على حضور الجماعة في الصبح والعشاء",
+      "urn": 1710630,
+      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس صلاة أثقل على المنافقين من صلاة الفجر والعشاء ولو يعلمون ما فيهما لأتوهما ولو حبوًا‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "192",
+      "chapterTitle": "Anjuran menunaikan solat Isyak dan Subuh secara berjemaah",
+      "urn": 1710630,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Tiada solat yang lebih berat bagi orang munafik daripada solat Subuh dan solat Isyak; dan sekiranya mereka mengetahui kelebihannya, mereka pasti akan mendatanginya walaupun terpaksa merangkak untuk melakukannya.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
