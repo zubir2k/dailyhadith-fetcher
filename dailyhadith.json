@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "222.00",
-  "hadithNumber": "1237",
+  "bookNumber": "introduction",
+  "chapterId": "73.00",
+  "hadithNumber": "623",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "222",
-      "chapterTitle": "The Superiority of Hastening to Break the Fast, and the supplication to say upon Breaking it",
-      "urn": 1622810,
-      "body": "<p>Abu Ibrahim 'Abdullah bin Abu Aufa (May Allah be pleased with them) reported: We were with the Messenger of Allah (ﷺ) on a journey and he was observing Saum (fasting). When the sun set, he (ﷺ) said to a person, \"Dismount and prepare the ground roasted barley drink for us.\" Upon this he replied, \"O Messenger of Allah, there is daylight still.\" The Messenger of Allah (ﷺ) said, \"Get down and prepare barley drink for us.\" He said, \"But it is still daytime.\" The Messenger of Allah (ﷺ) again said to him, \"Get down and prepare barely drink for us.\" So he got down and prepared a barley liquid meal for him. The Prophet (ﷺ) drank that and then said, \"When you perceive the night approaching from that side, a person observing Saum (fasting) should break the fast.\" And he (ﷺ) pointed towards the east with his hand.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "73",
+      "chapterTitle": "Good Conduct",
+      "urn": 1606170,
+      "body": "<p>Nawwas bin Sam'an (May Allah be pleased with him) reported: I asked Messenger of Allah (ﷺ) about virtue and sin, and he said, \"Virtue is noble behaviour, and sin is that which creates doubt and you do not like people to know about it.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "222",
-      "chapterTitle": "- باب فضل تعجيل الفطر وما يفطر عليه وما يقوله بعد إفطاره‏:‏",
-      "urn": 1712270,
-      "body": "<p>- وعن أبي إبراهيم عبد الله بن أبي أوفى، رضي الله عنهما قال‏:‏ سرنا مع رسول الله صلى الله عليه وسلم وهو صائم فلما غربت الشمس قال لبعض القوم‏:‏ ‏\"‏يا فلان انزل فاجدح لنا، فقال‏:‏ يا رسول الله لو أمسيت‏؟‏ قال‏:‏ ‏\"‏انزل فاجدح لنا‏\"‏ قال‏:‏ إن عليك نهارًا، قال‏:‏ ‏\"‏انزل فاجدح لنا‏\"‏ قال‏:‏ فنزل فجدح لهم فشرب رسول الله صلى الله عليه وسلم ثم قال‏:‏ ‏\"‏إذا رأيتم الليل قد أقبل من ههنا، فقد أفطر الصائم‏\"‏ وأشار بيده قبل المشرق‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "73",
+      "chapterTitle": "- باب حسن الخلق",
+      "urn": 1706190,
+      "body": "<p>- وعن النواس بن سمعان رضي الله عنه قال‏:‏ سألت رسول الله صلى الله عليه وسلم عن البر والإثم فقال‏:‏ “البر حسن الخلق، والإثم‏:‏ ما حاك في نفسك وكرهت أن يطلع عليه الناس” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "73",
+      "chapterTitle": "Akhlak yang Baik",
+      "urn": 1706190,
+      "body": "<p>Nawwas bin Sam'an (semoga Allah meredainya) telah meriwayatkan: Aku bertanya kepada Rasulullah (ﷺ) tentang kebaikan dan dosa, lalu Baginda bersabda: \"Kebaikan itu adalah akhlak yang mulia, manakala dosa itu adalah apa yang menimbulkan keraguan di dalam hatimu dan engkau tidak suka jika orang lain mengetahuinya.\" [Muslim].</p>",
       "grades": []
     }
   ]
