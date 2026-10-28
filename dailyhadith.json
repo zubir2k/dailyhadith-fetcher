@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "109.00",
-  "hadithNumber": "751",
+  "bookNumber": "19",
+  "chapterId": "371.00",
+  "hadithNumber": "1869",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "109",
-      "chapterTitle": "Excellence of Eating with Three Fingers and Licking Them",
-      "urn": 1607290,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Satan appears at every thing done by you; he appears even at one's dinner. When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it. He should not leave it for Satan, nor should he wipe his hand with the towel until he has licked his fingers, for he does not know in what portion of the food the blessing lies.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "371",
+      "chapterTitle": "Seeking Forgiveness",
+      "urn": 1616590,
+      "body": "<p>Al-Agharr Al-Muzani (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Sometimes I perceive a veil over my heart, and I supplicate Allah for forgiveness a hundred times in a day.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "109",
-      "chapterTitle": "- باب استحباب الأكل بثلاث أصابع واستحباب لعق الأصابع، وكراهة مسحها قبل لعقها واستحباب لعق القصعة وأخذ اللقمة التي تسقط منه وأكلها ومسحها بعد اللعق بالساعد والقدم وغيرها",
-      "urn": 1707460,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن الشيطان يحضر أحدكم عند كل شئ من شأنه، حتى يحضره عند طعامه؛ فإذا سقطت لقمة أحدكم فليأخذها فليمط ما كان بها من أذى، ثم ليأكلها ولا يدعها للشيطان، فإذا فرغ فليلعق أصابعه؛ فإنه لا يدرى في أي طعامه البركة‏\"‏‏‏.‏‏‏((رواه مسلم))‏</p>",
+      "chapterNumber": "371",
+      "chapterTitle": "- باب الأمر بالاستغفار وفضله",
+      "urn": 1718570,
+      "body": "<p>- وعن الأغر المزني رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إنه ليغان على قلبي، وإني لأستغفر الله في اليوم مائة مرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "109",
-      "chapterTitle": "Keutamaan Makan dengan Tiga Jari dan Menjilatnya",
-      "urn": 1707460,
-      "body": "<p>Jabir (semoga Allah merahmatinya) melaporkan: Rasulullah (ﷺ) bersabda: \"Syaitan sentiasa hadir dalam setiap perkara yang kamu lakukan; dia hadir walaupun ketika sedang makan. Apabila sebutir makanan daripada salah seorang di antara kamu terjatuh, hendaklah dia mengambilnya dan membuang kotoran padanya, kemudian memakannya. Janganlah membiarkannya untuk syaitan, dan janganlah menyapu tangan dengan kain sehinggalah dia menjilat jari-jemarinya, kerana dia tidak tahu pada bahagian makanan yang manakah letaknya keberkatan.\" [Muslim].</p>",
+      "chapterNumber": "371",
+      "chapterTitle": "Memohon Keampunan",
+      "urn": 1718570,
+      "body": "<p>Al-Agharr Al-Muzani (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Kadangkala aku merasakan ada selaput di atas hatiku, dan aku memohon keampunan kepada Allah sebanyak seratus kali dalam sehari.\" [Muslim].</p>",
       "grades": []
     }
   ]
