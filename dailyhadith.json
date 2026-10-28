@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "57.00",
-  "hadithNumber": "528",
+  "bookNumber": "1",
+  "chapterId": "96.00",
+  "hadithNumber": "713",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "57",
-      "chapterTitle": "Contentment and Self-esteem and avoidance of unnecessary begging of People",
-      "urn": 1605250,
-      "body": "<p>'Auf bin Malik Al-Ashja'i (May Allah be pleased with him) reported: Seven, eight or nine people, including myself, were with Messenger of Allah (ﷺ) on an occasion when he (ﷺ) remarked, \"Would you pledge allegiance to Messenger of Allah?\" As we had taken oath of allegiance shortly before, we said, \"We have already done so, O Messenger of Allah.\" He again asked, \"Would you not pledge allegiance to Messenger of Allah?\" So we stretched out our hands and said, \"We have already made our pledge with you, O Messenger of Allah, on what should we make a pledge with you?\" He said, \"To worship Allah and not to associate anything with Him, to perform the five (daily) Salat and to obey.\" Then he added in a low tone, \"And not to ask people for anything.\" Thereafter, I noticed that some of these people who were present did not ask anyone to pick up even the whip for them if it fell from their hands. <br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "96",
+      "chapterTitle": "Bidding Farewell and Advising on the Eve of Departure for a Journey or Other Things",
+      "urn": 1607030,
+      "body": "<p>'Umar bin Al-Khattab (May Allah be pleased with him) reported: I sought permission of the Prophet (ﷺ) to perform 'Umrah, and he granted me leave and said, \"Brother, do not forget us in your supplications.\" I would not exchange these words of his for the whole world.<br/><br/>Another narration is: He (ﷺ) said, \"Include us, my brother, in your supplications.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "57",
-      "chapterTitle": "- باب القناعة والعفاف والاقتصاد في المعيشة والإنفاق وذم السؤال من غير ضرورة",
-      "urn": 1705240,
-      "body": "<p>- وعن أبي عبد الرحمن عوف بن مالك الأشجعي رضي الله عنه قال‏:‏ كنا عند رسول الله صلى الله عليه وسلم تسعة أو ثمانية أو سبعة فقال‏:‏ ‏\"‏ألا تبايعون رسول الله صلى الله عليه وسلم‏\"‏ وكنا حديثي عهد ببيعة، فقلنا‏:‏ قد بايعناك يا رسول الله، فعلام نبايعك‏؟‏ قال‏:‏ ‏\"‏على أن تعبدوا الله ولا تشركوا به شيئاً، والصلوات الخمس وتطيعوا‏\"‏ وأسر كلمة خفية‏:‏ ‏\"‏ولا تسألوا الناس شيئاً‏\"‏ فلقد رأيت بعض أولئك النفر يسقط سوط أحدهم فما يسأل احداً يناوله اياه‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "96",
+      "chapterTitle": "- باب وداع الصاحب ووصيته عند فراقه لسفر وغيره والدعاء له وطلب الدعاء منه",
+      "urn": 1707090,
+      "body": "<p>- وعن عمر بن الخطاب رضي الله عنه قال‏:‏ استأذنت النبي صلى الله عليه وسلم الله عليه وسلم في العمرة، فأذن ، وقال‏:‏‏\"‏لا تنسانا يا أخي من دعائك‏\"‏ فقال كلمة ما يسرني أن لي بها الدنيا‏.‏ \nوفي رواية قال‏:‏ “أشركنا يا أخي في دعائك” ‏(‏‏(‏رواه أبوداود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "96",
+      "chapterTitle": "Memberi Pesanan dan Ucapan Selamat Tinggal Menjelang Keberangkatan Musafir atau Perkara-perkara Lain.",
+      "urn": 1707090,
+      "body": "<p>'Umar bin Al-Khattab (Semoga Allah meredainya) melaporkan: Aku meminta izin daripada Nabi (ﷺ) untuk mengerjakan umrah, dan baginda mengizinkanku lalu bersabda, \"Wahai saudaraku, janganlah lupakan kami dalam doa-doamu.\" Aku tidak akan menukarkan kata-kata baginda ini dengan seluruh dunia. Riwayat lain menyatakan: Baginda (ﷺ) bersabda, \"Sertakanlah kami, wahai saudaraku, dalam doa-doamu.\" [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
