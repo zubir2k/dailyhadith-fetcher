@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "1",
-  "chapterId": "96.00",
-  "hadithNumber": "713",
+  "bookNumber": "introduction",
+  "chapterId": "54.00",
+  "hadithNumber": "454",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "96",
-      "chapterTitle": "Bidding Farewell and Advising on the Eve of Departure for a Journey or Other Things",
-      "urn": 1607030,
-      "body": "<p>'Umar bin Al-Khattab (May Allah be pleased with him) reported: I sought permission of the Prophet (ﷺ) to perform 'Umrah, and he granted me leave and said, \"Brother, do not forget us in your supplications.\" I would not exchange these words of his for the whole world.<br/><br/>Another narration is: He (ﷺ) said, \"Include us, my brother, in your supplications.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "54",
+      "chapterTitle": "Excellence of Weeping out of Fear from Allah (swt)",
+      "urn": 1604500,
+      "body": "<p>Ibrahim bin 'Abdur-Rahman bin 'Auf reported: Food was brought to 'Abdur-Rahman bin 'Auf (May Allah be pleased with him) when he was observing Saum (fast) and he said: \"Mus'ab bin 'Umair (May Allah be pleased with him) was martyred and he was better than me, but only one sheet was available to shroud him. It was so small that when his head was covered; his feet remained uncovered and if his feet were covered, his head remained uncovered. Then the bounties of this world have been bestowed upon us generously. I am afraid that the reward of our good deeds have been awarded to us in this world.\" On this he began to sob and left the food untouched.<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "96",
-      "chapterTitle": "- باب وداع الصاحب ووصيته عند فراقه لسفر وغيره والدعاء له وطلب الدعاء منه",
-      "urn": 1707090,
-      "body": "<p>- وعن عمر بن الخطاب رضي الله عنه قال‏:‏ استأذنت النبي صلى الله عليه وسلم الله عليه وسلم في العمرة، فأذن ، وقال‏:‏‏\"‏لا تنسانا يا أخي من دعائك‏\"‏ فقال كلمة ما يسرني أن لي بها الدنيا‏.‏ \nوفي رواية قال‏:‏ “أشركنا يا أخي في دعائك” ‏(‏‏(‏رواه أبوداود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "54",
+      "chapterTitle": "- باب فضل البكاء من خشية الله تعالى و شوقا اليه",
+      "urn": 1704490,
+      "body": "<p>- وعن إبراهيم بن عبد الرحمن بن عوف أن عبد الرحمن بن عوف، رضي الله عنه ، أتي بطعام وكان صائما، فقال‏:‏ قتل مصعب بن عمير رضي الله عنه، وهو خير مني، فلم يوجد له ما يكفن به إلا بردة إن غطى بها رأسه بدت رجلاه، وإن غطى بها رجلاه بدا رأسه، ثم بسط لنا من الدنيا ما بسط -أو قال‏:‏ أعطينا من الدنيا ما أعطينا -قد خشينا أن تكون حسناتنا عجلت لنا‏.‏ ثم جعل يبكي حتى ترك الطعام‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "96",
-      "chapterTitle": "Memberi Pesanan dan Ucapan Selamat Tinggal Menjelang Keberangkatan Musafir atau Perkara-perkara Lain.",
-      "urn": 1707090,
-      "body": "<p>'Umar bin Al-Khattab (Semoga Allah meredainya) melaporkan: Aku meminta izin daripada Nabi (ﷺ) untuk mengerjakan umrah, dan baginda mengizinkanku lalu bersabda, \"Wahai saudaraku, janganlah lupakan kami dalam doa-doamu.\" Aku tidak akan menukarkan kata-kata baginda ini dengan seluruh dunia. Riwayat lain menyatakan: Baginda (ﷺ) bersabda, \"Sertakanlah kami, wahai saudaraku, dalam doa-doamu.\" [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "54",
+      "chapterTitle": "Kelebihan Menangis Kerana Takut Kepada Allah (swt)",
+      "urn": 1704490,
+      "body": "<p>Ibrahim bin 'Abdur-Rahman bin 'Auf meriwayatkan: Makanan telah dibawa kepada 'Abdur-Rahman bin 'Auf (Semoga Allah meredainya) ketika beliau sedang berpuasa dan beliau berkata: \"Mus'ab bin 'Umair (Semoga Allah meredainya) telah syahid dan beliau lebih baik daripadaku, namun hanya ada sehelai kain untuk mengafankannya. Ia terlalu kecil sehinggakan apabila kepalanya ditutup, kakinya terdedah, dan jika kakinya ditutup, kepalanya pula terdedah. Kemudian, limpahan nikmat dunia ini telah dikurniakan kepada kita dengan melimpah-ruah. Aku bimbang bahawa ganjaran amalan baik kita telah pun diberikan kepada kita di dunia ini.\" Atas hal ini, beliau mula menangis teresak-esak dan membiarkan makanan itu tanpa menyentuhnya. [Al-Bukhari].</p>",
       "grades": []
     }
   ]
