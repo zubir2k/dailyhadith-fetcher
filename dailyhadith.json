@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "2.00",
-  "hadithNumber": "13",
+  "chapterId": "40.00",
+  "hadithNumber": "330",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "2",
-      "chapterTitle": "Repentance",
-      "urn": 1600130,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: I heard Messenger of Allah (ﷺ) saying: \"By Allah, I seek Allah's forgiveness and repent to Him more than seventy times a day.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "40",
+      "chapterTitle": "Kind Treatment towards Parents and establishment of the ties of Blood Relationship",
+      "urn": 1603270,
+      "body": "<p>Abu Abdullah 'Amr bin Al-'as (May Allah be pleased with them) said: I heard Messenger of Allah (ﷺ) saying openly not secretly, \"The family of so-and-so (i.e., Abu Talib) are not my supporters. My supporter is Allah and the righteous believing people. But they (that family) have kinship (Rahm) with whom I will maintain good the ties of kinship\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "2",
-      "chapterTitle": "- باب التوبة",
-      "urn": 1700130,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏والله إني لأستغفر الله وأتوب إليه في اليوم أكثر من سبعين مرة ‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "40",
+      "chapterTitle": "- باب بر الوالدين وصلة الأرحام",
+      "urn": 1703270,
+      "body": "<p>- وعن أبي عبد الله عمرو بن العاص رضي الله عنهما قال‏:‏ سمعت رسول الله صلى الله عليه وسلم جهارًا غير سر يقول‏:‏ ‏\"‏إن آل بني فلان ليسوا بأوليائي، إنما وليي الله وصالح المؤمنين، ولكن لهم رحم أبلها ببلالها‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ واللفظ البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "2",
-      "chapterTitle": "Taubat",
-      "urn": 1700130,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda: \"Demi Allah, sesungguhnya aku memohon ampun kepada Allah dan bertaubat kepada-Nya lebih daripada tujuh puluh kali sehari.\" [Al-Bukhari]</p>",
+      "chapterNumber": "40",
+      "chapterTitle": "Berbakti kepada kedua ibu bapa dan menyambung silaturahim.",
+      "urn": 1703270,
+      "body": "<p>Abu Abdullah 'Amr bin Al-'as (Semoga Allah meredai mereka) berkata: Aku mendengar Rasulullah (ﷺ) bersabda secara terang-terangan, bukan secara rahsia, \"Keluarga si polan (iaitu Abu Talib) bukanlah penolongku. Penolongku adalah Allah dan orang-orang beriman yang soleh. Akan tetapi mereka (keluarga itu) mempunyai hubungan kekeluargaan (rahim) yang mana aku akan menyambung tali silaturahim tersebut dengan baik.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
