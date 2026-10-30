@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "7",
-  "chapterId": "168.00",
-  "hadithNumber": "967",
+  "bookNumber": "15",
+  "chapterId": "249.00",
+  "hadithNumber": "1464",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "168",
-      "chapterTitle": "Etiquette of Staying, Riding, Encamping at night and sleeping during the Journey and other matters relating to the Journey",
-      "urn": 1620120,
-      "body": "<p>Abu Ja'far 'Abdullah bin Ja'far (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) made me ride behind him one day and confided something to me which I shall never disclose to anyone. ('Abdullah added:) He ((ﷺ) preferred to screen himself from others when responding to the call of nature, either behind a wall or the trunk of a date-palm.<br/><br/><b>[Muslim]</b>.<br/><br/>Al-Barqani added: The Messenger of Allah (ﷺ) entered an orchid belonging to an Ansari and saw there a camel. When it saw him, it began to groan and its eyes shed tears. The Messenger of Allah (ﷺ) approached it and patted it on the hump and the base of its head until it quieted down. Then he (ﷺ) asked, \"Who is the owner of this camel? To whom does it belong?\" An Ansari youth stepped forward and said: \"It is mine O Messenger of Allah!\" He said, \"Do you not fear Allah in respect of this beast which Allah has placed in your possession? This camel is complaining to me that you starve it and put it to toil.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "249",
+      "chapterTitle": "Supplication before going to Bed",
+      "urn": 1613300,
+      "body": "<p>Hudhaifah (May Allah be pleased with him) reported: Whenever the Messenger of Allah (ﷺ) intended to go to sleep, he would place his right hand under his (right) cheek and supplicate: \"Allahumma qini 'adhabaka yauma tab'athu 'ibadaka (O Allah! Guard me against Your punishment on the Day when You will resurrect Your slaves).\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/>In a narration in Abu Dawud, Hafsah (May Allah be pleased with her) said: Before going to sleep the Messenger of Allah (ﷺ) would recite this Du'a three times.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "168",
-      "chapterTitle": "- باب آداب السير والنزول والمبيت والنوم في السفر واستحباب السري والرفق بالدواب ومراعاة مصلحتها وجواز الإرداف علي الدابة إذا كانت تطيق ذلك",
-      "urn": 1709580,
-      "body": "<p>- وعن أبي جعفر عبد الله بن جعفر، رضي الله عنهما، قال‏:‏ أردفني رسول الله صلى الله عليه وسلم ، ذات يوم خلفه، وأسر إلي حديثاً لا أحدث به أحداً من الناس وكان أحب ما أستتر به رسول الله صلى الله عليه وسلم لحاجته هدف أو حائش نخل‏.‏ يعنى‏:‏ حائط نخل‏\"‏ ‏(‏‏(‏رواه هكذا مختصراً‏)‏‏)‏‏.‏\nوزاد فيه البرقاني بإسناد مسلم بعد قوله‏:‏ حائش نخل‏:‏ فدخل حائطاً لرجل من الأنصار، فإذا فيه جمل، فلما رأي رسول الله صلى الله عليه وسلم جرجر وذرفت عيناه، فأتاه النبي صلى الله عليه وسلمى الله عليه وسلم الله عليه وسلم ، فمسح سراته -أى‏:‏ سنامه- وذفراه فسكن؛ فقال‏:‏ ‏ ‏من رب هذا الجمل، لمن هذا الجمل‏؟‏‏ ‏ فجاء فتى من الأنصار، فقال‏:‏ هذا لي يا رسول الله، فقال‏:‏ ‏ ‏أفلا تتقي الله في هذه البهيمة التي ملكك الله إياها‏؟‏ فإنه يشكو إلي أنك تجيعه وتدئبه‏ ‏ ‏(‏‏(‏رواه أبو داود كرواية البرقاني‏)‏‏)‏‏.‏\nقوله‏:‏ ‏ ‏ذفراه‏ ‏ وهو بكسر الذال المعجمة وإسكان الفاء، وهو لفظ مفرد مؤنث‏.‏ قال أهل اللغة‏:‏ الذفري‏:‏ الموضع الذي يعرق من البعير خلف الأذن، وقوله‏:‏ ‏ ‏تذئبه‏ ‏ أي‏:‏ تتعبه‏.‏</p>",
+      "chapterNumber": "249",
+      "chapterTitle": "- باب ما يقوله عند النوم",
+      "urn": 1714540,
+      "body": "<p>- وعن حذيفة رضي الله عنه أن رسول الله صلى الله عليه وسلم، كان إذا أراد أن يرقد وضع يده اليمنى تحت خده، ثم يقول‏:‏ ‏\"‏اللهم قني عذابك يوم تبعث عبادك‏\"‏‏.‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن ورواه أبو داود من رواية حفصة رضي الله عنه وفيه أنه كان يقوله ثلاث مرات‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "249",
+      "chapterTitle": "Doa sebelum tidur",
+      "urn": 1714540,
+      "body": "<p>Hudhaifah (semoga Allah meredainya) melaporkan: Setiap kali Rasulullah (ﷺ) ingin tidur, baginda akan meletakkan tangan kanannya di bawah pipinya (kanan) dan berdoa: \"Allahumma qini 'adhabaka yauma tab'athu 'ibadaka (Ya Allah! Lindungilah aku daripada azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu).\" [At-Tirmidhi]. Dalam satu riwayat dalam Abu Dawud, Hafsah (semoga Allah meredainya) berkata: Sebelum tidur, Rasulullah (ﷺ) akan membaca doa ini sebanyak tiga kali.</p>",
       "grades": []
     }
   ]
