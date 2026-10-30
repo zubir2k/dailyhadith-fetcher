@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "1",
-  "chapterId": "95.00",
-  "hadithNumber": "709",
+  "bookNumber": "17",
+  "chapterId": "268.00",
+  "hadithNumber": "1565",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "95",
-      "chapterTitle": "Excellence of Conveying Glad Tidings and Congratulations",
-      "urn": 1606990,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: We were sitting in the company of the Messenger of Allah (ﷺ), and Abu Bakr and 'Umar (May Allah be pleased with them) were also present. All of a sudden the Messenger of Allah (ﷺ) got up and left us. When he was late to return to us we began to worry lest he should meet with trouble in our absence. I was the first to be alarmed and set out in search of him until I came to a garden belonging to Banu-Najjar (a section of the Ansar). I went round it looking for an entrance, but failed to find one. However, I saw a stream of water flowing into the garden from a well outside. I drew myself together like a fox and slinked into the place and reached the Messenger of Allah (ﷺ). He said, \"Is it Abu Hurairah?\" I replied in the affirmative. He asked, \"What is the matter with you?\" I replied, \"You were sitting with us and then you left us and delayed for a time. Fearing you had met with some adversities we got alarmed. I was the first to be alarmed. So when I came to this garden, I squeezed myself like a fox and these people are coming behind me.\" He (the Prophet (ﷺ)) gave me his sandals and said, \"O Abu Hurairah! Take these sandals of mine, and whoever you meet outside this garden testifying that La ilaha illallah (There is no true god except Allah), being assured of it in his heart, give him the glad tidings that he will enter Jannah.\" (Abu Hurairah then narrated the Hadith in full).<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "268",
+      "chapterTitle": "Prohibition of Maligning",
+      "urn": 1623660,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'As (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said, \"A (true) Muslim is one from whose tongue and hand the Muslims are safe; and a Muhajir (Emigrant) is he who leaves the deeds which Allah has prohibited.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "95",
-      "chapterTitle": "- باب استحباب التبشير والتهنئة بالخير",
-      "urn": 1707050,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ كنا قعوداً حول رسول الله صلى الله عليه وسلم ، ومعنا أبو بكر وعمر رضي الله عنهما في نفر، فقام رسول الله صلى الله عليه وسلم من بين أظهرنا فأبطأ علينا، وخشينا أن يقتطع دوننا وفزعنا فقمنا، فكنت أول من فزع، فخرجت أبتغي رسول الله صلى الله عليه وسلم ، حتى أتيت حائطاً للأنصار لبني النجار، فدرت به هل أجد له باب، فلم أجد، فإذا ربيع يدخل في جوف حائط من بئر خارجه -والربيع‏:‏ الجدول الصغير -فاحتفزت، فدخلت على رسول الله صلى الله عليه وسلم فقال‏:‏ “أبو هريرة‏؟‏” فقلت‏:‏ نعم يا رسول الله ، قال‏:‏ “ما شأنك” قلت‏:‏ كنت بين أظهرنا فقمت فأبطأت علينا، فخشينا أن تقتطع دوننا، ففزعنا، فكنت أول من فزع، فأتيت هذا الحائط فاحتفرت كما يحتفر الثعلب، وهؤلاء الناس ورائي‏.‏ فقال‏:‏ ‏\"‏يا أبا هريرة‏\"‏ وأعطاني نعليه فقال‏:‏ ‏\"‏اذهب بنعلي هاتين، فمن لقيت من وراء هذا الحائط يشهد أن لا إله إلا الله مستيقنا بها قلبه، فبشره بالجنة‏\"‏ وذكر الحديث بطوله، ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "268",
+      "chapterTitle": "- باب النهي عن الإيذاء",
+      "urn": 1715550,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏المسلم من سلم المسلمون من لسانه ويده، والمهاجر من هجر ما نهى الله عنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "268",
+      "chapterTitle": "Larangan Mencela",
+      "urn": 1715550,
+      "body": "<p>Abdullah bin 'Amr bin Al-'As (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda, \"Seorang Muslim (yang sebenar) adalah dia yang orang Islam yang lain selamat daripada lidah dan tangannya; dan seorang Muhajir adalah dia yang meninggalkan perkara-perkara yang dilarang oleh Allah.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
