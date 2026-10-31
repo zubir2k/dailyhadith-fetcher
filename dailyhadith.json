@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "143.00",
-  "hadithNumber": "885",
+  "bookNumber": "15",
+  "chapterId": "244.00",
+  "hadithNumber": "1420",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "143",
-      "chapterTitle": "The Excellence of Shaking Hands When Greeting Someone",
-      "urn": 1608325,
-      "body": "<p>Abu Khattab Qatadah (May Allah be pleased with him) reported: I asked Anas: \"Did the Companions of the Messenger of Allah (ﷺ) use to shake hands?'' He said: \"Yes.''\n</p>\n<p>\n<b>[Al-Bukhari]</b>.</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "The Excellence of the Remembrance of Allah",
+      "urn": 1612870,
+      "body": "<p>Ka'b bin 'Ujrah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"There are some words, the reciters of which will never be disappointed. These are: Tasbih <b>[saying 'Subhan-Allah' (Allah is free from imperfection)]</b>, thirty-three times, Tahmid <b>[saying 'Al-hamdu lillah' (praise be to Allah)]</b> thirty-three times and Takbir <b>[saying 'Allahu Akbar' (Allah is Greatest)]</b> thirty-four times; and these should be recited after the conclusion of every prescribed prayer.\"<br/><br/><b>[Muslim]</b><br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "143",
-      "chapterTitle": "- باب استحباب المصافحة عند اللقاء وبشاشة الوجه وتقبيل يد الرجل الصالح وتقبيل ولده شفقة ومعانقة القادم من سفر وكراهية الانحناء",
-      "urn": 1708780,
-      "body": "<p>- عن أبي الخطاب قتادة قال‏:‏ قلت لأنس‏:‏ أكانت المصافحة في أصحاب رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ نعم‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "- باب فضل الذكر والحث عليه",
+      "urn": 1714100,
+      "body": "<p>- وعن كعب بن عجرة رضي الله عنه عن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏معقبات لا يخيب قائلهن -أو فاعلهن- دبر كل صلاة مكتوبة‏:‏ ثلاثًا وثلاثين تسبيحة وثلاثًا وثلاثين تحميدة، وأربعًا وثلاثين تكبيرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "143",
-      "chapterTitle": "Kelebihan Bersalaman Ketika Memberi Salam",
-      "urn": 1708780,
-      "body": "<p>Abu Khattab Qatadah (Semoga Allah meredainya) meriwayatkan: Aku bertanya kepada Anas: \"Adakah para Sahabat Rasulullah (ﷺ) sering bersalaman?\" Beliau menjawab: \"Ya.\"\n\n[Al-Bukhari].</p>",
+      "chapterNumber": "244",
+      "chapterTitle": "Kelebihan Mengingati Allah",
+      "urn": 1714100,
+      "body": "<p>Ka'b bin 'Ujrah (Semoga Allah merahmatinya) meriwayatkan: Rasulullah (ﷺ) bersabda, \"Terdapat beberapa kalimat, yang membacanya tidak akan pernah kecewa. Iaitu: Tasbih [menyebut 'Subhan-Allah' (Maha Suci Allah)], sebanyak tiga puluh tiga kali, Tahmid [menyebut 'Al-hamdu lillah' (Segala puji bagi Allah)] sebanyak tiga puluh tiga kali, dan Takbir [menyebut 'Allahu Akbar' (Allah Maha Besar)] sebanyak tiga puluh empat kali; dan ia hendaklah dibaca selepas tamatnya setiap solat fardu.\" [Muslim]</p>",
       "grades": []
     }
   ]
