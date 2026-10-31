@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "13.00",
-  "hadithNumber": "126",
+  "bookNumber": "5",
+  "chapterId": "143.00",
+  "hadithNumber": "885",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "13",
-      "chapterTitle": "Numerous ways of doing Good",
-      "urn": 1601250,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"While a man was walking on his way he became extremely thirsty. He found a well, he went down into it to drink water. Upon leaving it, he saw a dog which was panting out of thirst. His tongue was lolling out and he was eating moist earth from extreme thirst. The man thought to himself: 'This dog is extremely thirsty as I was.' So he descended into the well, filled up his leather sock with water, and holding it in his teeth, climbed up and quenched the thirst of the dog. Allah appreciated his action and forgave his sins\". The Companions asked: \"Shall we be rewarded for showing kindness to the animals also?\" He (ﷺ) said, \"A reward is given in connection with every living creature\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In the narration of Al-Bukhari, the Prophet (ﷺ) is reported to have said: \"Allah forgave him in appreciation of this act and admitted him to Jannah\".<br/><br/>Another narration says: \"Once a dog was going round the well and was about to die out of thirst. A prostitute of Banu Israel happened to see it. So she took off her leather sock and lowered it into the well. She drew out some water and gave the dog to drink. She was forgiven on account of her action\".<br/><br/></p>",
+      "chapterNumber": "143",
+      "chapterTitle": "The Excellence of Shaking Hands When Greeting Someone",
+      "urn": 1608325,
+      "body": "<p>Abu Khattab Qatadah (May Allah be pleased with him) reported: I asked Anas: \"Did the Companions of the Messenger of Allah (ﷺ) use to shake hands?'' He said: \"Yes.''\n</p>\n<p>\n<b>[Al-Bukhari]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "13",
-      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
-      "urn": 1701250,
-      "body": "<p>- العاشر‏:‏ عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ بينما رجل يمشى بطريق اشتد عليه العطش، فوجد بئراً فنزل فيها فشرب، ثم خرج فإذا كلب يلهث يأكل الثرى من العطش، فقال الرجل‏:‏ لقد بلغ هذا الكلب من العطش مثل الذي كان قد بلغ منى، فنزل البئر فملأ خفه ماء ثم أمسكه بفيه، حتى رقي فسقى الكلب، فشكر الله له فغفر له‏\"‏ قالوا ‏:‏ يارسول الله إن لنا في البهائم أجراً‏؟‏ فقال‏:‏ في كل كبدٍ رطبة أجر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "143",
+      "chapterTitle": "- باب استحباب المصافحة عند اللقاء وبشاشة الوجه وتقبيل يد الرجل الصالح وتقبيل ولده شفقة ومعانقة القادم من سفر وكراهية الانحناء",
+      "urn": 1708780,
+      "body": "<p>- عن أبي الخطاب قتادة قال‏:‏ قلت لأنس‏:‏ أكانت المصافحة في أصحاب رسول الله صلى الله عليه وسلم ‏؟‏ قال‏:‏ نعم‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "143",
+      "chapterTitle": "Kelebihan Bersalaman Ketika Memberi Salam",
+      "urn": 1708780,
+      "body": "<p>Abu Khattab Qatadah (Semoga Allah meredainya) meriwayatkan: Aku bertanya kepada Anas: \"Adakah para Sahabat Rasulullah (ﷺ) sering bersalaman?\" Beliau menjawab: \"Ya.\"\n\n[Al-Bukhari].</p>",
       "grades": []
     }
   ]
