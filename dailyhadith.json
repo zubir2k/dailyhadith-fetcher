@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "249.00",
-  "hadithNumber": "1464",
+  "bookNumber": "introduction",
+  "chapterId": "13.00",
+  "hadithNumber": "126",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "249",
-      "chapterTitle": "Supplication before going to Bed",
-      "urn": 1613300,
-      "body": "<p>Hudhaifah (May Allah be pleased with him) reported: Whenever the Messenger of Allah (ﷺ) intended to go to sleep, he would place his right hand under his (right) cheek and supplicate: \"Allahumma qini 'adhabaka yauma tab'athu 'ibadaka (O Allah! Guard me against Your punishment on the Day when You will resurrect Your slaves).\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/>In a narration in Abu Dawud, Hafsah (May Allah be pleased with her) said: Before going to sleep the Messenger of Allah (ﷺ) would recite this Du'a three times.<br/><br/></p>",
+      "chapterNumber": "13",
+      "chapterTitle": "Numerous ways of doing Good",
+      "urn": 1601250,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"While a man was walking on his way he became extremely thirsty. He found a well, he went down into it to drink water. Upon leaving it, he saw a dog which was panting out of thirst. His tongue was lolling out and he was eating moist earth from extreme thirst. The man thought to himself: 'This dog is extremely thirsty as I was.' So he descended into the well, filled up his leather sock with water, and holding it in his teeth, climbed up and quenched the thirst of the dog. Allah appreciated his action and forgave his sins\". The Companions asked: \"Shall we be rewarded for showing kindness to the animals also?\" He (ﷺ) said, \"A reward is given in connection with every living creature\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In the narration of Al-Bukhari, the Prophet (ﷺ) is reported to have said: \"Allah forgave him in appreciation of this act and admitted him to Jannah\".<br/><br/>Another narration says: \"Once a dog was going round the well and was about to die out of thirst. A prostitute of Banu Israel happened to see it. So she took off her leather sock and lowered it into the well. She drew out some water and gave the dog to drink. She was forgiven on account of her action\".<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "249",
-      "chapterTitle": "- باب ما يقوله عند النوم",
-      "urn": 1714540,
-      "body": "<p>- وعن حذيفة رضي الله عنه أن رسول الله صلى الله عليه وسلم، كان إذا أراد أن يرقد وضع يده اليمنى تحت خده، ثم يقول‏:‏ ‏\"‏اللهم قني عذابك يوم تبعث عبادك‏\"‏‏.‏ ‏(‏‏(‏رواه الترمذي وقال حديث حسن ورواه أبو داود من رواية حفصة رضي الله عنه وفيه أنه كان يقوله ثلاث مرات‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "249",
-      "chapterTitle": "Doa sebelum tidur",
-      "urn": 1714540,
-      "body": "<p>Hudhaifah (semoga Allah meredainya) melaporkan: Setiap kali Rasulullah (ﷺ) ingin tidur, baginda akan meletakkan tangan kanannya di bawah pipinya (kanan) dan berdoa: \"Allahumma qini 'adhabaka yauma tab'athu 'ibadaka (Ya Allah! Lindungilah aku daripada azab-Mu pada hari Engkau membangkitkan hamba-hamba-Mu).\" [At-Tirmidhi]. Dalam satu riwayat dalam Abu Dawud, Hafsah (semoga Allah meredainya) berkata: Sebelum tidur, Rasulullah (ﷺ) akan membaca doa ini sebanyak tiga kali.</p>",
+      "chapterNumber": "13",
+      "chapterTitle": "- باب بيان كثرة طرق الخير‏.‏",
+      "urn": 1701250,
+      "body": "<p>- العاشر‏:‏ عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏ بينما رجل يمشى بطريق اشتد عليه العطش، فوجد بئراً فنزل فيها فشرب، ثم خرج فإذا كلب يلهث يأكل الثرى من العطش، فقال الرجل‏:‏ لقد بلغ هذا الكلب من العطش مثل الذي كان قد بلغ منى، فنزل البئر فملأ خفه ماء ثم أمسكه بفيه، حتى رقي فسقى الكلب، فشكر الله له فغفر له‏\"‏ قالوا ‏:‏ يارسول الله إن لنا في البهائم أجراً‏؟‏ فقال‏:‏ في كل كبدٍ رطبة أجر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
