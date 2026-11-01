@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "132.00",
-  "hadithNumber": "856",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1174",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "132",
-      "chapterTitle": "Words to be Used for Offering Greetings",
-      "urn": 1608140,
-      "body": "<p>Abu Juraiy Al-Hujaimi (May Allah be pleased with him) reported: I saw the Messenger of Allah (ﷺ) and said: \"Alaikas-Salamu ya Rasulallah! (Upon you be peace, O Messenger of Allah)!\" He said, \"Do not say: 'Alaikas-Salamu (Upon you be peace).' This is the Salam to the dead.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi, who classified the hadith as Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622180,
+      "body": "<p>Ibn Mas'ud (May Allah be pleased with him) reported: One night I joined the Prophet (ﷺ) in his (optional) Salat. He (ﷺ) prolonged the Qiyam (standing) so much that I made up my mind to commit an act of wrong. He was questioned: \"What did you intend to do?\" He replied: \"I intended to sit down and stop following him (in Salat).\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "132",
-      "chapterTitle": "- باب كيفية السلام",
-      "urn": 1708490,
-      "body": "<p>- وعن أبي جري الهجيمي رضي الله عنه قال‏:‏ أتيت رسول الله صلى الله عليه وسلم فقلت‏:‏ عليك السلام يا رسول الله قال‏:‏ ‏\"‏لا تقل عليك السلام؛ فإن عليك السلام تحية الموتى‏\"‏‏.‏ \n‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏.‏ وقد سبق بطوله‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711640,
+      "body": "<p>- وعن ابن مسعود رضي الله عنه، قال‏:‏ صليت مع النبي صلى الله عليه وسلم ، ليلة، فلم يزل قائمًا حتى هممت بأمر سوء‏.‏ قيل‏:‏ ما هممت‏؟‏ قال‏:‏ هممت أن أجلس وأدعه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "132",
-      "chapterTitle": "Lafaz-lafaz untuk Memberi Salam",
-      "urn": 1708490,
-      "body": "<p>Abu Juraiy Al-Hujaimi (Semoga Allah meredainya) melaporkan: Aku melihat Rasulullah (ﷺ) lalu berkata: \"Alaikas-Salamu ya Rasulallah! (Ke atasmu kesejahteraan, wahai Rasulullah)!\" Baginda bersabda, \"Janganlah kamu berkata: 'Alaikas-Salamu (Ke atasmu kesejahteraan).' Ini adalah salam kepada orang mati.\" [Abu Dawud dan At-Tirmidhi, yang mengklasifikasikan hadis ini sebagai Hasan Sahih].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Keutamaan Berdiri dalam Solat pada Waktu Malam",
+      "urn": 1711640,
+      "body": "<p>Ibnu Mas'ud (Semoga Allah meredainya) melaporkan: Pada suatu malam, aku telah menyertai Nabi (ﷺ) dalam solat (sunat) baginda. Baginda (ﷺ) memanjangkan Qiyam (berdiri) dengan begitu lama sehingga aku berniat untuk melakukan suatu perbuatan yang salah. Dia ditanya: \"Apakah yang engkau ingin lakukan?\" Dia menjawab: \"Aku berniat untuk duduk dan berhenti mengikutinya (dalam solat).\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
