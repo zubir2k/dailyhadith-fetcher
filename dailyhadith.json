@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "316.00",
-  "hadithNumber": "1718",
+  "bookNumber": "5",
+  "chapterId": "131.00",
+  "hadithNumber": "844",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "316",
-      "chapterTitle": "Desirability of Expiating the Oath taken by a Person who afterwards Breaks it for a better Alternative",
-      "urn": 1625190,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Persistence in respect of his oath about his family is more sinful with Allah than the payment of its expiation prescribed by Allah.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "131",
+      "chapterTitle": "The Excellence of Promoting Greetings",
+      "urn": 1608030,
+      "body": "<p>Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: A man asked the Messenger of Allah (ﷺ): \"Which act in Islam is the best?\" He (ﷺ) replied, \"To give food, and to greet everyone, whether you know or you do not.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "316",
-      "chapterTitle": "- باب ندب من حلف على يمين فرأى غيرها خيرًا منها أن يفعل ذلك المحلوف عليه ثم يكفر عن يمينه",
-      "urn": 1717080,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لأن يلج أحدكم في يمينه في أهله آثم له عند الله تعالى من أن يعطي كفارته التي فرض الله عليه‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ قوله‏:‏ ‏\"‏يلَجّ‏\"‏ بفتح اللام، وتشديد الجيم‏:‏ أي يتمادى فيها، ولا يكفر، قوله‏:‏ ‏\"‏آثم‏\"‏ هو بالثاء المثلثة، أي‏:‏ أكثر إثمًا‏.‏</p>",
+      "chapterNumber": "131",
+      "chapterTitle": "- باب فضل السلام والأمر بإفشائه",
+      "urn": 1708380,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم‏:‏ أي الإسلام خير‏؟‏ قال‏:‏ ‏\"‏تطعم الطعام، وتقرأ السلام على من عرفت ومن لم تعرف‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "316",
-      "chapterTitle": "Disunatkan membayar kaffarah bagi sumpah yang dibuat oleh seseorang, yang kemudiannya membatalkannya demi memilih sesuatu yang lebih baik.",
-      "urn": 1717080,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Berkeras terhadap sumpahnya berkenaan keluarganya adalah lebih berdosa di sisi Allah daripada membayar kaffarah yang telah ditetapkan oleh Allah.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "131",
+      "chapterTitle": "Kelebihan Menyebarkan Salam",
+      "urn": 1708380,
+      "body": "<p>Abdullah bin 'Amr bin Al-'as (Semoga Allah meredai mereka) menceritakan: Seorang lelaki bertanya kepada Rasulullah (ﷺ): \"Amalan apakah yang paling baik dalam Islam?\" Baginda (ﷺ) menjawab: \"Memberi makan, dan memberi salam kepada semua orang, sama ada kamu mengenali mereka atau tidak.\"[Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
