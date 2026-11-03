@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "4",
-  "chapterId": "129.00",
-  "hadithNumber": "826",
+  "bookNumber": "8",
+  "chapterId": "210.00",
+  "hadithNumber": "1153",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "129",
-      "chapterTitle": "Etiquette of Attending company and sitting with Companions",
-      "urn": 1607860,
-      "body": "<p>Jabir bin Samurah (May Allah be pleased with them) reported: Whenever we came to the gathering of the Prophet, we would sit down at the end (of the assembly).<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "210",
+      "chapterTitle": "The Excellence of Friday Prayer",
+      "urn": 1621970,
+      "body": "<p>Samurah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"It suffices to perform Wudu' properly for the Friday prayer; but it is better to take a bath.\"<br/><br/><b>[Abu Dawud and At-Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "129",
-      "chapterTitle": "- باب في آداب المجلس والجليس",
-      "urn": 1708200,
-      "body": "<p>- وعن جابر بن سمرة رضى الله عنهما قال‏:‏ كنا إذا أتينا النبي صلى الله عليه وسلم جلس أحدنا حيث ينتهي‏.‏ ((رواه أبو داود والترمذي، وقال: \"حديث حسن\")). ‏</p>",
+      "chapterNumber": "210",
+      "chapterTitle": "- باب فضل يوم الجمعة ووجوبها والاغتسال لها، والطيب والتبكير إليها والدعاء يوم الجمعة، والصلاة على النبي، صلى الله عليه وسلم، وفيه بيان ساعة الإجابة واستحباب إكثار ذكر الله تعالى بعد الجمعة",
+      "urn": 1711430,
+      "body": "<p>- وعن سمرة، رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏من توضأ يوم الجمعة، فبها ونعمت، ومن اغتسل فالغسل أفضل‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال حديث حسن‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "129",
-      "chapterTitle": "Adab menghadiri majlis dan duduk bersama para Sahabat",
-      "urn": 1708200,
-      "body": "<p>Jabir bin Samurah (Semoga Allah meredai beliau) meriwayatkan: Setiap kali kami mendatangi majlis Rasulullah, kami akan duduk di bahagian hujung. [Abu Dawud dan At-Tirmidhi].</p>",
+      "chapterNumber": "210",
+      "chapterTitle": "Kelebihan Solat Jumaat",
+      "urn": 1711430,
+      "body": "<p>Samurah (Semoga Allah meredhainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Cukuplah sekadar berwudhu dengan sempurna untuk solat Jumaat; namun adalah lebih baik untuk mandi.\" [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
