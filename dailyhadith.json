@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "137.00",
-  "hadithNumber": "863",
+  "bookNumber": "8",
+  "chapterId": "212.00",
+  "hadithNumber": "1163",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "137",
-      "chapterTitle": "A man sayinig salam to his wife or a mahram woman or non-mahrmam woman or women not fearing tribulation by them and giving them salam with this condition",
-      "urn": 1608164,
-      "body": "<p>Sahl bin Sa`d (May Allah be pleased with him) reported: There was a woman (in another narration; an old woman) among us who would put beet root in a pot and add to it some ground barley. She used to cook them together. On returning from the Friday prayer, we would greet her and she would offer it to us.\n</p>\n<p>\n<b>[Al-Bukhari]</b>.</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Excellence of Standing in Prayer at Night",
+      "urn": 1622070,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'As (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said to me, \"Do not be like so-and-so O 'Abdullah! He used to pray during the night, then stopped the practice.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "137",
-      "chapterTitle": "- باب سلام الرجل على زوجته والمرأة من محارمه وعلى أجنبية وأجنبيات لا يخاف الفتنة بهن وسلامهن بهذا الشرط",
-      "urn": 1708560,
-      "body": "<p>- عن سهل بن سعد رضي الله عنه قال‏:‏ كانت فينا امرأة -وفي رواية‏:‏ كانت لنا عجوز- تأخذ من أصول السلق فتطرحه في القدر، وتكركر حبات من شعير، فإذا صلينا الجمعة، وانصرفنا، نُسلم عليها، فتقدمه إلينا‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "- باب فضل قيام الليل‏:‏",
+      "urn": 1711530,
+      "body": "<p>- وعن عبد الله بن عمرو بن العاص، رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏يا عبد الله لا تكن مثل فلان‏:‏ كان يقوم الليل فترك قيام الليل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "137",
-      "chapterTitle": "Seorang lelaki mengucapkan salam kepada isterinya, atau wanita mahram, atau wanita bukan mahram, atau wanita yang tidak dikhuatiri menimbulkan fitnah, dan memberi salam kepada mereka dengan syarat ini.",
-      "urn": 1708560,
-      "body": "<p>Sahl bin Sa`d (Semoga Allah meredainya) melaporkan: Terdapat seorang wanita (dalam riwayat lain; seorang wanita tua) di kalangan kami yang memasukkan bit ke dalam periuk dan menambah sedikit barli yang telah dikisar ke dalamnya. Dia sering memasaknya bersama-sama. Apabila pulang daripada solat Jumaat, kami akan memberi salam kepadanya dan dia akan menghidangkannya kepada kami. [Al-Bukhari].</p>",
+      "chapterNumber": "212",
+      "chapterTitle": "Keutamaan Berdiri dalam Solat pada Waktu Malam",
+      "urn": 1711530,
+      "body": "<p>'Abdullah bin 'Amr bin Al-'As (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda kepadaku, \"Janganlah engkau menjadi seperti si fulan wahai 'Abdullah! Dia dahulu sering bersolat pada waktu malam, kemudian dia berhenti melakukannya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
