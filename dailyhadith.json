@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "212.00",
-  "hadithNumber": "1163",
+  "bookNumber": "introduction",
+  "chapterId": "80.00",
+  "hadithNumber": "670",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "212",
-      "chapterTitle": "Excellence of Standing in Prayer at Night",
-      "urn": 1622070,
-      "body": "<p>'Abdullah bin 'Amr bin Al-'As (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) said to me, \"Do not be like so-and-so O 'Abdullah! He used to pray during the night, then stopped the practice.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "Obligation of Obedience to the Ruler in what is Lawful and Prohibition of Obeying them in what is Unlawful",
+      "urn": 1606640,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Whosoever obeys me, obeys Allah; and he who disobeys me, disobeys Allah; and whosoever obeys the Amir (leader), in fact, obeys me; and he who disobeys the Amir, in fact, disobeys me.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "212",
-      "chapterTitle": "- باب فضل قيام الليل‏:‏",
-      "urn": 1711530,
-      "body": "<p>- وعن عبد الله بن عمرو بن العاص، رضي الله عنهما قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏يا عبد الله لا تكن مثل فلان‏:‏ كان يقوم الليل فترك قيام الليل‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "- باب وجوب طاعة ولاة الأمر في غير معصية وتحريم طاعتهم في المعصية",
+      "urn": 1706660,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ “من أطاعني فقد أطاع الله، ومن عصاني فقد عصى الله، ومن يطع الأمير فقد أطاعني، ومن يعص الأمير فقد عصاني” ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "212",
-      "chapterTitle": "Keutamaan Berdiri dalam Solat pada Waktu Malam",
-      "urn": 1711530,
-      "body": "<p>'Abdullah bin 'Amr bin Al-'As (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) bersabda kepadaku, \"Janganlah engkau menjadi seperti si fulan wahai 'Abdullah! Dia dahulu sering bersolat pada waktu malam, kemudian dia berhenti melakukannya.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "80",
+      "chapterTitle": "Kewajipan mentaati pemimpin dalam perkara yang makruf dan larangan mentaati mereka dalam perkara yang mungkar.",
+      "urn": 1706660,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Sesiapa yang mentaatiku, maka dia telah mentaati Allah; dan sesiapa yang menderhakai aku, maka dia telah menderhakai Allah; dan sesiapa yang mentaati Amir (pemimpin), maka sebenarnya dia telah mentaatiku; dan sesiapa yang menderhakai Amir, maka sebenarnya dia telah menderhakai aku.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
