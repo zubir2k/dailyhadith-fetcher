@@ -1,31 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "46.00",
-  "hadithNumber": "381",
+  "bookNumber": "17",
+  "chapterId": "280.00",
+  "hadithNumber": "1591",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "46",
-      "chapterTitle": "Excellence and Etiquette of Sincere love for the sake of Allah",
-      "urn": 1603770,
-      "body": "<p>Mu'adh (bin Jabal) (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah, the Exalted, has said: 'For those who love one another for the sake of My Glory, there will be seats of light (on the Day of Resurrection), and they will be envied by the Prophets and martyrs\".<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "280",
+      "chapterTitle": "Prohibition of Breaking ties and Relationships",
+      "urn": 1623920,
+      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not desert (stop talking to) one another, do not nurse hatred towards one another, do not be jealous of one another, and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to stop talking to his brother (Muslim) for more than three days.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "46",
-      "chapterTitle": "- باب فضل الحب في الله والحث عليه وإعلام الرجل من يحبه أنه يحبه، وماذا يقول له إذا أعلمه",
-      "urn": 1703770,
-      "body": "<p>- وعن معاذ رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏قال الله عز وجل‏:‏ المتحابون في جلالي، لهم منابر من نور يغبطهم النبيون والشهداء‏\"‏‏.‏ \n‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
-      "grades": []
-    },
-    {
-      "lang": "ms",
-      "chapterNumber": "46",
-      "chapterTitle": "Kelebihan dan Adab Cinta yang Ikhlas Kerana Allah",
-      "urn": 1703770,
-      "body": "<p>Mu'adh (bin Jabal) (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda: \"Allah Yang Maha Tinggi berfirman: 'Bagi mereka yang saling mencintai kerana keagungan-Ku, akan ada singgahsana cahaya (pada Hari Kiamat), dan mereka akan didengki oleh para Nabi dan para syuhada'.\" [At-Tirmidhi, yang mengklasifikasikannya sebagai Hadis Hasan Sahih].</p>",
+      "chapterNumber": "280",
+      "chapterTitle": "- باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إلا لبدعة في المهجور أو تظاهر بفسق أو نحو ذلك",
+      "urn": 1715810,
+      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تقاطعوا ولا تدابروا، ولا تباغضوا، ولا تحاسدوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
