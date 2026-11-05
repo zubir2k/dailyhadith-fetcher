@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "280.00",
-  "hadithNumber": "1591",
+  "bookNumber": "8",
+  "chapterId": "191.00",
+  "hadithNumber": "1065",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "280",
-      "chapterTitle": "Prohibition of Breaking ties and Relationships",
-      "urn": 1623920,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not desert (stop talking to) one another, do not nurse hatred towards one another, do not be jealous of one another, and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to stop talking to his brother (Muslim) for more than three days.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
+      "chapterNumber": "191",
+      "chapterTitle": "The Excellence of Performing Salat (Prayers) in Congregation",
+      "urn": 1621080,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"A man's Salat in congregation is twenty-five times more rewarding than his Salat at home or in his shop, and that is because when he performs his Wudu' properly and proceeds towards the mosque with the purpose of performing Salat in congregation, he does not take a step without being raised a degree (in rank) for it and having a sin remitted for it, till he enters the mosque. When he is performing Salat, the angels continue to invoke Blessings of Allah on him as long as he is in his place of worship in a state of Wudu'. They say: 'O Allah! Have mercy on him! O Allah! Forgive him.' He is deemed to be engaged in Salat as long as he waits for it.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "280",
-      "chapterTitle": "- باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إلا لبدعة في المهجور أو تظاهر بفسق أو نحو ذلك",
-      "urn": 1715810,
-      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تقاطعوا ولا تدابروا، ولا تباغضوا، ولا تحاسدوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "191",
+      "chapterTitle": "- باب فضل صلاة الجماعة",
+      "urn": 1710550,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏صلاة الرجل في جماعة تُضعَّف على صلاته في بيته وفي سوقه خمسًا وعشرين ضعفًا، وذلك أنه إذا توضأ فأحسن الوضوء، ثم خرج إلى المسجد، لا يخرجه إلا الصلاة، لم يخطُ خطوة إلا رفعت له بها درجة، وحطت عنه بها خطيئة، فإذا صلى لم تزل الملائكة تصلي عليه ما دام في مصلاه، ما لم يحدث، تقول اللهم صلِّ عليه، اللهم ارحمه‏.‏ ولا يزال في صلاة ما انتظر الصلاة‏\"‏ ‏(‏‏(‏متفق عليه‏.‏ وهذا لفظ البخاري‏)‏‏)‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "191",
+      "chapterTitle": "Kelebihan Menunaikan Solat Secara Berjemaah",
+      "urn": 1710550,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Solat seseorang secara berjemaah adalah dua puluh lima kali lipat lebih tinggi pahalanya berbanding solatnya di rumah atau di kedainya, dan hal itu kerana apabila dia berwudhu dengan sempurna dan melangkah menuju ke masjid dengan niat untuk menunaikan solat berjemaah, setiap langkah yang diambilnya akan mengangkat darjatnya dan menghapuskan satu dosnya, sehinggalah dia memasuki masjid. Apabila dia sedang menunaikan solat, para malaikat akan terus memohon rahmat Allah ke atasnya selagi dia berada di tempat solatnya dalam keadaan berwudhu. Mereka berdoa: 'Ya Allah! Rahmatilah dia! Ya Allah! Ampunilah dia.' Dia dianggap sedang menunaikan solat selagi dia menunggu solat tersebut.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
