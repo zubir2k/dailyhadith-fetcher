@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1345",
+  "bookNumber": "17",
+  "chapterId": "309.00",
+  "hadithNumber": "1695",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1612150,
-      "body": "<p>Abu Umamah (May Allah be pleased with him) reported: A man sought permission from the Messenger of Allah (ﷺ) to travel in the land. He (ﷺ) said to him, \"Travel for my people is Jihad in the Cause of Allah, glory be to Him.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "309",
+      "chapterTitle": "Prohibition of Spitting in the Mosque",
+      "urn": 1624960,
+      "body": "<p>Anas (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is not proper to use the mosque for urinating or easing oneself. They are merely built for the remembrance of Allah and the recitation of the Qur'an\", or as he stated.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713350,
-      "body": "<p>- وعن أبي أمامة، رضي الله عنه أن رجلا قال‏:‏ يا رسول الله ائذن لي في السياحة‏.‏ فقال النبي صلى الله عليه وسلم ‏:‏ ‏\"‏إن سياحة أمتي الجهاد في سبيل الله، عز وجل‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد جيد‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "309",
+      "chapterTitle": "- باب النهي عن البصاق في المسجد والأمر بإزالته منه إذا وجد فيه، والأمر بتنزيه المسجد عن الأقذار",
+      "urn": 1716850,
+      "body": "<p>- وعن أنس رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إن هذه المساجد لا تصلح لشيء من البول ولا القذر، إنما هي لذكر الله تعالى، وقراءة القرآن‏\"‏ أو كما قال رسول الله صلى الله عليه وسلم ‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713350,
-      "body": "<p>Abu Umamah (semoga Allah meredainya) melaporkan: Seorang lelaki meminta izin daripada Rasulullah (ﷺ) untuk bermusafir di muka bumi. Baginda (ﷺ) bersabda kepadanya, \"Perjalanan bagi kaumku adalah jihad di jalan Allah, Maha Suci Dia.\" [Abu Dawud].</p>",
+      "chapterNumber": "309",
+      "chapterTitle": "Larangan meludah di dalam masjid",
+      "urn": 1716850,
+      "body": "<p>Anas (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tidak wajar menggunakan masjid untuk kencing atau membuang air. Ia dibina semata-mata untuk mengingati Allah dan membaca al-Quran\", atau sebagaimana yang baginda sabdakan. [Muslim].</p>",
       "grades": []
     }
   ]
