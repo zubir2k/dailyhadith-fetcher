@@ -1,23 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "41.00",
-  "hadithNumber": "337",
+  "bookNumber": "8",
+  "chapterId": "182.00",
+  "hadithNumber": "1004",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "41",
-      "chapterTitle": "Prohibition of Disobeying Parents and severance of Relations",
-      "urn": 1603340,
-      "body": "<p>Abdullah bin 'Amr bin Al-'as (May Allah be pleased with them) reported: The Prophet (ﷺ) said, \"(Of the) major sins are: to ascribe partners to Allah, disobey parents, murder someone, and to take a false oath (intentionally)\".<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "182",
+      "chapterTitle": "The Merit of Recitation of the Noble Qur'an in a Pleasant Voice",
+      "urn": 1620470,
+      "body": "<p>Abu Hurairah (may Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Allah does not listen so attentively to anything as He listens to the recitation of the Qur'an by a Prophet who recites well with a melodious and audible voice.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "41",
-      "chapterTitle": "- باب تحريم العقوق وقطيعة الرحم",
-      "urn": 1703335,
-      "body": "<p>وعن عبد الله بن عمرو بن العاص رضي الله عنهما عن النَّبيّ قَالَ : \"الكَبَائِرُ : الإشْرَاكُ بالله ، وَعُقُوقُ الوَالِدَيْنِ ، وَقَتْلُ النَّفْس ، وَاليَمِينُ الغَمُوسُ\" . ((رواه البخاري)) .</p>",
+      "chapterNumber": "182",
+      "chapterTitle": "باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها‏:",
+      "urn": 1709950,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال ‏:‏سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ما أذن الله لشيء ما أذن لنبي حسن الصوت يتغنى بالقرآن يجهر به ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "grades": []
+    },
+    {
+      "lang": "ms",
+      "chapterNumber": "182",
+      "chapterTitle": "Kelebihan Membaca Al-Quran yang Mulia dengan Suara yang Merdu",
+      "urn": 1709950,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Allah tidak mendengar sesuatu dengan begitu teliti sepertimana Dia mendengar bacaan al-Quran daripada seorang Nabi yang membacanya dengan baik dengan suara yang merdu dan jelas.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
