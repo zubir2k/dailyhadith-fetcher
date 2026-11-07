@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "114.00",
-  "hadithNumber": "770",
+  "bookNumber": "introduction",
+  "chapterId": "6.00",
+  "hadithNumber": "72",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "114",
-      "chapterTitle": "Permission to Drink While Standing",
-      "urn": 1607430,
-      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) forbade us from drinking while standing. Qatadah reported: \"We asked him: 'What about eating?\"' He said: \"That is even worse, (or may be he said) more detestable.\"<br/><br/>Another narration is: The Messenger of Allah (ﷺ) reprimanded  for drinking while standing.<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "6",
+      "chapterTitle": "Piety",
+      "urn": 1600720,
+      "body": "<p>'Adi bin Hatim At-Ta'i (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) say: \"He who has taken an oath (to do something) but found something else better than that (which brings him closer to Allah), then he should do that which is better in piety (and he should expiate for the breaking of oath)\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "114",
-      "chapterTitle": "- باب بيان جواز الشرب قائماً وبيان الأكمل والأفضل الشرب قاعداً",
-      "urn": 1707650,
-      "body": "<p>- وعن أنس رضى الله عنه عن النبي صلى الله عليه وسلم أنه نهى أن يشرب الرجل قائماً‏.‏ قال قتادة‏:‏ فقلنا لأنس‏:‏ فالأكل‏؟‏ قال‏:‏ ذلك أشر -أو أخبث- ‏.‏ وفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائما.‏‏((رواه مسلم))‏\n \nوفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائماً‏.‏</p>",
+      "chapterNumber": "6",
+      "chapterTitle": "- باب التقوى",
+      "urn": 1700720,
+      "body": "<p>- الرابع‏:‏ عن أبي ظريف عدي بن حاتم الطائي رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من حلف على يمين ثم رأى أتقى لله منها فليأت التقوى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "114",
-      "chapterTitle": "Kebolehan Minum Sambil Berdiri",
-      "urn": 1707650,
-      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Nabi (ﷺ) melarang kami daripada minum sambil berdiri. Qatadah melaporkan: \"Kami bertanya kepada baginda: 'Bagaimana pula dengan makan?'\" Baginda bersabda: \"Itu lebih buruk, (atau mungkin baginda berkata) lebih dibenci.\" Riwayat lain menyebut: Rasulullah (ﷺ) menegur perbuatan minum sambil berdiri. [Muslim].</p>",
+      "chapterNumber": "6",
+      "chapterTitle": "Ketakwaan",
+      "urn": 1700720,
+      "body": "<p>'Adi bin Hatim At-Ta'i (Semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda: \"Sesiapa yang telah bersumpah (untuk melakukan sesuatu) namun dia mendapati sesuatu yang lebih baik daripada itu (yang mendekatkannya kepada Allah), maka hendaklah dia melakukan apa yang lebih baik (sebagai tanda ketakwaan) (dan dia hendaklah membayar kafarah bagi pelanggaran sumpah tersebut).\" [Muslim].</p>",
       "grades": []
     }
   ]
