@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "182.00",
-  "hadithNumber": "1004",
+  "bookNumber": "2",
+  "chapterId": "114.00",
+  "hadithNumber": "770",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "182",
-      "chapterTitle": "The Merit of Recitation of the Noble Qur'an in a Pleasant Voice",
-      "urn": 1620470,
-      "body": "<p>Abu Hurairah (may Allah be pleased with him) reported: I heard the Messenger of Allah (ﷺ) saying, \"Allah does not listen so attentively to anything as He listens to the recitation of the Qur'an by a Prophet who recites well with a melodious and audible voice.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "114",
+      "chapterTitle": "Permission to Drink While Standing",
+      "urn": 1607430,
+      "body": "<p>Anas (May Allah be pleased with him) reported: The Prophet (ﷺ) forbade us from drinking while standing. Qatadah reported: \"We asked him: 'What about eating?\"' He said: \"That is even worse, (or may be he said) more detestable.\"<br/><br/>Another narration is: The Messenger of Allah (ﷺ) reprimanded  for drinking while standing.<br/><br/><b>[Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "182",
-      "chapterTitle": "باب استحباب تحسين الصوت بالقرآن وطلب القراءة من حسن الصوت والاستماع لها‏:",
-      "urn": 1709950,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال ‏:‏سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏ما أذن الله لشيء ما أذن لنبي حسن الصوت يتغنى بالقرآن يجهر به ‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "114",
+      "chapterTitle": "- باب بيان جواز الشرب قائماً وبيان الأكمل والأفضل الشرب قاعداً",
+      "urn": 1707650,
+      "body": "<p>- وعن أنس رضى الله عنه عن النبي صلى الله عليه وسلم أنه نهى أن يشرب الرجل قائماً‏.‏ قال قتادة‏:‏ فقلنا لأنس‏:‏ فالأكل‏؟‏ قال‏:‏ ذلك أشر -أو أخبث- ‏.‏ وفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائما.‏‏((رواه مسلم))‏\n \nوفى رواية له أن النبي صلى الله عليه وسلم زجر عن الشرب قائماً‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "182",
-      "chapterTitle": "Kelebihan Membaca Al-Quran yang Mulia dengan Suara yang Merdu",
-      "urn": 1709950,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Allah tidak mendengar sesuatu dengan begitu teliti sepertimana Dia mendengar bacaan al-Quran daripada seorang Nabi yang membacanya dengan baik dengan suara yang merdu dan jelas.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "114",
+      "chapterTitle": "Kebolehan Minum Sambil Berdiri",
+      "urn": 1707650,
+      "body": "<p>Anas (semoga Allah meredainya) melaporkan: Nabi (ﷺ) melarang kami daripada minum sambil berdiri. Qatadah melaporkan: \"Kami bertanya kepada baginda: 'Bagaimana pula dengan makan?'\" Baginda bersabda: \"Itu lebih buruk, (atau mungkin baginda berkata) lebih dibenci.\" Riwayat lain menyebut: Rasulullah (ﷺ) menegur perbuatan minum sambil berdiri. [Muslim].</p>",
       "grades": []
     }
   ]
