@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "6.00",
-  "hadithNumber": "72",
+  "bookNumber": "3",
+  "chapterId": "122.00",
+  "hadithNumber": "808",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "6",
-      "chapterTitle": "Piety",
-      "urn": 1600720,
-      "body": "<p>'Adi bin Hatim At-Ta'i (May Allah be pleased with him) said: I heard the Messenger of Allah (ﷺ) say: \"He who has taken an oath (to do something) but found something else better than that (which brings him closer to Allah), then he should do that which is better in piety (and he should expiate for the breaking of oath)\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "122",
+      "chapterTitle": "The Prohibition of Wearing Silk for Men and its Permissibility for Women",
+      "urn": 1607740,
+      "body": "<p>Hudhaifah (May Allah be pleased with him) reported: The Prophet (ﷺ) prohibited us from eating or drinking from gold or silver utensils and from wearing silk and brocade, or sitting on (anything made from) them.<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "6",
-      "chapterTitle": "- باب التقوى",
-      "urn": 1700720,
-      "body": "<p>- الرابع‏:‏ عن أبي ظريف عدي بن حاتم الطائي رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من حلف على يمين ثم رأى أتقى لله منها فليأت التقوى‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "122",
+      "chapterTitle": "- باب تحريم لباس الحرير على الرجال وتحريم جلوسهم عليه واستنادهم إليه وجواز لبسه للنساء",
+      "urn": 1708020,
+      "body": "<p>وعن حذيفة رضى الله عنه قال‏:‏ نهانا النبي صلى الله عليه وسلم أن نشرب في آنية الذهب والفضة، وأن نأكل فيها، وعن لبس الحرير والديباج،وأن نجلس عليه‏.‏‏‏((‏رواه البخارى‏)‏‏)‏‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "6",
-      "chapterTitle": "Ketakwaan",
-      "urn": 1700720,
-      "body": "<p>'Adi bin Hatim At-Ta'i (Semoga Allah meredainya) berkata: Aku mendengar Rasulullah (ﷺ) bersabda: \"Sesiapa yang telah bersumpah (untuk melakukan sesuatu) namun dia mendapati sesuatu yang lebih baik daripada itu (yang mendekatkannya kepada Allah), maka hendaklah dia melakukan apa yang lebih baik (sebagai tanda ketakwaan) (dan dia hendaklah membayar kafarah bagi pelanggaran sumpah tersebut).\" [Muslim].</p>",
+      "chapterNumber": "122",
+      "chapterTitle": "Larangan Memakai Sutera bagi Lelaki dan Keharusannya bagi Wanita",
+      "urn": 1708020,
+      "body": "<p>Hudhaifah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) melarang kami daripada makan atau minum menggunakan bekas emas atau perak dan daripada memakai sutera dan broked, atau duduk di atasnya (perkara yang diperbuat daripadanya).[Al-Bukhari].</p>",
       "grades": []
     }
   ]
