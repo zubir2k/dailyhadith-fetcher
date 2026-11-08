@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "74.00",
-  "hadithNumber": "638",
+  "bookNumber": "17",
+  "chapterId": "292.00",
+  "hadithNumber": "1632",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "74",
-      "chapterTitle": "Clemency, Tolerance and Gentleness",
-      "urn": 1606320,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A man asked the Prophet (ﷺ) to give him advice, and he (ﷺ) said, \"Do not get angry.\" The man repeated that several times and he (ﷺ) replied (every time), \"Do not get angry.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "292",
+      "chapterTitle": "Prohibition for Men and Women apeing one another",
+      "urn": 1624330,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) cursed a man who puts on the dress of women, and a woman who puts on the dress of men.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "74",
-      "chapterTitle": "- باب الحلم والأناة والرفق",
-      "urn": 1706340,
-      "body": "<p>- وعن أبى هريرة رضي الله عنه أن رجلاً قال للنبى صلى الله عليه وسلم‏:‏ أوصنى قال‏:‏ “لا تغضب” فردد مراراً، قال‏:‏ “لا تغضب”‏.‏ ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "292",
+      "chapterTitle": "- باب تحريم تشبه الرجال بالنساء وتشبه النساء بالرجال في لباس وحركة وغير ذلك",
+      "urn": 1716220,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ لعن رسول الله صلى الله عليه وسلم الرجل يلبس لبسة المرأة، والمرأة تلبس لبسة الرجل‏.‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "74",
-      "chapterTitle": "Sifat Pemaaf, Toleransi dan Kelembutan",
-      "urn": 1706340,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Seorang lelaki meminta nasihat daripada Nabi (ﷺ), lalu Baginda (ﷺ) bersabda, \"Janganlah kamu marah.\" Lelaki itu mengulanginya beberapa kali dan Baginda (ﷺ) tetap menjawab (setiap kali), \"Janganlah kamu marah.\" [Al-Bukhari].</p>",
+      "chapterNumber": "292",
+      "chapterTitle": "Larangan lelaki dan wanita menyerupai antara satu sama lain.",
+      "urn": 1716220,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) melaknat lelaki yang memakai pakaian wanita, dan wanita yang memakai pakaian lelaki. [Abu Dawud].</p>",
       "grades": []
     }
   ]
