@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "3",
-  "chapterId": "122.00",
-  "hadithNumber": "808",
+  "bookNumber": "introduction",
+  "chapterId": "74.00",
+  "hadithNumber": "638",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "122",
-      "chapterTitle": "The Prohibition of Wearing Silk for Men and its Permissibility for Women",
-      "urn": 1607740,
-      "body": "<p>Hudhaifah (May Allah be pleased with him) reported: The Prophet (ﷺ) prohibited us from eating or drinking from gold or silver utensils and from wearing silk and brocade, or sitting on (anything made from) them.<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "74",
+      "chapterTitle": "Clemency, Tolerance and Gentleness",
+      "urn": 1606320,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: A man asked the Prophet (ﷺ) to give him advice, and he (ﷺ) said, \"Do not get angry.\" The man repeated that several times and he (ﷺ) replied (every time), \"Do not get angry.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "122",
-      "chapterTitle": "- باب تحريم لباس الحرير على الرجال وتحريم جلوسهم عليه واستنادهم إليه وجواز لبسه للنساء",
-      "urn": 1708020,
-      "body": "<p>وعن حذيفة رضى الله عنه قال‏:‏ نهانا النبي صلى الله عليه وسلم أن نشرب في آنية الذهب والفضة، وأن نأكل فيها، وعن لبس الحرير والديباج،وأن نجلس عليه‏.‏‏‏((‏رواه البخارى‏)‏‏)‏‏</p>",
+      "chapterNumber": "74",
+      "chapterTitle": "- باب الحلم والأناة والرفق",
+      "urn": 1706340,
+      "body": "<p>- وعن أبى هريرة رضي الله عنه أن رجلاً قال للنبى صلى الله عليه وسلم‏:‏ أوصنى قال‏:‏ “لا تغضب” فردد مراراً، قال‏:‏ “لا تغضب”‏.‏ ‏(‏‏(‏رواه البخارى‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "122",
-      "chapterTitle": "Larangan Memakai Sutera bagi Lelaki dan Keharusannya bagi Wanita",
-      "urn": 1708020,
-      "body": "<p>Hudhaifah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) melarang kami daripada makan atau minum menggunakan bekas emas atau perak dan daripada memakai sutera dan broked, atau duduk di atasnya (perkara yang diperbuat daripadanya).[Al-Bukhari].</p>",
+      "chapterNumber": "74",
+      "chapterTitle": "Sifat Pemaaf, Toleransi dan Kelembutan",
+      "urn": 1706340,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Seorang lelaki meminta nasihat daripada Nabi (ﷺ), lalu Baginda (ﷺ) bersabda, \"Janganlah kamu marah.\" Lelaki itu mengulanginya beberapa kali dan Baginda (ﷺ) tetap menjawab (setiap kali), \"Janganlah kamu marah.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
