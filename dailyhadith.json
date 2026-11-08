@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "8",
-  "chapterId": "197.00",
-  "hadithNumber": "1107",
+  "chapterId": "222.00",
+  "hadithNumber": "1238",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "197",
-      "chapterTitle": "Briefness to be Adopted in Performing the two Rak'ah Sunnah before Fajr Prayer, their time and the Surah to recite in them",
-      "urn": 1621500,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) used to recite during the two Rak'ah of Fajr prayer: \"Say (O Muslims): We believe in Allah and that which has been sent down to us...\" (2:136) which is in Surat Al-Baqarah in the first Rak'ah and the Verse: \"We believe in Allah, and bear witness that we are Muslims (i.e., we submit to Allah.\" (3:52) in the second Rak'ah.<br/><br/>According to another narration, he (ﷺ) recited from Surat Al-'Imran the Verses: \"Come to a word which is just between us and you...\" (3:64).<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "222",
+      "chapterTitle": "The Superiority of Hastening to Break the Fast, and the supplication to say upon Breaking it",
+      "urn": 1622820,
+      "body": "<p>Salman bin 'Amir (May Allah be pleased with him) reported: I heard the Prophet (ﷺ) saying, \"When one of you breaks his Saum (fasting), let him break it on dates; if he does not have any, break his fast with water for it is pure.\"<br/><br/><b>[Abu Dawud]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "197",
-      "chapterTitle": "- باب تخفيف ركعتي الفجر وبيان ما يقرأ فيهما، وبيان وقتهما‏.",
-      "urn": 1710970,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما أن رسول الله صلى الله عليه وسلم، كان يقرأ في ركعتي الفجر في الأولى منهما‏:‏ ‏{‏قولوا آمنا بالله وما أنزل إلينا‏}‏ الآية التي في البقرة، وفي الآخرة منهما‏:‏ ‏{‏آمنا بالله واشهد بأنا مسلمون‏}.‏ \nوفي رواية‏:‏ في الآخرة التي في آل عمران‏:‏ ‏{‏تعالوا إلى كلمة سواء بيننا وبينكم‏}‏‏.‏ ‏(‏‏(‏رواهما مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "222",
+      "chapterTitle": "- باب فضل تعجيل الفطر وما يفطر عليه وما يقوله بعد إفطاره‏:‏",
+      "urn": 1712280,
+      "body": "<p>- وعن سلمان بن عامر الضبي الصحابي، رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا أفطر أحدكم، فليفطر على تمر فإن لم يجد فليفطر على ماء فإنه طهور‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "197",
-      "chapterTitle": "Ringkasnya pelaksanaan dua rakaat sunnah sebelum solat Subuh, waktunya, dan surah yang dibaca di dalamnya.",
-      "urn": 1710970,
-      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) melaporkan: Rasulullah (ﷺ) biasa membaca semasa dua rakaat solat Subuh: \"Katakanlah (wahai orang-orang Muslim): Kami beriman kepada Allah dan apa yang diturunkan kepada kami...\" (2:136) iaitu daripada Surah Al-Baqarah dalam rakaat pertama, dan ayat: \"Kami beriman kepada Allah, dan kami menjadi saksi bahawa kami adalah orang Islam (iaitu kami berserah kepada Allah).\" (3:52) dalam rakaat kedua. Menurut riwayat lain, baginda (ﷺ) membaca daripada Surah Ali 'Imran ayat: \"Marilah kepada perkataan yang adil antara kami dan kamu...\" (3:64). [Muslim].</p>",
+      "chapterNumber": "222",
+      "chapterTitle": "Keutamaan Menyegerakan Berbuka Puasa dan Doa Semasa Berbuka",
+      "urn": 1712280,
+      "body": "<p>Salman bin 'Amir (semoga Allah meredainya) menceritakan: Aku mendengar Nabi (ﷺ) bersabda, \"Apabila salah seorang daripada kamu berbuka puasa, hendaklah dia berbuka dengan kurma; jika dia tidak memilikinya, berbuka puasa dengan air kerana ia adalah suci.\" [Abu Dawud].</p>",
       "grades": []
     }
   ]
