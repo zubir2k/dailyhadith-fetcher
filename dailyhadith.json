@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "8",
-  "chapterId": "222.00",
-  "hadithNumber": "1238",
+  "chapterId": "181.00",
+  "hadithNumber": "1002",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "222",
-      "chapterTitle": "The Superiority of Hastening to Break the Fast, and the supplication to say upon Breaking it",
-      "urn": 1622820,
-      "body": "<p>Salman bin 'Amir (May Allah be pleased with him) reported: I heard the Prophet (ﷺ) saying, \"When one of you breaks his Saum (fasting), let him break it on dates; if he does not have any, break his fast with water for it is pure.\"<br/><br/><b>[Abu Dawud]</b>.</p>",
+      "chapterNumber": "181",
+      "chapterTitle": "Warning against forgetting the Qur'an",
+      "urn": 1620450,
+      "body": "<p>Abu Musa Al-Ash'ari (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Read the Qur'an regularly. By the One in Whose Hand Muhammad's soul is, it escapes from memory faster than a camel does from its tying ropes.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "222",
-      "chapterTitle": "- باب فضل تعجيل الفطر وما يفطر عليه وما يقوله بعد إفطاره‏:‏",
-      "urn": 1712280,
-      "body": "<p>- وعن سلمان بن عامر الضبي الصحابي، رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا أفطر أحدكم، فليفطر على تمر فإن لم يجد فليفطر على ماء فإنه طهور‏\"‏ ‏(‏‏(‏رواه أبو داود، والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "181",
+      "chapterTitle": "باب الأمر بتعهد القرآن والتحذير من تعريضه للنسيان‏:‏",
+      "urn": 1709930,
+      "body": "<p>- عن أبي موسى رضي الله عنه عن النبي صلى الله عليه وسلم قال ‏\"‏تعاهدوا هذا القرآن فوالذي نفس محمد بيده لهو أشد تفلتًا من الإبل في عقلها‏\"‏‏.‏ ‏(‏‏(‏متفق عله‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "222",
-      "chapterTitle": "Keutamaan Menyegerakan Berbuka Puasa dan Doa Semasa Berbuka",
-      "urn": 1712280,
-      "body": "<p>Salman bin 'Amir (semoga Allah meredainya) menceritakan: Aku mendengar Nabi (ﷺ) bersabda, \"Apabila salah seorang daripada kamu berbuka puasa, hendaklah dia berbuka dengan kurma; jika dia tidak memilikinya, berbuka puasa dengan air kerana ia adalah suci.\" [Abu Dawud].</p>",
+      "chapterNumber": "181",
+      "chapterTitle": "Amaran terhadap melupakan Al-Quran",
+      "urn": 1709930,
+      "body": "<p>Abu Musa Al-Ash'ari (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Bacalah al-Quran secara berterusan. Demi Zat yang di tangan-Nya nyawa Muhammad, ia hilang daripada ingatan lebih cepat daripada seekor unta yang terlepas daripada tali pengikatnya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
