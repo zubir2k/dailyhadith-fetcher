@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1436",
+  "bookNumber": "17",
+  "chapterId": "336.00",
+  "hadithNumber": "1750",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1613030,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The Mufarridun have gone ahead.\" He was asked, \"Who are the Mufarridun?\" He (ﷺ) replied, \"Those men and women who frequently celebrate the remembrance of Allah.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "336",
+      "chapterTitle": "Prohibition of Observing an Optional Saum (Fast) by a Woman without the Permission of her Husband",
+      "urn": 1625510,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"It is not lawful for a woman to observe an optional Saum (fast) without the permission of her husband when he is at home. Nor should she allow anyone to enter his house without his permission.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714260,
-      "body": "<p>- وعنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏سبق المفردون‏\"‏ قالوا‏:‏ وما المفردون يا رسول الله‏؟‏ قال‏:‏ ‏\"‏الذاكرون الله كثيرًا والذكرات‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ وروي : (( المفردون )) بتشديد الراء وتخفيفها والمشهور الذي قاله الجمهور : التشديد.</p>",
+      "chapterNumber": "336",
+      "chapterTitle": "- باب تحريم صوم المرأة وزوجها حاضر إلا بإذنه",
+      "urn": 1717400,
+      "body": "<p>- عن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏لا يحل للمرأة أن تصوم وزوجها شاهد إلا بإذنه، ولا تأذن في بيته إلا بإذنه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "244",
-      "chapterTitle": "Kelebihan Berzikir kepada Allah",
-      "urn": 1714260,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Al-Mufarridun telah mendahului.\" Baginda ditanya, \"Siapakah al-Mufarridun itu?\" Baginda (ﷺ) menjawab, \"Mereka itu adalah lelaki dan wanita yang banyak berzikir kepada Allah.\" [Muslim].</p>",
+      "chapterNumber": "336",
+      "chapterTitle": "Larangan bagi seorang wanita melaksanakan puasa sunat tanpa keizinan suaminya.",
+      "urn": 1717400,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tidak halal bagi seorang wanita untuk melakukan puasa sunat tanpa izin suaminya ketika dia (suami) berada di rumah. Dan tidak boleh juga dia membenarkan sesiapa pun masuk ke dalam rumahnya tanpa izinnya.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
