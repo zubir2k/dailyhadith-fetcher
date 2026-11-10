@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "238.00",
-  "hadithNumber": "1363",
+  "bookNumber": "introduction",
+  "chapterId": "60.00",
+  "hadithNumber": "548",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "238",
-      "chapterTitle": "The Merit of the Dutiful Slave",
-      "urn": 1612310,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The faithful and diligent slave will have a double reward.\" (Abu Hurairah added:) By Him in Whose Hand the soul of Abu Hurairah is! but for Jihad in the Cause of Allah, and Hajj and kindness to my mother, I would have preferred to die as a slave.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Excellence of Generosity and Spending in a Good cause with Reliance on Allah",
+      "urn": 1605440,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says, 'Spend, O son of Adam, you will also be spent upon.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "238",
-      "chapterTitle": "- باب فضل المملوك الذي يؤدي حق الله وحق مواليه",
-      "urn": 1713530,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏للعبد المملوك المصلح أجران، والذي نفس أبي هريرة بيده لولا الجهاد في سبيل الله والحج، وبر أمي لأحببت أن أموت وأنا مملوك‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "- باب الكرم والجود والإنفاق فى وجوه الخير ثقة بالله تعالى",
+      "urn": 1705440,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “قال الله تعالى‏:‏ انفق يا ابن آدم ينفق عليك” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "238",
-      "chapterTitle": "Kelebihan Hamba yang Taat",
-      "urn": 1713530,
-      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Hamba yang beriman dan tekun akan mendapat dua kali ganda pahala.\" (Abu Hurairah menambah:) \"Demi Tuhan yang di tangan-Nya jiwa Abu Hurairah! Sekiranya bukan kerana berjihad di jalan Allah, menunaikan haji, dan berbakti kepada ibuku, nescaya aku lebih suka mati sebagai seorang hamba.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "60",
+      "chapterTitle": "Kelebihan Sifat Pemurah dan Berinfak di Jalan Allah dengan Bertawakal kepada Allah",
+      "urn": 1705440,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah Yang Maha Tinggi berfirman, 'Berinfaklah wahai anak Adam, nescaya kamu juga akan diberi (rezeki).'\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
