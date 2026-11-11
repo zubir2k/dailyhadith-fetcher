@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "60.00",
-  "hadithNumber": "548",
+  "bookNumber": "8",
+  "chapterId": "197.00",
+  "hadithNumber": "1106",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "60",
-      "chapterTitle": "Excellence of Generosity and Spending in a Good cause with Reliance on Allah",
-      "urn": 1605440,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Allah, the Exalted, says, 'Spend, O son of Adam, you will also be spent upon.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "197",
+      "chapterTitle": "Briefness to be Adopted in Performing the two Rak'ah Sunnah before Fajr Prayer, their time and the Surah to recite in them",
+      "urn": 1621490,
+      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) used to perform his optional night prayers at night, two Rak'ah followed by two Rak'ah, and at the end he would conclude with an odd Rak'ah (Witr). Then he would perform two Rak'ah prayer before the dawn (Fajr) prayer after hearing the Adhan, and he would make them so brief as if he could hear the Iqamah being called.<br/><br/><b>[Al- Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "60",
-      "chapterTitle": "- باب الكرم والجود والإنفاق فى وجوه الخير ثقة بالله تعالى",
-      "urn": 1705440,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “قال الله تعالى‏:‏ انفق يا ابن آدم ينفق عليك” ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "197",
+      "chapterTitle": "- باب تخفيف ركعتي الفجر وبيان ما يقرأ فيهما، وبيان وقتهما‏.",
+      "urn": 1710960,
+      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ كان رسول الله صلى الله عليه وسلم يصلي من الليل مثنى مثنى، ويوتر بركعة من آخر الليل، ويصلي الركعتين قبل صلاة الغداة، وكأن الأذان بأذنيه‏\"‏‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "60",
-      "chapterTitle": "Kelebihan Sifat Pemurah dan Berinfak di Jalan Allah dengan Bertawakal kepada Allah",
-      "urn": 1705440,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Rasulullah (ﷺ) bersabda, \"Allah Yang Maha Tinggi berfirman, 'Berinfaklah wahai anak Adam, nescaya kamu juga akan diberi (rezeki).'\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "197",
+      "chapterTitle": "Ringkasnya pelaksanaan dua rakaat sunnah sebelum solat Subuh, waktunya, dan surah yang dibaca di dalamnya.",
+      "urn": 1710960,
+      "body": "<p>Ibn 'Umar (semoga Allah meredai mereka) menceritakan: Rasulullah (ﷺ) sering menunaikan solat sunat malamnya pada waktu malam, dua rakaat diikuti dengan dua rakaat, dan di penghujungnya baginda akan mengakhirinya dengan satu rakaat yang ganjil (Witir). Kemudian baginda akan menunaikan solat dua rakaat sebelum solat fajar (Subuh) selepas mendengar azan, dan baginda melakukannya dengan sangat ringkas seolah-olah baginda seakan-akan mendengar iqamah sedang dilaungkan. [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
