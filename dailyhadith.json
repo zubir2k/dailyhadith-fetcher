@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "28.00",
-  "hadithNumber": "242",
+  "bookNumber": "17",
+  "chapterId": "302.00",
+  "hadithNumber": "1662",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "28",
-      "chapterTitle": "Covering Faults of the Muslims",
-      "urn": 1602390,
-      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: The Prophet (ﷺ) said, \"When a slave-girl commits fornication and this fact of fornication has become evident, she must be given the penalty of (fifty) lashes without hurling reproaches at her; if she does it again, she must be given the penalty but she should not be rebuked. If she does it for the third time, he should sell her, even for a rope woven from hair (i.e., something worthless)\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Prohibition of Bewailing the Deceased",
+      "urn": 1624630,
+      "body": "<p>An-Nu'man bin Bashir (May Allah be pleased with them) said: When 'Abdullah bin Rawahah (May Allah be pleased with him) became unconscious, his sister began to weep and shout: \"Alas! For the mountain among men. Alas! for such and such (mentioning his virtuous qualities).\" When he recovered his consciousness, he said: \"I was asked (disapprovingly, by the angels) about everything you said concerning me whether I am as you said.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "28",
-      "chapterTitle": "- باب ستر عورات المسلمين والنهي عن إشاعتها لغير ضرورة",
-      "urn": 1702410,
-      "body": "<p>- وعنه النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا زنت الأمة فتبين زناها فليجلدها الحد، ولا يثرب عليها، ثم إن زنت الثانية فليجلدها الحد ولا يثرب عليها، ثم إن زنت الثالثة فليبعها ولو بحبل من شعر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ <a href=\"javascript:opencomment('‏(‏‏ ‏التثريب‏ ‏ التوبيخ‏ ‏')\">(15)</a></p>",
+      "chapterNumber": "302",
+      "chapterTitle": "- باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه، والدعاء بالويل والثبور",
+      "urn": 1716520,
+      "body": "<p>- وعن النعمان بن بشير رضي الله عنه قال‏:‏ أغمي على عبد الله بن رواحة رضي الله عنه فجعلت أخته تبكي، وتقول‏:‏ واجبلاه، وا كذا وا كذا‏:‏ تعدد عليه فقال حين أفاق‏:‏ ما قلت شيئًا ألا قيل لي ‏:‏أنت كذلك‏؟‏‏!‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "28",
-      "chapterTitle": "Menutup Aib Kaum Muslimin",
-      "urn": 1702410,
-      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Apabila seorang hamba perempuan melakukan zina dan perbuatan zina itu telah menjadi jelas, dia hendaklah dikenakan hukuman (lima puluh) sebatan tanpa mencelanya; jika dia melakukannya lagi, dia hendaklah dikenakan hukuman tetapi dia tidak seharusnya dicela. Jika dia melakukannya buat kali ketiga, dia hendaklah dijual, walaupun hanya dengan harga seutas tali yang dianyam daripada rambut (iaitu sesuatu yang tidak bernilai).\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "302",
+      "chapterTitle": "Larangan Meratapi Jenazah",
+      "urn": 1716520,
+      "body": "<p>An-Nu'man bin Bashir (Semoga Allah meredai mereka) berkata: Apabila 'Abdullah bin Rawahah (Semoga Allah meredainya) tidak sedarkan diri, saudaranya mula menangis dan menjerit: \"Aduhai! Sayangnya gunung di kalangan lelaki. Aduhai! Sayangnya bagi sifat begini dan begitu (menyebutkan sifat-sifat mulianya).\" Apabila beliau sedar kembali, beliau berkata: \"Aku telah ditanya (oleh para malaikat dengan nada mempersoalkan) tentang segala apa yang kamu katakan mengenainya, sama ada aku benar-benar seperti apa yang kamu katakan itu.\" [Al-Bukhari].</p>",
       "grades": []
     }
   ]
