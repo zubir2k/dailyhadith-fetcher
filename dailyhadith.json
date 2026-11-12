@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "2.00",
-  "hadithNumber": "14",
+  "chapterId": "28.00",
+  "hadithNumber": "242",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "2",
-      "chapterTitle": "Repentance",
-      "urn": 1600140,
-      "body": "<p>Al-Agharr bin Yasar Al-Muzani (May Allah be pleased with him) narrated that: The Messenger of Allah (ﷺ) said: \"Turn you people in repentance to Allah and beg pardon of Him. I turn to Him in repentance a hundred times a day\".<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "Covering Faults of the Muslims",
+      "urn": 1602390,
+      "body": "<p>Abu Hurairah (May Allah bepleased with him) reported: The Prophet (ﷺ) said, \"When a slave-girl commits fornication and this fact of fornication has become evident, she must be given the penalty of (fifty) lashes without hurling reproaches at her; if she does it again, she must be given the penalty but she should not be rebuked. If she does it for the third time, he should sell her, even for a rope woven from hair (i.e., something worthless)\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "2",
-      "chapterTitle": "- باب التوبة",
-      "urn": 1700140,
-      "body": "<p>- وعن الأغر بن يسار المزنى رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ ياأيها الناس توبوا إلى الله واستغفروه فإنى أتوب في اليوم مائه مرة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "- باب ستر عورات المسلمين والنهي عن إشاعتها لغير ضرورة",
+      "urn": 1702410,
+      "body": "<p>- وعنه النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا زنت الأمة فتبين زناها فليجلدها الحد، ولا يثرب عليها، ثم إن زنت الثانية فليجلدها الحد ولا يثرب عليها، ثم إن زنت الثالثة فليبعها ولو بحبل من شعر‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏ <a href=\"javascript:opencomment('‏(‏‏ ‏التثريب‏ ‏ التوبيخ‏ ‏')\">(15)</a></p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "2",
-      "chapterTitle": "Taubat",
-      "urn": 1700140,
-      "body": "<p>Al-Agharr bin Yasar Al-Muzani (Semoga Allah meredainya) meriwayatkan bahawa: Rasulullah (ﷺ) bersabda: \"Wahai manusia, bertaubatlah kepada Allah dan mohonlah keampunan daripada-Nya. Sesungguhnya aku bertaubat kepada-Nya seratus kali sehari\". [Muslim].</p>",
+      "chapterNumber": "28",
+      "chapterTitle": "Menutup Aib Kaum Muslimin",
+      "urn": 1702410,
+      "body": "<p>Abu Hurairah (semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Apabila seorang hamba perempuan melakukan zina dan perbuatan zina itu telah menjadi jelas, dia hendaklah dikenakan hukuman (lima puluh) sebatan tanpa mencelanya; jika dia melakukannya lagi, dia hendaklah dikenakan hukuman tetapi dia tidak seharusnya dicela. Jika dia melakukannya buat kali ketiga, dia hendaklah dijual, walaupun hanya dengan harga seutas tali yang dianyam daripada rambut (iaitu sesuatu yang tidak bernilai).\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
