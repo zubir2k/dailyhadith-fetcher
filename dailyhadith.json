@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "304.00",
-  "hadithNumber": "1676",
+  "bookNumber": "8",
+  "chapterId": "224.00",
+  "hadithNumber": "1242",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "304",
-      "chapterTitle": "Forbiddance of Believing in Ill Omens",
-      "urn": 1624770,
-      "body": "<p>Buraidah (May Allah be pleased with him) said: The Prophet (ﷺ) never took ill omens.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "224",
+      "chapterTitle": "Matters relating to As-Saum (Fasting)",
+      "urn": 1622860,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"If any one of you forgetfully eats or drinks (while observing fasting) he should complete his Saum (fasting), for Allah has fed him and given him to drink.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "304",
-      "chapterTitle": "- باب النهي عن التطير",
-      "urn": 1716660,
-      "body": "<p>- وعن بريدة رضي الله عنه أن النبي صلى الله عليه وسلم كان لا يتطير‏.‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏</p>",
+      "chapterNumber": "224",
+      "chapterTitle": "- باب في مسائل من الصوم‏:‏",
+      "urn": 1712320,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه عن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا نسي أحدكم فأكل أو شرب فليتم صومه فإنما أطعمه الله وسقاه‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "304",
-      "chapterTitle": "Larangan Mempercayai Petanda Buruk",
-      "urn": 1716660,
-      "body": "<p>Buraidah (semoga Allah meredainya) berkata: Nabi (ﷺ) tidak pernah menganggap sesuatu sebagai petanda buruk. [Abu Dawud].</p>",
+      "chapterNumber": "224",
+      "chapterTitle": "Perkara-perkara berkaitan As-Saum (Puasa)",
+      "urn": 1712320,
+      "body": "<p>Abu Hurairah (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Jika salah seorang di antara kamu makan atau minum kerana terlupa (ketika sedang berpuasa), maka hendaklah dia menyempurnakan puasanya, kerana sesungguhnya Allah yang telah memberinya makan dan memberinya minum.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
