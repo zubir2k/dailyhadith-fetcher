@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1329",
+  "bookNumber": "17",
+  "chapterId": "304.00",
+  "hadithNumber": "1676",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611990,
-      "body": "<p>'Urwah Al-Bariqi (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Goodness is tied to the foreheads of horses until the Day of Resurrection, i.e., reward (in the Hereafter) and spoils.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "304",
+      "chapterTitle": "Forbiddance of Believing in Ill Omens",
+      "urn": 1624770,
+      "body": "<p>Buraidah (May Allah be pleased with him) said: The Prophet (ﷺ) never took ill omens.<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1713190,
-      "body": "<p>- وعن عروة البارقي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ الخيل معقود في نواصيها الخير إلى يوم القيامة‏:‏ الأجر والمغنم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
+      "chapterNumber": "304",
+      "chapterTitle": "- باب النهي عن التطير",
+      "urn": 1716660,
+      "body": "<p>- وعن بريدة رضي الله عنه أن النبي صلى الله عليه وسلم كان لا يتطير‏.‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "234",
-      "chapterTitle": "Kewajipan Jihad",
-      "urn": 1713190,
-      "body": "<p>'Urwah Al-Bariqi (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Kebaikan terikat pada dahi kuda sehingga Hari Kiamat, iaitu pahala (di Akhirat) dan harta rampasan perang.\" [Al-Bukhari dan Muslim].</p>",
+      "chapterNumber": "304",
+      "chapterTitle": "Larangan Mempercayai Petanda Buruk",
+      "urn": 1716660,
+      "body": "<p>Buraidah (semoga Allah meredainya) berkata: Nabi (ﷺ) tidak pernah menganggap sesuatu sebagai petanda buruk. [Abu Dawud].</p>",
       "grades": []
     }
   ]
