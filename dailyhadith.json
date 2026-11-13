@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "302.00",
-  "hadithNumber": "1662",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1329",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "302",
-      "chapterTitle": "Prohibition of Bewailing the Deceased",
-      "urn": 1624630,
-      "body": "<p>An-Nu'man bin Bashir (May Allah be pleased with them) said: When 'Abdullah bin Rawahah (May Allah be pleased with him) became unconscious, his sister began to weep and shout: \"Alas! For the mountain among men. Alas! for such and such (mentioning his virtuous qualities).\" When he recovered his consciousness, he said: \"I was asked (disapprovingly, by the angels) about everything you said concerning me whether I am as you said.\"<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611990,
+      "body": "<p>'Urwah Al-Bariqi (May Allah be pleased with him) reported: The Prophet (ﷺ) said, \"Goodness is tied to the foreheads of horses until the Day of Resurrection, i.e., reward (in the Hereafter) and spoils.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "302",
-      "chapterTitle": "- باب تحريم النياحة على الميت ولطم الخد وشق الجيب ونتف الشعر وحلقه، والدعاء بالويل والثبور",
-      "urn": 1716520,
-      "body": "<p>- وعن النعمان بن بشير رضي الله عنه قال‏:‏ أغمي على عبد الله بن رواحة رضي الله عنه فجعلت أخته تبكي، وتقول‏:‏ واجبلاه، وا كذا وا كذا‏:‏ تعدد عليه فقال حين أفاق‏:‏ ما قلت شيئًا ألا قيل لي ‏:‏أنت كذلك‏؟‏‏!‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1713190,
+      "body": "<p>- وعن عروة البارقي رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ الخيل معقود في نواصيها الخير إلى يوم القيامة‏:‏ الأجر والمغنم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "302",
-      "chapterTitle": "Larangan Meratapi Jenazah",
-      "urn": 1716520,
-      "body": "<p>An-Nu'man bin Bashir (Semoga Allah meredai mereka) berkata: Apabila 'Abdullah bin Rawahah (Semoga Allah meredainya) tidak sedarkan diri, saudaranya mula menangis dan menjerit: \"Aduhai! Sayangnya gunung di kalangan lelaki. Aduhai! Sayangnya bagi sifat begini dan begitu (menyebutkan sifat-sifat mulianya).\" Apabila beliau sedar kembali, beliau berkata: \"Aku telah ditanya (oleh para malaikat dengan nada mempersoalkan) tentang segala apa yang kamu katakan mengenainya, sama ada aku benar-benar seperti apa yang kamu katakan itu.\" [Al-Bukhari].</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Kewajipan Jihad",
+      "urn": 1713190,
+      "body": "<p>'Urwah Al-Bariqi (Semoga Allah meredainya) melaporkan: Nabi (ﷺ) bersabda, \"Kebaikan terikat pada dahi kuda sehingga Hari Kiamat, iaitu pahala (di Akhirat) dan harta rampasan perang.\" [Al-Bukhari dan Muslim].</p>",
       "grades": []
     }
   ]
