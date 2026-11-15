@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "259.00",
-  "hadithNumber": "1541",
+  "bookNumber": "18",
+  "chapterId": "370.00",
+  "hadithNumber": "1824",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "259",
-      "chapterTitle": "Condemnation of Double-faced People",
-      "urn": 1623420,
-      "body": "<p>Muhammad bin Zaid reported: Some people said to my grandfather, 'Abdullah bin 'Umar (May Allah be pleased with them): We visit our rulers and tell them things contrary to what we say when we leave them. 'Abdullah bin 'Umar (May Allah be pleased with them) replied: \"In the days of the Messenger of Allah (ﷺ), we counted this act as an act of hypocrisy.\"<br/><br/><b>[Al-Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
+      "urn": 1616140,
+      "body": "<p>Abu Sa'id Al-Khudri (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"From your caliphs there will be one in the Last Days who will distribute wealth without counting it.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "259",
-      "chapterTitle": "- باب ذم ذي الوجهين",
-      "urn": 1715310,
-      "body": "<p>- وعن محمد بن زيد أن ناسًا قالوا لجده عبد الله بن عمر رضي الله عنهما‏:‏ إنا ندخل على سلاطيننا فنقول لهم بخلاف ما نتكلم إذا خرجنا من عندهم‏.‏ قال‏:‏ كنا نعد هذا نفاقًا على عهد رسول الله صلى الله عليه وسلم ‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
+      "urn": 1718130,
+      "body": "<p>- وعن أبي سعيد الخدري رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏يكون خليفة ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ خلفائكم في آخر الزمان يحثو المال ولا يعده‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "259",
-      "chapterTitle": "Celaan Terhadap Orang yang Bermuka Dua",
-      "urn": 1715310,
-      "body": "<p>Muhammad bin Zaid melaporkan: Segelintir orang berkata kepada datukku, 'Abdullah bin 'Umar (Semoga Allah meredai mereka): \"Kami menziarahi pemerintah kami dan mengatakan perkara yang berbeza daripada apa yang kami katakan apabila kami meninggalkan mereka.\" 'Abdullah bin 'Umar (Semoga Allah meredai mereka) menjawab: \"Pada zaman Rasulullah (ﷺ), kami menganggap perbuatan ini sebagai satu perbuatan munafik.\" [Al-Bukhari].</p>",
+      "chapterNumber": "370",
+      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
+      "urn": 1718130,
+      "body": "<p>Abu Sa'id Al-Khudri (semoga Allah meredainya) berkata: Nabi (ﷺ) bersabda, \"Akan ada seorang daripada khalifah kamu pada akhir zaman yang akan membahagikan harta tanpa mengira jumlahnya.\" [Muslim].</p>",
       "grades": []
     }
   ]
