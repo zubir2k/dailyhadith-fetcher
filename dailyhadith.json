@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "5",
-  "chapterId": "132.00",
-  "hadithNumber": "854",
+  "bookNumber": "3",
+  "chapterId": "117.00",
+  "hadithNumber": "778",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "132",
-      "chapterTitle": "Words to be Used for Offering Greetings",
-      "urn": 1608130,
-      "body": "<p>Asma' bint Yazid (May Allah be pleased with her) reported: The Messenger of Allah (ﷺ) passed through the mosque one day and there was a group of women (about ten of them) sitting in the mosque. He raised his hand to offer greetings.<br/><br/><b>[At- Tirmidhi, who classified it as Hasan]</b>.<br/><br/></p>",
+      "chapterNumber": "117",
+      "chapterTitle": "The Excellence of Wearing White Clothes and the Permissibility of Wearing Red, Green, Yellow and Black Clothes Made from Cotton and Linen but not Silk",
+      "urn": 1607490,
+      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: I heard the Messenger of Allah (ﷺ) saying, \"Put on white clothes because they are the best; and use them for shrouding your dead.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "132",
-      "chapterTitle": "- باب كيفية السلام",
-      "urn": 1708481,
-      "body": "<p>- وعن أسماء بنت يزيد رضي الله عنه عنها أن رسول الله صلى الله عليه وسلم، مر في المسجد يومًا، وعصبة من النساء قعود، فألوى بيده بالتسليم‏.‏ ‏(‏‏(‏رواه الترمذي وقال‏:‏ حديث حسن‏)‏‏)‏‏</p>",
+      "chapterNumber": "117",
+      "chapterTitle": "- باب استحباب الثوب الأبيض وجواز الأحمر والأخضر والأصفر والأسود وجوازه من قطن وكتان وشعر وصوف وغيرها إلا الحرير",
+      "urn": 1707720,
+      "body": "<p>- وعن ابن عباس رضى الله عنهما أن رسول الله صلى الله عليه وسلم قال‏:‏ إلبسوا من ثيابكم البياض؛ فإنها من خير ثيابكم، وكفنوا فيها موتاكم‏\"‏.‏((رواه أبو داود والترمذي))</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "132",
-      "chapterTitle": "Lafaz-lafaz untuk Memberi Salam",
-      "urn": 1708481,
-      "body": "<p>Asma' bint Yazid (semoga Allah meredainya) meriwayatkan: Rasulullah (ﷺ) melewati masjid pada suatu hari dan terdapat sekumpulan wanita (sekitar sepuluh orang) sedang duduk di dalam masjid. Baginda mengangkat tangannya untuk memberi salam. [At-Tirmidhi, yang mengklasifikasikannya sebagai Hasan].</p>",
+      "chapterNumber": "117",
+      "chapterTitle": "Kelebihan Memakai Pakaian Putih dan Keharusan Memakai Pakaian Berwarna Merah, Hijau, Kuning dan Hitam yang Diperbuat daripada Kapas dan Linen, tetapi bukan Sutera",
+      "urn": 1707720,
+      "body": "<p>Ibn 'Abbas (Semoga Allah meredai mereka) melaporkan: Aku mendengar Rasulullah (ﷺ) bersabda, \"Pakailah pakaian putih kerana ia adalah yang terbaik; dan gunakanlah ia untuk mengapankan jenazah kalian.\" [Abu Dawud dan At-Tirmidhi].</p>",
       "grades": []
     }
   ]
