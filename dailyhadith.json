@@ -1,31 +1,31 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "18",
-  "chapterId": "370.00",
-  "hadithNumber": "1811",
+  "bookNumber": "5",
+  "chapterId": "131.00",
+  "hadithNumber": "849",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "370",
-      "chapterTitle": "Ahadith about Dajjal and Portents of the Hour",
-      "urn": 1616010,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"There will be no land which will not be trampled by Dajjal (the Antichrist) but Makkah and Al-Madinah; and there will be no passage leading to them which will not be guarded by the angels, arranged in rows. Dajjal will appear in a barren place adjacent to Al- Madinah and the city will be shaken three times. Allah will expel from it every disbeliever and hypocrite.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "131",
+      "chapterTitle": "The Excellence of Promoting Greetings",
+      "urn": 1608080,
+      "body": "<p>At-Tufail bin Ubayy bin Ka'b (May Allah be pleased with him) reported: I used to visit 'Abdullah bin 'Umar (May Allah be pleased with them) in the morning and accompany him to the market. 'Abdullah offered greetings of peace to every one he met on the way, be they sellers of petty goods, traders or poor people. One day when I came to him, he asked me to accompany him to the market. I said to him: \"What is the point of your going to the market when you do not sell, nor ask about articles, nor offer a price for them, nor sit down with any company of people. Let us sit down here and talk.\" He replied: \"O Abu Batn (father of a belly) - Tufail had a large belly - we go to the market to greet everyone we meet.\"<br/><br/><b>[Malik, with a sound chain]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "370",
-      "chapterTitle": "باب أحاديث الدجال وأشراط الساعة وغيرها",
-      "urn": 1718000,
-      "body": "<p>- -وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏ليس من بلد إلى سيطؤه الدجال، إلا مكة والمدينة، وليس نقب من أنقابها إلا عليه الملائكة صافين تحرسهما، فينزل بالسبخة، فترجف المدينة ثلاث رجفات، يخرج الله منها كل كافر ومنافق‏\"‏‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "131",
+      "chapterTitle": "- باب فضل السلام والأمر بإفشائه",
+      "urn": 1708430,
+      "body": "<p>- وعن الطفيل بن أبي بن كعب أنه كان يأتي عبد الله بن عمر، فيغدو معه إلى السوق، قال‏:‏ فإذا غدونا إلى السوق، لم يمر عبد الله على سقاط ولا صاحب بيعة، ولا مسكين، ولا أحد إلا سلم عليه، قال الطفيل، فجئت عبد الله بن عمر يومًا، فاستتبعني إلى السوق فقلت له‏:‏ ما تصنع بالسوق، وأنت لا تقف على البيع ولا تسأل عن السلع، ولا تسوم بها، ولا تجلس في مجالس السوق‏؟‏ وأقول‏:‏ اجلس بنا هاهنا نتحدث، فقال يا أبا بطن- وكان الطفيل ذا بطن- إنما نغدو من أجل السلام فنسلم على من لقيناه‏.‏ ‏(‏‏(‏رواه مالك في الموطأ بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     },
     {
       "lang": "ms",
-      "chapterNumber": "370",
-      "chapterTitle": "Hadis-hadis tentang Dajjal dan Tanda-tanda Kiamat",
-      "urn": 1718000,
-      "body": "<p>Anas bin Malik (Semoga Allah meredainya) berkata: Rasulullah (ﷺ) bersabda, \"Tidak ada satu tanah pun yang tidak diinjak oleh Dajjal melainkan Makkah dan Al-Madinah; dan tidak akan ada jalan masuk ke arah keduanya melainkan akan dijaga oleh para malaikat yang berbaris-baris. Dajjal akan muncul di sebuah tempat yang tandus bersebelahan dengan Al-Madinah dan kota tersebut akan digoncang sebanyak tiga kali. Allah akan mengeluarkan dari kota itu setiap orang kafir dan munafik.\" [Muslim].</p>",
+      "chapterNumber": "131",
+      "chapterTitle": "Kelebihan Menyebarkan Salam",
+      "urn": 1708430,
+      "body": "<p>At-Tufail bin Ubayy bin Ka'b (Semoga Allah meredainya) melaporkan: Aku biasa menziarahi 'Abdullah bin 'Umar (Semoga Allah meredai mereka berdua) pada waktu pagi dan menemaninya ke pasar. 'Abdullah memberikan salam kepada setiap orang yang ditemuinya di jalanan, sama ada penjual barangan kecil, pedagang mahupun orang miskin. Pada suatu hari ketika aku datang kepadanya, dia memintaku untuk menemaninya ke pasar. Aku berkata kepadanya: \"Apakah gunanya engkau pergi ke pasar sedangkan engkau tidak menjual, tidak bertanya tentang barangan, tidak menawarkan harga, dan tidak juga duduk bersama mana-mana kumpulan orang. Marilah kita duduk di sini dan berbual-bual.\" Dia menjawab: \"Wahai Abu Batn (bapa perut yang buncit) – Tufail mempunyai perut yang besar – kami pergi ke pasar untuk memberi salam kepada setiap orang yang kami temui.\" [Malik, dengan sanad yang sahih].</p>",
       "grades": []
     }
   ]
