@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "17",
-  "chapterId": "310.00",
-  "hadithNumber": "1697",
+  "chapterId": "304.00",
+  "hadithNumber": "1677",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "310",
-      "chapterTitle": "Undesirability of Quarrelling or Raising voices in the Mosque",
-      "urn": 1624980,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"When you see someone buying or selling in the mosque, say to him: 'La arbaha-Allahu tijarataka (May Allah not make your bargain profitable)!' When you see someone announcing something lost in it, say: 'May Allah not restore it to you!\"'<br/><br/><b>[At-Tirmidhi]</b>.</p>",
+      "chapterNumber": "304",
+      "chapterTitle": "Forbiddance of Believing in Ill Omens",
+      "urn": 1624780,
+      "body": "<p>'Urwah bin 'Amir (May Allah be pleased with him) said: When talking of omens was mentioned in the presence of the Messenger of Allah (ﷺ) he said, \"The best type of omen is the good omen.\" He added, \"A Muslim should not refrain from anything because of an omen.\" He (ﷺ) told them, \"When any of you sees anything which he dislikes, he should say: 'Allahuma la ya'ti bil-hasanati illa Anta, wa la yadfa'us- sayyi'ati illa Anta, wa la hawla wa la quwwata illa Bika (O Allah ! You Alone bring good things; You Alone avert evil things, and there is no might or power but in You).\"'<br/><br/><b>[Abu Dawud with Sahih Isnad]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "310",
-      "chapterTitle": "- باب كراهة الخصومة في المسجد ورفع الصوت فيه ونشد الضالة والبيع والشراء والإجارة ونحوها من المعاملات",
-      "urn": 1716870,
-      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا رأيتم من يبيع أو يبتاع في المسجد، فقولوا‏:‏ لا أربح الله تجارتك، وإذا رأيتم من ينشد ضالة فقولوا‏:‏ لا ردها الله عليك‏\"‏‏.‏ رواه الترمذي، وقال: (حَدِيثٌ حَسَنٌ).</p>",
+      "chapterNumber": "304",
+      "chapterTitle": "- باب النهي عن التطير",
+      "urn": 1716670,
+      "body": "<p>- وعن عروة بن عامر رضي الله عنه قال‏:‏ ذكرت الطِيَرة عند رسول الله صلى الله عليه وسلم فقال‏:‏ ‏\"‏أحسنها الفأل، ولا ترد مسلمًا فإذا رأى أحدكم ما يكره، فليقل‏:‏ اللهم لا يأتي بالحسنات إلا أنت، ولا يدفع السيئات إلا أنت، ولا حول ولا قوة إلا بك‏\"‏‏.‏‏(‏‏(‏حديث صحيح رواه أبو داود بإسناد صحيح‏)‏‏)‏</p>",
       "grades": []
     }
   ]
