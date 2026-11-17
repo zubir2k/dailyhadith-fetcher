@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "56.00",
-  "hadithNumber": "503",
+  "bookNumber": "17",
+  "chapterId": "310.00",
+  "hadithNumber": "1697",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "56",
-      "chapterTitle": "Excellence of Simple Living and being Content with Little",
-      "urn": 1605000,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: When Messenger of Allah (ﷺ) died, his armour was mortgaged with a Jew for thirty Sa' (measures) of barley.<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "310",
+      "chapterTitle": "Undesirability of Quarrelling or Raising voices in the Mosque",
+      "urn": 1624980,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"When you see someone buying or selling in the mosque, say to him: 'La arbaha-Allahu tijarataka (May Allah not make your bargain profitable)!' When you see someone announcing something lost in it, say: 'May Allah not restore it to you!\"'<br/><br/><b>[At-Tirmidhi]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "56",
-      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
-      "urn": 1704990,
-      "body": "<p>- وعن عائشة، رضي الله عنها قالت‏:‏ توفي رسول الله صلى الله عليه وسلم ودرعه مرهونة عند يهودي في ثلاثين صاعاً من شعير‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "310",
+      "chapterTitle": "- باب كراهة الخصومة في المسجد ورفع الصوت فيه ونشد الضالة والبيع والشراء والإجارة ونحوها من المعاملات",
+      "urn": 1716870,
+      "body": "<p>- وعنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏إذا رأيتم من يبيع أو يبتاع في المسجد، فقولوا‏:‏ لا أربح الله تجارتك، وإذا رأيتم من ينشد ضالة فقولوا‏:‏ لا ردها الله عليك‏\"‏‏.‏ رواه الترمذي، وقال: (حَدِيثٌ حَسَنٌ).</p>",
       "grades": []
     }
   ]
