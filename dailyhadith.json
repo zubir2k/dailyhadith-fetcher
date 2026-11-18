@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "6",
-  "chapterId": "147.00",
-  "hadithNumber": "912",
+  "bookNumber": "16",
+  "chapterId": "253.00",
+  "hadithNumber": "1506",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "147",
-      "chapterTitle": "Supplication when one is disappointed about his Life",
-      "urn": 1608540,
-      "body": "<p>'Aishah (May Allah be pleased with her) reported: I saw the Messenger of Allah (ﷺ) when he was at the point of death. He had a drinking bowl with water in it. He would dip his hand into the bowl, and wipe his face. Then he would supplicate, \"O Allah! Help me over pangs and agony of death.\"<br/><br/><b>[At-Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "253",
+      "chapterTitle": "Superiority of Auliya' and their Marvels",
+      "urn": 1613710,
+      "body": "<p>'Urwah bin Az-Zubair (May Allah be pleased with him) reported: Arwa bint Aus brought a suit against Sa'id bin Zaid bin 'Amr bin Nufail (May Allah be pleased with him). She complained to Marwan bin Al-Hakam that he had wrongfully taken possession of a portion of her land. Sa'id said: \"How can I take a portion out of her land while I have heard a denunciation from the Messenger of Allah (ﷺ).\" Marwan asked him: \"What did you hear from the Messenger of Allah?\" He said, \"I heard the Messenger of Allah (ﷺ) saying, 'He who takes a span of land unjustly will be made to wear seven earths round his neck on the Day of Ressurection'.\" Marwan said to him: \"I don't seek proof from you after this.\" Sa'id supplicated: \"O Allah! If she is a liar, deprive her of her eye sight and cause her to die in her land.\" 'Urwah said: \"She did not die till she became blind. While she was walking in her land (concerning which the dispute arose) she fell down into a pit and died.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/>In another narration of Muslim, Muhammad bin Zaid bin 'Abdullah bin 'Umar said that he had seen Arwa blind, feeling for on the walls with her hand and saying: \"I am ruined by the curse of Sa'id.\" Later she fell in a well in the same disputed land and died.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "147",
-      "chapterTitle": "باب ما يقوله من آيس من حياته",
-      "urn": 1709050,
-      "body": "<p>- وعنها قالت‏:‏ رأيت رسول الله صلى الله عليه وسلم وهو بالموت عنده قدح فيه ماء وهو يدخل يده في القدح، ثم يمسح وجهه بالماء، ثم يقول‏:‏ ‏\"‏اللهم أعني علي غمرات الموت وسكرات الموت‏\"‏ ‏(‏‏(‏رواه الترمذي‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "253",
+      "chapterTitle": "- باب كرامات الأولياء وفضلهم",
+      "urn": 1714960,
+      "body": "<p>- وعن عروة بن الزبير أن سعيد بن زيد بن عمرو بن نفيل، رضي الله عنه الله عنه خاصمته أروى بنت أوس إلى مروْان بن الحكم، وادعت أنه أخذ شيئًا من أرضها، فقال سعيد‏:‏ أنا كنت آخذ من أرضها شيئًا بعد الذي سمعت من رسول الله صلى الله عليه وسلم‏!‏‏؟‏ قال‏:‏ ماذا سمعت من رسول الله صلى الله عليه وسلم‏؟‏ قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏من أخذ شبرًا من الأرض ظلمًا، طوقه إلى سبعين أرضين‏\"‏ فقال له مروْان‏:‏ لا أسألك بينة بعد هذا، فقال سعيد‏:‏ اللهم إن كانت كاذبة، فأعمِ بصرها، واقتلها في أرضها، فقال‏:‏ فما ماتت حتى ذهب بصرها وبينما هي تمشي في أرضها إذ وقعت في حفرة فماتت‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏ \nوفي رواية لمسلم عن محمد بن زيد بن عبد الله بن عمر بمعناه وأنه رآها عمياء تلتمس الجدر تقول‏:‏ أصابتني دعوة سعيد، وأنها مرت على بئر في الدار التي خاصمته فيها، فوقعت فيها فكانت قبرها‏.‏</p>",
       "grades": []
     }
   ]
