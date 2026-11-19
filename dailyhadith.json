@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "introduction",
-  "chapterId": "56.00",
-  "hadithNumber": "513",
+  "chapterId": "34.00",
+  "hadithNumber": "279",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "56",
-      "chapterTitle": "Excellence of Simple Living and being Content with Little",
-      "urn": 1605100,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Messenger of Allah (ﷺ) went to bed hungry for several successive nights, nor did his family have a thing for supper for many consecutive nights; and their bread was mostly of barley.<br/><br/><b>[At- Tirmidhi, who classified it as Hadith Hasan Sahih]</b>.<br/><br/></p>",
+      "chapterNumber": "34",
+      "chapterTitle": "Recommendations with regard to Women",
+      "urn": 1602760,
+      "body": "<p>Iyas bin 'Abdullah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"Do not beat Allah's bondwomen.\" When 'Umar (May Allah be pleased with him) came to Messenger of Allah (ﷺ) and complained saying: \"The women have become very daring towards their husbands,\" He (ﷺ) gave permission to beat them. Then many women went to the family of the Messenger of Allah (wives) complaining of their husbands, and he (the Prophet (ﷺ)) said, \"Many women have gone round Muhammad's family complaining of their husbands. Those who do so, that is, those who take to beating their wives, are not the best among you\".<br/><br/><b>[Abu Dawud, with a Sahih chain]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "56",
-      "chapterTitle": "-باب فضل الجوع وخشونة العيش والإقتصار على القليل من المأكول والمشروب والملبوس وغيرها من حظوظ النفس وترك الشهوات",
-      "urn": 1705090,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما قال ‏:‏ كان رسول الله صلى الله عليه وسلم يبيت الليالي المتتابعه طاويا، وأهله لايجدون عشاء ، وكان أكثر خبزهم خبز الشعير ‏.‏ ‏(‏‏(‏رواه الترمذي وقال ‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "34",
+      "chapterTitle": "- باب الوصية بالنساء",
+      "urn": 1702780,
+      "body": "<p>- وعن إياس بن أبي ذباب رضي الله عنه قال‏:‏ قال رسول صلى الله عليه وسلم ‏:‏ ‏\"‏لاتضربوا إماء الله‏\"‏ فجاء عمر رضي الله عنه إلى رسول الله صلى الله عليه وسلم ، فقال ‏:‏ ذئرن النساء على أزواجهن، فرخص في ضربهن، فأطاف بآل رسول الله صلى الله عليه وسلم نساء كثير يشكون أزواجهن، فقال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لقد أطاف بآل بيت محمد نساء كثير يشكون أزواجهن ليس أولئك بخياركم‏\"‏ ‏(‏‏(‏رواه أبو داود بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
