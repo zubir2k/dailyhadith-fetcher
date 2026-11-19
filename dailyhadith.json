@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "264.00",
-  "hadithNumber": "1556",
+  "bookNumber": "introduction",
+  "chapterId": "51.00",
+  "hadithNumber": "428",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "264",
-      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
-      "urn": 1623570,
-      "body": "<p>Abud-Darda' (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"When a person curses somebody or something, the curse goes up to heaven and the gates of heaven get closed. Then it comes down to the earth and its gates get closed. Then it turns right and left, and if it does not find an entrance to go anywhere, it returns to the person or thing that was cursed; if he or it deserves to be cursed; otherwise it returns to the person who uttered it.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "51",
+      "chapterTitle": "Hope in Allah's Mercy",
+      "urn": 1604240,
+      "body": "<p>Anas (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"When an infidel accomplishes any good deed, he is rewarded for it in this world; and in the case of a Muslim, Allah stores up his good acts for him in the Hereafter and provides him with subsistence in this life due to his obedience.\"<br/><br/>Another narration is: Messenger of Allah (ﷺ) said, \"Allah does not wrong a believer a good deed because he is given blessings for it in this world and will be rewarded for it in the Hereafter. But the infidel is given in the world the reward for good deeds, he has performed for the sake of Allah and when he comes to the Hereafter, there is no good deed for which he can be rewarded\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "264",
-      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
-      "urn": 1715460,
-      "body": "<p>- وعن أبي الدرداء رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏إن العبد إذا لعن شيئًا، صعدت اللعنة إلى السماء، فتغلق أبواب السماء دونها، ثم تهبط إلى الأرض، فتغلق أبوابها دونها، ثم تأخذ يمينًا وشمالا، فإذا لم تجد مساغًا رجعت إلى الذي لُعن، فإن كان أهلا لذلك، وإلا رجعت إلى قائلها‏\"‏‏.‏ رواه أبو داود.</p>",
+      "chapterNumber": "51",
+      "chapterTitle": "- باب الرجاء",
+      "urn": 1704230,
+      "body": "<p>- وعن أنس، رضي الله عنه ،عن رسول الله، صلى الله عليه وسلم، قال‏:‏ ‏\"‏إن الكافر إذا عمل حسنة، أطعم بها طعمة من الدنيا، أما المؤمن، فإن الله تعالى يدخر له حسناته في الآخرة، ويعقبه رزقاً في الدنيا على طاعته‏\"‏‏.‏ \nوفي رواية‏:‏ ‏\"‏إن الله لا يظلم مؤمنا حسنة يعطى بها في الدنيا، ويجزى بها في الآخرة، وأما الكافر، فيطعم بحسنات ما عمل لله تعالى، في الدنيا حتى إذا أفضى إلى الآخرة، لم يكن له حسنة يجزى بها‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
