@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "180.00",
-  "hadithNumber": "993",
+  "bookNumber": "17",
+  "chapterId": "264.00",
+  "hadithNumber": "1557",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "180",
-      "chapterTitle": "The Excellence of Reciting the Qur'an",
-      "urn": 1620370,
-      "body": "<p>'Uthman bin 'Affan (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The best amongst you is the one who learns the Qur'an and teaches it.\"<br/><br/><b>[Al-Bukhari]</b>.</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "Prohibition of Cursing one Particular Man or Animal",
+      "urn": 1623580,
+      "body": "<p>'Imran bin Husain (May Allah be pleased with him) said: We were with the Messenger of Allah (ﷺ) on a journey and there was a woman from the Ansar riding a she-camel. She abused and invoked curse upon it. The Messenger of Allah (ﷺ) heard it and said, \"Off load the she- camel and set it free because it has been cursed.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "180",
-      "chapterTitle": "- باب فضل قراءة القرآن",
-      "urn": 1709840,
-      "body": "<p>- - وعن عثمان بن عفان رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏خيركم من تعلم القرآن وعلمه‏\"‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "264",
+      "chapterTitle": "- باب تحريم لعن إنسان بعينه أو دابة",
+      "urn": 1715470,
+      "body": "<p>- وعن عمران بن الحصين رضي الله عنه الله عنهما قال‏:‏ بينما رسول الله صلى الله عليه وسلم في بعض أسفاره، وامرأة من الأنصار على ناقة، فضجرت، فلعنتها، فسمع ذلك رسول الله صلى الله عليه وسلم فقال‏:‏ ‏\"‏خذوا ما عليها ودعوها، فإنها ملعونة‏\"‏ قال عمران‏:‏ فكأني أراها الآن تمشي في الناس ما يَعرض لها أحد‏.‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
