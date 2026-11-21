@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "19",
-  "chapterId": "371.00",
-  "hadithNumber": "1871",
+  "bookNumber": "introduction",
+  "chapterId": "3.00",
+  "hadithNumber": "46",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "371",
-      "chapterTitle": "Seeking Forgiveness",
-      "urn": 1616610,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"By the One in Whose Hand my soul is! If you do not commit sins, Allah would replace you with a people who would commit sins and seek forgiveness from Allah; and Allah will certainly forgive them.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600460,
+      "body": "<p>Sulaiman bin Surad (May Allah be pleased with him) reported: I was sitting with the Prophet (ﷺ) when two men began to quarrel and curse each other and the face of one of them turned red and the veins of his neck were swollen (from rage). Messenger of Allah (ﷺ) said, \"I know of a word, if he were to utter that, his rage would vanish and that is: A'udhu billahi minash-Shaitan nir-rajim (I seek refuge with Allah from Satan, the accursed).\" So they (Companions) said to him: \"The Prophet (ﷺ) tells you to utter: 'I seek refuge with Allah from Satan, the accursed\".<br/><br/><b>[Al-Bukhariand Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "371",
-      "chapterTitle": "- باب الأمر بالاستغفار وفضله",
-      "urn": 1718590,
-      "body": "<p>- وعنه رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏والذي نفسي بيده لو لم تذنبوا، لذهب الله تعالى بكم، ولجاء بقوم يذنبون فيستغفرون الله تعالى فيغفر لهم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700460,
+      "body": "<p>- وعن سليمان بن صرد رضي الله عنه قال‏:‏ كنت جالساً مع النبي صلى الله عليه وسلم، ورجلان يستبان، وأحدهما قد احمر وجهه، وانتفخت أوداجه‏.‏ فقال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ إني لأعلم كلمة لو قالها لذهب عنه ما يجد، لو قال‏:‏ أعوذ بالله من الشيطان الرجيم ذهب منه ما يجد‏\"‏‏.‏ فقال له‏:‏ إن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ تعوذ بالله من الشيطان الرجيم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     }
   ]
