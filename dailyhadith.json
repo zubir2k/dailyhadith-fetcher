@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "15",
-  "chapterId": "244.00",
-  "hadithNumber": "1424",
+  "bookNumber": "8",
+  "chapterId": "198.00",
+  "hadithNumber": "1110",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "244",
-      "chapterTitle": "The Excellence of the Remembrance of Allah",
-      "urn": 1612910,
-      "body": "<p>'Ali (May Allah be pleased with him) reported: When the Messenger of Allah (ﷺ) was in Salat (prayer), he used to supplicate towards the end of prayer after Tashahhud and before the concluding salutations: \"Allahum-maghfir li ma qaddamtu wa ma akh-khartu, wa ma asrartu, wa ma a'lantu, wa ma asraftu, wa ma Anta a'lamu bihi minni. Antal-Muqqadimu, wa Antal-Mu'akh-khiru. La ilaha illa Anta (O Allah! Forgive my former and latter sins, which I have done secretly and those which I have done openly, and that I have wronged others, and those defaults of mine about which You have better knowledge than I have. You Alone can send whomever You will to Jannah, and You Alone can send whomever You will to Hell-fire. None has the right to be worshipped but You.\"<br/><br/><b>[Muslim]</b>.</p>",
+      "chapterNumber": "198",
+      "chapterTitle": "Desirability of Lying down on one's right side after the Sunnah of Fajr Prayer",
+      "urn": 1621530,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: When the Prophet (ﷺ) had performed two Rak'ah before the Fajr prayer, he would lie down on his right side.<br/><br/><b>[Al-Bukhari]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "244",
-      "chapterTitle": "- باب فضل الذكر والحث عليه",
-      "urn": 1714140,
-      "body": "<p>- وعن علي رضي الله عنه قال‏:‏ كان رسول الله صلى الله عليه وسلم إذا قام إلى الصلاة يكون من آخر ما يقول بين التشهد والتسليم‏:‏ ‏\"‏اللهم اغفر لي ما قدمت وما أخرت، وما أسررت وما أعلنت، وما أسرفت، وما أنت أعلم به مني، أنت المقدم، وأنت المؤخر، لا إله إلا أنت‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "198",
+      "chapterTitle": "- باب استحباب الاضطجاع بعد ركعتي الفجر على جنبه الأيمن والحث عليه سواء كان تهجد بالليل أم لا‏.",
+      "urn": 1711000,
+      "body": "<p>- عن عائشة رضي الله عنها قالت‏:‏ كان النبي صلى الله عليه وسلم إذا صلى ركعتي الفجر، اضطجع على شقه الأيمن‏.‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
