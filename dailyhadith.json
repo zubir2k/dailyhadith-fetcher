@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "55.00",
-  "hadithNumber": "462",
+  "bookNumber": "19",
+  "chapterId": "371.00",
+  "hadithNumber": "1871",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "55",
-      "chapterTitle": "Excellence of Leading an Ascetic Life, and Virtues of Simple Life",
-      "urn": 1604590,
-      "body": "<p>Al-Mustaurad bin Shaddad (May allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"This world (i.e., its pleasures and duration) in comparison with the Hereafter is (similar to the amount of water) one gets when he puts his finger in the sea. Let him then see what it returns with\".<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "371",
+      "chapterTitle": "Seeking Forgiveness",
+      "urn": 1616610,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"By the One in Whose Hand my soul is! If you do not commit sins, Allah would replace you with a people who would commit sins and seek forgiveness from Allah; and Allah will certainly forgive them.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "55",
-      "chapterTitle": "- باب فضل الزهد في الدنيا و الحث على التقلل منها و فضل الفقر",
-      "urn": 1704580,
-      "body": "<p>- وعن المستورد بن شداد رضي الله عنه ، قال‏:‏ قال رسول الله، صلى الله عليه وسلم‏:‏”ما الدنيا في الآخرة، إلا مثل ما يجعل أحدكم أصبعه في اليم، فلينظر بم يرجع‏؟‏‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "371",
+      "chapterTitle": "- باب الأمر بالاستغفار وفضله",
+      "urn": 1718590,
+      "body": "<p>- وعنه رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏والذي نفسي بيده لو لم تذنبوا، لذهب الله تعالى بكم، ولجاء بقوم يذنبون فيستغفرون الله تعالى فيغفر لهم‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
