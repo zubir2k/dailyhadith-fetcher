@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1302",
+  "bookNumber": "introduction",
+  "chapterId": "14.00",
+  "hadithNumber": "142",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611720,
-      "body": "<p>Abu Bakr bin Abu Musa Al-Ash'ari reported: I heard my father saying in the presence of the enemy: The Messenger of Allah (ﷺ) said, \"The gates of Jannah are under the shades of the swords.\" A man with a shaggy appearance got up and said, \"O Abu Musa! Did you hear the Messenger of Allah (ﷺ) say that in person?\" Abu Musa replied in the affirmative; so he returned to his companions and said: \"I tender you farewell greetings.\" Then he broke the scabbard of his sword and threw it away. He rushed towards the enemy with his sword and fought with it till he was martyred.<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "14",
+      "chapterTitle": "Moderation in Worship",
+      "urn": 1601410,
+      "body": "<p>Aishah (May Allah be pleased with her) reported: The Prophet (ﷺ) came in when a woman was sitting beside me. He asked me, \"Who is she?\" I said: \"She is the one whose performance of Salat (prayer) has become the talk of the town.\" Addressing her, he (ﷺ) said, \"(What is this!) You are required to take upon yourselves only what you can carry out easily. By Allah, Allah does not withhold His Mercy and forgiveness of you until you neglect and give up (good works). Allah likes the deeds best which a worshipper can carry out constantly\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1712920,
-      "body": "<p>- وعن أبي بكر بن أبي موسى الأشعري، قال‏:‏ سمعت أبي رضي الله عنه وهو بحضرة العدو، يقول قال رسول الله صلى الله عليه وسلم ‏\"‏إن أبواب الجنة تحت ظلال السيوف‏\"‏ فقام رجل رث الهيئة فقال يا أبا موسى أأنت سمعت رسول الله صلى الله عليه وسلم يقول هذا‏؟‏ قال‏:‏ نعم، فرجع إلى أصحابه، فقال‏:‏ ‏\"‏اقرأ عليكم السلام‏\"‏ ثم كسر جفن سيفه فألقاه، ثم مشى بسيفه إلى العدو فضرب به حتى قتل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "14",
+      "chapterTitle": "- باب في الاقتصاد في العبادة",
+      "urn": 1701410,
+      "body": "<p>- - وعن عائشة رضي الله عنها أن النبي صلى الله عليه وسلم دخل عليها وعندها امرأة قال‏:‏ من هذه‏؟‏ قالت‏:‏ هذه فلانة تذكر من صلاتها قال‏:‏ ‏\"‏ مه عليكم بما تطيقون، فوالله لا يمل الله حتى تملوا‏\"‏ وكان أحب الدين إليه ما داوم صاحبه عليه‏.‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     }
   ]
