@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "38.00",
-  "hadithNumber": "300",
+  "bookNumber": "11",
+  "chapterId": "234.00",
+  "hadithNumber": "1292",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "38",
-      "chapterTitle": "Urging one's kith and kin to Obey Allah and refrain from evils",
-      "urn": 1602970,
-      "body": "<p>Ibn 'Umar (May Allah be pleased with them) reported: Messenger of Allah (ﷺ) said, \"All of you are guardians and are responsible for your subjects. The ruler is a guardian and responsible for his subjects; the man is a guardian of his family; the woman is guardian in her husband's house and responsible for her wards; a servant is guardian of his master's property and responsible for his ward. So all of you are guardians and are responsible for your subjects\".<br/><br/><b>[Al-Bukhari and Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "234",
+      "chapterTitle": "Obligation of Jihad",
+      "urn": 1611620,
+      "body": "<p>Fadalah bin 'Ubaid (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The actions of every dead person come to a halt with his death except the one who is on the frontier in Allah's way (i.e., observing Ribat). This latter's deeds will be made to go on increasing for him till the Day of Resurrection, and he will be secure from the trials in the grave.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "38",
-      "chapterTitle": "- باب وجوب أمر أهله وأولاده المميزين وسائر من في رعيته بطاعة الله تعالى، ونهيهم عن المخالفة وتأديبهم، ومنعهم من ارتكاب منهي عنه",
-      "urn": 1702990,
-      "body": "<p>- وعن ابن عمر رضي الله عنهما قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ كلكم راعٍ، وكلكم مسئول عن رعيته، الإمامُ راعٍ ومَسْؤولٌ عنْ رعيَّته، والرجلُ راعٍ في أهلهِ ومسْؤولٌ عنْ رعيَّته، والمرأة راعية في بيت زوجها ومسئولة عن رعيتها، والخادم راعٍ في مال سيده ومسئول عن رعيته، فكلكم راعٍ ومسئول عن رعيته‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "234",
+      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
+      "urn": 1712820,
+      "body": "<p>- وعن فضالة بن عبيد رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏كل ميت يختم على عمله إلا المرابط في سبيل الله فإنه ينمى له عمله إلى يوم القيامة، ويؤمن فتنة القبر” ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
