@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "80.00",
-  "hadithNumber": "668",
+  "bookNumber": "1",
+  "chapterId": "99.00",
+  "hadithNumber": "725",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "80",
-      "chapterTitle": "Obligation of Obedience to the Ruler in what is Lawful and Prohibition of Obeying them in what is Unlawful",
-      "urn": 1606620,
-      "body": "<p>Wa'il bin Hujr (May Allah be pleased with him) reported: Salamah bin Yazid Al-Ju'f (May Allah be pleased with him) asked Messenger of Allah (ﷺ): \"O Prophet of Allah! Tell us, what you command us to do if there arises over us rulers who demand of us what is due to them and refuse us what is due to us.\" Messenger of Allah (ﷺ) turned away from him, but he repeated the same question. Thereupon Messenger of Allah (ﷺ) said, \"Listen to them and obey them. They are responsible for their obligations and you are accountable for yours.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "99",
+      "chapterTitle": "Excellence of Using the Right Hand for Performing Various Good Acts",
+      "urn": 1607140,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) reported: Messenger of Allah (ﷺ) said, \"When you wear your clothes or perform your Wudu', begin with your right side.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "80",
-      "chapterTitle": "- باب وجوب طاعة ولاة الأمر في غير معصية وتحريم طاعتهم في المعصية",
-      "urn": 1706640,
-      "body": "<p>- وعن أبى هنيدة وائل بن حجر رضي الله عنه قال‏:‏ سأل سلمة بن يزيد الجعفي رسول الله صلى الله عليه وسلم ، فقال‏:‏ يا نبي الله، أرأيت إن قامت علينا امراء يسألونا حقهم، ويمنعونا حقنا، فما تأمرنا‏؟‏ فأعرض عنه، ثم سأله، فقال رسول الله صلى الله عليه وسلم “اسمعوا وأطيعو؛ فإنما عليهما حملوا، وعليكم ماحملتم” ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "99",
+      "chapterTitle": "- باب استحباب تقديم اليمين في كل ماهو من باب التكريم كالوضوء والغسل والتيمم، ولبس الثوب والنعل والخف والسراويل ودخول المسجد، والسواك، والاكتحال، وتقليم الأظفار، وقص الشارب ونتف الإبط، وحلق الرأس، والسلام من الصلاة، والأكل والشرب، والمصافحة، واستلام الحجر الأسود، والخرود من الخلاء، والأخذ والعطاء، وغير ذك مما هو في معناه‏.‏ ويستحب تقديم اليسار في ضد ذلك، كالامتخاط والبصاق عن اليسار، ودخول الخلاء، والخروج من المسجد، وخلع الخف والنعل والسراويل والثوب، والإستنجاء وفعل المستقذرات وأشباه ذلك",
+      "urn": 1707210,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ “ إذا لبستم،وإذا توضأتم، فابدؤا بأيمانكم” حديث صحيح، ‏(‏‏(‏رواه أبو داود والترمذي بإسناد صحيح‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
