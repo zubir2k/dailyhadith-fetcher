@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "11",
-  "chapterId": "234.00",
-  "hadithNumber": "1292",
+  "bookNumber": "16",
+  "chapterId": "250.00",
+  "hadithNumber": "1477",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "234",
-      "chapterTitle": "Obligation of Jihad",
-      "urn": 1611620,
-      "body": "<p>Fadalah bin 'Ubaid (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"The actions of every dead person come to a halt with his death except the one who is on the frontier in Allah's way (i.e., observing Ribat). This latter's deeds will be made to go on increasing for him till the Day of Resurrection, and he will be secure from the trials in the grave.\"<br/><br/><b>[Abu Dawud and At- Tirmidhi]</b>.<br/><br/></p>",
+      "chapterNumber": "250",
+      "chapterTitle": "Issues regarding Supplications, their Virtues and Supplications of the Prophet (pbuh)",
+      "urn": 1613430,
+      "body": "<p>'Aishah (May Allah be pleased with her) reported: The Prophet (ﷺ) used to supplicate (in these words): \"Allahumma inni audhu bika min sharri ma 'amiltu, wa min sharri ma lam a'mal (O Allah! I seek refuge in You from the evil of that which I have done and the evil of that which I have not done).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "234",
-      "chapterTitle": "- باب وجوب الجهاد وفضل الغدوة والروحة",
-      "urn": 1712820,
-      "body": "<p>- وعن فضالة بن عبيد رضي الله عنه أن رسول الله صلى الله عليه وسلم قال‏:‏ ‏\"‏كل ميت يختم على عمله إلا المرابط في سبيل الله فإنه ينمى له عمله إلى يوم القيامة، ويؤمن فتنة القبر” ‏(‏‏(‏رواه أبو داود والترمذي وقال‏:‏ حديث حسن صحيح‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "250",
+      "chapterTitle": "- باب الأمر بالدعاء وفضله وبيان جمل من أدعيته صلى الله عليه وسلم",
+      "urn": 1714670,
+      "body": "<p>- وعن عائشة، رضي الله عنها، أن النبي صلى الله عليه وسلم، كان يقول في دعائه‏:‏ ‏\"‏اللهم إني أعوذ بك من شر ما عملت ومن شر ما لم أعمل‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
