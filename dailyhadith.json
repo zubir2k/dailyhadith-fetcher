@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "8",
-  "chapterId": "193.00",
-  "hadithNumber": "1078",
+  "bookNumber": "introduction",
+  "chapterId": "3.00",
+  "hadithNumber": "46",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "193",
-      "chapterTitle": "Strict Orders for Observance of Obligatory Salat",
-      "urn": 1621210,
-      "body": "<p>Jabir (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) said, \"Between a man and disbelief and paganism is the abandonment of Salat (prayer).\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "3",
+      "chapterTitle": "Patience and Perseverance",
+      "urn": 1600460,
+      "body": "<p>Sulaiman bin Surad (May Allah be pleased with him) reported: I was sitting with the Prophet (ﷺ) when two men began to quarrel and curse each other and the face of one of them turned red and the veins of his neck were swollen (from rage). Messenger of Allah (ﷺ) said, \"I know of a word, if he were to utter that, his rage would vanish and that is: A'udhu billahi minash-Shaitan nir-rajim (I seek refuge with Allah from Satan, the accursed).\" So they (Companions) said to him: \"The Prophet (ﷺ) tells you to utter: 'I seek refuge with Allah from Satan, the accursed\".<br/><br/><b>[Al-Bukhariand Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "193",
-      "chapterTitle": "- باب الأمر بالمحافظة على الصلوات المكتوبات والنهي الأكيد والوعيد الشديد في تركهن‏:‏",
-      "urn": 1710680,
-      "body": "<p>- وعن جابر رضي الله عنه قال‏:‏ سمعت رسول الله صلى الله عليه وسلم يقول‏:‏ ‏\"‏إن بين الرجل وبين الشرك والكفر ترك الصلاة‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "3",
+      "chapterTitle": "- باب الصبر",
+      "urn": 1700460,
+      "body": "<p>- وعن سليمان بن صرد رضي الله عنه قال‏:‏ كنت جالساً مع النبي صلى الله عليه وسلم، ورجلان يستبان، وأحدهما قد احمر وجهه، وانتفخت أوداجه‏.‏ فقال رسول الله صلى الله عليه وسلم‏:‏ ‏\"‏ إني لأعلم كلمة لو قالها لذهب عنه ما يجد، لو قال‏:‏ أعوذ بالله من الشيطان الرجيم ذهب منه ما يجد‏\"‏‏.‏ فقال له‏:‏ إن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏ تعوذ بالله من الشيطان الرجيم‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏ ‏.‏</p>",
       "grades": []
     }
   ]
