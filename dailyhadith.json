@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "introduction",
-  "chapterId": "45.00",
-  "hadithNumber": "365",
+  "bookNumber": "17",
+  "chapterId": "290.00",
+  "hadithNumber": "1624",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "45",
-      "chapterTitle": "Visiting the Pious Persons, loving them and adoption of their company",
-      "urn": 1603610,
-      "body": "<p>Ibn 'Abbas (May Allah be pleased with them) reported: The Prophet (ﷺ) said to Jibril (Gabriel), \"What prevents you from visiting us more frequently?\" Thereupon was revealed the Ayah: \"(The angels say:) 'And we (angels) descend not except by the Command of your Rubb. To Him belongs what is before us and what is behind us, and what is between those two\". (19:64)<br/><br/><b>[Al- Bukhari]</b>.<br/><br/></p>",
+      "chapterNumber": "290",
+      "chapterTitle": "Prohibition of gazing at women and Beardless Handsome Boys except in Exigency",
+      "urn": 1624250,
+      "body": "<p>Abu Talhah Zaid bin Sahl (May Allah be pleased with him) said: We were sitting and talking on a platform in front of our house when the Messenger of Allah (ﷺ) stopped by us and said, \"Why do you sit on roads? Avoid sitting in them.\" We replied: \"We sit there intending no harm. We only sit and discuss (religious) knowledge and talk.\" He said, \"If you have to sit, you should fulfill the rights of the road: Lower your gaze, respond to greetings and talk in a good manner.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "45",
-      "chapterTitle": "- باب زيارة أهل الخير ومجالستهم وصحبتهم ومحبتهم وطلب زيارتهم والدعاء منهم وزيارة المواضع الفاضلة",
-      "urn": 1703610,
-      "body": "<p>- وعن ابن عباس رضي الله عنهما قال‏:‏ قال النبي صلى الله عليه وسلم لجبريل‏:‏ ما يمنعك أن تزورنا أكثر مما تزورنا‏؟‏‏\"‏ فنزلت ‏:‏‏{‏وما نتنزل إلا بأمر ربك له ما بين أيدينا وما خلفنا وما بين ذلك‏}‏ ‏(‏‏(‏رواه البخاري‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "290",
+      "chapterTitle": "- باب تحريم النظر إلى المرأة الأجنبية والأمرد الحسن لغير حاجة شرعية",
+      "urn": 1716140,
+      "body": "<p>- وعن أبي طلحة زيد بن سهل رضي الله عنه قال‏:‏ كنا قعودًا بالأفنية نتحدث فيها فجاء رسول الله صلى الله عليه وسلم فقالم علينا فقال‏:‏ ‏\"‏ما لكم ولمجالس الصعدات‏؟‏ فقلنا‏:‏ إنما قعدنا لغير ما بأس، قعدنا نتذاكر، ونتحدث‏.‏ قال‏:‏ ‏\"‏إما لا فأدوا حقها‏:‏ غض البصر، ورد السلام، وحسن الكلام‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ ‏\"‏الصُّعُدات‏\"‏ بضم الصاد والعين، أي‏:‏ الطرقات‏.‏</p>",
       "grades": []
     }
   ]
