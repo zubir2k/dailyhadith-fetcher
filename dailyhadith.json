@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
   "bookNumber": "17",
-  "chapterId": "290.00",
-  "hadithNumber": "1624",
+  "chapterId": "270.00",
+  "hadithNumber": "1569",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "290",
-      "chapterTitle": "Prohibition of gazing at women and Beardless Handsome Boys except in Exigency",
-      "urn": 1624250,
-      "body": "<p>Abu Talhah Zaid bin Sahl (May Allah be pleased with him) said: We were sitting and talking on a platform in front of our house when the Messenger of Allah (ﷺ) stopped by us and said, \"Why do you sit on roads? Avoid sitting in them.\" We replied: \"We sit there intending no harm. We only sit and discuss (religious) knowledge and talk.\" He said, \"If you have to sit, you should fulfill the rights of the road: Lower your gaze, respond to greetings and talk in a good manner.\"<br/><br/><b>[Muslim]</b>.<br/><br/></p>",
+      "chapterNumber": "270",
+      "chapterTitle": "Prohibition of Envy",
+      "urn": 1623700,
+      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Beware of envy because envy consumes (destroys) the virtues just as the fire consumes the firewood,\" or he said \"grass.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "290",
-      "chapterTitle": "- باب تحريم النظر إلى المرأة الأجنبية والأمرد الحسن لغير حاجة شرعية",
-      "urn": 1716140,
-      "body": "<p>- وعن أبي طلحة زيد بن سهل رضي الله عنه قال‏:‏ كنا قعودًا بالأفنية نتحدث فيها فجاء رسول الله صلى الله عليه وسلم فقالم علينا فقال‏:‏ ‏\"‏ما لكم ولمجالس الصعدات‏؟‏ فقلنا‏:‏ إنما قعدنا لغير ما بأس، قعدنا نتذاكر، ونتحدث‏.‏ قال‏:‏ ‏\"‏إما لا فأدوا حقها‏:‏ غض البصر، ورد السلام، وحسن الكلام‏\"‏ ‏(‏‏(‏رواه مسلم‏)‏‏)‏‏.‏ ‏\"‏الصُّعُدات‏\"‏ بضم الصاد والعين، أي‏:‏ الطرقات‏.‏</p>",
+      "chapterNumber": "270",
+      "chapterTitle": "- باب تحريم الحسد وهو تمني زوال النعمة عن صاحبها‏:‏ سواء كانت نعمة دين أو دنيا",
+      "urn": 1715590,
+      "body": "<p>- وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إياكم والحسد، فإن الحسد يأكل الحسنات كما تأكل النار الحطب، أو قال‏:‏ العشب‏\"‏‏.‏ رواه أَبُو دَاوُدَ</p>",
       "grades": []
     }
   ]
