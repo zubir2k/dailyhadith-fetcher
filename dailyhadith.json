@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "270.00",
-  "hadithNumber": "1569",
+  "bookNumber": "2",
+  "chapterId": "111.00",
+  "hadithNumber": "759",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "270",
-      "chapterTitle": "Prohibition of Envy",
-      "urn": 1623700,
-      "body": "<p>Abu Hurairah (May Allah be pleased with him) said: The Prophet (ﷺ) said, \"Beware of envy because envy consumes (destroys) the virtues just as the fire consumes the firewood,\" or he said \"grass.\"<br/><br/><b>[Abu Dawud]</b>.<br/><br/></p>",
+      "chapterNumber": "111",
+      "chapterTitle": "Etiquette of Drinking Water",
+      "urn": 1607350,
+      "body": "<p>Anas (May Allah be pleased with him) reported: Milk mixed with water was brought to the Messenger of Allah (ﷺ). On his right side was sitting a bedouin and on his left was sitting Abu Bakr (May Allah be pleased with him). He (ﷺ) drank from it and handed the rest to the bedouin saying, \"One who is on the right has preference, then again the one who is on the right.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "270",
-      "chapterTitle": "- باب تحريم الحسد وهو تمني زوال النعمة عن صاحبها‏:‏ سواء كانت نعمة دين أو دنيا",
-      "urn": 1715590,
-      "body": "<p>- وعن أبي هريرة رضي الله عنه أن النبي صلى الله عليه وسلم قال‏:‏ ‏\"‏إياكم والحسد، فإن الحسد يأكل الحسنات كما تأكل النار الحطب، أو قال‏:‏ العشب‏\"‏‏.‏ رواه أَبُو دَاوُدَ</p>",
+      "chapterNumber": "111",
+      "chapterTitle": "- باب أدب الشرب واستحباب التنفس ثلاثاً خارج الإناء وكراهة التنفس في الإناء واستحباب إدارة الإناء على الأيمن فالأيمن بعد المبتدئ",
+      "urn": 1707540,
+      "body": "<p>- وعن أنس رضى الله عنه أن رسول الله صلى الله عليه وسلم أتى بلبن قد شيب بماء، وعن يمينه أعرابي، وعن يساره أبو بكر رضى الله عنه ، فشرب، ثم أعطى الأعرابي وقال‏:‏ ‏\"‏الأيمن فالأيمن‏\"‏.((متفق عليه))</p>",
       "grades": []
     }
   ]
