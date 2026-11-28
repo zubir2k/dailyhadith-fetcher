@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "17",
-  "chapterId": "280.00",
-  "hadithNumber": "1591",
+  "bookNumber": "6",
+  "chapterId": "149.00",
+  "hadithNumber": "915",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "280",
-      "chapterTitle": "Prohibition of Breaking ties and Relationships",
-      "urn": 1623920,
-      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not desert (stop talking to) one another, do not nurse hatred towards one another, do not be jealous of one another, and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to stop talking to his brother (Muslim) for more than three days.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
+      "chapterNumber": "149",
+      "chapterTitle": "Permissibility of expressing feelings of agony in Serious Illness",
+      "urn": 1608550,
+      "body": "<p>Sa'd bin Abu Waqqas (May Allah be pleased with him) reported: The Messenger of Allah (ﷺ) came to visit me when I had a severe pain. I said: \"I am suffering from such trouble as you are observing. I am a wealthy man and the only heir of mine is my daughter.\" (Then Sa'd narrated the whole incident).<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "280",
-      "chapterTitle": "- باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إلا لبدعة في المهجور أو تظاهر بفسق أو نحو ذلك",
-      "urn": 1715810,
-      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تقاطعوا ولا تدابروا، ولا تباغضوا، ولا تحاسدوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
+      "chapterNumber": "149",
+      "chapterTitle": "باب جواز قول المريض‏:‏ أنا وجع أو شديد الوجع أو موعوك، أو وارأساه ونحو ذلك، وبيان أنه لا كراهة في ذلك إذا لم يكن علي التسخط وإظهار الجزع",
+      "urn": 1709080,
+      "body": "<p>- وعن سعد بن أبي وقاص رضي الله عنه قال‏:‏ جاءني رسول الله صلى الله عليه وسلم يعودني من وجع اشتد بي، فقلت‏:‏ بلغ بي ما ترى، وأنا ذو مال، ولايرثني إلا ابنتي، وذكر الحديث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
