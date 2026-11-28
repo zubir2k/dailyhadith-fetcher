@@ -1,23 +1,23 @@
 {
   "collection": "riyadussalihin",
-  "bookNumber": "2",
-  "chapterId": "111.00",
-  "hadithNumber": "759",
+  "bookNumber": "17",
+  "chapterId": "280.00",
+  "hadithNumber": "1591",
   "hadith": [
     {
       "lang": "en",
-      "chapterNumber": "111",
-      "chapterTitle": "Etiquette of Drinking Water",
-      "urn": 1607350,
-      "body": "<p>Anas (May Allah be pleased with him) reported: Milk mixed with water was brought to the Messenger of Allah (ﷺ). On his right side was sitting a bedouin and on his left was sitting Abu Bakr (May Allah be pleased with him). He (ﷺ) drank from it and handed the rest to the bedouin saying, \"One who is on the right has preference, then again the one who is on the right.\"<br/><br/><b>[Al-Bukhari and Muslim]</b>.</p>",
+      "chapterNumber": "280",
+      "chapterTitle": "Prohibition of Breaking ties and Relationships",
+      "urn": 1623920,
+      "body": "<p>Anas bin Malik (May Allah be pleased with him) said: The Messenger of Allah (ﷺ) said, \"Do not desert (stop talking to) one another, do not nurse hatred towards one another, do not be jealous of one another, and become as fellow brothers and slaves of Allah. It is not lawful for a Muslim to stop talking to his brother (Muslim) for more than three days.\"<br/><br/><b>[Al-Bukhari and Muslim]</b><br/><br/></p>",
       "grades": []
     },
     {
       "lang": "ar",
-      "chapterNumber": "111",
-      "chapterTitle": "- باب أدب الشرب واستحباب التنفس ثلاثاً خارج الإناء وكراهة التنفس في الإناء واستحباب إدارة الإناء على الأيمن فالأيمن بعد المبتدئ",
-      "urn": 1707540,
-      "body": "<p>- وعن أنس رضى الله عنه أن رسول الله صلى الله عليه وسلم أتى بلبن قد شيب بماء، وعن يمينه أعرابي، وعن يساره أبو بكر رضى الله عنه ، فشرب، ثم أعطى الأعرابي وقال‏:‏ ‏\"‏الأيمن فالأيمن‏\"‏.((متفق عليه))</p>",
+      "chapterNumber": "280",
+      "chapterTitle": "- باب تحريم الهجران بين المسلمين فوق ثلاثة أيام إلا لبدعة في المهجور أو تظاهر بفسق أو نحو ذلك",
+      "urn": 1715810,
+      "body": "<p>- وعن أنس رضي الله عنه قال‏:‏ قال رسول الله صلى الله عليه وسلم ‏:‏ ‏\"‏لا تقاطعوا ولا تدابروا، ولا تباغضوا، ولا تحاسدوا، وكونوا عباد الله إخوانًا، ولا يحل لمسلم أن يهجر أخاه فوق ثلاث‏\"‏ ‏(‏‏(‏متفق عليه‏)‏‏)‏‏.‏</p>",
       "grades": []
     }
   ]
